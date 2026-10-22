@@ -11,27 +11,23 @@ BROWSER_UA = (
 H = {"User-Agent": BROWSER_UA, "Accept": "application/json, text/plain, */*", "Accept-Language": "en-US,en;q=0.9"}
 
 CANDIDATES = [
-    ("espn site api (browser UA)", "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard", H),
-    ("espn site api dates", "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261021", H),
-    ("espn site api (no UA)", "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard", {}),
-    ("espn site.web.api", "https://site.web.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard", H),
-    ("espn sports.core", "https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.champions/events", H),
-    ("uefa match api 2027", "https://match.uefa.com/v5/matches?competitionId=1&seasonYear=2027&limit=5&offset=0&order=ASC", H),
-    ("uefa match api 2026", "https://match.uefa.com/v5/matches?competitionId=1&seasonYear=2026&limit=5&offset=0&order=ASC", H),
-    ("fotmob league", "https://www.fotmob.com/api/leagues?id=42", H),
-    ("sofascore", "https://api.sofascore.com/api/v1/unique-tournament/7/seasons", H),
-    ("openfootball cl repo", "https://api.github.com/repos/openfootball/champions-league/contents", H),
-    ("worldfootball", "https://www.worldfootball.net/all_matches/champions-league-2026-2027/", H),
-    ("espn summary", "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/summary?event=740000", H),
-    ("espn cdn", "https://cdn.espn.com/core/soccer/scoreboard?xhr=1&league=uefa.champions", H),
-    ("uefa comp api", "https://comp.uefa.com/v2/stages?competitionId=1&seasonYear=2027", H),
-    ("fbref ucl", "https://fbref.com/en/comps/8/schedule/Champions-League-Scores-and-Fixtures", H),
+    ("range no limit", "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261001-20261031", H),
+    ("range limit100", "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261001-20261031&limit=100", H),
+    ("range limit1000", "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261001-20261031&limit=1000", H),
+    ("month YYYYMM", "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=202610", H),
+    ("year YYYY", "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=2026", H),
+    ("season param", "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?season=2026&limit=1000", H),
+    ("week range EPL", "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261018-20261024", H),
+    ("single day EPL", "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261019", H),
 ]
 
 for name, url, headers in CANDIDATES:
     try:
         r = requests.get(url, headers=headers, timeout=30)
-        body = r.text[:200].replace("\n", " ")
+        try:
+            j = r.json(); body = f"events={len(j.get('events', []))} " + (", ".join(e.get("date","") for e in j.get("events", [])[:3]) if isinstance(j, dict) else "")
+        except Exception:
+            body = r.text[:200].replace("\n", " ")
         print(f"[{r.status_code}] {name}\n    {url}\n    {body}\n")
     except Exception as e:  # noqa: BLE001
         print(f"[ERR] {name}\n    {url}\n    {e!r}\n")
