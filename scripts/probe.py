@@ -22,6 +22,9 @@ CANDIDATES = [
     ("sofascore", "https://api.sofascore.com/api/v1/unique-tournament/7/seasons", H),
     ("openfootball cl repo", "https://api.github.com/repos/openfootball/champions-league/contents", H),
     ("worldfootball", "https://www.worldfootball.net/all_matches/champions-league-2026-2027/", H),
+    ("espn summary", "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/summary?event=740000", H),
+    ("espn cdn", "https://cdn.espn.com/core/soccer/scoreboard?xhr=1&league=uefa.champions", H),
+    ("uefa comp api", "https://comp.uefa.com/v2/stages?competitionId=1&seasonYear=2027", H),
     ("fbref ucl", "https://fbref.com/en/comps/8/schedule/Champions-League-Scores-and-Fixtures", H),
 ]
 
