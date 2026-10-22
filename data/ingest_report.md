@@ -1,14 +1,14 @@
 # 수집 보고서
 
-- 실행: 2026-10-22T12:42:47+00:00 → 2026-10-22T12:42:59+00:00 (UTC)
+- 실행: 2026-10-22T12:45:20+00:00 → 2026-10-22T12:45:32+00:00 (UTC)
 - 현재 시즌: 2026
 - 수집 10건 / 건너뜀 31건 / 오류 6건
-  - ❌ espn EPL 2026: HTTPError('403 Client Error: Forbidden for url: https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260701-20260731&limit=500')
-  - ❌ espn LALIGA 2026: HTTPError('403 Client Error: Forbidden for url: https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20260701-20260731&limit=500')
-  - ❌ espn BUNDESLIGA 2026: HTTPError('403 Client Error: Forbidden for url: https://site.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20260701-20260731&limit=500')
-  - ❌ espn SERIEA 2026: HTTPError('403 Client Error: Forbidden for url: https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20260701-20260731&limit=500')
-  - ❌ espn LIGUE1 2026: HTTPError('403 Client Error: Forbidden for url: https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1/scoreboard?dates=20260701-20260731&limit=500')
-  - ❌ espn UCL 2026: HTTPError('403 Client Error: Forbidden for url: https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260701-20260731&limit=500')
+  - ❌ espn EPL 2026: HTTPError('400 Client Error: Bad Request for url: https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260701-20260731&limit=500')
+  - ❌ espn LALIGA 2026: HTTPError('400 Client Error: Bad Request for url: https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20260701-20260731&limit=500')
+  - ❌ espn BUNDESLIGA 2026: HTTPError('400 Client Error: Bad Request for url: https://site.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20260701-20260731&limit=500')
+  - ❌ espn SERIEA 2026: HTTPError('400 Client Error: Bad Request for url: https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20260701-20260731&limit=500')
+  - ❌ espn LIGUE1 2026: HTTPError('400 Client Error: Bad Request for url: https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1/scoreboard?dates=20260701-20260731&limit=500')
+  - ❌ espn UCL 2026: HTTPError('400 Client Error: Bad Request for url: https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260701-20260731&limit=500')
 
 ## 리그·시즌별 경기
 
@@ -62,10 +62,10 @@
 
 ## 판정
 
-- ❌ 수집 오류: espn EPL 2026: HTTPError('403 Client Error: Forbidden for url: https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260701-20260731&limit=500')
-- ❌ 수집 오류: espn LALIGA 2026: HTTPError('403 Client Error: Forbidden for url: https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20260701-20260731&limit=500')
-- ❌ 수집 오류: espn BUNDESLIGA 2026: HTTPError('403 Client Error: Forbidden for url: https://site.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20260701-20260731&limit=500')
-- ❌ 수집 오류: espn SERIEA 2026: HTTPError('403 Client Error: Forbidden for url: https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20260701-20260731&limit=500')
-- ❌ 수집 오류: espn LIGUE1 2026: HTTPError('403 Client Error: Forbidden for url: https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1/scoreboard?dates=20260701-20260731&limit=500')
-- ❌ 수집 오류: espn UCL 2026: HTTPError('403 Client Error: Forbidden for url: https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260701-20260731&limit=500')
+- ❌ 수집 오류: espn EPL 2026: HTTPError('400 Client Error: Bad Request for url: https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260701-20260731&limit=500')
+- ❌ 수집 오류: espn LALIGA 2026: HTTPError('400 Client Error: Bad Request for url: https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20260701-20260731&limit=500')
+- ❌ 수집 오류: espn BUNDESLIGA 2026: HTTPError('400 Client Error: Bad Request for url: https://site.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20260701-20260731&limit=500')
+- ❌ 수집 오류: espn SERIEA 2026: HTTPError('400 Client Error: Bad Request for url: https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20260701-20260731&limit=500')
+- ❌ 수집 오류: espn LIGUE1 2026: HTTPError('400 Client Error: Bad Request for url: https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1/scoreboard?dates=20260701-20260731&limit=500')
+- ❌ 수집 오류: espn UCL 2026: HTTPError('400 Client Error: Bad Request for url: https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260701-20260731&limit=500')
 - ❌ 챔스 데이터 없음
