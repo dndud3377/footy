@@ -4,6 +4,13 @@ name: ingest
 on:
   schedule:
     - cron: "15 23 * * *"
+  # 수집 코드가 바뀌면 바로 돌려서 검증 (봇의 data 커밋은 트리거하지 않음)
+  push:
+    branches: [main]
+    paths:
+      - "src/**"
+      - "pyproject.toml"
+      - ".github/workflows/ingest.yml"
   workflow_dispatch:
     inputs:
       full:
