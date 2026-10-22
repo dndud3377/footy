@@ -16,16 +16,19 @@ KST = timezone(timedelta(hours=9))
 
 # 내부 리그 코드 → 소스별 코드
 LEAGUES: dict[str, dict[str, str]] = {
-    "EPL": {"name": "Premier League", "fdcouk": "E0", "understat": "EPL", "fdorg": "PL"},
-    "LALIGA": {"name": "La Liga", "fdcouk": "SP1", "understat": "La_Liga", "fdorg": "PD"},
-    "BUNDESLIGA": {"name": "Bundesliga", "fdcouk": "D1", "understat": "Bundesliga", "fdorg": "BL1"},
-    "SERIEA": {"name": "Serie A", "fdcouk": "I1", "understat": "Serie_A", "fdorg": "SA"},
-    "LIGUE1": {"name": "Ligue 1", "fdcouk": "F1", "understat": "Ligue_1", "fdorg": "FL1"},
+    "EPL": {"name": "Premier League", "fdcouk": "E0", "understat": "EPL", "fdorg": "PL", "espn": "eng.1"},
+    "LALIGA": {"name": "La Liga", "fdcouk": "SP1", "understat": "La_Liga", "fdorg": "PD", "espn": "esp.1"},
+    "BUNDESLIGA": {"name": "Bundesliga", "fdcouk": "D1", "understat": "Bundesliga", "fdorg": "BL1", "espn": "ger.1"},
+    "SERIEA": {"name": "Serie A", "fdcouk": "I1", "understat": "Serie_A", "fdorg": "SA", "espn": "ita.1"},
+    "LIGUE1": {"name": "Ligue 1", "fdcouk": "F1", "understat": "Ligue_1", "fdorg": "FL1", "espn": "fra.1"},
 }
 
 CUPS: dict[str, dict[str, str]] = {
-    "UCL": {"name": "UEFA Champions League", "fdorg": "CL"},
+    "UCL": {"name": "UEFA Champions League", "fdorg": "CL", "espn": "uefa.champions"},
 }
+
+# 일정·결과 외부 소스 우선순위 (먼저 데이터가 있는 쪽을 쓴다)
+EXT_SOURCES = ["espn", "fdorg"]
 
 # 학습에 쓰는 과거 시즌 수 (현재 시즌 별도)
 N_PAST_SEASONS = 3

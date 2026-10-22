@@ -15,7 +15,7 @@ from pathlib import Path
 import pandas as pd
 
 from ..config import CUPS, LEAGUES, PROCESSED, RAW, current_season, seasons
-from . import fdcouk, fdorg, make_session, understat
+from . import espn, fdcouk, fdorg, make_session, understat
 
 
 def _path(source: str, name: str) -> Path:
@@ -71,11 +71,19 @@ def run(full: bool = False) -> dict:
             else:
                 log["skipped"].append(f"understat {code} {s}")
 
-    # football-data.org — 무료 플랜은 현재 시즌만
+    comps_all = LEAGUES | CUPS
+
+    # ESPN — 키 없이 현재 시즌 일정·결과 (리그 + 챔스)
+    for code, ids in comps_all.items():
+        try:
+            n = _save(espn.fetch(ids["espn"], cur, session), _path("espn", f"{code}_{cur}"))
+            log["fetched"].append(f"espn {code} {cur}: {n}")
+        except Exception as e:  # noqa: BLE001
+            log["errors"].append(f"espn {code} {cur}: {e!r}")
+
+    # football-data.org — 선택 사항, 무료 플랜은 현재 시즌만
     if fdorg.token():
-        comps = {c: ids["fdorg"] for c, ids in LEAGUES.items()} | {
-            c: ids["fdorg"] for c, ids in CUPS.items()
-        }
+        comps = {c: ids["fdorg"] for c, ids in comps_all.items()}
         for code, fd_code in comps.items():
             try:
                 n = _save(fdorg.fetch(fd_code, cur, session), _path("fdorg", f"{code}_{cur}"))
@@ -83,7 +91,7 @@ def run(full: bool = False) -> dict:
             except Exception as e:  # noqa: BLE001
                 log["errors"].append(f"fdorg {code} {cur}: {e!r}")
     else:
-        log["skipped"].append("fdorg (FOOTBALL_DATA_TOKEN 없음)")
+        log["skipped"].append("fdorg (토큰 없음 — 선택 사항)")
 
     log["finished_utc"] = datetime.now(timezone.utc).isoformat(timespec="seconds")
     PROCESSED.mkdir(parents=True, exist_ok=True)

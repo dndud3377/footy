@@ -27,9 +27,6 @@ def report() -> tuple[str, list[str]]:
         for e in log["errors"]:
             lines.append(f"  - ❌ {e}")
             problems.append(f"수집 오류: {e}")
-        for s in log["skipped"]:
-            if "fdorg" in s:
-                lines.append(f"  - ⚠️ {s}")
         lines.append("")
 
     mp = PROCESSED / "matches.csv"
@@ -74,7 +71,7 @@ def report() -> tuple[str, list[str]]:
             if (bad["method"] == "unmatched").any():
                 problems.append("팀 이름 매칭 실패 있음")
         # 한 canonical에 같은 소스·리그에서 이름 둘 이상 → 오매칭 의심
-        dup = a[a["source"] != "fdorg"].groupby(["source", "league", "canonical"]).filter(lambda g: len(g) > 1)
+        dup = a[a["source"] == "fdcouk"].groupby(["source", "league", "canonical"]).filter(lambda g: len(g) > 1)
         if len(dup):
             lines += ["", "⚠️ 한 팀에 이름이 둘 이상 매핑됨:", ""]
             for _, r in dup.iterrows():
@@ -94,7 +91,19 @@ def report() -> tuple[str, list[str]]:
                 lines.append(f"| {r['kst_kickoff']} | {r['competition']} | {r['home']} | {r['away']} | {r['kickoff_source']} |")
         lines.append("")
 
-    # Understat datetime 시간대 추정 (fdorg UTC와 비교)
+    up = PROCESSED / "ucl_matches.csv"
+    if up.exists():
+        u = pd.read_csv(up)
+        done = u[u["status"] == "FINISHED"]
+        lines += ["## 챔피언스리그", "",
+                  f"- 소스: {u['ext_source'].iloc[0] if len(u) else '-'} · 전체 {len(u)}경기, 종료 {len(done)}경기", ""]
+        if len(done) and done["hg"].isna().any():
+            problems.append("챔스 종료 경기에 스코어 없음")
+    else:
+        lines += ["## 챔피언스리그", "", "- ⚠️ 챔스 데이터 없음", ""]
+        problems.append("챔스 데이터 없음")
+
+    # Understat datetime 시간대 확인 (일정 소스 UTC와 비교)
     both = m.dropna(subset=["utc_kickoff", "understat_datetime"])
     if len(both):
         diff = (pd.to_datetime(both["understat_datetime"]) -

@@ -6,7 +6,7 @@
 날짜+스코어 조합이 양쪽에서 유일한 경기만 사용해 오매칭을 막는다.
 짝이 안 생긴 이름(시즌 초 승격팀 등)만 문자열 유사도로 보완하고 method로 표시한다.
 
-챔스에만 나오는 5대 리그 밖 팀은 football-data.org shortName을 그대로 쓴다.
+챔스에만 나오는 5대 리그 밖 팀은 일정 소스(ESPN 등)의 짧은 이름을 그대로 쓴다.
 """
 from __future__ import annotations
 
@@ -15,7 +15,7 @@ from collections import Counter, defaultdict
 
 import pandas as pd
 
-from .config import LEAGUES, RAW
+from .config import EXT_SOURCES, LEAGUES, RAW
 
 
 def _read(path) -> pd.DataFrame:
@@ -107,12 +107,14 @@ def build_aliases() -> pd.DataFrame:
             for name, (canon, method, n) in _resolve(counts, names, ref_names).items():
                 rows.append(("fdcouk", code, name, None, canon, method, n))
 
-        # football-data.org (팀 id 기준)
-        org_frames = [pd.read_csv(p) for p in sorted((RAW / "fdorg").glob(f"{code}_*.csv"))]
-        org_frames = [f for f in org_frames if not f.empty]
-        if org_frames:
-            org = pd.concat(org_frames, ignore_index=True)
-            org["date"] = pd.to_datetime(org["utc_kickoff"]).dt.date
+        # 일정·결과 외부 소스 (ESPN, football-data.org) — 팀 id 기준
+        for src in EXT_SOURCES:
+            frames_ext = [pd.read_csv(p) for p in sorted((RAW / src).glob(f"{code}_*.csv"))]
+            frames_ext = [f for f in frames_ext if not f.empty]
+            if not frames_ext:
+                continue
+            org = pd.concat(frames_ext, ignore_index=True)
+            org["date"] = pd.to_datetime(org["utc_kickoff"], utc=True).dt.date
             org["home_key"] = org["home_id"].astype("Int64").astype(str)
             org["away_key"] = org["away_id"].astype("Int64").astype(str)
             counts = _pair_counts(org, ref, "home_key", "away_key")
@@ -123,15 +125,17 @@ def build_aliases() -> pd.DataFrame:
                     # id가 아니라 이름으로 다시 유사도 매칭
                     g = difflib.get_close_matches(str(id_name.get(tid)), sorted(ref_names), n=1, cutoff=0.0)
                     canon = g[0] if g else str(id_name.get(tid))
-                rows.append(("fdorg", code, id_name.get(tid), tid, canon, method, n))
+                rows.append((src, code, id_name.get(tid), tid, canon, method, n))
 
     aliases = pd.DataFrame(rows, columns=["source", "league", "name", "source_id", "canonical", "method", "support"])
 
-    # 챔스 팀: 리그 매핑이 있는 id는 그 이름, 없으면 shortName
-    ucl = sorted((RAW / "fdorg").glob("UCL_*.csv"))
-    if ucl:
+    # 챔스 팀: 같은 소스의 리그 매핑에 있는 id는 그 이름, 없으면(5대 리그 밖 팀) 소스의 짧은 이름
+    for src in EXT_SOURCES:
+        ucl = sorted((RAW / src).glob("UCL_*.csv"))
+        if not ucl:
+            continue
         df = pd.concat([pd.read_csv(p) for p in ucl], ignore_index=True)
-        known = aliases[aliases["source"] == "fdorg"].set_index("source_id")["canonical"].to_dict()
+        known = {str(k) for k in aliases.loc[aliases["source"] == src, "source_id"]}
         seen = set()
         for side in ("home", "away"):
             for tid, short in zip(df[f"{side}_id"], df[f"{side}_short"]):
@@ -141,6 +145,5 @@ def build_aliases() -> pd.DataFrame:
                 if key in seen or key in known:
                     continue
                 seen.add(key)
-                rows_ucl = ("fdorg", "UCL", short, key, short, "external", 0)
-                aliases.loc[len(aliases)] = rows_ucl
+                aliases.loc[len(aliases)] = (src, "UCL", short, key, short, "external", 0)
     return aliases.sort_values(["source", "league", "name"]).reset_index(drop=True)

@@ -1,4 +1,6 @@
-"""football-data.org v4 — 챔피언스리그 포함 일정·결과 (무료 키 필요).
+"""football-data.org v4 — 챔피언스리그 포함 일정·결과 (무료 키 필요, 선택 사항).
+
+ESPN 수집기가 기본이고, 키가 있으면 보조로 함께 받는다.
 
 무료 플랜: 분당 10회, 현재 시즌만, 라인업 미제공.
 환경변수 FOOTBALL_DATA_TOKEN 이 없으면 수집을 건너뛴다.
@@ -44,7 +46,7 @@ def fetch(code: str, season: int, session: requests.Session) -> pd.DataFrame:
         ft = (m.get("score") or {}).get("fullTime") or {}
         rows.append(
             {
-                "fdorg_id": m["id"],
+                "ext_id": m["id"],
                 "utc_kickoff": m["utcDate"],
                 "status": m["status"],
                 "stage": m.get("stage"),
