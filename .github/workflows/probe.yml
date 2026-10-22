@@ -1,0 +1,25 @@
+name: probe
+
+# 데이터 소스 접근 진단 — scripts/probe.py 가 바뀌면 실행, 결과는 실행 요약에 남김
+on:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/probe.py"
+      - ".github/workflows/probe.yml"
+  workflow_dispatch:
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - name: Probe
+        run: |
+          python scripts/probe.py | tee probe.txt
+          { echo '```'; cat probe.txt; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
