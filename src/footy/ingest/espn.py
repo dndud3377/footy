@@ -6,8 +6,6 @@
 """
 from __future__ import annotations
 
-from datetime import date, timedelta
-
 import pandas as pd
 import requests
 
@@ -30,14 +28,14 @@ COLUMNS = [
 
 
 def _months(season: int):
-    """시즌(7월~이듬해 6월)을 한 달 단위 구간으로."""
-    start = date(season, 7, 1)
-    end = date(season + 1, 6, 30)
-    cur = start
-    while cur <= end:
-        nxt = (cur.replace(day=28) + timedelta(days=4)).replace(day=1)
-        yield cur, min(nxt - timedelta(days=1), end)
-        cur = nxt
+    """시즌(7월~이듬해 6월)의 월 목록 → 'YYYYMM'.
+
+    ESPN scoreboard는 날짜 구간(YYYYMMDD-YYYYMMDD)을 400으로 거부하고
+    월 단위(YYYYMM)는 받는다 (Actions 진단으로 확인).
+    """
+    for i in range(12):
+        y, m = season + (6 + i) // 12, (6 + i) % 12 + 1
+        yield f"{y}{m:02d}"
 
 
 def _status(st: dict) -> str:
@@ -72,10 +70,10 @@ def _int(v):
 
 def fetch(slug: str, season: int, session: requests.Session) -> pd.DataFrame:
     events: dict[str, dict] = {}
-    for a, b in _months(season):
+    for month in _months(season):
         res = session.get(
             BASE.format(slug=slug),
-            params={"dates": f"{a:%Y%m%d}-{b:%Y%m%d}", "limit": 500},
+            params={"dates": month, "limit": 500},
             headers=HEADERS,
             timeout=60,
         )
