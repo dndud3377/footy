@@ -13,6 +13,15 @@ import requests
 
 BASE = "https://site.api.espn.com/apis/site/v2/sports/soccer/{slug}/scoreboard"
 
+# ESPN은 User-Agent에 봇 표식이 있으면 403을 준다 (Actions 진단으로 확인) — 일반 브라우저 헤더 사용
+HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+    ),
+    "Accept": "application/json, text/plain, */*",
+}
+
 COLUMNS = [
     "ext_id", "utc_kickoff", "status", "stage", "group", "matchday",
     "home_id", "home", "home_short", "away_id", "away", "away_short",
@@ -67,6 +76,7 @@ def fetch(slug: str, season: int, session: requests.Session) -> pd.DataFrame:
         res = session.get(
             BASE.format(slug=slug),
             params={"dates": f"{a:%Y%m%d}-{b:%Y%m%d}", "limit": 500},
+            headers=HEADERS,
             timeout=60,
         )
         res.raise_for_status()
