@@ -1,0 +1,60 @@
+[200] espn site api (browser UA)
+    https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard
+    {"leagues":[{"id":"775","uid":"s:600~l:775","name":"UEFA Champions League","abbreviation":"UEFA Champions League","midsizeName":"UEFA.CHAMPIONS","slug":"uefa.champions","season":{"year":2026,"startDat
+
+[200] espn site api dates
+    https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261021
+    {"leagues":[{"id":"775","uid":"s:600~l:775","name":"UEFA Champions League","abbreviation":"UEFA Champions League","midsizeName":"UEFA.CHAMPIONS","slug":"uefa.champions","season":{"year":2026,"startDat
+
+[200] espn site api (no UA)
+    https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard
+    {"leagues":[{"id":"775","uid":"s:600~l:775","name":"UEFA Champions League","abbreviation":"UEFA Champions League","midsizeName":"UEFA.CHAMPIONS","slug":"uefa.champions","season":{"year":2026,"startDat
+
+[200] espn site.web.api
+    https://site.web.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard
+    {"leagues":[{"id":"775","uid":"s:600~l:775","name":"UEFA Champions League","abbreviation":"UEFA Champions League","midsizeName":"UEFA.CHAMPIONS","slug":"uefa.champions","season":{"year":2026,"startDat
+
+[200] espn sports.core
+    https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.champions/events
+    {"$meta":{"parameters":{"season":["2026"],"seasontypes":["14534"],"dates":["20261021"]}},"count":9,"pageIndex":1,"pageSize":25,"pageCount":1,"items":[{"$ref":"http://sports.core.api.espn.com/v2/sports
+
+[200] uefa match api 2027
+    https://match.uefa.com/v5/matches?competitionId=1&seasonYear=2027&limit=5&offset=0&order=ASC
+    [{"awayTeam":{"associationId":"200144","associationLogoUrl":"https://img.uefa.com/imgml/uefacom/elements/logos/ma/WAL.svg","bigLogoUrl":"https://img.uefa.com/imgml/TP/teams/logos/700x700/60457.png","c
+
+[200] uefa match api 2026
+    https://match.uefa.com/v5/matches?competitionId=1&seasonYear=2026&limit=5&offset=0&order=ASC
+    [{"awayTeam":{"associationId":"257160","associationLogoUrl":"https://img.uefa.com/imgml/uefacom/elements/logos/ma/MDA.svg","bigLogoUrl":"https://img.uefa.com/imgml/TP/teams/logos/700x700/2600714.png",
+
+[404] fotmob league
+    https://www.fotmob.com/api/leagues?id=42
+    <!DOCTYPE html><html lang="en" dir="ltr"><head><meta charSet="utf-8" data-next-head=""/><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" data-next-head=""/><met
+
+[403] sofascore
+    https://api.sofascore.com/api/v1/unique-tournament/7/seasons
+    {"error": {"code": 403, "reason": "Forbidden" }}
+
+[200] openfootball cl repo
+    https://api.github.com/repos/openfootball/champions-league/contents
+    [   {     "name": ".gitignore",     "path": ".gitignore",     "sha": "28a5366e6e2f361a087fe556337d6df005a16772",     "size": 174,     "url": "https://api.github.com/repos/openfootball/champions-league
+
+[403] worldfootball
+    https://www.worldfootball.net/all_matches/champions-league-2026-2027/
+    <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
+
+[200] espn summary
+    https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/summary?event=740000
+    {"format":{"regulation":{"periods":2,"displayName":"Half","slug":"half","clock":2700.0},"overtime":{"periods":2,"displayName":"Half","slug":"half","clock":900.0},"suddenDeath":{"periods":2,"clock":900
+
+[200] espn cdn
+    https://cdn.espn.com/core/soccer/scoreboard?xhr=1&league=uefa.champions
+    {"news":{"header":"Soccer News","articles":[{"contentKey":"50247630-1-5-1","images":[{"dataSourceIdentifier":"e1ddaa8ebfaa8","name":"Cesc Fabregas [1296x729]","alt":"Cesc Fabregas on the touchline.","
+
+[404] uefa comp api
+    https://comp.uefa.com/v2/stages?competitionId=1&seasonYear=2027
+    {"timestamp":"2026-10-22T12:44:33.127+00:00","status":404,"error":"Not Found","path":"/v2/stages"}
+
+[403] fbref ucl
+    https://fbref.com/en/comps/8/schedule/Champions-League-Scores-and-Fixtures
+    <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
+
