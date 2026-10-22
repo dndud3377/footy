@@ -1,0 +1,145 @@
+season,ext_source,ext_id,utc_kickoff,status,stage,group,matchday,home,away,hg,ag,duration
+2026,espn,401915452,2026-09-08T16:45Z,FINISHED,league-phase,,,AEK Athens,LASK Linz,1.0,0.0,REGULAR
+2026,espn,401915426,2026-09-08T16:45Z,FINISHED,league-phase,,,Club Brugge,Aston Villa,2.0,3.0,REGULAR
+2026,espn,401915449,2026-09-08T19:00Z,FINISHED,league-phase,,,Borussia Dortmund,Villarreal,3.0,2.0,REGULAR
+2026,espn,401915425,2026-09-08T19:00Z,FINISHED,league-phase,,,FC Porto,Manchester City,0.0,2.0,REGULAR
+2026,espn,401915450,2026-09-08T19:00Z,FINISHED,league-phase,,,Lille,Real Betis,2.0,3.0,REGULAR
+2026,espn,401915451,2026-09-08T19:00Z,FINISHED,league-phase,,,Real Madrid,Inter,2.0,1.0,REGULAR
+2026,espn,401915424,2026-09-09T16:45Z,FINISHED,league-phase,,,Barcelona,Feyenoord,5.0,1.0,REGULAR
+2026,espn,401915448,2026-09-09T16:45Z,FINISHED,league-phase,,,VfB Stuttgart,Viking FK,3.0,1.0,REGULAR
+2026,espn,401915446,2026-09-09T19:00Z,FINISHED,league-phase,,,Liverpool,Atletico Madrid,2.0,1.0,REGULAR
+2026,espn,401915423,2026-09-09T19:00Z,FINISHED,league-phase,,,Napoli,Arsenal,0.0,1.0,REGULAR
+2026,espn,401915445,2026-09-09T19:00Z,FINISHED,league-phase,,,Paris Saint Germain,S Bratislava,6.0,1.0,REGULAR
+2026,espn,401915447,2026-09-09T19:00Z,FINISHED,league-phase,,,Sporting,Galatasaray,3.0,1.0,REGULAR
+2026,espn,401915444,2026-09-10T16:45Z,FINISHED,league-phase,,,Fenerbahce,Roma,1.0,1.0,REGULAR
+2026,espn,401915422,2026-09-10T16:45Z,FINISHED,league-phase,,,PSV,Shakhtar,1.0,1.0,REGULAR
+2026,espn,401915443,2026-09-10T19:00Z,FINISHED,league-phase,,,Bayern Munich,Bodo/Glimt,5.0,0.0,REGULAR
+2026,espn,401915441,2026-09-10T19:00Z,FINISHED,league-phase,,,Como,RasenBallsport Leipzig,4.0,1.0,REGULAR
+2026,espn,401915442,2026-09-10T19:00Z,FINISHED,league-phase,,,Manchester United,Sabah,4.0,0.0,REGULAR
+2026,espn,401915440,2026-09-10T19:00Z,FINISHED,league-phase,,,Slavia Prague,Lens,2.0,3.0,REGULAR
+2026,espn,401915418,2026-10-13T16:45Z,FINISHED,league-phase,,,Lens,Sporting,0.0,2.0,REGULAR
+2026,espn,401915436,2026-10-13T16:45Z,FINISHED,league-phase,,,Sabah,Slavia Prague,2.0,0.0,REGULAR
+2026,espn,401915417,2026-10-13T19:00Z,FINISHED,league-phase,,,Arsenal,Lille,3.0,0.0,REGULAR
+2026,espn,401915412,2026-10-13T19:00Z,FINISHED,league-phase,,,Atletico Madrid,Manchester United,2.0,0.0,REGULAR
+2026,espn,401915435,2026-10-13T19:00Z,FINISHED,league-phase,,,Galatasaray,Barcelona,1.0,4.0,REGULAR
+2026,espn,401915413,2026-10-13T19:00Z,FINISHED,league-phase,,,Inter,Club Brugge,3.0,4.0,REGULAR
+2026,espn,401915434,2026-10-13T19:00Z,FINISHED,league-phase,,,RasenBallsport Leipzig,PSV,1.0,0.0,REGULAR
+2026,espn,401915411,2026-10-13T19:00Z,FINISHED,league-phase,,,Viking FK,Bayern Munich,3.0,3.0,REGULAR
+2026,espn,401915410,2026-10-13T19:00Z,FINISHED,league-phase,,,Villarreal,Napoli,3.0,1.0,REGULAR
+2026,espn,401915416,2026-10-14T16:45Z,FINISHED,league-phase,,,Feyenoord,Como,3.0,2.0,REGULAR
+2026,espn,401915415,2026-10-14T16:45Z,FINISHED,league-phase,,,LASK Linz,Liverpool,3.0,6.0,REGULAR
+2026,espn,401915414,2026-10-14T19:00Z,FINISHED,league-phase,,,Roma,Real Madrid,3.0,4.0,REGULAR
+2026,espn,401915409,2026-10-14T19:00Z,FINISHED,league-phase,,,Aston Villa,Fenerbahce,6.0,0.0,REGULAR
+2026,espn,401915408,2026-10-14T19:00Z,FINISHED,league-phase,,,Real Betis,FC Porto,3.0,2.0,REGULAR
+2026,espn,401915393,2026-10-14T19:00Z,FINISHED,league-phase,,,Bodo/Glimt,Borussia Dortmund,1.0,0.0,REGULAR
+2026,espn,401915407,2026-10-14T19:00Z,FINISHED,league-phase,,,Manchester City,Paris Saint Germain,2.0,4.0,REGULAR
+2026,espn,401915406,2026-10-14T19:00Z,FINISHED,league-phase,,,Shakhtar,AEK Athens,3.0,1.0,REGULAR
+2026,espn,401915405,2026-10-14T19:00Z,FINISHED,league-phase,,,S Bratislava,VfB Stuttgart,0.0,3.0,REGULAR
+2026,espn,401915403,2026-10-20T16:45Z,FINISHED,league-phase,,,Fenerbahce,Slavia Prague,2.0,2.0,REGULAR
+2026,espn,401915404,2026-10-20T16:45Z,FINISHED,league-phase,,,Sabah,Borussia Dortmund,1.0,2.0,REGULAR
+2026,espn,401915402,2026-10-20T19:00Z,FINISHED,league-phase,,,Roma,S Bratislava,4.0,0.0,REGULAR
+2026,espn,401915398,2026-10-20T19:00Z,FINISHED,league-phase,,,FC Porto,PSV,0.0,1.0,REGULAR
+2026,espn,401915397,2026-10-20T19:00Z,FINISHED,league-phase,,,Liverpool,Villarreal,4.0,3.0,REGULAR
+2026,espn,401915401,2026-10-20T19:00Z,FINISHED,league-phase,,,Manchester City,AEK Athens,5.0,1.0,REGULAR
+2026,espn,401915400,2026-10-20T19:00Z,FINISHED,league-phase,,,Napoli,Bodo/Glimt,4.0,3.0,REGULAR
+2026,espn,401915399,2026-10-20T19:00Z,FINISHED,league-phase,,,Paris Saint Germain,Barcelona,4.0,2.0,REGULAR
+2026,espn,401915392,2026-10-20T19:00Z,FINISHED,league-phase,,,VfB Stuttgart,Atletico Madrid,1.0,1.0,REGULAR
+2026,espn,401915395,2026-10-21T16:45Z,FINISHED,league-phase,,,Como,Manchester United,4.0,1.0,REGULAR
+2026,espn,401915396,2026-10-21T16:45Z,FINISHED,league-phase,,,Lille,Galatasaray,2.0,4.0,REGULAR
+2026,espn,401915388,2026-10-21T19:00Z,FINISHED,league-phase,,,Club Brugge,Lens,3.0,0.0,REGULAR
+2026,espn,401915394,2026-10-21T19:00Z,FINISHED,league-phase,,,Aston Villa,Viking FK,3.0,1.0,REGULAR
+2026,espn,401915312,2026-10-21T19:00Z,FINISHED,league-phase,,,Bayern Munich,Arsenal,2.0,2.0,REGULAR
+2026,espn,401915390,2026-10-21T19:00Z,FINISHED,league-phase,,,Inter,Shakhtar,1.0,0.0,REGULAR
+2026,espn,401915313,2026-10-21T19:00Z,FINISHED,league-phase,,,Real Madrid,RasenBallsport Leipzig,4.0,1.0,REGULAR
+2026,espn,401915391,2026-10-21T19:00Z,FINISHED,league-phase,,,Sporting,LASK Linz,2.0,3.0,REGULAR
+2026,espn,401915389,2026-10-21T19:00Z,FINISHED,league-phase,,,Real Betis,Feyenoord,1.0,0.0,REGULAR
+2026,espn,401915311,2026-11-03T17:45Z,SCHEDULED,league-phase,,,Galatasaray,VfB Stuttgart,,,
+2026,espn,401915310,2026-11-03T17:45Z,SCHEDULED,league-phase,,,Shakhtar,Sporting,,,
+2026,espn,401915386,2026-11-03T20:00Z,SCHEDULED,league-phase,,,Atletico Madrid,Bayern Munich,,,
+2026,espn,401915387,2026-11-03T20:00Z,SCHEDULED,league-phase,,,Barcelona,Aston Villa,,,
+2026,espn,401915384,2026-11-03T20:00Z,SCHEDULED,league-phase,,,Bodo/Glimt,Lille,,,
+2026,espn,401915307,2026-11-03T20:00Z,SCHEDULED,league-phase,,,Feyenoord,Inter,,,
+2026,espn,401915385,2026-11-03T20:00Z,SCHEDULED,league-phase,,,LASK Linz,S Bratislava,,,
+2026,espn,401915308,2026-11-03T20:00Z,SCHEDULED,league-phase,,,Manchester United,Roma,,,
+2026,espn,401915309,2026-11-03T20:00Z,SCHEDULED,league-phase,,,Villarreal,Paris Saint Germain,,,
+2026,espn,401915383,2026-11-04T17:45Z,SCHEDULED,league-phase,,,AEK Athens,Real Madrid,,,
+2026,espn,401915382,2026-11-04T17:45Z,SCHEDULED,league-phase,,,Fenerbahce,Liverpool,,,
+2026,espn,401915301,2026-11-04T20:00Z,SCHEDULED,league-phase,,,FC Porto,Napoli,,,
+2026,espn,401915304,2026-11-04T20:00Z,SCHEDULED,league-phase,,,Borussia Dortmund,Real Betis,,,
+2026,espn,401915302,2026-11-04T20:00Z,SCHEDULED,league-phase,,,Viking FK,Sabah,,,
+2026,espn,401915305,2026-11-04T20:00Z,SCHEDULED,league-phase,,,Lens,Como,,,
+2026,espn,401915381,2026-11-04T20:00Z,SCHEDULED,league-phase,,,Slavia Prague,Arsenal,,,
+2026,espn,401915306,2026-11-04T20:00Z,SCHEDULED,league-phase,,,RasenBallsport Leipzig,Manchester City,,,
+2026,espn,401915303,2026-11-04T20:00Z,SCHEDULED,league-phase,,,PSV,Club Brugge,,,
+2026,espn,401915380,2026-11-24T17:45Z,SCHEDULED,league-phase,,,Bodo/Glimt,LASK Linz,,,
+2026,espn,401915300,2026-11-24T17:45Z,SCHEDULED,league-phase,,,Galatasaray,Aston Villa,,,
+2026,espn,401915295,2026-11-24T20:00Z,SCHEDULED,league-phase,,,Arsenal,Borussia Dortmund,,,
+2026,espn,401915296,2026-11-24T20:00Z,SCHEDULED,league-phase,,,Como,AEK Athens,,,
+2026,espn,401915294,2026-11-24T20:00Z,SCHEDULED,league-phase,,,Feyenoord,FC Porto,,,
+2026,espn,401915379,2026-11-24T20:00Z,SCHEDULED,league-phase,,,Manchester City,Napoli,,,
+2026,espn,401915299,2026-11-24T20:00Z,SCHEDULED,league-phase,,,RasenBallsport Leipzig,Lens,,,
+2026,espn,401915298,2026-11-24T20:00Z,SCHEDULED,league-phase,,,Real Madrid,PSV,,,
+2026,espn,401915297,2026-11-24T20:00Z,SCHEDULED,league-phase,,,S Bratislava,Real Betis,,,
+2026,espn,401915378,2026-11-25T17:45Z,SCHEDULED,league-phase,,,Sabah,Barcelona,,,
+2026,espn,401915293,2026-11-25T17:45Z,SCHEDULED,league-phase,,,Slavia Prague,Villarreal,,,
+2026,espn,401915291,2026-11-25T20:00Z,SCHEDULED,league-phase,,,Atletico Madrid,Viking FK,,,
+2026,espn,401915292,2026-11-25T20:00Z,SCHEDULED,league-phase,,,Club Brugge,Liverpool,,,
+2026,espn,401915376,2026-11-25T20:00Z,SCHEDULED,league-phase,,,Inter,VfB Stuttgart,,,
+2026,espn,401915377,2026-11-25T20:00Z,SCHEDULED,league-phase,,,Lille,Bayern Munich,,,
+2026,espn,401915374,2026-11-25T20:00Z,SCHEDULED,league-phase,,,Paris Saint Germain,Roma,,,
+2026,espn,401915375,2026-11-25T20:00Z,SCHEDULED,league-phase,,,Shakhtar,Fenerbahce,,,
+2026,espn,401915373,2026-11-25T20:00Z,SCHEDULED,league-phase,,,Sporting,Manchester United,,,
+2026,espn,401915290,2026-12-08T17:45Z,SCHEDULED,league-phase,,,Viking FK,Feyenoord,,,
+2026,espn,401915372,2026-12-08T17:45Z,SCHEDULED,league-phase,,,Villarreal,Sabah,,,
+2026,espn,401915289,2026-12-08T20:00Z,SCHEDULED,league-phase,,,AEK Athens,Galatasaray,,,
+2026,espn,401915288,2026-12-08T20:00Z,SCHEDULED,league-phase,,,Roma,Sporting,,,
+2026,espn,401915286,2026-12-08T20:00Z,SCHEDULED,league-phase,,,Aston Villa,Paris Saint Germain,,,
+2026,espn,401915285,2026-12-08T20:00Z,SCHEDULED,league-phase,,,Barcelona,Manchester City,,,
+2026,espn,401915284,2026-12-08T20:00Z,SCHEDULED,league-phase,,,Bayern Munich,Slavia Prague,,,
+2026,espn,401915371,2026-12-08T20:00Z,SCHEDULED,league-phase,,,Manchester United,RasenBallsport Leipzig,,,
+2026,espn,401915287,2026-12-08T20:00Z,SCHEDULED,league-phase,,,Napoli,Club Brugge,,,
+2026,espn,401915283,2026-12-09T17:45Z,SCHEDULED,league-phase,,,Real Betis,Como,,,
+2026,espn,401915282,2026-12-09T17:45Z,SCHEDULED,league-phase,,,S Bratislava,Shakhtar,,,
+2026,espn,401915281,2026-12-09T20:00Z,SCHEDULED,league-phase,,,LASK Linz,Fenerbahce,,,
+2026,espn,401915368,2026-12-09T20:00Z,SCHEDULED,league-phase,,,Borussia Dortmund,Inter,,,
+2026,espn,401915366,2026-12-09T20:00Z,SCHEDULED,league-phase,,,PSV,Atletico Madrid,,,
+2026,espn,401915367,2026-12-09T20:00Z,SCHEDULED,league-phase,,,Arsenal,Real Madrid,,,
+2026,espn,401915369,2026-12-09T20:00Z,SCHEDULED,league-phase,,,Liverpool,FC Porto,,,
+2026,espn,401915365,2026-12-09T20:00Z,SCHEDULED,league-phase,,,VfB Stuttgart,Lille,,,
+2026,espn,401915370,2026-12-09T20:00Z,SCHEDULED,league-phase,,,Lens,Bodo/Glimt,,,
+2026,espn,401915364,2027-01-19T17:45Z,SCHEDULED,league-phase,,,Bodo/Glimt,Atletico Madrid,,,
+2026,espn,401915363,2027-01-19T17:45Z,SCHEDULED,league-phase,,,Galatasaray,Feyenoord,,,
+2026,espn,401915362,2027-01-19T20:00Z,SCHEDULED,league-phase,,,AEK Athens,Roma,,,
+2026,espn,401915279,2027-01-19T20:00Z,SCHEDULED,league-phase,,,Aston Villa,Borussia Dortmund,,,
+2026,espn,401915278,2027-01-19T20:00Z,SCHEDULED,league-phase,,,FC Porto,Slavia Prague,,,
+2026,espn,401915360,2027-01-19T20:00Z,SCHEDULED,league-phase,,,Inter,Liverpool,,,
+2026,espn,401915361,2027-01-19T20:00Z,SCHEDULED,league-phase,,,Lille,S Bratislava,,,
+2026,espn,401915280,2027-01-19T20:00Z,SCHEDULED,league-phase,,,Real Madrid,LASK Linz,,,
+2026,espn,401915359,2027-01-19T20:00Z,SCHEDULED,league-phase,,,VfB Stuttgart,Club Brugge,,,
+2026,espn,401915277,2027-01-20T17:45Z,SCHEDULED,league-phase,,,Fenerbahce,Villarreal,,,
+2026,espn,401915358,2027-01-20T17:45Z,SCHEDULED,league-phase,,,Sabah,Napoli,,,
+2026,espn,401915357,2027-01-20T20:00Z,SCHEDULED,league-phase,,,Manchester United,Bayern Munich,,,
+2026,espn,401915274,2027-01-20T20:00Z,SCHEDULED,league-phase,,,Lens,Manchester City,,,
+2026,espn,401915356,2027-01-20T20:00Z,SCHEDULED,league-phase,,,Sporting,Barcelona,,,
+2026,espn,401915273,2027-01-20T20:00Z,SCHEDULED,league-phase,,,Como,Paris Saint Germain,,,
+2026,espn,401915275,2027-01-20T20:00Z,SCHEDULED,league-phase,,,Real Betis,Arsenal,,,
+2026,espn,401915272,2027-01-20T20:00Z,SCHEDULED,league-phase,,,Viking FK,PSV,,,
+2026,espn,401915276,2027-01-20T20:00Z,SCHEDULED,league-phase,,,RasenBallsport Leipzig,Shakhtar,,,
+2026,espn,401915269,2027-01-27T20:00Z,SCHEDULED,league-phase,,,S Bratislava,Inter,,,
+2026,espn,401915346,2027-01-27T20:00Z,SCHEDULED,league-phase,,,Arsenal,Sabah,,,
+2026,espn,401915354,2027-01-27T20:00Z,SCHEDULED,league-phase,,,Roma,Lille,,,
+2026,espn,401915347,2027-01-27T20:00Z,SCHEDULED,league-phase,,,Atletico Madrid,Fenerbahce,,,
+2026,espn,401915264,2027-01-27T20:00Z,SCHEDULED,league-phase,,,Barcelona,Como,,,
+2026,espn,401915348,2027-01-27T20:00Z,SCHEDULED,league-phase,,,Bayern Munich,Real Betis,,,
+2026,espn,401915265,2027-01-27T20:00Z,SCHEDULED,league-phase,,,Borussia Dortmund,AEK Athens,,,
+2026,espn,401915271,2027-01-27T20:00Z,SCHEDULED,league-phase,,,Feyenoord,RasenBallsport Leipzig,,,
+2026,espn,401915355,2027-01-27T20:00Z,SCHEDULED,league-phase,,,LASK Linz,FC Porto,,,
+2026,espn,401915352,2027-01-27T20:00Z,SCHEDULED,league-phase,,,Manchester City,Sporting,,,
+2026,espn,401915268,2027-01-27T20:00Z,SCHEDULED,league-phase,,,Napoli,Viking FK,,,
+2026,espn,401915267,2027-01-27T20:00Z,SCHEDULED,league-phase,,,Paris Saint Germain,Galatasaray,,,
+2026,espn,401915350,2027-01-27T20:00Z,SCHEDULED,league-phase,,,PSV,VfB Stuttgart,,,
+2026,espn,401915270,2027-01-27T20:00Z,SCHEDULED,league-phase,,,Shakhtar,Real Madrid,,,
+2026,espn,401915351,2027-01-27T20:00Z,SCHEDULED,league-phase,,,Slavia Prague,Aston Villa,,,
+2026,espn,401915266,2027-01-27T20:00Z,SCHEDULED,league-phase,,,Club Brugge,Bodo/Glimt,,,
+2026,espn,401915353,2027-01-27T20:00Z,SCHEDULED,league-phase,,,Liverpool,Lens,,,
+2026,espn,401915349,2027-01-27T20:00Z,SCHEDULED,league-phase,,,Villarreal,Manchester United,,,

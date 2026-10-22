@@ -1,0 +1,145 @@
+ext_id,utc_kickoff,status,stage,group,matchday,home_id,home,home_short,away_id,away,away_short,hg,ag,duration
+401915452,2026-09-08T16:45Z,FINISHED,league-phase,,,887,AEK Athens,AEK Athens,4411,LASK Linz,LASK Linz,1,0,REGULAR
+401915426,2026-09-08T16:45Z,FINISHED,league-phase,,,570,Club Brugge,Club Brugge,362,Aston Villa,Aston Villa,2,3,REGULAR
+401915449,2026-09-08T19:00Z,FINISHED,league-phase,,,124,Borussia Dortmund,Dortmund,102,Villarreal,Villarreal,3,2,REGULAR
+401915425,2026-09-08T19:00Z,FINISHED,league-phase,,,437,FC Porto,FC Porto,382,Manchester City,Man City,0,2,REGULAR
+401915450,2026-09-08T19:00Z,FINISHED,league-phase,,,166,Lille,Lille,244,Real Betis,Betis,2,3,REGULAR
+401915451,2026-09-08T19:00Z,FINISHED,league-phase,,,86,Real Madrid,Real Madrid,110,Internazionale,Inter Milan,2,1,REGULAR
+401915424,2026-09-09T16:45Z,FINISHED,league-phase,,,83,Barcelona,Barcelona,142,Feyenoord Rotterdam,Feyenoord,5,1,REGULAR
+401915448,2026-09-09T16:45Z,FINISHED,league-phase,,,134,VfB Stuttgart,Stuttgart,510,Viking FK,Viking FK,3,1,REGULAR
+401915446,2026-09-09T19:00Z,FINISHED,league-phase,,,364,Liverpool,Liverpool,1068,Atlético Madrid,Atlético,2,1,REGULAR
+401915423,2026-09-09T19:00Z,FINISHED,league-phase,,,114,Napoli,Napoli,359,Arsenal,Arsenal,0,1,REGULAR
+401915445,2026-09-09T19:00Z,FINISHED,league-phase,,,160,Paris Saint-Germain,PSG,521,Slovan Bratislava,S Bratislava,6,1,REGULAR
+401915447,2026-09-09T19:00Z,FINISHED,league-phase,,,2250,Sporting CP,Sporting,432,Galatasaray,Galatasaray,3,1,REGULAR
+401915444,2026-09-10T16:45Z,FINISHED,league-phase,,,436,Fenerbahce,Fenerbahce,104,AS Roma,AS Roma,1,1,REGULAR
+401915422,2026-09-10T16:45Z,FINISHED,league-phase,,,148,PSV Eindhoven,PSV,493,Shakhtar Donetsk,Shakhtar,1,1,REGULAR
+401915440,2026-09-10T19:00Z,FINISHED,league-phase,,,494,Slavia Prague,Slavia Prague,175,Lens,Lens,2,3,REGULAR
+401915442,2026-09-10T19:00Z,FINISHED,league-phase,,,360,Manchester United,Man United,21922,Sabah FK,Sabah,4,0,REGULAR
+401915441,2026-09-10T19:00Z,FINISHED,league-phase,,,2572,Como,Como,11420,RB Leipzig,RB Leipzig,4,1,REGULAR
+401915443,2026-09-10T19:00Z,FINISHED,league-phase,,,132,Bayern Munich,Bayern,2980,Bodo/Glimt,Bodo/Glimt,5,0,REGULAR
+401915418,2026-10-13T16:45Z,FINISHED,league-phase,,,175,Lens,Lens,2250,Sporting CP,Sporting,0,2,REGULAR
+401915436,2026-10-13T16:45Z,FINISHED,league-phase,,,21922,Sabah FK,Sabah,494,Slavia Prague,Slavia Prague,2,0,REGULAR
+401915417,2026-10-13T19:00Z,FINISHED,league-phase,,,359,Arsenal,Arsenal,166,Lille,Lille,3,0,REGULAR
+401915412,2026-10-13T19:00Z,FINISHED,league-phase,,,1068,Atlético Madrid,Atlético,360,Manchester United,Man United,2,0,REGULAR
+401915435,2026-10-13T19:00Z,FINISHED,league-phase,,,432,Galatasaray,Galatasaray,83,Barcelona,Barcelona,1,4,REGULAR
+401915413,2026-10-13T19:00Z,FINISHED,league-phase,,,110,Internazionale,Inter Milan,570,Club Brugge,Club Brugge,3,4,REGULAR
+401915434,2026-10-13T19:00Z,FINISHED,league-phase,,,11420,RB Leipzig,RB Leipzig,148,PSV Eindhoven,PSV,1,0,REGULAR
+401915411,2026-10-13T19:00Z,FINISHED,league-phase,,,510,Viking FK,Viking FK,132,Bayern Munich,Bayern,3,3,REGULAR
+401915410,2026-10-13T19:00Z,FINISHED,league-phase,,,102,Villarreal,Villarreal,114,Napoli,Napoli,3,1,REGULAR
+401915416,2026-10-14T16:45Z,FINISHED,league-phase,,,142,Feyenoord Rotterdam,Feyenoord,2572,Como,Como,3,2,REGULAR
+401915415,2026-10-14T16:45Z,FINISHED,league-phase,,,4411,LASK Linz,LASK Linz,364,Liverpool,Liverpool,3,6,REGULAR
+401915405,2026-10-14T19:00Z,FINISHED,league-phase,,,521,Slovan Bratislava,S Bratislava,134,VfB Stuttgart,Stuttgart,0,3,REGULAR
+401915406,2026-10-14T19:00Z,FINISHED,league-phase,,,493,Shakhtar Donetsk,Shakhtar,887,AEK Athens,AEK Athens,3,1,REGULAR
+401915407,2026-10-14T19:00Z,FINISHED,league-phase,,,382,Manchester City,Man City,160,Paris Saint-Germain,PSG,2,4,REGULAR
+401915408,2026-10-14T19:00Z,FINISHED,league-phase,,,244,Real Betis,Betis,437,FC Porto,FC Porto,3,2,REGULAR
+401915393,2026-10-14T19:00Z,FINISHED,league-phase,,,2980,Bodo/Glimt,Bodo/Glimt,124,Borussia Dortmund,Dortmund,1,0,REGULAR
+401915409,2026-10-14T19:00Z,FINISHED,league-phase,,,362,Aston Villa,Aston Villa,436,Fenerbahce,Fenerbahce,6,0,REGULAR
+401915414,2026-10-14T19:00Z,FINISHED,league-phase,,,104,AS Roma,AS Roma,86,Real Madrid,Real Madrid,3,4,REGULAR
+401915403,2026-10-20T16:45Z,FINISHED,league-phase,,,436,Fenerbahce,Fenerbahce,494,Slavia Prague,Slavia Prague,2,2,REGULAR
+401915404,2026-10-20T16:45Z,FINISHED,league-phase,,,21922,Sabah FK,Sabah,124,Borussia Dortmund,Dortmund,1,2,REGULAR
+401915392,2026-10-20T19:00Z,FINISHED,league-phase,,,134,VfB Stuttgart,Stuttgart,1068,Atlético Madrid,Atlético,1,1,REGULAR
+401915399,2026-10-20T19:00Z,FINISHED,league-phase,,,160,Paris Saint-Germain,PSG,83,Barcelona,Barcelona,4,2,REGULAR
+401915400,2026-10-20T19:00Z,FINISHED,league-phase,,,114,Napoli,Napoli,2980,Bodo/Glimt,Bodo/Glimt,4,3,REGULAR
+401915401,2026-10-20T19:00Z,FINISHED,league-phase,,,382,Manchester City,Man City,887,AEK Athens,AEK Athens,5,1,REGULAR
+401915397,2026-10-20T19:00Z,FINISHED,league-phase,,,364,Liverpool,Liverpool,102,Villarreal,Villarreal,4,3,REGULAR
+401915398,2026-10-20T19:00Z,FINISHED,league-phase,,,437,FC Porto,FC Porto,148,PSV Eindhoven,PSV,0,1,REGULAR
+401915402,2026-10-20T19:00Z,FINISHED,league-phase,,,104,AS Roma,AS Roma,521,Slovan Bratislava,S Bratislava,4,0,REGULAR
+401915395,2026-10-21T16:45Z,FINISHED,league-phase,,,2572,Como,Como,360,Manchester United,Man United,4,1,REGULAR
+401915396,2026-10-21T16:45Z,FINISHED,league-phase,,,166,Lille,Lille,432,Galatasaray,Galatasaray,2,4,REGULAR
+401915391,2026-10-21T19:00Z,FINISHED,league-phase,,,2250,Sporting CP,Sporting,4411,LASK Linz,LASK Linz,2,3,REGULAR
+401915313,2026-10-21T19:00Z,FINISHED,league-phase,,,86,Real Madrid,Real Madrid,11420,RB Leipzig,RB Leipzig,4,1,REGULAR
+401915389,2026-10-21T19:00Z,FINISHED,league-phase,,,244,Real Betis,Betis,142,Feyenoord Rotterdam,Feyenoord,1,0,REGULAR
+401915390,2026-10-21T19:00Z,FINISHED,league-phase,,,110,Internazionale,Inter Milan,493,Shakhtar Donetsk,Shakhtar,1,0,REGULAR
+401915312,2026-10-21T19:00Z,FINISHED,league-phase,,,132,Bayern Munich,Bayern,359,Arsenal,Arsenal,2,2,REGULAR
+401915394,2026-10-21T19:00Z,FINISHED,league-phase,,,362,Aston Villa,Aston Villa,510,Viking FK,Viking FK,3,1,REGULAR
+401915388,2026-10-21T19:00Z,FINISHED,league-phase,,,570,Club Brugge,Club Brugge,175,Lens,Lens,3,0,REGULAR
+401915311,2026-11-03T17:45Z,SCHEDULED,league-phase,,,432,Galatasaray,Galatasaray,134,VfB Stuttgart,Stuttgart,,,
+401915310,2026-11-03T17:45Z,SCHEDULED,league-phase,,,493,Shakhtar Donetsk,Shakhtar,2250,Sporting CP,Sporting,,,
+401915386,2026-11-03T20:00Z,SCHEDULED,league-phase,,,1068,Atlético Madrid,Atlético,132,Bayern Munich,Bayern,,,
+401915387,2026-11-03T20:00Z,SCHEDULED,league-phase,,,83,Barcelona,Barcelona,362,Aston Villa,Aston Villa,,,
+401915384,2026-11-03T20:00Z,SCHEDULED,league-phase,,,2980,Bodo/Glimt,Bodo/Glimt,166,Lille,Lille,,,
+401915307,2026-11-03T20:00Z,SCHEDULED,league-phase,,,142,Feyenoord Rotterdam,Feyenoord,110,Internazionale,Inter Milan,,,
+401915385,2026-11-03T20:00Z,SCHEDULED,league-phase,,,4411,LASK Linz,LASK Linz,521,Slovan Bratislava,S Bratislava,,,
+401915308,2026-11-03T20:00Z,SCHEDULED,league-phase,,,360,Manchester United,Man United,104,AS Roma,AS Roma,,,
+401915309,2026-11-03T20:00Z,SCHEDULED,league-phase,,,102,Villarreal,Villarreal,160,Paris Saint-Germain,PSG,,,
+401915383,2026-11-04T17:45Z,SCHEDULED,league-phase,,,887,AEK Athens,AEK Athens,86,Real Madrid,Real Madrid,,,
+401915382,2026-11-04T17:45Z,SCHEDULED,league-phase,,,436,Fenerbahce,Fenerbahce,364,Liverpool,Liverpool,,,
+401915306,2026-11-04T20:00Z,SCHEDULED,league-phase,,,11420,RB Leipzig,RB Leipzig,382,Manchester City,Man City,,,
+401915381,2026-11-04T20:00Z,SCHEDULED,league-phase,,,494,Slavia Prague,Slavia Prague,359,Arsenal,Arsenal,,,
+401915303,2026-11-04T20:00Z,SCHEDULED,league-phase,,,148,PSV Eindhoven,PSV,570,Club Brugge,Club Brugge,,,
+401915302,2026-11-04T20:00Z,SCHEDULED,league-phase,,,510,Viking FK,Viking FK,21922,Sabah FK,Sabah,,,
+401915301,2026-11-04T20:00Z,SCHEDULED,league-phase,,,437,FC Porto,FC Porto,114,Napoli,Napoli,,,
+401915304,2026-11-04T20:00Z,SCHEDULED,league-phase,,,124,Borussia Dortmund,Dortmund,244,Real Betis,Betis,,,
+401915305,2026-11-04T20:00Z,SCHEDULED,league-phase,,,175,Lens,Lens,2572,Como,Como,,,
+401915380,2026-11-24T17:45Z,SCHEDULED,league-phase,,,2980,Bodo/Glimt,Bodo/Glimt,4411,LASK Linz,LASK Linz,,,
+401915300,2026-11-24T17:45Z,SCHEDULED,league-phase,,,432,Galatasaray,Galatasaray,362,Aston Villa,Aston Villa,,,
+401915297,2026-11-24T20:00Z,SCHEDULED,league-phase,,,521,Slovan Bratislava,S Bratislava,244,Real Betis,Betis,,,
+401915298,2026-11-24T20:00Z,SCHEDULED,league-phase,,,86,Real Madrid,Real Madrid,148,PSV Eindhoven,PSV,,,
+401915299,2026-11-24T20:00Z,SCHEDULED,league-phase,,,11420,RB Leipzig,RB Leipzig,175,Lens,Lens,,,
+401915379,2026-11-24T20:00Z,SCHEDULED,league-phase,,,382,Manchester City,Man City,114,Napoli,Napoli,,,
+401915294,2026-11-24T20:00Z,SCHEDULED,league-phase,,,142,Feyenoord Rotterdam,Feyenoord,437,FC Porto,FC Porto,,,
+401915296,2026-11-24T20:00Z,SCHEDULED,league-phase,,,2572,Como,Como,887,AEK Athens,AEK Athens,,,
+401915295,2026-11-24T20:00Z,SCHEDULED,league-phase,,,359,Arsenal,Arsenal,124,Borussia Dortmund,Dortmund,,,
+401915378,2026-11-25T17:45Z,SCHEDULED,league-phase,,,21922,Sabah FK,Sabah,83,Barcelona,Barcelona,,,
+401915293,2026-11-25T17:45Z,SCHEDULED,league-phase,,,494,Slavia Prague,Slavia Prague,102,Villarreal,Villarreal,,,
+401915373,2026-11-25T20:00Z,SCHEDULED,league-phase,,,2250,Sporting CP,Sporting,360,Manchester United,Man United,,,
+401915375,2026-11-25T20:00Z,SCHEDULED,league-phase,,,493,Shakhtar Donetsk,Shakhtar,436,Fenerbahce,Fenerbahce,,,
+401915374,2026-11-25T20:00Z,SCHEDULED,league-phase,,,160,Paris Saint-Germain,PSG,104,AS Roma,AS Roma,,,
+401915377,2026-11-25T20:00Z,SCHEDULED,league-phase,,,166,Lille,Lille,132,Bayern Munich,Bayern,,,
+401915376,2026-11-25T20:00Z,SCHEDULED,league-phase,,,110,Internazionale,Inter Milan,134,VfB Stuttgart,Stuttgart,,,
+401915292,2026-11-25T20:00Z,SCHEDULED,league-phase,,,570,Club Brugge,Club Brugge,364,Liverpool,Liverpool,,,
+401915291,2026-11-25T20:00Z,SCHEDULED,league-phase,,,1068,Atlético Madrid,Atlético,510,Viking FK,Viking FK,,,
+401915290,2026-12-08T17:45Z,SCHEDULED,league-phase,,,510,Viking FK,Viking FK,142,Feyenoord Rotterdam,Feyenoord,,,
+401915372,2026-12-08T17:45Z,SCHEDULED,league-phase,,,102,Villarreal,Villarreal,21922,Sabah FK,Sabah,,,
+401915287,2026-12-08T20:00Z,SCHEDULED,league-phase,,,114,Napoli,Napoli,570,Club Brugge,Club Brugge,,,
+401915371,2026-12-08T20:00Z,SCHEDULED,league-phase,,,360,Manchester United,Man United,11420,RB Leipzig,RB Leipzig,,,
+401915284,2026-12-08T20:00Z,SCHEDULED,league-phase,,,132,Bayern Munich,Bayern,494,Slavia Prague,Slavia Prague,,,
+401915285,2026-12-08T20:00Z,SCHEDULED,league-phase,,,83,Barcelona,Barcelona,382,Manchester City,Man City,,,
+401915286,2026-12-08T20:00Z,SCHEDULED,league-phase,,,362,Aston Villa,Aston Villa,160,Paris Saint-Germain,PSG,,,
+401915288,2026-12-08T20:00Z,SCHEDULED,league-phase,,,104,AS Roma,AS Roma,2250,Sporting CP,Sporting,,,
+401915289,2026-12-08T20:00Z,SCHEDULED,league-phase,,,887,AEK Athens,AEK Athens,432,Galatasaray,Galatasaray,,,
+401915283,2026-12-09T17:45Z,SCHEDULED,league-phase,,,244,Real Betis,Betis,2572,Como,Como,,,
+401915282,2026-12-09T17:45Z,SCHEDULED,league-phase,,,521,Slovan Bratislava,S Bratislava,493,Shakhtar Donetsk,Shakhtar,,,
+401915365,2026-12-09T20:00Z,SCHEDULED,league-phase,,,134,VfB Stuttgart,Stuttgart,166,Lille,Lille,,,
+401915369,2026-12-09T20:00Z,SCHEDULED,league-phase,,,364,Liverpool,Liverpool,437,FC Porto,FC Porto,,,
+401915370,2026-12-09T20:00Z,SCHEDULED,league-phase,,,175,Lens,Lens,2980,Bodo/Glimt,Bodo/Glimt,,,
+401915366,2026-12-09T20:00Z,SCHEDULED,league-phase,,,148,PSV Eindhoven,PSV,1068,Atlético Madrid,Atlético,,,
+401915368,2026-12-09T20:00Z,SCHEDULED,league-phase,,,124,Borussia Dortmund,Dortmund,110,Internazionale,Inter Milan,,,
+401915367,2026-12-09T20:00Z,SCHEDULED,league-phase,,,359,Arsenal,Arsenal,86,Real Madrid,Real Madrid,,,
+401915281,2026-12-09T20:00Z,SCHEDULED,league-phase,,,4411,LASK Linz,LASK Linz,436,Fenerbahce,Fenerbahce,,,
+401915364,2027-01-19T17:45Z,SCHEDULED,league-phase,,,2980,Bodo/Glimt,Bodo/Glimt,1068,Atlético Madrid,Atlético,,,
+401915363,2027-01-19T17:45Z,SCHEDULED,league-phase,,,432,Galatasaray,Galatasaray,142,Feyenoord Rotterdam,Feyenoord,,,
+401915359,2027-01-19T20:00Z,SCHEDULED,league-phase,,,134,VfB Stuttgart,Stuttgart,570,Club Brugge,Club Brugge,,,
+401915280,2027-01-19T20:00Z,SCHEDULED,league-phase,,,86,Real Madrid,Real Madrid,4411,LASK Linz,LASK Linz,,,
+401915361,2027-01-19T20:00Z,SCHEDULED,league-phase,,,166,Lille,Lille,521,Slovan Bratislava,S Bratislava,,,
+401915360,2027-01-19T20:00Z,SCHEDULED,league-phase,,,110,Internazionale,Inter Milan,364,Liverpool,Liverpool,,,
+401915278,2027-01-19T20:00Z,SCHEDULED,league-phase,,,437,FC Porto,FC Porto,494,Slavia Prague,Slavia Prague,,,
+401915279,2027-01-19T20:00Z,SCHEDULED,league-phase,,,362,Aston Villa,Aston Villa,124,Borussia Dortmund,Dortmund,,,
+401915362,2027-01-19T20:00Z,SCHEDULED,league-phase,,,887,AEK Athens,AEK Athens,104,AS Roma,AS Roma,,,
+401915277,2027-01-20T17:45Z,SCHEDULED,league-phase,,,436,Fenerbahce,Fenerbahce,102,Villarreal,Villarreal,,,
+401915358,2027-01-20T17:45Z,SCHEDULED,league-phase,,,21922,Sabah FK,Sabah,114,Napoli,Napoli,,,
+401915272,2027-01-20T20:00Z,SCHEDULED,league-phase,,,510,Viking FK,Viking FK,148,PSV Eindhoven,PSV,,,
+401915275,2027-01-20T20:00Z,SCHEDULED,league-phase,,,244,Real Betis,Betis,359,Arsenal,Arsenal,,,
+401915276,2027-01-20T20:00Z,SCHEDULED,league-phase,,,11420,RB Leipzig,RB Leipzig,493,Shakhtar Donetsk,Shakhtar,,,
+401915356,2027-01-20T20:00Z,SCHEDULED,league-phase,,,2250,Sporting CP,Sporting,83,Barcelona,Barcelona,,,
+401915274,2027-01-20T20:00Z,SCHEDULED,league-phase,,,175,Lens,Lens,382,Manchester City,Man City,,,
+401915273,2027-01-20T20:00Z,SCHEDULED,league-phase,,,2572,Como,Como,160,Paris Saint-Germain,PSG,,,
+401915357,2027-01-20T20:00Z,SCHEDULED,league-phase,,,360,Manchester United,Man United,132,Bayern Munich,Bayern,,,
+401915351,2027-01-27T20:00Z,SCHEDULED,league-phase,,,494,Slavia Prague,Slavia Prague,362,Aston Villa,Aston Villa,,,
+401915270,2027-01-27T20:00Z,SCHEDULED,league-phase,,,493,Shakhtar Donetsk,Shakhtar,86,Real Madrid,Real Madrid,,,
+401915350,2027-01-27T20:00Z,SCHEDULED,league-phase,,,148,PSV Eindhoven,PSV,134,VfB Stuttgart,Stuttgart,,,
+401915267,2027-01-27T20:00Z,SCHEDULED,league-phase,,,160,Paris Saint-Germain,PSG,432,Galatasaray,Galatasaray,,,
+401915268,2027-01-27T20:00Z,SCHEDULED,league-phase,,,114,Napoli,Napoli,510,Viking FK,Viking FK,,,
+401915352,2027-01-27T20:00Z,SCHEDULED,league-phase,,,382,Manchester City,Man City,2250,Sporting CP,Sporting,,,
+401915353,2027-01-27T20:00Z,SCHEDULED,league-phase,,,364,Liverpool,Liverpool,175,Lens,Lens,,,
+401915355,2027-01-27T20:00Z,SCHEDULED,league-phase,,,4411,LASK Linz,LASK Linz,437,FC Porto,FC Porto,,,
+401915271,2027-01-27T20:00Z,SCHEDULED,league-phase,,,142,Feyenoord Rotterdam,Feyenoord,11420,RB Leipzig,RB Leipzig,,,
+401915265,2027-01-27T20:00Z,SCHEDULED,league-phase,,,124,Borussia Dortmund,Dortmund,887,AEK Athens,AEK Athens,,,
+401915348,2027-01-27T20:00Z,SCHEDULED,league-phase,,,132,Bayern Munich,Bayern,244,Real Betis,Betis,,,
+401915264,2027-01-27T20:00Z,SCHEDULED,league-phase,,,83,Barcelona,Barcelona,2572,Como,Como,,,
+401915347,2027-01-27T20:00Z,SCHEDULED,league-phase,,,1068,Atlético Madrid,Atlético,436,Fenerbahce,Fenerbahce,,,
+401915354,2027-01-27T20:00Z,SCHEDULED,league-phase,,,104,AS Roma,AS Roma,166,Lille,Lille,,,
+401915346,2027-01-27T20:00Z,SCHEDULED,league-phase,,,359,Arsenal,Arsenal,21922,Sabah FK,Sabah,,,
+401915269,2027-01-27T20:00Z,SCHEDULED,league-phase,,,521,Slovan Bratislava,S Bratislava,110,Internazionale,Inter Milan,,,
+401915266,2027-01-27T20:00Z,SCHEDULED,league-phase,,,570,Club Brugge,Club Brugge,2980,Bodo/Glimt,Bodo/Glimt,,,
+401915349,2027-01-27T20:00Z,SCHEDULED,league-phase,,,102,Villarreal,Villarreal,360,Manchester United,Man United,,,

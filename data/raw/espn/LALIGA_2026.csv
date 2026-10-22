@@ -1,0 +1,381 @@
+ext_id,utc_kickoff,status,stage,group,matchday,home_id,home,home_short,away_id,away,away_short,hg,ag,duration
+401882926,2026-08-15T17:30Z,FINISHED,2026-27-laliga,,,96,Alavés,Alavés,2922,Getafe,Getafe,3,0,REGULAR
+401882918,2026-08-15T19:30Z,FINISHED,2026-27-laliga,,,243,Sevilla,Sevilla,101,Rayo Vallecano,Rayo,2,1,REGULAR
+401882920,2026-08-16T15:00Z,FINISHED,2026-27-laliga,,,87,Racing Santander,Racing,102,Villarreal,Villarreal,2,2,REGULAR
+401882922,2026-08-16T17:00Z,FINISHED,2026-27-laliga,,,88,Espanyol,Espanyol,1538,Levante,Levante,3,0,REGULAR
+401882923,2026-08-17T19:00Z,FINISHED,2026-27-laliga,,,90,Deportivo,Deportivo,3751,Elche,Elche,1,1,REGULAR
+401882925,2026-08-19T19:00Z,FINISHED,2026-27-laliga,,,1068,Atlético Madrid,Atlético,99,Málaga,Málaga,2,0,REGULAR
+401882908,2026-08-20T19:00Z,FINISHED,2026-27-laliga,,,101,Rayo Vallecano,Rayo,96,Alavés,Alavés,1,1,REGULAR
+401882914,2026-08-21T19:00Z,FINISHED,2026-27-laliga,,,244,Real Betis,Betis,89,Real Sociedad,Real Sociedad,1,0,REGULAR
+401882916,2026-08-22T15:00Z,FINISHED,2026-27-laliga,,,93,Athletic Club,Athletic,243,Sevilla,Sevilla,1,3,REGULAR
+401882907,2026-08-22T17:30Z,FINISHED,2026-27-laliga,,,94,Valencia,Valencia,85,Celta Vigo,Celta Vigo,0,0,REGULAR
+401882912,2026-08-22T19:30Z,FINISHED,2026-27-laliga,,,88,Espanyol,Espanyol,86,Real Madrid,Real Madrid,1,2,REGULAR
+401882915,2026-08-23T15:00Z,FINISHED,2026-27-laliga,,,1068,Atlético Madrid,Atlético,102,Villarreal,Villarreal,2,2,REGULAR
+401882911,2026-08-23T17:30Z,FINISHED,2026-27-laliga,,,2922,Getafe,Getafe,87,Racing Santander,Racing,1,0,REGULAR
+401882913,2026-08-23T19:30Z,FINISHED,2026-27-laliga,,,3751,Elche,Elche,83,Barcelona,Barcelona,0,5,REGULAR
+401882909,2026-08-24T17:30Z,FINISHED,2026-27-laliga,,,97,Osasuna,Osasuna,1538,Levante,Levante,0,0,REGULAR
+401882910,2026-08-24T19:30Z,FINISHED,2026-27-laliga,,,99,Málaga,Málaga,90,Deportivo,Deportivo,1,1,REGULAR
+401882917,2026-08-25T19:00Z,FINISHED,2026-27-laliga,,,94,Valencia,Valencia,244,Real Betis,Betis,0,1,REGULAR
+401882919,2026-08-26T19:00Z,FINISHED,2026-27-laliga,,,86,Real Madrid,Real Madrid,89,Real Sociedad,Real Sociedad,4,1,REGULAR
+401882924,2026-08-27T18:30Z,FINISHED,2026-27-laliga,,,85,Celta Vigo,Celta Vigo,97,Osasuna,Osasuna,1,2,REGULAR
+401882921,2026-08-27T19:00Z,FINISHED,2026-27-laliga,,,83,Barcelona,Barcelona,93,Athletic Club,Athletic,2,0,REGULAR
+401882900,2026-08-28T17:00Z,FINISHED,2026-27-laliga,,,87,Racing Santander,Racing,3751,Elche,Elche,3,2,REGULAR
+401882906,2026-08-28T19:30Z,FINISHED,2026-27-laliga,,,96,Alavés,Alavés,102,Villarreal,Villarreal,1,0,REGULAR
+401882902,2026-08-29T15:00Z,FINISHED,2026-27-laliga,,,1538,Levante,Levante,244,Real Betis,Betis,5,2,REGULAR
+401882898,2026-08-29T17:00Z,FINISHED,2026-27-laliga,,,89,Real Sociedad,Real Sociedad,88,Espanyol,Espanyol,2,1,REGULAR
+401882897,2026-08-29T19:30Z,FINISHED,2026-27-laliga,,,243,Sevilla,Sevilla,1068,Atlético Madrid,Atlético,1,3,REGULAR
+401882899,2026-08-30T15:00Z,FINISHED,2026-27-laliga,,,86,Real Madrid,Real Madrid,99,Málaga,Málaga,4,0,REGULAR
+401882904,2026-08-30T17:30Z,FINISHED,2026-27-laliga,,,90,Deportivo,Deportivo,94,Valencia,Valencia,3,1,REGULAR
+401882905,2026-08-30T19:30Z,FINISHED,2026-27-laliga,,,85,Celta Vigo,Celta Vigo,93,Athletic Club,Athletic,0,2,REGULAR
+401882901,2026-08-31T17:30Z,FINISHED,2026-27-laliga,,,97,Osasuna,Osasuna,2922,Getafe,Getafe,1,0,REGULAR
+401882903,2026-08-31T19:30Z,FINISHED,2026-27-laliga,,,83,Barcelona,Barcelona,101,Rayo Vallecano,Rayo,5,2,REGULAR
+401882867,2026-09-03T19:00Z,FINISHED,2026-27-laliga,,,89,Real Sociedad,Real Sociedad,85,Celta Vigo,Celta Vigo,0,0,REGULAR
+401882894,2026-09-04T19:00Z,FINISHED,2026-27-laliga,,,244,Real Betis,Betis,86,Real Madrid,Real Madrid,1,0,REGULAR
+401882895,2026-09-05T14:15Z,FINISHED,2026-27-laliga,,,93,Athletic Club,Athletic,1068,Atlético Madrid,Atlético,3,0,REGULAR
+401882889,2026-09-05T16:30Z,FINISHED,2026-27-laliga,,,101,Rayo Vallecano,Rayo,87,Racing Santander,Racing,3,2,REGULAR
+401882887,2026-09-05T19:00Z,FINISHED,2026-27-laliga,,,102,Villarreal,Villarreal,90,Deportivo,Deportivo,2,3,REGULAR
+401882888,2026-09-06T14:15Z,FINISHED,2026-27-laliga,,,94,Valencia,Valencia,83,Barcelona,Barcelona,0,5,REGULAR
+401882896,2026-09-06T16:30Z,FINISHED,2026-27-laliga,,,96,Alavés,Alavés,97,Osasuna,Osasuna,5,2,REGULAR
+401882890,2026-09-06T16:30Z,FINISHED,2026-27-laliga,,,99,Málaga,Málaga,1538,Levante,Levante,0,0,REGULAR
+401882892,2026-09-06T19:00Z,FINISHED,2026-27-laliga,,,88,Espanyol,Espanyol,243,Sevilla,Sevilla,1,1,REGULAR
+401882891,2026-09-07T17:00Z,FINISHED,2026-27-laliga,,,2922,Getafe,Getafe,85,Celta Vigo,Celta Vigo,1,1,REGULAR
+401882893,2026-09-07T19:30Z,FINISHED,2026-27-laliga,,,3751,Elche,Elche,89,Real Sociedad,Real Sociedad,2,3,REGULAR
+401882878,2026-09-11T19:00Z,FINISHED,2026-27-laliga,,,243,Sevilla,Sevilla,94,Valencia,Valencia,1,0,REGULAR
+401882881,2026-09-12T12:00Z,FINISHED,2026-27-laliga,,,87,Racing Santander,Racing,96,Alavés,Alavés,2,1,REGULAR
+401882882,2026-09-12T14:15Z,FINISHED,2026-27-laliga,,,97,Osasuna,Osasuna,88,Espanyol,Espanyol,0,2,REGULAR
+401882886,2026-09-12T16:30Z,FINISHED,2026-27-laliga,,,93,Athletic Club,Athletic,3751,Elche,Elche,1,1,REGULAR
+401882880,2026-09-12T19:00Z,FINISHED,2026-27-laliga,,,86,Real Madrid,Real Madrid,101,Rayo Vallecano,Rayo,4,1,REGULAR
+401882885,2026-09-13T12:00Z,FINISHED,2026-27-laliga,,,85,Celta Vigo,Celta Vigo,99,Málaga,Málaga,1,1,REGULAR
+401882883,2026-09-13T14:15Z,FINISHED,2026-27-laliga,,,1538,Levante,Levante,83,Barcelona,Barcelona,2,4,REGULAR
+401882884,2026-09-13T16:30Z,FINISHED,2026-27-laliga,,,2922,Getafe,Getafe,90,Deportivo,Deportivo,1,1,REGULAR
+401882879,2026-09-13T19:00Z,FINISHED,2026-27-laliga,,,89,Real Sociedad,Real Sociedad,1068,Atlético Madrid,Atlético,0,3,REGULAR
+401882877,2026-09-14T19:00Z,FINISHED,2026-27-laliga,,,102,Villarreal,Villarreal,244,Real Betis,Betis,1,2,REGULAR
+401882868,2026-09-15T17:00Z,FINISHED,2026-27-laliga,,,101,Rayo Vallecano,Rayo,88,Espanyol,Espanyol,2,1,REGULAR
+401882876,2026-09-15T18:00Z,FINISHED,2026-27-laliga,,,96,Alavés,Alavés,94,Valencia,Valencia,0,1,REGULAR
+401882872,2026-09-15T19:30Z,FINISHED,2026-27-laliga,,,3751,Elche,Elche,86,Real Madrid,Real Madrid,2,3,REGULAR
+401882875,2026-09-16T17:00Z,FINISHED,2026-27-laliga,,,1068,Atlético Madrid,Atlético,97,Osasuna,Osasuna,4,0,REGULAR
+401882873,2026-09-16T17:00Z,FINISHED,2026-27-laliga,,,90,Deportivo,Deportivo,243,Sevilla,Sevilla,0,1,REGULAR
+401882871,2026-09-16T19:30Z,FINISHED,2026-27-laliga,,,83,Barcelona,Barcelona,87,Racing Santander,Racing,7,2,REGULAR
+401882874,2026-09-17T17:00Z,FINISHED,2026-27-laliga,,,244,Real Betis,Betis,2922,Getafe,Getafe,1,0,REGULAR
+401882869,2026-09-17T19:30Z,FINISHED,2026-27-laliga,,,99,Málaga,Málaga,102,Villarreal,Villarreal,1,3,REGULAR
+401882862,2026-09-18T19:00Z,FINISHED,2026-27-laliga,,,88,Espanyol,Espanyol,3751,Elche,Elche,1,3,REGULAR
+401882860,2026-09-19T12:00Z,FINISHED,2026-27-laliga,,,97,Osasuna,Osasuna,101,Rayo Vallecano,Rayo,1,1,REGULAR
+401882866,2026-09-19T14:15Z,FINISHED,2026-27-laliga,,,93,Athletic Club,Athletic,96,Alavés,Alavés,0,0,REGULAR
+401882864,2026-09-19T16:30Z,FINISHED,2026-27-laliga,,,85,Celta Vigo,Celta Vigo,87,Racing Santander,Racing,5,0,REGULAR
+401882859,2026-09-19T19:00Z,FINISHED,2026-27-laliga,,,243,Sevilla,Sevilla,83,Barcelona,Barcelona,1,3,REGULAR
+401882861,2026-09-20T12:00Z,FINISHED,2026-27-laliga,,,2922,Getafe,Getafe,99,Málaga,Málaga,1,0,REGULAR
+401882865,2026-09-20T14:15Z,FINISHED,2026-27-laliga,,,1068,Atlético Madrid,Atlético,86,Real Madrid,Real Madrid,2,1,REGULAR
+401882863,2026-09-20T16:30Z,FINISHED,2026-27-laliga,,,90,Deportivo,Deportivo,244,Real Betis,Betis,1,1,REGULAR
+401882857,2026-09-20T16:30Z,FINISHED,2026-27-laliga,,,102,Villarreal,Villarreal,1538,Levante,Levante,3,1,REGULAR
+401882858,2026-09-20T19:00Z,FINISHED,2026-27-laliga,,,94,Valencia,Valencia,89,Real Sociedad,Real Sociedad,2,3,REGULAR
+401882851,2026-10-09T19:00Z,FINISHED,2026-27-laliga,,,99,Málaga,Málaga,88,Espanyol,Espanyol,1,1,REGULAR
+401882849,2026-10-10T12:00Z,CANCELLED,2026-27-laliga,,,101,Rayo Vallecano,Rayo,93,Athletic Club,Athletic,,,
+401882856,2026-10-10T14:15Z,FINISHED,2026-27-laliga,,,96,Alavés,Alavés,1068,Atlético Madrid,Atlético,1,2,REGULAR
+401882853,2026-10-10T16:30Z,FINISHED,2026-27-laliga,,,83,Barcelona,Barcelona,2922,Getafe,Getafe,3,0,REGULAR
+401882848,2026-10-10T19:00Z,FINISHED,2026-27-laliga,,,86,Real Madrid,Real Madrid,102,Villarreal,Villarreal,1,0,REGULAR
+401882854,2026-10-11T12:00Z,FINISHED,2026-27-laliga,,,3751,Elche,Elche,85,Celta Vigo,Celta Vigo,0,0,REGULAR
+401882847,2026-10-11T14:15Z,FINISHED,2026-27-laliga,,,89,Real Sociedad,Real Sociedad,90,Deportivo,Deportivo,3,2,REGULAR
+401882855,2026-10-11T16:30Z,FINISHED,2026-27-laliga,,,244,Real Betis,Betis,97,Osasuna,Osasuna,5,2,REGULAR
+401882850,2026-10-11T19:00Z,FINISHED,2026-27-laliga,,,87,Racing Santander,Racing,94,Valencia,Valencia,2,2,REGULAR
+401882852,2026-10-12T19:00Z,FINISHED,2026-27-laliga,,,1538,Levante,Levante,243,Sevilla,Sevilla,3,3,REGULAR
+401882844,2026-10-16T19:00Z,FINISHED,2026-27-laliga,,,90,Deportivo,Deportivo,1538,Levante,Levante,1,1,REGULAR
+401882843,2026-10-17T12:00Z,FINISHED,2026-27-laliga,,,88,Espanyol,Espanyol,1068,Atlético Madrid,Atlético,0,1,REGULAR
+401882837,2026-10-17T14:15Z,FINISHED,2026-27-laliga,,,102,Villarreal,Villarreal,3751,Elche,Elche,0,0,REGULAR
+401882846,2026-10-17T16:30Z,FINISHED,2026-27-laliga,,,244,Real Betis,Betis,83,Barcelona,Barcelona,2,5,REGULAR
+401882838,2026-10-17T19:00Z,FINISHED,2026-27-laliga,,,94,Valencia,Valencia,93,Athletic Club,Athletic,0,0,REGULAR
+401882840,2026-10-18T12:00Z,FINISHED,2026-27-laliga,,,97,Osasuna,Osasuna,87,Racing Santander,Racing,2,0,REGULAR
+401882845,2026-10-18T14:15Z,FINISHED,2026-27-laliga,,,85,Celta Vigo,Celta Vigo,96,Alavés,Alavés,2,1,REGULAR
+401882841,2026-10-18T16:30Z,FINISHED,2026-27-laliga,,,99,Málaga,Málaga,89,Real Sociedad,Real Sociedad,2,5,REGULAR
+401882839,2026-10-18T19:00Z,FINISHED,2026-27-laliga,,,86,Real Madrid,Real Madrid,243,Sevilla,Sevilla,4,1,REGULAR
+401882842,2026-10-19T19:00Z,FINISHED,2026-27-laliga,,,2922,Getafe,Getafe,101,Rayo Vallecano,Rayo,1,1,REGULAR
+401882870,2026-10-21T18:00Z,FINISHED,2026-27-laliga,,,1538,Levante,Levante,93,Athletic Club,Athletic,3,1,REGULAR
+401882836,2026-10-23T19:00Z,SCHEDULED,2026-27-laliga,,,96,Alavés,Alavés,99,Málaga,Málaga,,,
+401882830,2026-10-24T12:00Z,SCHEDULED,2026-27-laliga,,,101,Rayo Vallecano,Rayo,3751,Elche,Elche,,,
+401882831,2026-10-24T14:15Z,SCHEDULED,2026-27-laliga,,,87,Racing Santander,Racing,88,Espanyol,Espanyol,,,
+401882827,2026-10-24T16:30Z,SCHEDULED,2026-27-laliga,,,94,Valencia,Valencia,102,Villarreal,Villarreal,,,
+401882834,2026-10-24T19:00Z,SCHEDULED,2026-27-laliga,,,1068,Atlético Madrid,Atlético,90,Deportivo,Deportivo,,,
+401882835,2026-10-25T13:00Z,SCHEDULED,2026-27-laliga,,,93,Athletic Club,Athletic,2922,Getafe,Getafe,,,
+401882833,2026-10-25T15:15Z,SCHEDULED,2026-27-laliga,,,85,Celta Vigo,Celta Vigo,244,Real Betis,Betis,,,
+401882829,2026-10-25T17:30Z,SCHEDULED,2026-27-laliga,,,89,Real Sociedad,Real Sociedad,1538,Levante,Levante,,,
+401882832,2026-10-25T20:00Z,SCHEDULED,2026-27-laliga,,,83,Barcelona,Barcelona,86,Real Madrid,Real Madrid,,,
+401882828,2026-10-26T20:00Z,SCHEDULED,2026-27-laliga,,,243,Sevilla,Sevilla,97,Osasuna,Osasuna,,,
+401882817,2026-10-30T20:00Z,SCHEDULED,2026-27-laliga,,,102,Villarreal,Villarreal,88,Espanyol,Espanyol,,,
+401882820,2026-10-31T13:00Z,SCHEDULED,2026-27-laliga,,,1538,Levante,Levante,1068,Atlético Madrid,Atlético,,,
+401882818,2026-10-31T15:15Z,SCHEDULED,2026-27-laliga,,,101,Rayo Vallecano,Rayo,85,Celta Vigo,Celta Vigo,,,
+401882825,2026-10-31T17:30Z,SCHEDULED,2026-27-laliga,,,244,Real Betis,Betis,99,Málaga,Málaga,,,
+401882822,2026-10-31T20:00Z,SCHEDULED,2026-27-laliga,,,83,Barcelona,Barcelona,96,Alavés,Alavés,,,
+401882821,2026-11-01T13:00Z,SCHEDULED,2026-27-laliga,,,2922,Getafe,Getafe,243,Sevilla,Sevilla,,,
+401882819,2026-11-01T15:15Z,SCHEDULED,2026-27-laliga,,,87,Racing Santander,Racing,86,Real Madrid,Real Madrid,,,
+401882823,2026-11-01T17:30Z,SCHEDULED,2026-27-laliga,,,3751,Elche,Elche,94,Valencia,Valencia,,,
+401882826,2026-11-01T20:00Z,SCHEDULED,2026-27-laliga,,,93,Athletic Club,Athletic,89,Real Sociedad,Real Sociedad,,,
+401882824,2026-11-02T20:00Z,SCHEDULED,2026-27-laliga,,,90,Deportivo,Deportivo,97,Osasuna,Osasuna,,,
+401882809,2026-11-06T20:00Z,SCHEDULED,2026-27-laliga,,,243,Sevilla,Sevilla,96,Alavés,Alavés,,,
+401882812,2026-11-07T13:00Z,SCHEDULED,2026-27-laliga,,,99,Málaga,Málaga,87,Racing Santander,Racing,,,
+401882813,2026-11-07T15:15Z,SCHEDULED,2026-27-laliga,,,88,Espanyol,Espanyol,90,Deportivo,Deportivo,,,
+401882811,2026-11-07T17:30Z,SCHEDULED,2026-27-laliga,,,97,Osasuna,Osasuna,93,Athletic Club,Athletic,,,
+401882808,2026-11-07T20:00Z,SCHEDULED,2026-27-laliga,,,94,Valencia,Valencia,86,Real Madrid,Real Madrid,,,
+401882814,2026-11-08T13:00Z,SCHEDULED,2026-27-laliga,,,3751,Elche,Elche,244,Real Betis,Betis,,,
+401882810,2026-11-08T15:15Z,SCHEDULED,2026-27-laliga,,,89,Real Sociedad,Real Sociedad,101,Rayo Vallecano,Rayo,,,
+401882815,2026-11-08T17:30Z,SCHEDULED,2026-27-laliga,,,85,Celta Vigo,Celta Vigo,1538,Levante,Levante,,,
+401882807,2026-11-08T17:30Z,SCHEDULED,2026-27-laliga,,,102,Villarreal,Villarreal,2922,Getafe,Getafe,,,
+401882816,2026-11-08T20:00Z,SCHEDULED,2026-27-laliga,,,1068,Atlético Madrid,Atlético,83,Barcelona,Barcelona,,,
+401882805,2026-11-20T20:00Z,SCHEDULED,2026-27-laliga,,,93,Athletic Club,Athletic,88,Espanyol,Espanyol,,,
+401882806,2026-11-21T13:00Z,SCHEDULED,2026-27-laliga,,,96,Alavés,Alavés,90,Deportivo,Deportivo,,,
+401882799,2026-11-21T15:15Z,SCHEDULED,2026-27-laliga,,,101,Rayo Vallecano,Rayo,94,Valencia,Valencia,,,
+401882797,2026-11-21T17:30Z,SCHEDULED,2026-27-laliga,,,243,Sevilla,Sevilla,244,Real Betis,Betis,,,
+401882798,2026-11-21T20:00Z,SCHEDULED,2026-27-laliga,,,86,Real Madrid,Real Madrid,85,Celta Vigo,Celta Vigo,,,
+401882804,2026-11-22T13:00Z,SCHEDULED,2026-27-laliga,,,83,Barcelona,Barcelona,102,Villarreal,Villarreal,,,
+401882800,2026-11-22T15:15Z,SCHEDULED,2026-27-laliga,,,87,Racing Santander,Racing,89,Real Sociedad,Real Sociedad,,,
+401882801,2026-11-22T17:30Z,SCHEDULED,2026-27-laliga,,,97,Osasuna,Osasuna,99,Málaga,Málaga,,,
+401882803,2026-11-22T20:00Z,SCHEDULED,2026-27-laliga,,,2922,Getafe,Getafe,1068,Atlético Madrid,Atlético,,,
+401882802,2026-11-23T20:00Z,SCHEDULED,2026-27-laliga,,,1538,Levante,Levante,3751,Elche,Elche,,,
+401882787,2026-11-29T20:00Z,SCHEDULED,2026-27-laliga,,,94,Valencia,Valencia,97,Osasuna,Osasuna,,,
+401882788,2026-11-29T20:00Z,SCHEDULED,2026-27-laliga,,,89,Real Sociedad,Real Sociedad,243,Sevilla,Sevilla,,,
+401882796,2026-11-29T20:00Z,SCHEDULED,2026-27-laliga,,,244,Real Betis,Betis,101,Rayo Vallecano,Rayo,,,
+401882790,2026-11-29T20:00Z,SCHEDULED,2026-27-laliga,,,99,Málaga,Málaga,93,Athletic Club,Athletic,,,
+401882789,2026-11-29T20:00Z,SCHEDULED,2026-27-laliga,,,86,Real Madrid,Real Madrid,96,Alavés,Alavés,,,
+401882792,2026-11-29T20:00Z,SCHEDULED,2026-27-laliga,,,88,Espanyol,Espanyol,2922,Getafe,Getafe,,,
+401882793,2026-11-29T20:00Z,SCHEDULED,2026-27-laliga,,,3751,Elche,Elche,1068,Atlético Madrid,Atlético,,,
+401882791,2026-11-29T20:00Z,SCHEDULED,2026-27-laliga,,,1538,Levante,Levante,87,Racing Santander,Racing,,,
+401882794,2026-11-29T20:00Z,SCHEDULED,2026-27-laliga,,,90,Deportivo,Deportivo,83,Barcelona,Barcelona,,,
+401882795,2026-11-29T20:00Z,SCHEDULED,2026-27-laliga,,,85,Celta Vigo,Celta Vigo,102,Villarreal,Villarreal,,,
+401882777,2026-12-06T20:00Z,SCHEDULED,2026-27-laliga,,,102,Villarreal,Villarreal,89,Real Sociedad,Real Sociedad,,,
+401882778,2026-12-06T20:00Z,SCHEDULED,2026-27-laliga,,,243,Sevilla,Sevilla,99,Málaga,Málaga,,,
+401882779,2026-12-06T20:00Z,SCHEDULED,2026-27-laliga,,,101,Rayo Vallecano,Rayo,1538,Levante,Levante,,,
+401882780,2026-12-06T20:00Z,SCHEDULED,2026-27-laliga,,,87,Racing Santander,Racing,90,Deportivo,Deportivo,,,
+401882781,2026-12-06T20:00Z,SCHEDULED,2026-27-laliga,,,97,Osasuna,Osasuna,3751,Elche,Elche,,,
+401882782,2026-12-06T20:00Z,SCHEDULED,2026-27-laliga,,,2922,Getafe,Getafe,94,Valencia,Valencia,,,
+401882783,2026-12-06T20:00Z,SCHEDULED,2026-27-laliga,,,83,Barcelona,Barcelona,85,Celta Vigo,Celta Vigo,,,
+401882784,2026-12-06T20:00Z,SCHEDULED,2026-27-laliga,,,1068,Atlético Madrid,Atlético,244,Real Betis,Betis,,,
+401882785,2026-12-06T20:00Z,SCHEDULED,2026-27-laliga,,,93,Athletic Club,Athletic,86,Real Madrid,Real Madrid,,,
+401882786,2026-12-06T20:00Z,SCHEDULED,2026-27-laliga,,,96,Alavés,Alavés,88,Espanyol,Espanyol,,,
+401882768,2026-12-13T20:00Z,SCHEDULED,2026-27-laliga,,,89,Real Sociedad,Real Sociedad,2922,Getafe,Getafe,,,
+401882769,2026-12-13T20:00Z,SCHEDULED,2026-27-laliga,,,86,Real Madrid,Real Madrid,97,Osasuna,Osasuna,,,
+401882775,2026-12-13T20:00Z,SCHEDULED,2026-27-laliga,,,244,Real Betis,Betis,87,Racing Santander,Racing,,,
+401882770,2026-12-13T20:00Z,SCHEDULED,2026-27-laliga,,,99,Málaga,Málaga,83,Barcelona,Barcelona,,,
+401882767,2026-12-13T20:00Z,SCHEDULED,2026-27-laliga,,,102,Villarreal,Villarreal,101,Rayo Vallecano,Rayo,,,
+401882772,2026-12-13T20:00Z,SCHEDULED,2026-27-laliga,,,88,Espanyol,Espanyol,85,Celta Vigo,Celta Vigo,,,
+401882773,2026-12-13T20:00Z,SCHEDULED,2026-27-laliga,,,3751,Elche,Elche,243,Sevilla,Sevilla,,,
+401882774,2026-12-13T20:00Z,SCHEDULED,2026-27-laliga,,,90,Deportivo,Deportivo,93,Athletic Club,Athletic,,,
+401882776,2026-12-13T20:00Z,SCHEDULED,2026-27-laliga,,,1068,Atlético Madrid,Atlético,94,Valencia,Valencia,,,
+401882771,2026-12-13T20:00Z,SCHEDULED,2026-27-laliga,,,1538,Levante,Levante,96,Alavés,Alavés,,,
+401882758,2026-12-20T20:00Z,SCHEDULED,2026-27-laliga,,,243,Sevilla,Sevilla,87,Racing Santander,Racing,,,
+401882759,2026-12-20T20:00Z,SCHEDULED,2026-27-laliga,,,101,Rayo Vallecano,Rayo,99,Málaga,Málaga,,,
+401882760,2026-12-20T20:00Z,SCHEDULED,2026-27-laliga,,,97,Osasuna,Osasuna,102,Villarreal,Villarreal,,,
+401882761,2026-12-20T20:00Z,SCHEDULED,2026-27-laliga,,,2922,Getafe,Getafe,1538,Levante,Levante,,,
+401882757,2026-12-20T20:00Z,SCHEDULED,2026-27-laliga,,,94,Valencia,Valencia,88,Espanyol,Espanyol,,,
+401882764,2026-12-20T20:00Z,SCHEDULED,2026-27-laliga,,,85,Celta Vigo,Celta Vigo,1068,Atlético Madrid,Atlético,,,
+401882762,2026-12-20T20:00Z,SCHEDULED,2026-27-laliga,,,83,Barcelona,Barcelona,89,Real Sociedad,Real Sociedad,,,
+401882765,2026-12-20T20:00Z,SCHEDULED,2026-27-laliga,,,93,Athletic Club,Athletic,244,Real Betis,Betis,,,
+401882766,2026-12-20T20:00Z,SCHEDULED,2026-27-laliga,,,96,Alavés,Alavés,3751,Elche,Elche,,,
+401882763,2026-12-20T20:00Z,SCHEDULED,2026-27-laliga,,,90,Deportivo,Deportivo,86,Real Madrid,Real Madrid,,,
+401882747,2027-01-03T20:00Z,SCHEDULED,2026-27-laliga,,,102,Villarreal,Villarreal,243,Sevilla,Sevilla,,,
+401882748,2027-01-03T20:00Z,SCHEDULED,2026-27-laliga,,,89,Real Sociedad,Real Sociedad,97,Osasuna,Osasuna,,,
+401882749,2027-01-03T20:00Z,SCHEDULED,2026-27-laliga,,,86,Real Madrid,Real Madrid,2922,Getafe,Getafe,,,
+401882756,2027-01-03T20:00Z,SCHEDULED,2026-27-laliga,,,244,Real Betis,Betis,96,Alavés,Alavés,,,
+401882750,2027-01-03T20:00Z,SCHEDULED,2026-27-laliga,,,101,Rayo Vallecano,Rayo,1068,Atlético Madrid,Atlético,,,
+401882751,2027-01-03T20:00Z,SCHEDULED,2026-27-laliga,,,87,Racing Santander,Racing,93,Athletic Club,Athletic,,,
+401882753,2027-01-03T20:00Z,SCHEDULED,2026-27-laliga,,,1538,Levante,Levante,94,Valencia,Valencia,,,
+401882754,2027-01-03T20:00Z,SCHEDULED,2026-27-laliga,,,88,Espanyol,Espanyol,83,Barcelona,Barcelona,,,
+401882755,2027-01-03T20:00Z,SCHEDULED,2026-27-laliga,,,85,Celta Vigo,Celta Vigo,90,Deportivo,Deportivo,,,
+401882752,2027-01-03T20:00Z,SCHEDULED,2026-27-laliga,,,99,Málaga,Málaga,3751,Elche,Elche,,,
+401882740,2027-01-10T20:00Z,SCHEDULED,2026-27-laliga,,,97,Osasuna,Osasuna,83,Barcelona,Barcelona,,,
+401882738,2027-01-10T20:00Z,SCHEDULED,2026-27-laliga,,,243,Sevilla,Sevilla,85,Celta Vigo,Celta Vigo,,,
+401882739,2027-01-10T20:00Z,SCHEDULED,2026-27-laliga,,,86,Real Madrid,Real Madrid,1538,Levante,Levante,,,
+401882741,2027-01-10T20:00Z,SCHEDULED,2026-27-laliga,,,88,Espanyol,Espanyol,244,Real Betis,Betis,,,
+401882737,2027-01-10T20:00Z,SCHEDULED,2026-27-laliga,,,94,Valencia,Valencia,99,Málaga,Málaga,,,
+401882743,2027-01-10T20:00Z,SCHEDULED,2026-27-laliga,,,90,Deportivo,Deportivo,101,Rayo Vallecano,Rayo,,,
+401882744,2027-01-10T20:00Z,SCHEDULED,2026-27-laliga,,,1068,Atlético Madrid,Atlético,87,Racing Santander,Racing,,,
+401882745,2027-01-10T20:00Z,SCHEDULED,2026-27-laliga,,,93,Athletic Club,Athletic,102,Villarreal,Villarreal,,,
+401882746,2027-01-10T20:00Z,SCHEDULED,2026-27-laliga,,,96,Alavés,Alavés,89,Real Sociedad,Real Sociedad,,,
+401882742,2027-01-10T20:00Z,SCHEDULED,2026-27-laliga,,,3751,Elche,Elche,2922,Getafe,Getafe,,,
+401882727,2027-01-17T20:00Z,SCHEDULED,2026-27-laliga,,,102,Villarreal,Villarreal,96,Alavés,Alavés,,,
+401882735,2027-01-17T20:00Z,SCHEDULED,2026-27-laliga,,,244,Real Betis,Betis,90,Deportivo,Deportivo,,,
+401882728,2027-01-17T20:00Z,SCHEDULED,2026-27-laliga,,,101,Rayo Vallecano,Rayo,243,Sevilla,Sevilla,,,
+401882729,2027-01-17T20:00Z,SCHEDULED,2026-27-laliga,,,87,Racing Santander,Racing,97,Osasuna,Osasuna,,,
+401882730,2027-01-17T20:00Z,SCHEDULED,2026-27-laliga,,,99,Málaga,Málaga,86,Real Madrid,Real Madrid,,,
+401882731,2027-01-17T20:00Z,SCHEDULED,2026-27-laliga,,,1538,Levante,Levante,88,Espanyol,Espanyol,,,
+401882732,2027-01-17T20:00Z,SCHEDULED,2026-27-laliga,,,2922,Getafe,Getafe,93,Athletic Club,Athletic,,,
+401882734,2027-01-17T20:00Z,SCHEDULED,2026-27-laliga,,,85,Celta Vigo,Celta Vigo,94,Valencia,Valencia,,,
+401882733,2027-01-17T20:00Z,SCHEDULED,2026-27-laliga,,,83,Barcelona,Barcelona,3751,Elche,Elche,,,
+401882736,2027-01-17T20:00Z,SCHEDULED,2026-27-laliga,,,1068,Atlético Madrid,Atlético,89,Real Sociedad,Real Sociedad,,,
+401882718,2027-01-24T20:00Z,SCHEDULED,2026-27-laliga,,,89,Real Sociedad,Real Sociedad,99,Málaga,Málaga,,,
+401882719,2027-01-24T20:00Z,SCHEDULED,2026-27-laliga,,,86,Real Madrid,Real Madrid,244,Real Betis,Betis,,,
+401882720,2027-01-24T20:00Z,SCHEDULED,2026-27-laliga,,,87,Racing Santander,Racing,85,Celta Vigo,Celta Vigo,,,
+401882721,2027-01-24T20:00Z,SCHEDULED,2026-27-laliga,,,2922,Getafe,Getafe,97,Osasuna,Osasuna,,,
+401882717,2027-01-24T20:00Z,SCHEDULED,2026-27-laliga,,,94,Valencia,Valencia,243,Sevilla,Sevilla,,,
+401882723,2027-01-24T20:00Z,SCHEDULED,2026-27-laliga,,,3751,Elche,Elche,101,Rayo Vallecano,Rayo,,,
+401882724,2027-01-24T20:00Z,SCHEDULED,2026-27-laliga,,,90,Deportivo,Deportivo,1068,Atlético Madrid,Atlético,,,
+401882725,2027-01-24T20:00Z,SCHEDULED,2026-27-laliga,,,93,Athletic Club,Athletic,1538,Levante,Levante,,,
+401882726,2027-01-24T20:00Z,SCHEDULED,2026-27-laliga,,,96,Alavés,Alavés,83,Barcelona,Barcelona,,,
+401882722,2027-01-24T20:00Z,SCHEDULED,2026-27-laliga,,,88,Espanyol,Espanyol,102,Villarreal,Villarreal,,,
+401882708,2027-01-31T20:00Z,SCHEDULED,2026-27-laliga,,,243,Sevilla,Sevilla,93,Athletic Club,Athletic,,,
+401882715,2027-01-31T20:00Z,SCHEDULED,2026-27-laliga,,,244,Real Betis,Betis,3751,Elche,Elche,,,
+401882709,2027-01-31T20:00Z,SCHEDULED,2026-27-laliga,,,101,Rayo Vallecano,Rayo,86,Real Madrid,Real Madrid,,,
+401882710,2027-01-31T20:00Z,SCHEDULED,2026-27-laliga,,,97,Osasuna,Osasuna,90,Deportivo,Deportivo,,,
+401882707,2027-01-31T20:00Z,SCHEDULED,2026-27-laliga,,,102,Villarreal,Villarreal,87,Racing Santander,Racing,,,
+401882712,2027-01-31T20:00Z,SCHEDULED,2026-27-laliga,,,1538,Levante,Levante,89,Real Sociedad,Real Sociedad,,,
+401882714,2027-01-31T20:00Z,SCHEDULED,2026-27-laliga,,,85,Celta Vigo,Celta Vigo,2922,Getafe,Getafe,,,
+401882713,2027-01-31T20:00Z,SCHEDULED,2026-27-laliga,,,83,Barcelona,Barcelona,94,Valencia,Valencia,,,
+401882716,2027-01-31T20:00Z,SCHEDULED,2026-27-laliga,,,1068,Atlético Madrid,Atlético,88,Espanyol,Espanyol,,,
+401882711,2027-01-31T20:00Z,SCHEDULED,2026-27-laliga,,,99,Málaga,Málaga,96,Alavés,Alavés,,,
+401882697,2027-02-07T20:00Z,SCHEDULED,2026-27-laliga,,,94,Valencia,Valencia,87,Racing Santander,Racing,,,
+401882698,2027-02-07T20:00Z,SCHEDULED,2026-27-laliga,,,89,Real Sociedad,Real Sociedad,86,Real Madrid,Real Madrid,,,
+401882704,2027-02-07T20:00Z,SCHEDULED,2026-27-laliga,,,244,Real Betis,Betis,243,Sevilla,Sevilla,,,
+401882699,2027-02-07T20:00Z,SCHEDULED,2026-27-laliga,,,2922,Getafe,Getafe,102,Villarreal,Villarreal,,,
+401882701,2027-02-07T20:00Z,SCHEDULED,2026-27-laliga,,,88,Espanyol,Espanyol,101,Rayo Vallecano,Rayo,,,
+401882702,2027-02-07T20:00Z,SCHEDULED,2026-27-laliga,,,3751,Elche,Elche,1538,Levante,Levante,,,
+401882700,2027-02-07T20:00Z,SCHEDULED,2026-27-laliga,,,83,Barcelona,Barcelona,1068,Atlético Madrid,Atlético,,,
+401882705,2027-02-07T20:00Z,SCHEDULED,2026-27-laliga,,,93,Athletic Club,Athletic,97,Osasuna,Osasuna,,,
+401882706,2027-02-07T20:00Z,SCHEDULED,2026-27-laliga,,,96,Alavés,Alavés,85,Celta Vigo,Celta Vigo,,,
+401882703,2027-02-07T20:00Z,SCHEDULED,2026-27-laliga,,,90,Deportivo,Deportivo,99,Málaga,Málaga,,,
+401882690,2027-02-14T20:00Z,SCHEDULED,2026-27-laliga,,,89,Real Sociedad,Real Sociedad,244,Real Betis,Betis,,,
+401882687,2027-02-14T20:00Z,SCHEDULED,2026-27-laliga,,,102,Villarreal,Villarreal,83,Barcelona,Barcelona,,,
+401882688,2027-02-14T20:00Z,SCHEDULED,2026-27-laliga,,,94,Valencia,Valencia,96,Alavés,Alavés,,,
+401882689,2027-02-14T20:00Z,SCHEDULED,2026-27-laliga,,,243,Sevilla,Sevilla,88,Espanyol,Espanyol,,,
+401882691,2027-02-14T20:00Z,SCHEDULED,2026-27-laliga,,,86,Real Madrid,Real Madrid,93,Athletic Club,Athletic,,,
+401882692,2027-02-14T20:00Z,SCHEDULED,2026-27-laliga,,,87,Racing Santander,Racing,2922,Getafe,Getafe,,,
+401882693,2027-02-14T20:00Z,SCHEDULED,2026-27-laliga,,,97,Osasuna,Osasuna,1068,Atlético Madrid,Atlético,,,
+401882694,2027-02-14T20:00Z,SCHEDULED,2026-27-laliga,,,1538,Levante,Levante,99,Málaga,Málaga,,,
+401882695,2027-02-14T20:00Z,SCHEDULED,2026-27-laliga,,,3751,Elche,Elche,90,Deportivo,Deportivo,,,
+401882696,2027-02-14T20:00Z,SCHEDULED,2026-27-laliga,,,85,Celta Vigo,Celta Vigo,101,Rayo Vallecano,Rayo,,,
+401882677,2027-02-21T20:00Z,SCHEDULED,2026-27-laliga,,,102,Villarreal,Villarreal,94,Valencia,Valencia,,,
+401882678,2027-02-21T20:00Z,SCHEDULED,2026-27-laliga,,,243,Sevilla,Sevilla,86,Real Madrid,Real Madrid,,,
+401882679,2027-02-21T20:00Z,SCHEDULED,2026-27-laliga,,,101,Rayo Vallecano,Rayo,2922,Getafe,Getafe,,,
+401882680,2027-02-21T20:00Z,SCHEDULED,2026-27-laliga,,,99,Málaga,Málaga,244,Real Betis,Betis,,,
+401882682,2027-02-21T20:00Z,SCHEDULED,2026-27-laliga,,,88,Espanyol,Espanyol,97,Osasuna,Osasuna,,,
+401882681,2027-02-21T20:00Z,SCHEDULED,2026-27-laliga,,,83,Barcelona,Barcelona,1538,Levante,Levante,,,
+401882684,2027-02-21T20:00Z,SCHEDULED,2026-27-laliga,,,1068,Atlético Madrid,Atlético,3751,Elche,Elche,,,
+401882685,2027-02-21T20:00Z,SCHEDULED,2026-27-laliga,,,93,Athletic Club,Athletic,85,Celta Vigo,Celta Vigo,,,
+401882686,2027-02-21T20:00Z,SCHEDULED,2026-27-laliga,,,96,Alavés,Alavés,87,Racing Santander,Racing,,,
+401882683,2027-02-21T20:00Z,SCHEDULED,2026-27-laliga,,,90,Deportivo,Deportivo,89,Real Sociedad,Real Sociedad,,,
+401882669,2027-02-28T20:00Z,SCHEDULED,2026-27-laliga,,,87,Racing Santander,Racing,101,Rayo Vallecano,Rayo,,,
+401882667,2027-02-28T20:00Z,SCHEDULED,2026-27-laliga,,,89,Real Sociedad,Real Sociedad,3751,Elche,Elche,,,
+401882668,2027-02-28T20:00Z,SCHEDULED,2026-27-laliga,,,86,Real Madrid,Real Madrid,94,Valencia,Valencia,,,
+401882675,2027-02-28T20:00Z,SCHEDULED,2026-27-laliga,,,244,Real Betis,Betis,102,Villarreal,Villarreal,,,
+401882670,2027-02-28T20:00Z,SCHEDULED,2026-27-laliga,,,97,Osasuna,Osasuna,243,Sevilla,Sevilla,,,
+401882676,2027-02-28T20:00Z,SCHEDULED,2026-27-laliga,,,93,Athletic Club,Athletic,83,Barcelona,Barcelona,,,
+401882672,2027-02-28T20:00Z,SCHEDULED,2026-27-laliga,,,1538,Levante,Levante,90,Deportivo,Deportivo,,,
+401882673,2027-02-28T20:00Z,SCHEDULED,2026-27-laliga,,,2922,Getafe,Getafe,96,Alavés,Alavés,,,
+401882674,2027-02-28T20:00Z,SCHEDULED,2026-27-laliga,,,85,Celta Vigo,Celta Vigo,88,Espanyol,Espanyol,,,
+401882671,2027-02-28T20:00Z,SCHEDULED,2026-27-laliga,,,99,Málaga,Málaga,1068,Atlético Madrid,Atlético,,,
+401882660,2027-03-07T20:00Z,SCHEDULED,2026-27-laliga,,,101,Rayo Vallecano,Rayo,97,Osasuna,Osasuna,,,
+401882657,2027-03-07T20:00Z,SCHEDULED,2026-27-laliga,,,102,Villarreal,Villarreal,86,Real Madrid,Real Madrid,,,
+401882658,2027-03-07T20:00Z,SCHEDULED,2026-27-laliga,,,94,Valencia,Valencia,1538,Levante,Levante,,,
+401882659,2027-03-07T20:00Z,SCHEDULED,2026-27-laliga,,,243,Sevilla,Sevilla,89,Real Sociedad,Real Sociedad,,,
+401882662,2027-03-07T20:00Z,SCHEDULED,2026-27-laliga,,,88,Espanyol,Espanyol,87,Racing Santander,Racing,,,
+401882666,2027-03-07T20:00Z,SCHEDULED,2026-27-laliga,,,96,Alavés,Alavés,93,Athletic Club,Athletic,,,
+401882664,2027-03-07T20:00Z,SCHEDULED,2026-27-laliga,,,90,Deportivo,Deportivo,2922,Getafe,Getafe,,,
+401882661,2027-03-07T20:00Z,SCHEDULED,2026-27-laliga,,,83,Barcelona,Barcelona,244,Real Betis,Betis,,,
+401882665,2027-03-07T20:00Z,SCHEDULED,2026-27-laliga,,,1068,Atlético Madrid,Atlético,85,Celta Vigo,Celta Vigo,,,
+401882663,2027-03-07T20:00Z,SCHEDULED,2026-27-laliga,,,3751,Elche,Elche,99,Málaga,Málaga,,,
+401882647,2027-03-14T18:00Z,SCHEDULED,2026-27-laliga,,,86,Real Madrid,Real Madrid,88,Espanyol,Espanyol,,,
+401882654,2027-03-14T18:00Z,SCHEDULED,2026-27-laliga,,,244,Real Betis,Betis,1538,Levante,Levante,,,
+401882648,2027-03-14T18:00Z,SCHEDULED,2026-27-laliga,,,87,Racing Santander,Racing,1068,Atlético Madrid,Atlético,,,
+401882649,2027-03-14T18:00Z,SCHEDULED,2026-27-laliga,,,97,Osasuna,Osasuna,85,Celta Vigo,Celta Vigo,,,
+401882650,2027-03-14T18:00Z,SCHEDULED,2026-27-laliga,,,99,Málaga,Málaga,101,Rayo Vallecano,Rayo,,,
+401882653,2027-03-14T18:00Z,SCHEDULED,2026-27-laliga,,,3751,Elche,Elche,102,Villarreal,Villarreal,,,
+401882652,2027-03-14T18:00Z,SCHEDULED,2026-27-laliga,,,83,Barcelona,Barcelona,90,Deportivo,Deportivo,,,
+401882655,2027-03-14T18:00Z,SCHEDULED,2026-27-laliga,,,93,Athletic Club,Athletic,94,Valencia,Valencia,,,
+401882656,2027-03-14T18:00Z,SCHEDULED,2026-27-laliga,,,96,Alavés,Alavés,243,Sevilla,Sevilla,,,
+401882651,2027-03-14T18:00Z,SCHEDULED,2026-27-laliga,,,2922,Getafe,Getafe,89,Real Sociedad,Real Sociedad,,,
+401882640,2027-03-21T18:00Z,SCHEDULED,2026-27-laliga,,,89,Real Sociedad,Real Sociedad,96,Alavés,Alavés,,,
+401882638,2027-03-21T18:00Z,SCHEDULED,2026-27-laliga,,,94,Valencia,Valencia,90,Deportivo,Deportivo,,,
+401882639,2027-03-21T18:00Z,SCHEDULED,2026-27-laliga,,,243,Sevilla,Sevilla,3751,Elche,Elche,,,
+401882637,2027-03-21T18:00Z,SCHEDULED,2026-27-laliga,,,102,Villarreal,Villarreal,99,Málaga,Málaga,,,
+401882641,2027-03-21T18:00Z,SCHEDULED,2026-27-laliga,,,101,Rayo Vallecano,Rayo,83,Barcelona,Barcelona,,,
+401882644,2027-03-21T18:00Z,SCHEDULED,2026-27-laliga,,,88,Espanyol,Espanyol,93,Athletic Club,Athletic,,,
+401882643,2027-03-21T18:00Z,SCHEDULED,2026-27-laliga,,,1538,Levante,Levante,97,Osasuna,Osasuna,,,
+401882645,2027-03-21T18:00Z,SCHEDULED,2026-27-laliga,,,85,Celta Vigo,Celta Vigo,86,Real Madrid,Real Madrid,,,
+401882646,2027-03-21T18:00Z,SCHEDULED,2026-27-laliga,,,1068,Atlético Madrid,Atlético,2922,Getafe,Getafe,,,
+401882642,2027-03-21T18:00Z,SCHEDULED,2026-27-laliga,,,87,Racing Santander,Racing,244,Real Betis,Betis,,,
+401882627,2027-04-04T18:00Z,SCHEDULED,2026-27-laliga,,,89,Real Sociedad,Real Sociedad,94,Valencia,Valencia,,,
+401882628,2027-04-04T18:00Z,SCHEDULED,2026-27-laliga,,,86,Real Madrid,Real Madrid,1068,Atlético Madrid,Atlético,,,
+401882635,2027-04-04T18:00Z,SCHEDULED,2026-27-laliga,,,244,Real Betis,Betis,85,Celta Vigo,Celta Vigo,,,
+401882629,2027-04-04T18:00Z,SCHEDULED,2026-27-laliga,,,99,Málaga,Málaga,97,Osasuna,Osasuna,,,
+401882630,2027-04-04T18:00Z,SCHEDULED,2026-27-laliga,,,1538,Levante,Levante,101,Rayo Vallecano,Rayo,,,
+401882633,2027-04-04T18:00Z,SCHEDULED,2026-27-laliga,,,3751,Elche,Elche,96,Alavés,Alavés,,,
+401882634,2027-04-04T18:00Z,SCHEDULED,2026-27-laliga,,,90,Deportivo,Deportivo,102,Villarreal,Villarreal,,,
+401882632,2027-04-04T18:00Z,SCHEDULED,2026-27-laliga,,,83,Barcelona,Barcelona,243,Sevilla,Sevilla,,,
+401882636,2027-04-04T18:00Z,SCHEDULED,2026-27-laliga,,,93,Athletic Club,Athletic,87,Racing Santander,Racing,,,
+401882631,2027-04-04T18:00Z,SCHEDULED,2026-27-laliga,,,2922,Getafe,Getafe,88,Espanyol,Espanyol,,,
+401882620,2027-04-11T18:00Z,SCHEDULED,2026-27-laliga,,,101,Rayo Vallecano,Rayo,89,Real Sociedad,Real Sociedad,,,
+401882617,2027-04-11T18:00Z,SCHEDULED,2026-27-laliga,,,102,Villarreal,Villarreal,93,Athletic Club,Athletic,,,
+401882618,2027-04-11T18:00Z,SCHEDULED,2026-27-laliga,,,94,Valencia,Valencia,2922,Getafe,Getafe,,,
+401882619,2027-04-11T18:00Z,SCHEDULED,2026-27-laliga,,,243,Sevilla,Sevilla,90,Deportivo,Deportivo,,,
+401882621,2027-04-11T18:00Z,SCHEDULED,2026-27-laliga,,,87,Racing Santander,Racing,83,Barcelona,Barcelona,,,
+401882626,2027-04-11T18:00Z,SCHEDULED,2026-27-laliga,,,96,Alavés,Alavés,244,Real Betis,Betis,,,
+401882623,2027-04-11T18:00Z,SCHEDULED,2026-27-laliga,,,88,Espanyol,Espanyol,99,Málaga,Málaga,,,
+401882624,2027-04-11T18:00Z,SCHEDULED,2026-27-laliga,,,85,Celta Vigo,Celta Vigo,3751,Elche,Elche,,,
+401882625,2027-04-11T18:00Z,SCHEDULED,2026-27-laliga,,,1068,Atlético Madrid,Atlético,1538,Levante,Levante,,,
+401882622,2027-04-11T18:00Z,SCHEDULED,2026-27-laliga,,,97,Osasuna,Osasuna,86,Real Madrid,Real Madrid,,,
+401882609,2027-04-18T18:00Z,SCHEDULED,2026-27-laliga,,,1538,Levante,Levante,102,Villarreal,Villarreal,,,
+401882607,2027-04-18T18:00Z,SCHEDULED,2026-27-laliga,,,89,Real Sociedad,Real Sociedad,87,Racing Santander,Racing,,,
+401882614,2027-04-18T18:00Z,SCHEDULED,2026-27-laliga,,,244,Real Betis,Betis,93,Athletic Club,Athletic,,,
+401882608,2027-04-18T18:00Z,SCHEDULED,2026-27-laliga,,,99,Málaga,Málaga,94,Valencia,Valencia,,,
+401882610,2027-04-18T18:00Z,SCHEDULED,2026-27-laliga,,,2922,Getafe,Getafe,86,Real Madrid,Real Madrid,,,
+401882616,2027-04-18T18:00Z,SCHEDULED,2026-27-laliga,,,96,Alavés,Alavés,101,Rayo Vallecano,Rayo,,,
+401882613,2027-04-18T18:00Z,SCHEDULED,2026-27-laliga,,,90,Deportivo,Deportivo,85,Celta Vigo,Celta Vigo,,,
+401882611,2027-04-18T18:00Z,SCHEDULED,2026-27-laliga,,,83,Barcelona,Barcelona,88,Espanyol,Espanyol,,,
+401882615,2027-04-18T18:00Z,SCHEDULED,2026-27-laliga,,,1068,Atlético Madrid,Atlético,243,Sevilla,Sevilla,,,
+401882612,2027-04-18T18:00Z,SCHEDULED,2026-27-laliga,,,3751,Elche,Elche,97,Osasuna,Osasuna,,,
+401882597,2027-04-21T18:00Z,SCHEDULED,2026-27-laliga,,,102,Villarreal,Villarreal,1068,Atlético Madrid,Atlético,,,
+401882598,2027-04-21T18:00Z,SCHEDULED,2026-27-laliga,,,94,Valencia,Valencia,101,Rayo Vallecano,Rayo,,,
+401882599,2027-04-21T18:00Z,SCHEDULED,2026-27-laliga,,,243,Sevilla,Sevilla,1538,Levante,Levante,,,
+401882600,2027-04-21T18:00Z,SCHEDULED,2026-27-laliga,,,86,Real Madrid,Real Madrid,3751,Elche,Elche,,,
+401882601,2027-04-21T18:00Z,SCHEDULED,2026-27-laliga,,,87,Racing Santander,Racing,99,Málaga,Málaga,,,
+401882603,2027-04-21T18:00Z,SCHEDULED,2026-27-laliga,,,2922,Getafe,Getafe,244,Real Betis,Betis,,,
+401882604,2027-04-21T18:00Z,SCHEDULED,2026-27-laliga,,,88,Espanyol,Espanyol,89,Real Sociedad,Real Sociedad,,,
+401882605,2027-04-21T18:00Z,SCHEDULED,2026-27-laliga,,,85,Celta Vigo,Celta Vigo,83,Barcelona,Barcelona,,,
+401882606,2027-04-21T18:00Z,SCHEDULED,2026-27-laliga,,,93,Athletic Club,Athletic,90,Deportivo,Deportivo,,,
+401882602,2027-04-21T18:00Z,SCHEDULED,2026-27-laliga,,,97,Osasuna,Osasuna,96,Alavés,Alavés,,,
+401882589,2027-05-02T18:00Z,SCHEDULED,2026-27-laliga,,,99,Málaga,Málaga,2922,Getafe,Getafe,,,
+401882595,2027-05-02T18:00Z,SCHEDULED,2026-27-laliga,,,244,Real Betis,Betis,94,Valencia,Valencia,,,
+401882588,2027-05-02T18:00Z,SCHEDULED,2026-27-laliga,,,101,Rayo Vallecano,Rayo,102,Villarreal,Villarreal,,,
+401882587,2027-05-02T18:00Z,SCHEDULED,2026-27-laliga,,,89,Real Sociedad,Real Sociedad,93,Athletic Club,Athletic,,,
+401882590,2027-05-02T18:00Z,SCHEDULED,2026-27-laliga,,,1538,Levante,Levante,86,Real Madrid,Real Madrid,,,
+401882594,2027-05-02T18:00Z,SCHEDULED,2026-27-laliga,,,85,Celta Vigo,Celta Vigo,243,Sevilla,Sevilla,,,
+401882593,2027-05-02T18:00Z,SCHEDULED,2026-27-laliga,,,90,Deportivo,Deportivo,87,Racing Santander,Racing,,,
+401882591,2027-05-02T18:00Z,SCHEDULED,2026-27-laliga,,,83,Barcelona,Barcelona,97,Osasuna,Osasuna,,,
+401882596,2027-05-02T18:00Z,SCHEDULED,2026-27-laliga,,,1068,Atlético Madrid,Atlético,96,Alavés,Alavés,,,
+401882592,2027-05-02T18:00Z,SCHEDULED,2026-27-laliga,,,3751,Elche,Elche,88,Espanyol,Espanyol,,,
+401882577,2027-05-09T18:00Z,SCHEDULED,2026-27-laliga,,,102,Villarreal,Villarreal,85,Celta Vigo,Celta Vigo,,,
+401882578,2027-05-09T18:00Z,SCHEDULED,2026-27-laliga,,,94,Valencia,Valencia,1068,Atlético Madrid,Atlético,,,
+401882579,2027-05-09T18:00Z,SCHEDULED,2026-27-laliga,,,86,Real Madrid,Real Madrid,83,Barcelona,Barcelona,,,
+401882584,2027-05-09T18:00Z,SCHEDULED,2026-27-laliga,,,244,Real Betis,Betis,88,Espanyol,Espanyol,,,
+401882580,2027-05-09T18:00Z,SCHEDULED,2026-27-laliga,,,101,Rayo Vallecano,Rayo,90,Deportivo,Deportivo,,,
+401882581,2027-05-09T18:00Z,SCHEDULED,2026-27-laliga,,,87,Racing Santander,Racing,243,Sevilla,Sevilla,,,
+401882582,2027-05-09T18:00Z,SCHEDULED,2026-27-laliga,,,97,Osasuna,Osasuna,89,Real Sociedad,Real Sociedad,,,
+401882583,2027-05-09T18:00Z,SCHEDULED,2026-27-laliga,,,2922,Getafe,Getafe,3751,Elche,Elche,,,
+401882585,2027-05-09T18:00Z,SCHEDULED,2026-27-laliga,,,93,Athletic Club,Athletic,99,Málaga,Málaga,,,
+401882586,2027-05-09T18:00Z,SCHEDULED,2026-27-laliga,,,96,Alavés,Alavés,1538,Levante,Levante,,,
+401882568,2027-05-16T18:00Z,SCHEDULED,2026-27-laliga,,,89,Real Sociedad,Real Sociedad,83,Barcelona,Barcelona,,,
+401882567,2027-05-16T18:00Z,SCHEDULED,2026-27-laliga,,,243,Sevilla,Sevilla,102,Villarreal,Villarreal,,,
+401882570,2027-05-16T18:00Z,SCHEDULED,2026-27-laliga,,,97,Osasuna,Osasuna,244,Real Betis,Betis,,,
+401882571,2027-05-16T18:00Z,SCHEDULED,2026-27-laliga,,,99,Málaga,Málaga,85,Celta Vigo,Celta Vigo,,,
+401882569,2027-05-16T18:00Z,SCHEDULED,2026-27-laliga,,,86,Real Madrid,Real Madrid,87,Racing Santander,Racing,,,
+401882573,2027-05-16T18:00Z,SCHEDULED,2026-27-laliga,,,88,Espanyol,Espanyol,94,Valencia,Valencia,,,
+401882574,2027-05-16T18:00Z,SCHEDULED,2026-27-laliga,,,3751,Elche,Elche,93,Athletic Club,Athletic,,,
+401882575,2027-05-16T18:00Z,SCHEDULED,2026-27-laliga,,,90,Deportivo,Deportivo,96,Alavés,Alavés,,,
+401882576,2027-05-16T18:00Z,SCHEDULED,2026-27-laliga,,,1068,Atlético Madrid,Atlético,101,Rayo Vallecano,Rayo,,,
+401882572,2027-05-16T18:00Z,SCHEDULED,2026-27-laliga,,,1538,Levante,Levante,2922,Getafe,Getafe,,,
+401882557,2027-05-23T18:00Z,SCHEDULED,2026-27-laliga,,,102,Villarreal,Villarreal,97,Osasuna,Osasuna,,,
+401882558,2027-05-23T18:00Z,SCHEDULED,2026-27-laliga,,,94,Valencia,Valencia,3751,Elche,Elche,,,
+401882560,2027-05-23T18:00Z,SCHEDULED,2026-27-laliga,,,101,Rayo Vallecano,Rayo,244,Real Betis,Betis,,,
+401882561,2027-05-23T18:00Z,SCHEDULED,2026-27-laliga,,,87,Racing Santander,Racing,1538,Levante,Levante,,,
+401882559,2027-05-23T18:00Z,SCHEDULED,2026-27-laliga,,,243,Sevilla,Sevilla,2922,Getafe,Getafe,,,
+401882564,2027-05-23T18:00Z,SCHEDULED,2026-27-laliga,,,85,Celta Vigo,Celta Vigo,89,Real Sociedad,Real Sociedad,,,
+401882562,2027-05-23T18:00Z,SCHEDULED,2026-27-laliga,,,83,Barcelona,Barcelona,99,Málaga,Málaga,,,
+401882565,2027-05-23T18:00Z,SCHEDULED,2026-27-laliga,,,1068,Atlético Madrid,Atlético,93,Athletic Club,Athletic,,,
+401882566,2027-05-23T18:00Z,SCHEDULED,2026-27-laliga,,,96,Alavés,Alavés,86,Real Madrid,Real Madrid,,,
+401882563,2027-05-23T18:00Z,SCHEDULED,2026-27-laliga,,,90,Deportivo,Deportivo,88,Espanyol,Espanyol,,,
+401882548,2027-05-30T18:00Z,SCHEDULED,2026-27-laliga,,,86,Real Madrid,Real Madrid,90,Deportivo,Deportivo,,,
+401882556,2027-05-30T18:00Z,SCHEDULED,2026-27-laliga,,,93,Athletic Club,Athletic,101,Rayo Vallecano,Rayo,,,
+401882554,2027-05-30T18:00Z,SCHEDULED,2026-27-laliga,,,3751,Elche,Elche,87,Racing Santander,Racing,,,
+401882553,2027-05-30T18:00Z,SCHEDULED,2026-27-laliga,,,88,Espanyol,Espanyol,96,Alavés,Alavés,,,
+401882552,2027-05-30T18:00Z,SCHEDULED,2026-27-laliga,,,2922,Getafe,Getafe,83,Barcelona,Barcelona,,,
+401882551,2027-05-30T18:00Z,SCHEDULED,2026-27-laliga,,,1538,Levante,Levante,85,Celta Vigo,Celta Vigo,,,
+401882550,2027-05-30T18:00Z,SCHEDULED,2026-27-laliga,,,99,Málaga,Málaga,243,Sevilla,Sevilla,,,
+401882549,2027-05-30T18:00Z,SCHEDULED,2026-27-laliga,,,97,Osasuna,Osasuna,94,Valencia,Valencia,,,
+401882555,2027-05-30T18:00Z,SCHEDULED,2026-27-laliga,,,244,Real Betis,Betis,1068,Atlético Madrid,Atlético,,,
+401882547,2027-05-30T18:00Z,SCHEDULED,2026-27-laliga,,,89,Real Sociedad,Real Sociedad,102,Villarreal,Villarreal,,,
