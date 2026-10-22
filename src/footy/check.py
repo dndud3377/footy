@@ -104,11 +104,12 @@ def report() -> tuple[str, list[str]]:
         problems.append("챔스 데이터 없음")
 
     # Understat datetime 시간대 확인 (일정 소스 UTC와 비교)
-    both = m.dropna(subset=["utc_kickoff", "understat_datetime"])
+    # 미래 경기는 킥오프 미확정이라 소스마다 임시 시각이 달라 종료 경기만 비교
+    both = m[m["status"] == "FT"].dropna(subset=["utc_kickoff", "understat_datetime"])
     if len(both):
         diff = (pd.to_datetime(both["understat_datetime"]) -
                 pd.to_datetime(both["utc_kickoff"], utc=True).dt.tz_localize(None)).dt.total_seconds() / 3600
-        lines += ["## Understat 시각 오프셋 (Understat − UTC, 시간)", "",
+        lines += ["## Understat 시각 오프셋 (종료 경기, Understat − 일정 소스, 시간)", "",
                   f"- 중앙값 {diff.median():+.1f}h, 분포: " +
                   ", ".join(f"{k:+.0f}h×{v}" for k, v in diff.round().value_counts().sort_index().items()), ""]
 
