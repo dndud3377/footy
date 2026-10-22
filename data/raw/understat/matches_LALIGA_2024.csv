@@ -1,0 +1,381 @@
+understat_id,is_result,datetime,home,away,hg,ag,hxg,axg
+26982,True,2024-08-15 17:00:00,Athletic Club,Getafe,1,1,0.2902,0.5375
+26983,True,2024-08-15 19:30:00,Real Betis,Girona,1,1,1.8058,1.5473
+26984,True,2024-08-16 17:00:00,Celta Vigo,Alaves,2,1,0.7938,1.9391
+26985,True,2024-08-16 19:30:00,Las Palmas,Sevilla,2,2,1.3187,2.0999
+26986,True,2024-08-17 17:00:00,Osasuna,Leganes,1,1,1.7631,1.3395
+26987,True,2024-08-17 19:30:00,Valencia,Barcelona,1,2,1.5521,3.4882
+26988,True,2024-08-18 17:00:00,Real Sociedad,Rayo Vallecano,1,2,1.5661,1.6015
+26989,True,2024-08-18 19:30:00,Mallorca,Real Madrid,1,1,1.3056,0.6081
+26990,True,2024-08-19 17:00:00,Real Valladolid,Espanyol,1,0,1.1775,0.5156
+26991,True,2024-08-19 19:30:00,Villarreal,Atletico Madrid,2,2,0.6868,1.1387
+26992,True,2024-08-23 17:00:00,Celta Vigo,Valencia,3,1,1.3057,1.1544
+26993,True,2024-08-23 19:30:00,Sevilla,Villarreal,1,2,1.2383,1.3982
+26994,True,2024-08-24 15:00:00,Osasuna,Mallorca,1,0,0.8877,0.4276
+26995,True,2024-08-24 17:00:00,Barcelona,Athletic Club,2,1,2.4158,1.0998
+26996,True,2024-08-24 19:30:00,Getafe,Rayo Vallecano,0,0,0.5127,0.1611
+26997,True,2024-08-24 19:30:00,Espanyol,Real Sociedad,0,1,1.7957,0.7961
+26998,True,2024-08-25 15:00:00,Real Madrid,Real Valladolid,3,0,2.1795,0.3785
+26999,True,2024-08-25 17:00:00,Leganes,Las Palmas,2,1,1.59,1.2344
+27000,True,2024-08-25 17:15:00,Alaves,Real Betis,0,0,0.1725,1.3601
+27001,True,2024-08-25 19:30:00,Atletico Madrid,Girona,3,0,1.4239,0.5965
+27002,True,2024-08-26 19:30:00,Villarreal,Celta Vigo,4,3,4.3817,3.7918
+27003,True,2024-08-27 17:00:00,Mallorca,Sevilla,0,0,0.9409,0.6098
+27004,True,2024-08-27 19:30:00,Rayo Vallecano,Barcelona,1,2,0.3925,1.5187
+27005,True,2024-08-28 17:00:00,Real Valladolid,Leganes,0,0,0.7738,0.1846
+27006,True,2024-08-28 17:00:00,Athletic Club,Valencia,1,0,1.5159,0.0996
+27008,True,2024-08-28 19:30:00,Real Sociedad,Alaves,1,2,0.9516,2.6256
+27009,True,2024-08-28 19:30:00,Atletico Madrid,Espanyol,0,0,3.8859,0.8558
+27010,True,2024-08-29 17:00:00,Girona,Osasuna,4,0,2.6015,0.02
+27011,True,2024-08-29 19:30:00,Las Palmas,Real Madrid,1,1,0.8092,3.2832
+27012,True,2024-08-31 15:00:00,Barcelona,Real Valladolid,7,0,4.9402,0.4225
+27013,True,2024-08-31 17:00:00,Athletic Club,Atletico Madrid,0,1,0.2522,1.5861
+27014,True,2024-08-31 17:15:00,Espanyol,Rayo Vallecano,2,1,1.8468,1.0088
+27015,True,2024-08-31 19:30:00,Valencia,Villarreal,1,1,1.1432,0.8854
+27016,True,2024-08-31 19:30:00,Leganes,Mallorca,0,1,0.5208,1.4876
+27017,True,2024-09-01 15:00:00,Alaves,Las Palmas,2,0,2.0103,0.5473
+27018,True,2024-09-01 15:00:00,Osasuna,Celta Vigo,3,2,0.7796,1.7233
+27019,True,2024-09-01 17:00:00,Sevilla,Girona,0,2,0.8127,2.3636
+27020,True,2024-09-01 17:15:00,Getafe,Real Sociedad,0,0,0.5471,0.0209
+27021,True,2024-09-01 19:30:00,Real Madrid,Real Betis,2,0,2.3717,0.8314
+27024,True,2024-09-13 19:00:00,Real Betis,Leganes,2,0,1.722,0.107
+27026,True,2024-09-14 12:00:00,Mallorca,Villarreal,1,2,0.3454,2.4188
+27022,True,2024-09-14 14:15:00,Espanyol,Alaves,3,2,1.951,2.3693
+27029,True,2024-09-14 16:30:00,Sevilla,Getafe,1,0,1.648,0.9716
+27031,True,2024-09-14 19:00:00,Real Sociedad,Real Madrid,0,2,1.4183,2.2759
+27025,True,2024-09-15 12:00:00,Celta Vigo,Real Valladolid,3,1,1.9927,0.3827
+27028,True,2024-09-15 14:15:00,Girona,Barcelona,1,4,1.0957,2.5936
+27027,True,2024-09-15 16:30:00,Las Palmas,Athletic Club,2,3,1.5194,1.8043
+27023,True,2024-09-15 19:00:00,Atletico Madrid,Valencia,3,0,3.2296,0.1831
+27030,True,2024-09-16 19:00:00,Rayo Vallecano,Osasuna,3,1,1.4843,0.5303
+27045,True,2024-09-17 19:00:00,Mallorca,Real Sociedad,1,0,1.5693,0.4991
+27007,True,2024-09-18 17:00:00,Real Betis,Getafe,2,1,3.0618,0.8643
+27047,True,2024-09-19 17:00:00,Leganes,Athletic Club,0,2,0.6666,1.3233
+27035,True,2024-09-20 19:00:00,Alaves,Sevilla,2,1,1.4064,0.6239
+27039,True,2024-09-21 12:00:00,Real Valladolid,Real Sociedad,0,0,0.9526,1.3906
+27040,True,2024-09-21 14:15:00,Osasuna,Las Palmas,2,1,1.9717,1.2828
+27038,True,2024-09-21 16:30:00,Valencia,Girona,2,0,0.3508,0.3877
+27041,True,2024-09-21 19:00:00,Real Madrid,Espanyol,4,1,4.8949,0.3188
+27034,True,2024-09-22 12:00:00,Getafe,Leganes,1,1,1.2428,0.7832
+27032,True,2024-09-22 14:15:00,Athletic Club,Celta Vigo,3,1,0.8643,1.2155
+27037,True,2024-09-22 16:30:00,Villarreal,Barcelona,1,5,2.396,4.1937
+27036,True,2024-09-22 19:00:00,Rayo Vallecano,Atletico Madrid,1,1,1.6895,0.5541
+27033,True,2024-09-23 19:00:00,Real Betis,Mallorca,1,2,1.3708,1.4369
+27046,True,2024-09-24 17:00:00,Sevilla,Real Valladolid,2,1,1.671,0.4115
+27050,True,2024-09-24 17:00:00,Valencia,Osasuna,0,0,1.1753,0.3776
+27051,True,2024-09-24 19:00:00,Real Madrid,Alaves,3,2,1.7979,0.8535
+27044,True,2024-09-25 17:00:00,Girona,Rayo Vallecano,0,0,2.1579,0.3777
+27043,True,2024-09-25 19:00:00,Barcelona,Getafe,1,0,2.208,0.9299
+27042,True,2024-09-26 17:00:00,Espanyol,Villarreal,1,2,0.3551,1.9623
+27049,True,2024-09-26 17:00:00,Las Palmas,Real Betis,1,1,1.108,2.6665
+27048,True,2024-09-26 19:00:00,Celta Vigo,Atletico Madrid,0,1,1.7613,0.7784
+27057,True,2024-09-27 19:00:00,Real Valladolid,Mallorca,1,2,1.3155,2.4903
+27059,True,2024-09-28 12:00:00,Getafe,Alaves,2,0,2.5585,0.4153
+27060,True,2024-09-28 14:15:00,Rayo Vallecano,Leganes,1,1,1.1523,0.8524
+27055,True,2024-09-28 16:30:00,Real Sociedad,Valencia,3,0,3.6853,0.806
+27056,True,2024-09-28 19:00:00,Osasuna,Barcelona,4,2,2.5007,0.7518
+27054,True,2024-09-29 12:00:00,Celta Vigo,Girona,1,1,0.524,1.4127
+27052,True,2024-09-29 14:15:00,Athletic Club,Sevilla,1,1,1.8296,1.2415
+27061,True,2024-09-29 16:30:00,Real Betis,Espanyol,1,0,1.9792,0.5694
+27053,True,2024-09-29 19:00:00,Atletico Madrid,Real Madrid,1,1,1.0548,0.661
+27058,True,2024-09-30 19:00:00,Villarreal,Las Palmas,3,1,4.0787,0.8024
+27065,True,2024-10-04 19:00:00,Leganes,Valencia,0,0,0.9132,0.7038
+27071,True,2024-10-05 12:00:00,Espanyol,Mallorca,2,1,0.9486,1.7984
+27062,True,2024-10-05 14:15:00,Getafe,Osasuna,1,1,1.3483,0.2477
+27069,True,2024-10-05 16:30:00,Las Palmas,Celta Vigo,0,1,0.9649,0.8142
+27070,True,2024-10-05 16:30:00,Real Valladolid,Rayo Vallecano,1,2,1.6584,1.6475
+27063,True,2024-10-05 19:00:00,Real Madrid,Villarreal,2,0,0.4596,1.4618
+27066,True,2024-10-06 12:00:00,Girona,Athletic Club,2,1,2.1739,3.1597
+27064,True,2024-10-06 14:15:00,Alaves,Barcelona,0,3,0.7948,2.4937
+27068,True,2024-10-06 16:30:00,Sevilla,Real Betis,1,0,1.8284,0.4366
+27067,True,2024-10-06 19:00:00,Real Sociedad,Atletico Madrid,1,1,1.0852,0.5617
+27078,True,2024-10-18 19:00:00,Alaves,Real Valladolid,2,3,0.433,2.3365
+27072,True,2024-10-19 12:00:00,Athletic Club,Espanyol,4,1,1.4652,0.5008
+27079,True,2024-10-19 14:15:00,Osasuna,Real Betis,1,2,2.2102,2.7918
+27076,True,2024-10-19 16:30:00,Girona,Real Sociedad,0,1,0.4462,1.8608
+27075,True,2024-10-19 19:00:00,Celta Vigo,Real Madrid,1,2,1.7911,1.1982
+27077,True,2024-10-20 12:00:00,Mallorca,Rayo Vallecano,1,0,2.7208,0.465
+27073,True,2024-10-20 14:15:00,Atletico Madrid,Leganes,3,1,5.214,0.2719
+27080,True,2024-10-20 16:30:00,Villarreal,Getafe,1,1,1.1468,2.0264
+27074,True,2024-10-20 19:00:00,Barcelona,Sevilla,5,1,4.0853,0.5997
+27081,True,2024-10-21 19:00:00,Valencia,Las Palmas,2,3,1.9442,1.5686
+27091,True,2024-10-25 19:00:00,Espanyol,Sevilla,0,2,1.0292,0.8133
+27089,True,2024-10-26 12:00:00,Real Valladolid,Villarreal,1,2,0.978,2.6843
+27090,True,2024-10-26 14:15:00,Rayo Vallecano,Alaves,1,0,2.8901,0.8714
+27087,True,2024-10-26 16:30:00,Las Palmas,Girona,1,0,1.2445,1.0472
+27085,True,2024-10-26 19:00:00,Real Madrid,Barcelona,0,4,1.4036,2.5157
+27086,True,2024-10-27 13:00:00,Leganes,Celta Vigo,3,0,1.5488,0.7672
+27082,True,2024-10-27 15:15:00,Getafe,Valencia,1,1,2.9783,0.6383
+27084,True,2024-10-27 17:30:00,Real Betis,Atletico Madrid,1,0,2.2038,0.5552
+27088,True,2024-10-27 20:00:00,Real Sociedad,Osasuna,0,2,1.6767,1.0649
+27083,True,2024-10-28 20:00:00,Mallorca,Athletic Club,0,0,0.5424,0.7555
+27097,True,2024-11-01 20:00:00,Alaves,Mallorca,1,0,1.4358,0.7083
+27096,True,2024-11-02 13:00:00,Osasuna,Real Valladolid,1,0,3.217,0.2041
+27095,True,2024-11-02 15:15:00,Girona,Leganes,4,3,1.8127,0.3205
+27093,True,2024-11-03 13:00:00,Atletico Madrid,Las Palmas,2,0,1.7347,0.0329
+27101,True,2024-11-03 15:15:00,Barcelona,Espanyol,3,1,1.944,0.7874
+27100,True,2024-11-03 17:30:00,Sevilla,Real Sociedad,0,2,0.6295,1.2184
+27092,True,2024-11-03 20:00:00,Athletic Club,Real Betis,1,1,4.2033,1.545
+27094,True,2024-11-04 20:00:00,Celta Vigo,Getafe,1,0,2.1248,0.4247
+27110,True,2024-11-08 20:00:00,Rayo Vallecano,Las Palmas,1,3,2.6398,1.2521
+27109,True,2024-11-09 13:00:00,Real Madrid,Osasuna,4,0,3.2731,0.0679
+27111,True,2024-11-09 15:15:00,Villarreal,Alaves,3,0,1.4429,0.6086
+27105,True,2024-11-09 21:00:00,Leganes,Sevilla,1,0,1.0932,0.5399
+27103,True,2024-11-10 13:00:00,Real Betis,Celta Vigo,2,2,1.6506,0.9417
+27107,True,2024-11-10 15:15:00,Mallorca,Atletico Madrid,0,1,0.7351,0.9386
+27104,True,2024-11-10 17:30:00,Getafe,Girona,0,1,0.2208,0.521
+27106,True,2024-11-10 17:30:00,Real Valladolid,Athletic Club,1,1,0.8877,1.487
+27108,True,2024-11-10 20:00:00,Real Sociedad,Barcelona,1,0,1.8852,0.5141
+27113,True,2024-11-22 20:00:00,Getafe,Real Valladolid,2,0,0.6585,0.7292
+27118,True,2024-11-23 13:00:00,Valencia,Real Betis,4,2,1.6734,1.0524
+27120,True,2024-11-23 15:15:00,Atletico Madrid,Alaves,2,1,2.0532,0.7859
+27115,True,2024-11-23 17:30:00,Las Palmas,Mallorca,2,3,1.1597,1.4582
+27121,True,2024-11-23 17:30:00,Girona,Espanyol,4,1,3.2852,0.4883
+27117,True,2024-11-23 20:00:00,Celta Vigo,Barcelona,2,2,2.7598,1.9378
+27114,True,2024-11-24 13:00:00,Osasuna,Villarreal,2,2,1.3273,2.6819
+27119,True,2024-11-24 15:15:00,Sevilla,Rayo Vallecano,1,0,1.5706,0.8623
+27116,True,2024-11-24 17:30:00,Leganes,Real Madrid,0,3,0.1089,2.7301
+27112,True,2024-11-24 20:00:00,Athletic Club,Real Sociedad,1,0,1.6507,0.7991
+27123,True,2024-11-29 20:00:00,Mallorca,Valencia,2,1,0.7214,1.3344
+27122,True,2024-11-30 13:00:00,Barcelona,Las Palmas,1,2,2.1835,0.5992
+27124,True,2024-11-30 15:15:00,Alaves,Leganes,1,1,1.2888,1.3688
+27131,True,2024-11-30 17:30:00,Espanyol,Celta Vigo,3,1,1.5014,1.56
+27126,True,2024-11-30 20:00:00,Real Valladolid,Atletico Madrid,0,5,0.4373,3.4049
+27128,True,2024-12-01 13:00:00,Villarreal,Girona,2,2,1.9684,0.5163
+27127,True,2024-12-01 15:15:00,Real Madrid,Getafe,2,0,3.2363,0.3466
+27125,True,2024-12-01 17:30:00,Rayo Vallecano,Athletic Club,1,2,0.59,0.5569
+27130,True,2024-12-01 20:00:00,Real Sociedad,Real Betis,2,0,0.8181,0.3661
+27129,True,2024-12-02 20:00:00,Sevilla,Osasuna,1,1,1.0908,1.0484
+27167,True,2024-12-03 18:00:00,Mallorca,Barcelona,1,5,0.9217,5.3807
+27162,True,2024-12-04 20:00:00,Athletic Club,Real Madrid,2,1,2.0813,1.9773
+27136,True,2024-12-06 20:00:00,Celta Vigo,Mallorca,2,0,1.1995,1.0904
+27138,True,2024-12-07 13:00:00,Las Palmas,Real Valladolid,2,1,1.2763,1.3083
+27139,True,2024-12-07 15:15:00,Real Betis,Barcelona,2,2,2.7626,1.5412
+27140,True,2024-12-07 17:30:00,Valencia,Rayo Vallecano,0,1,1.0002,1.0229
+27137,True,2024-12-07 20:00:00,Girona,Real Madrid,0,3,0.3513,1.1603
+27133,True,2024-12-08 13:00:00,Leganes,Real Sociedad,0,3,0.4637,1.7446
+27134,True,2024-12-08 15:15:00,Athletic Club,Villarreal,2,0,1.3148,0.7965
+27141,True,2024-12-08 17:30:00,Osasuna,Alaves,2,2,2.3135,1.5007
+27135,True,2024-12-08 20:00:00,Atletico Madrid,Sevilla,4,3,2.3218,0.6358
+27132,True,2024-12-09 20:00:00,Getafe,Espanyol,1,0,0.5303,1.173
+27147,True,2024-12-13 20:00:00,Real Valladolid,Valencia,1,0,0.5318,0.6572
+27150,True,2024-12-14 13:00:00,Espanyol,Osasuna,0,0,0.2987,0.2139
+27146,True,2024-12-14 15:15:00,Mallorca,Girona,2,1,1.6509,0.9397
+27145,True,2024-12-14 17:30:00,Sevilla,Celta Vigo,1,0,0.4875,0.9288
+27144,True,2024-12-14 20:00:00,Rayo Vallecano,Real Madrid,3,3,1.6077,1.1543
+27142,True,2024-12-15 13:00:00,Atletico Madrid,Getafe,1,0,1.8538,0.2387
+27149,True,2024-12-15 15:15:00,Alaves,Athletic Club,1,1,0.8038,0.8437
+27148,True,2024-12-15 17:30:00,Villarreal,Real Betis,1,2,1.6096,1.6735
+27151,True,2024-12-15 17:30:00,Real Sociedad,Las Palmas,0,0,1.2456,0.841
+27143,True,2024-12-15 20:00:00,Barcelona,Leganes,0,1,2.166,0.7724
+27098,True,2024-12-18 20:30:00,Villarreal,Rayo Vallecano,1,1,2.5291,1.8571
+27102,True,2024-12-18 20:30:00,Espanyol,Valencia,1,1,1.8785,1.7813
+27156,True,2024-12-20 20:00:00,Girona,Real Valladolid,3,0,2.1644,0.012
+27155,True,2024-12-21 13:00:00,Getafe,Mallorca,0,1,0.7352,2.0627
+27154,True,2024-12-21 15:15:00,Celta Vigo,Real Sociedad,2,0,1.2216,0.3145
+27159,True,2024-12-21 17:30:00,Osasuna,Athletic Club,1,2,0.4176,1.1809
+27160,True,2024-12-21 20:00:00,Barcelona,Atletico Madrid,1,2,3.3742,0.7107
+27161,True,2024-12-22 13:00:00,Valencia,Alaves,2,2,1.3476,1.5429
+27157,True,2024-12-22 15:15:00,Real Madrid,Sevilla,4,2,2.901,1.4118
+27152,True,2024-12-22 17:30:00,Las Palmas,Espanyol,1,0,0.9562,0.879
+27158,True,2024-12-22 17:30:00,Leganes,Villarreal,2,5,1.4746,4.0101
+27153,True,2024-12-22 20:00:00,Real Betis,Rayo Vallecano,1,1,1.9303,0.8784
+27099,True,2025-01-03 20:00:00,Valencia,Real Madrid,1,2,1.3531,2.6916
+27169,True,2025-01-10 20:00:00,Rayo Vallecano,Celta Vigo,2,1,1.0044,3.258
+27166,True,2025-01-11 13:00:00,Alaves,Girona,0,1,1.722,0.6257
+27168,True,2025-01-11 15:15:00,Real Valladolid,Real Betis,1,0,1.6245,1.0381
+27171,True,2025-01-11 17:30:00,Espanyol,Leganes,1,1,1.0554,1.925
+27165,True,2025-01-11 20:00:00,Sevilla,Valencia,1,1,0.7344,1.0811
+27170,True,2025-01-12 13:00:00,Las Palmas,Getafe,1,2,1.6264,1.3958
+27163,True,2025-01-12 15:15:00,Atletico Madrid,Osasuna,1,0,2.2872,0.392
+27164,True,2025-01-13 20:00:00,Real Sociedad,Villarreal,1,0,0.806,1.2253
+27172,True,2025-01-17 20:00:00,Espanyol,Real Valladolid,2,1,1.2884,1.7202
+27173,True,2025-01-18 13:00:00,Girona,Sevilla,1,2,1.1433,3.0922
+27176,True,2025-01-18 15:15:00,Leganes,Atletico Madrid,1,0,0.7703,3.0563
+27181,True,2025-01-18 17:30:00,Real Betis,Alaves,1,3,0.5015,1.6539
+27177,True,2025-01-18 20:00:00,Getafe,Barcelona,1,1,1.1692,3.5038
+27175,True,2025-01-19 13:00:00,Celta Vigo,Athletic Club,1,2,0.4003,2.4968
+27180,True,2025-01-19 15:15:00,Real Madrid,Las Palmas,4,1,6.4055,1.062
+27174,True,2025-01-19 17:30:00,Osasuna,Rayo Vallecano,1,1,0.6604,0.7975
+27179,True,2025-01-19 20:00:00,Valencia,Real Sociedad,1,0,1.7725,0.7582
+27178,True,2025-01-20 20:00:00,Villarreal,Mallorca,4,0,2.3544,0.391
+27185,True,2025-01-24 20:00:00,Las Palmas,Osasuna,1,1,0.8332,2.5369
+27187,True,2025-01-25 13:00:00,Mallorca,Real Betis,0,1,0.7894,0.5949
+27183,True,2025-01-25 15:15:00,Atletico Madrid,Villarreal,1,1,1.7227,1.7846
+27191,True,2025-01-25 17:30:00,Sevilla,Espanyol,1,1,1.1501,1.2794
+27190,True,2025-01-25 20:00:00,Real Valladolid,Real Madrid,0,3,0.2347,2.4568
+27189,True,2025-01-26 13:00:00,Rayo Vallecano,Girona,2,1,3.0105,1.5618
+27188,True,2025-01-26 15:15:00,Real Sociedad,Getafe,0,3,1.2607,2.0103
+27182,True,2025-01-26 17:30:00,Athletic Club,Leganes,0,0,2.2728,1.574
+27184,True,2025-01-26 20:00:00,Barcelona,Valencia,7,1,4.3587,1.3033
+27186,True,2025-01-27 20:00:00,Alaves,Celta Vigo,1,1,0.8917,0.1551
+27197,True,2025-01-31 20:00:00,Leganes,Rayo Vallecano,0,1,1.0001,2.3909
+27193,True,2025-02-01 13:00:00,Getafe,Sevilla,0,0,0.9227,0.871
+27196,True,2025-02-01 15:15:00,Villarreal,Real Valladolid,5,1,3.8935,0.7473
+27192,True,2025-02-01 17:30:00,Atletico Madrid,Mallorca,2,0,1.5987,0.4218
+27201,True,2025-02-01 20:00:00,Espanyol,Real Madrid,1,0,0.5272,1.528
+27200,True,2025-02-02 13:00:00,Barcelona,Alaves,1,0,1.1853,0.1263
+27199,True,2025-02-02 15:15:00,Valencia,Celta Vigo,2,1,1.9306,0.515
+27195,True,2025-02-02 17:30:00,Osasuna,Real Sociedad,2,1,1.1109,2.3512
+27198,True,2025-02-02 20:00:00,Real Betis,Athletic Club,2,2,1.3172,1.7591
+27194,True,2025-02-03 20:00:00,Girona,Las Palmas,2,1,2.1919,1.3179
+27211,True,2025-02-07 20:00:00,Rayo Vallecano,Real Valladolid,1,0,2.8726,0.6102
+27207,True,2025-02-08 13:00:00,Celta Vigo,Real Betis,3,2,1.7513,1.5116
+27209,True,2025-02-08 15:15:00,Athletic Club,Girona,3,0,3.8194,0.0558
+27203,True,2025-02-08 17:30:00,Las Palmas,Villarreal,1,2,1.9062,1.2602
+27205,True,2025-02-08 20:00:00,Real Madrid,Atletico Madrid,1,1,2.5558,1.6246
+27204,True,2025-02-09 13:00:00,Alaves,Getafe,0,1,1.2586,0.8251
+27208,True,2025-02-09 15:15:00,Valencia,Leganes,2,0,2.0319,0.4176
+27202,True,2025-02-09 17:30:00,Real Sociedad,Espanyol,2,1,1.6784,0.8725
+27206,True,2025-02-09 20:00:00,Sevilla,Barcelona,1,4,0.9214,1.932
+27210,True,2025-02-10 20:00:00,Mallorca,Osasuna,1,1,1.1732,1.8197
+27213,True,2025-02-14 20:00:00,Girona,Getafe,1,2,1.287,0.9554
+27219,True,2025-02-15 13:00:00,Leganes,Alaves,3,3,1.7633,1.4212
+27220,True,2025-02-15 15:15:00,Osasuna,Real Madrid,1,1,1.6438,2.7334
+27212,True,2025-02-15 17:30:00,Atletico Madrid,Celta Vigo,1,1,0.6891,1.4539
+27216,True,2025-02-15 20:00:00,Villarreal,Valencia,1,1,1.0423,0.741
+27221,True,2025-02-16 13:00:00,Espanyol,Athletic Club,1,1,1.1958,0.8968
+27215,True,2025-02-16 15:15:00,Real Valladolid,Sevilla,0,4,0.5325,1.4827
+27217,True,2025-02-16 17:30:00,Mallorca,Las Palmas,3,1,2.3341,1.044
+27218,True,2025-02-16 20:00:00,Real Betis,Real Sociedad,3,0,2.4945,0.2053
+27214,True,2025-02-17 20:00:00,Barcelona,Rayo Vallecano,1,0,2.8277,1.3094
+27223,True,2025-02-21 20:00:00,Celta Vigo,Osasuna,1,0,2.3189,0.8385
+27231,True,2025-02-22 13:00:00,Alaves,Espanyol,0,1,1.5463,0.4959
+27224,True,2025-02-22 15:15:00,Rayo Vallecano,Villarreal,0,1,0.5143,0.794
+27225,True,2025-02-22 17:30:00,Valencia,Atletico Madrid,0,3,1.3543,2.3178
+27226,True,2025-02-22 20:00:00,Las Palmas,Barcelona,0,2,0.431,1.6649
+27222,True,2025-02-23 13:00:00,Athletic Club,Real Valladolid,7,1,5.3162,0.5988
+27228,True,2025-02-23 15:15:00,Real Madrid,Girona,2,0,2.3631,0.3256
+27227,True,2025-02-23 17:30:00,Getafe,Real Betis,1,2,0.8627,2.3457
+27230,True,2025-02-23 20:00:00,Real Sociedad,Leganes,3,0,1.0679,0.2567
+27229,True,2025-02-24 20:00:00,Sevilla,Mallorca,1,1,1.5822,1.6496
+27239,True,2025-02-28 20:00:00,Real Valladolid,Las Palmas,1,1,2.1739,0.1632
+27237,True,2025-03-01 13:00:00,Girona,Celta Vigo,2,2,0.895,1.6476
+27235,True,2025-03-01 15:15:00,Rayo Vallecano,Sevilla,1,1,2.5901,0.8078
+27233,True,2025-03-01 17:30:00,Real Betis,Real Madrid,2,1,2.2396,1.0507
+27236,True,2025-03-01 20:00:00,Atletico Madrid,Athletic Club,1,0,2.0161,1.5433
+27238,True,2025-03-02 13:00:00,Leganes,Getafe,1,0,0.5545,0.585
+27232,True,2025-03-02 15:15:00,Barcelona,Real Sociedad,4,0,3.637,0.0
+27240,True,2025-03-02 17:30:00,Mallorca,Alaves,1,1,1.8319,1.6376
+27234,True,2025-03-02 20:00:00,Osasuna,Valencia,3,3,1.2678,1.5498
+27246,True,2025-03-08 13:00:00,Celta Vigo,Leganes,2,1,1.071,0.9981
+27249,True,2025-03-08 15:15:00,Alaves,Villarreal,1,0,1.2148,2.6329
+27248,True,2025-03-08 17:30:00,Valencia,Real Valladolid,2,1,2.371,0.6456
+27250,True,2025-03-09 13:00:00,Getafe,Atletico Madrid,2,1,1.3981,1.0214
+27251,True,2025-03-09 15:15:00,Real Madrid,Rayo Vallecano,2,1,1.5944,1.21
+27243,True,2025-03-09 17:30:00,Athletic Club,Mallorca,1,1,0.9387,1.0251
+27245,True,2025-03-09 17:30:00,Real Betis,Las Palmas,1,0,2.3141,0.4265
+27247,True,2025-03-09 20:00:00,Real Sociedad,Sevilla,0,1,0.8039,1.0116
+27242,True,2025-03-10 20:00:00,Espanyol,Girona,1,1,0.3253,1.5879
+27260,True,2025-03-14 20:00:00,Las Palmas,Alaves,2,2,1.9439,1.4989
+27257,True,2025-03-15 13:00:00,Real Valladolid,Celta Vigo,0,1,0.8394,1.8165
+27261,True,2025-03-15 15:15:00,Mallorca,Espanyol,2,1,2.5704,0.1843
+27259,True,2025-03-15 17:30:00,Villarreal,Real Madrid,1,2,2.0054,1.1
+27253,True,2025-03-15 20:00:00,Girona,Valencia,1,1,1.1798,1.2197
+27256,True,2025-03-16 13:00:00,Leganes,Real Betis,2,3,1.5733,2.9281
+27255,True,2025-03-16 15:15:00,Sevilla,Athletic Club,0,1,0.4593,1.6449
+27254,True,2025-03-16 17:30:00,Rayo Vallecano,Real Sociedad,2,2,0.5369,0.9055
+27258,True,2025-03-16 17:30:00,Osasuna,Getafe,1,2,2.0849,0.9009
+27252,True,2025-03-16 20:00:00,Atletico Madrid,Barcelona,2,4,1.0943,2.1622
+27244,True,2025-03-27 20:00:00,Barcelona,Osasuna,3,0,4.6371,0.5336
+27265,True,2025-03-29 13:00:00,Real Sociedad,Real Valladolid,2,1,1.3281,1.2953
+27262,True,2025-03-29 15:15:00,Espanyol,Atletico Madrid,1,1,0.985,0.9945
+27266,True,2025-03-29 17:30:00,Alaves,Rayo Vallecano,0,2,1.6006,0.6817
+27268,True,2025-03-29 20:00:00,Real Madrid,Leganes,3,2,3.5926,2.3836
+27264,True,2025-03-30 13:00:00,Getafe,Villarreal,1,2,0.9401,1.3847
+27270,True,2025-03-30 15:15:00,Barcelona,Girona,4,1,2.7533,0.4908
+27267,True,2025-03-30 17:30:00,Valencia,Mallorca,1,0,0.7315,0.6578
+27269,True,2025-03-30 17:30:00,Athletic Club,Osasuna,0,0,0.7595,0.565
+27271,True,2025-03-30 20:00:00,Real Betis,Sevilla,2,1,0.8942,0.8676
+27263,True,2025-03-31 20:00:00,Celta Vigo,Las Palmas,1,1,1.0766,0.5273
+27281,True,2025-04-04 19:00:00,Rayo Vallecano,Espanyol,0,4,0.5013,3.4874
+27280,True,2025-04-05 12:00:00,Girona,Alaves,0,1,1.7331,0.8057
+27273,True,2025-04-05 14:15:00,Real Madrid,Valencia,1,2,3.3612,1.09
+27278,True,2025-04-05 16:30:00,Mallorca,Celta Vigo,1,2,0.67,1.1206
+27272,True,2025-04-05 19:00:00,Barcelona,Real Betis,1,1,1.4684,0.2499
+27274,True,2025-04-06 12:00:00,Las Palmas,Real Sociedad,1,3,1.7539,2.815
+27277,True,2025-04-06 14:15:00,Sevilla,Atletico Madrid,1,2,0.8187,1.2365
+27279,True,2025-04-06 16:30:00,Real Valladolid,Getafe,0,4,0.301,2.8029
+27276,True,2025-04-06 19:00:00,Villarreal,Athletic Club,0,0,1.5949,0.9987
+27275,True,2025-04-07 19:00:00,Leganes,Osasuna,1,1,2.2233,2.0741
+27291,True,2025-04-11 19:00:00,Valencia,Sevilla,1,0,1.4263,0.9105
+27290,True,2025-04-12 12:00:00,Real Sociedad,Mallorca,0,2,0.6168,0.8011
+27286,True,2025-04-12 14:15:00,Getafe,Las Palmas,1,3,1.6178,1.5422
+27282,True,2025-04-12 16:30:00,Celta Vigo,Espanyol,0,2,0.8244,0.7808
+27288,True,2025-04-12 19:00:00,Leganes,Barcelona,0,1,0.5988,1.1011
+27289,True,2025-04-13 12:00:00,Osasuna,Girona,2,1,1.6885,0.5743
+27287,True,2025-04-13 14:15:00,Alaves,Real Madrid,0,1,0.6078,1.2654
+27285,True,2025-04-13 16:30:00,Real Betis,Villarreal,1,2,2.0405,1.3261
+27283,True,2025-04-13 19:00:00,Athletic Club,Rayo Vallecano,3,1,1.9765,1.8188
+27284,True,2025-04-14 19:00:00,Atletico Madrid,Real Valladolid,4,2,4.0629,1.3802
+27301,True,2025-04-18 19:00:00,Espanyol,Getafe,1,0,0.3673,0.7366
+27293,True,2025-04-19 12:00:00,Rayo Vallecano,Valencia,1,1,0.7223,2.0628
+27292,True,2025-04-19 14:15:00,Barcelona,Celta Vigo,4,3,2.5659,2.505
+27300,True,2025-04-19 16:30:00,Mallorca,Leganes,0,0,1.0692,0.9518
+27295,True,2025-04-19 19:00:00,Las Palmas,Atletico Madrid,1,0,0.7684,0.7571
+27297,True,2025-04-20 12:00:00,Real Valladolid,Osasuna,2,3,1.4546,2.362
+27298,True,2025-04-20 14:15:00,Villarreal,Real Sociedad,2,2,2.145,2.2978
+27299,True,2025-04-20 16:30:00,Sevilla,Alaves,1,1,1.8961,1.3031
+27294,True,2025-04-20 19:00:00,Real Madrid,Athletic Club,1,0,2.4067,0.1325
+27296,True,2025-04-21 19:00:00,Girona,Real Betis,1,3,1.1033,2.2825
+27302,True,2025-04-22 19:00:00,Valencia,Espanyol,1,1,1.079,0.3442
+27305,True,2025-04-22 19:30:00,Barcelona,Mallorca,1,0,3.4346,0.3266
+27303,True,2025-04-23 17:00:00,Athletic Club,Las Palmas,1,0,2.638,1.0177
+27307,True,2025-04-23 17:00:00,Celta Vigo,Villarreal,3,0,3.1968,0.5946
+27308,True,2025-04-23 19:30:00,Getafe,Real Madrid,0,1,2.5356,1.748
+27310,True,2025-04-23 19:30:00,Alaves,Real Sociedad,1,0,0.8155,0.4721
+27309,True,2025-04-24 17:00:00,Osasuna,Sevilla,1,0,0.3737,0.9344
+27311,True,2025-04-24 17:00:00,Leganes,Girona,1,1,0.3308,0.7641
+27304,True,2025-04-24 19:30:00,Atletico Madrid,Rayo Vallecano,3,0,3.3453,1.1319
+27306,True,2025-04-24 19:30:00,Real Betis,Real Valladolid,5,1,2.267,0.8397
+27241,True,2025-04-27 14:15:00,Villarreal,Espanyol,1,0,1.3541,1.5352
+27318,True,2025-05-02 19:00:00,Rayo Vallecano,Getafe,1,0,1.2162,0.8041
+27314,True,2025-05-03 12:00:00,Alaves,Atletico Madrid,0,0,0.9081,0.3914
+27319,True,2025-05-03 14:15:00,Villarreal,Osasuna,4,2,2.3004,1.4141
+27313,True,2025-05-03 16:30:00,Las Palmas,Valencia,2,3,1.8099,1.6731
+27316,True,2025-05-03 19:00:00,Real Valladolid,Barcelona,1,2,0.7456,2.2117
+27317,True,2025-05-04 12:00:00,Real Madrid,Celta Vigo,3,2,3.0741,2.1307
+27320,True,2025-05-04 14:15:00,Sevilla,Leganes,2,2,2.3374,0.8049
+27321,True,2025-05-04 16:30:00,Espanyol,Real Betis,1,2,0.8732,1.0563
+27315,True,2025-05-04 19:00:00,Real Sociedad,Athletic Club,0,0,0.8932,0.2329
+27312,True,2025-05-05 19:00:00,Girona,Mallorca,1,0,1.7781,0.4881
+27329,True,2025-05-09 19:00:00,Las Palmas,Rayo Vallecano,0,1,0.7214,1.0078
+27330,True,2025-05-10 12:00:00,Valencia,Getafe,3,0,2.974,0.5901
+27326,True,2025-05-10 14:15:00,Celta Vigo,Sevilla,3,2,0.9595,2.6139
+27327,True,2025-05-10 16:30:00,Girona,Villarreal,0,1,0.2802,2.2824
+27328,True,2025-05-10 16:30:00,Mallorca,Real Valladolid,2,1,1.7564,2.7639
+27323,True,2025-05-10 19:00:00,Atletico Madrid,Real Sociedad,4,0,1.7153,0.2987
+27322,True,2025-05-11 12:00:00,Leganes,Espanyol,3,2,2.0578,1.5774
+27324,True,2025-05-11 14:15:00,Barcelona,Real Madrid,4,3,4.1063,2.5616
+27331,True,2025-05-11 16:30:00,Athletic Club,Alaves,1,0,1.3505,0.6428
+27325,True,2025-05-11 19:00:00,Real Betis,Osasuna,1,1,0.3593,2.2272
+27338,True,2025-05-13 17:00:00,Real Valladolid,Girona,0,1,1.3069,1.5675
+27337,True,2025-05-13 18:00:00,Real Sociedad,Celta Vigo,0,1,3.3132,1.2994
+27340,True,2025-05-13 19:30:00,Sevilla,Las Palmas,1,0,0.9313,0.3991
+27333,True,2025-05-14 17:00:00,Alaves,Valencia,1,0,2.0626,0.5848
+27341,True,2025-05-14 17:00:00,Villarreal,Leganes,3,0,2.2889,1.1903
+27339,True,2025-05-14 19:30:00,Real Madrid,Mallorca,2,1,3.4617,0.4752
+27335,True,2025-05-15 17:00:00,Osasuna,Atletico Madrid,2,0,1.0747,1.3409
+27336,True,2025-05-15 17:00:00,Rayo Vallecano,Real Betis,2,2,1.302,1.1713
+27332,True,2025-05-15 19:30:00,Espanyol,Barcelona,0,2,1.5153,0.7359
+27334,True,2025-05-15 19:30:00,Getafe,Athletic Club,0,2,0.7338,1.3334
+27342,True,2025-05-18 17:00:00,Atletico Madrid,Real Betis,4,1,4.9428,0.8219
+27343,True,2025-05-18 17:00:00,Barcelona,Villarreal,2,3,1.569,1.9618
+27344,True,2025-05-18 17:00:00,Celta Vigo,Rayo Vallecano,1,2,2.4242,0.9069
+27345,True,2025-05-18 17:00:00,Valencia,Athletic Club,0,1,0.3887,1.1621
+27346,True,2025-05-18 17:00:00,Mallorca,Getafe,1,2,0.8091,1.5598
+27347,True,2025-05-18 17:00:00,Real Sociedad,Girona,3,2,1.8725,1.6451
+27348,True,2025-05-18 17:00:00,Sevilla,Real Madrid,0,2,0.4849,1.9599
+27349,True,2025-05-18 17:00:00,Real Valladolid,Alaves,0,1,0.8905,1.2269
+27350,True,2025-05-18 17:00:00,Las Palmas,Leganes,0,1,0.5137,1.0627
+27351,True,2025-05-18 17:00:00,Osasuna,Espanyol,2,0,1.925,0.5723
+27354,True,2025-05-23 19:00:00,Real Betis,Valencia,1,1,1.1529,0.6477
+27355,True,2025-05-24 14:15:00,Real Madrid,Real Sociedad,2,0,2.6191,1.185
+27352,True,2025-05-24 16:30:00,Espanyol,Las Palmas,2,0,1.7217,0.7355
+27357,True,2025-05-24 16:30:00,Leganes,Real Valladolid,3,0,1.7474,0.4794
+27356,True,2025-05-24 19:00:00,Alaves,Osasuna,1,1,1.5747,1.881
+27359,True,2025-05-24 19:00:00,Getafe,Celta Vigo,1,2,0.359,1.3082
+27360,True,2025-05-24 19:00:00,Rayo Vallecano,Mallorca,0,0,2.1198,0.7479
+27358,True,2025-05-25 12:00:00,Girona,Atletico Madrid,0,4,0.0503,3.1064
+27361,True,2025-05-25 14:15:00,Villarreal,Sevilla,4,2,1.288,1.6483
+27353,True,2025-05-25 19:00:00,Athletic Club,Barcelona,0,3,0.7508,3.364

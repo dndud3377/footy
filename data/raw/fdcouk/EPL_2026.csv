@@ -1,0 +1,71 @@
+date,time_uk,home,away,hg,ag,ht_hg,ht_ag,referee,h_shots,a_shots,h_sot,a_sot,h_fouls,a_fouls,h_corners,a_corners,h_yellow,a_yellow,h_red,a_red
+2026-08-21,20:00,Arsenal,Coventry,3,0,2,0,T Bramall,20,4,6,1,10,13,8,2,1,1,0,0
+2026-08-22,12:30,Hull,Man United,2,0,2,0,D England,8,21,4,5,10,9,1,6,2,1,0,0
+2026-08-22,15:00,Everton,Crystal Palace,2,0,1,0,P Tierney,16,11,5,4,5,15,4,0,0,1,0,0
+2026-08-22,15:00,Ipswich,Sunderland,2,1,1,1,F Hallam,10,11,3,4,12,14,3,5,0,3,0,0
+2026-08-22,15:00,Nott'm Forest,Leeds,0,1,0,0,R Jones,12,11,2,3,15,14,3,2,2,1,0,0
+2026-08-22,17:30,Brentford,Tottenham,3,0,2,0,M Oliver,26,9,8,4,17,14,7,3,1,1,0,0
+2026-08-23,14:00,Brighton,Aston Villa,4,0,4,0,P Bankes,21,6,6,0,12,11,5,2,2,3,0,1
+2026-08-23,14:00,Man City,Bournemouth,2,1,0,1,J Gillett,13,5,6,4,11,11,8,3,1,2,0,0
+2026-08-23,16:30,Newcastle,Liverpool,2,2,1,0,S Attwell,13,27,4,7,16,15,2,6,5,3,0,0
+2026-08-24,20:00,Fulham,Chelsea,2,3,1,2,J Brooks,14,18,6,6,12,7,6,4,2,3,0,0
+2026-08-28,20:00,Crystal Palace,Man City,1,4,0,1,A Madley,9,18,1,9,8,11,2,6,1,2,0,0
+2026-08-29,12:30,Liverpool,Nott'm Forest,2,2,0,1,S Barrott,13,12,4,3,13,10,3,5,4,2,0,0
+2026-08-29,15:00,Bournemouth,Everton,1,1,1,0,C Kavanagh,17,13,5,7,11,14,10,7,3,2,0,0
+2026-08-29,15:00,Coventry,Hull,0,1,0,0,J Smith,11,6,3,2,11,8,6,2,1,4,0,0
+2026-08-29,17:30,Tottenham,Newcastle,0,2,0,0,P Bankes,17,11,6,2,15,9,9,7,1,2,0,0
+2026-08-30,14:00,Chelsea,Brighton,4,3,3,1,M Oliver,17,15,6,6,6,12,4,7,1,3,0,0
+2026-08-30,14:00,Leeds,Brentford,1,1,0,1,T Harrington,12,22,2,5,5,13,5,6,0,4,0,0
+2026-08-30,14:00,Sunderland,Fulham,1,0,0,0,M Salisbury,12,11,4,0,10,15,3,4,0,2,0,0
+2026-08-30,16:30,Man United,Ipswich,5,2,1,1,C Pawson,33,9,11,5,7,12,8,4,1,3,0,0
+2026-08-31,20:00,Aston Villa,Arsenal,0,1,0,0,J Gillett,7,7,0,2,17,6,2,4,3,1,0,0
+2026-09-04,20:00,Ipswich,Liverpool,0,2,0,2,D England,14,10,5,7,6,13,4,3,1,3,0,0
+2026-09-05,12:30,Newcastle,Bournemouth,2,2,1,2,R Jones,8,17,2,5,19,17,4,3,2,3,0,0
+2026-09-05,15:00,Brentford,Sunderland,1,1,0,0,T Bramall,12,14,2,5,19,9,4,3,3,2,0,0
+2026-09-05,15:00,Brighton,Leeds,1,1,0,1,S Attwell,20,10,5,5,13,16,7,6,3,3,0,0
+2026-09-05,15:00,Fulham,Crystal Palace,2,3,2,1,S Barrott,25,10,6,5,6,7,7,1,0,0,0,0
+2026-09-05,15:00,Man City,Coventry,1,0,1,0,P Tierney,15,12,4,3,7,17,4,5,1,2,0,0
+2026-09-05,15:00,Nott'm Forest,Tottenham,0,0,0,0,C Pawson,12,11,2,0,22,14,2,10,2,2,0,0
+2026-09-05,17:30,Hull,Aston Villa,0,0,0,0,M Oliver,11,13,4,1,10,5,3,4,2,0,0,0
+2026-09-06,14:00,Everton,Man United,2,2,0,0,J Brooks,18,14,6,3,7,11,4,3,3,3,0,0
+2026-09-06,16:30,Arsenal,Chelsea,2,1,1,1,C Kavanagh,16,13,9,5,13,16,5,3,2,4,0,0
+2026-09-12,15:00,Aston Villa,Nott'm Forest,1,2,0,0,A Madley,7,22,5,7,11,16,6,1,2,5,0,0
+2026-09-12,15:00,Bournemouth,Brentford,2,2,1,1,J Gillett,20,8,10,2,10,13,2,1,5,1,0,0
+2026-09-12,15:00,Chelsea,Hull,2,2,1,2,F Hallam,12,14,7,5,7,12,10,4,1,5,0,0
+2026-09-12,15:00,Crystal Palace,Ipswich,2,3,1,2,C Kavanagh,11,12,4,6,6,16,6,3,1,3,1,0
+2026-09-12,15:00,Liverpool,Fulham,0,0,0,0,T Bramall,14,10,3,4,11,8,5,8,0,1,0,0
+2026-09-12,17:30,Tottenham,Everton,0,0,0,0,D England,14,12,2,3,14,8,5,6,0,2,0,0
+2026-09-12,20:00,Sunderland,Arsenal,0,2,0,0,J Brooks,12,11,3,5,18,11,4,2,6,2,1,0
+2026-09-13,14:00,Coventry,Brighton,0,5,0,1,T Harrington,14,22,6,7,9,15,5,3,0,0,1,0
+2026-09-13,16:30,Man United,Man City,0,1,0,0,M Oliver,16,6,3,2,17,10,6,7,1,2,0,1
+2026-09-14,20:00,Leeds,Newcastle,4,1,3,0,M Salisbury,15,7,6,5,8,13,5,5,1,2,0,0
+2026-09-18,20:00,Brentford,Chelsea,3,0,0,0,A Madley,13,12,6,2,10,7,4,12,2,0,0,0
+2026-09-19,12:30,Tottenham,Aston Villa,2,3,0,1,S Barrott,20,15,7,6,9,13,11,1,1,2,0,0
+2026-09-19,15:00,Brighton,Arsenal,3,0,2,0,D England,17,11,5,2,13,11,5,6,4,1,0,0
+2026-09-19,15:00,Everton,Ipswich,1,0,1,0,S Attwell,21,13,2,4,6,12,4,4,2,1,0,1
+2026-09-19,15:00,Newcastle,Hull,2,1,2,0,T Harrington,12,22,5,4,4,10,4,7,1,4,0,0
+2026-09-19,17:30,Nott'm Forest,Coventry,0,1,0,0,J Gillett,24,10,3,3,12,10,6,2,2,0,0,0
+2026-09-20,14:00,Bournemouth,Liverpool,0,1,0,0,M Oliver,9,12,2,3,11,13,3,3,1,2,0,0
+2026-09-20,14:00,Leeds,Crystal Palace,0,0,0,0,A Herczeg,13,12,2,4,10,12,4,3,2,3,0,0
+2026-09-20,14:00,Man City,Sunderland,5,3,3,2,R Jones,16,17,6,9,14,14,6,5,0,1,0,0
+2026-09-20,16:30,Fulham,Man United,1,1,0,0,P Bankes,12,29,6,6,9,5,3,13,3,0,0,0
+2026-10-10,12:30,Arsenal,Leeds,2,1,0,0,P Tierney,13,11,6,5,12,20,2,4,1,4,0,0
+2026-10-10,15:00,Aston Villa,Brentford,2,2,1,1,C Pawson,20,14,7,4,7,24,2,2,2,5,0,0
+2026-10-10,15:00,Chelsea,Bournemouth,5,1,2,0,S Barrott,10,9,6,4,7,15,1,7,0,4,0,0
+2026-10-10,15:00,Ipswich,Fulham,2,1,0,0,L Smith,11,13,5,5,8,10,2,5,2,4,0,0
+2026-10-10,15:00,Sunderland,Brighton,0,2,0,0,T Bramall,12,13,3,4,8,12,7,5,0,1,0,1
+2026-10-10,17:30,Man United,Tottenham,1,1,0,0,S Attwell,12,12,4,3,13,16,4,4,4,3,0,1
+2026-10-11,14:00,Crystal Palace,Nott'm Forest,3,1,2,1,P Bankes,13,24,7,6,11,10,5,8,2,2,0,0
+2026-10-11,14:00,Hull,Everton,2,2,0,0,M Salisbury,9,15,5,7,15,4,7,6,2,0,0,0
+2026-10-11,16:30,Liverpool,Man City,0,3,0,0,C Kavanagh,13,15,6,4,19,14,5,6,4,2,1,0
+2026-10-12,20:00,Coventry,Newcastle,4,1,1,0,J Brooks,9,19,6,6,3,10,2,6,1,1,0,0
+2026-10-17,12:30,Everton,Chelsea,0,2,0,0,P Tierney,6,18,5,7,8,15,5,7,3,4,0,0
+2026-10-17,15:00,Brentford,Liverpool,1,2,1,0,J Brooks,10,21,2,5,7,13,3,9,4,3,2,0
+2026-10-17,15:00,Fulham,Hull,1,0,1,0,C Kavanagh,18,5,6,0,13,11,10,2,2,2,1,0
+2026-10-17,15:00,Man City,Ipswich,3,2,2,1,F Hallam,19,8,6,3,8,16,2,3,1,2,0,0
+2026-10-17,17:30,Newcastle,Aston Villa,0,1,0,1,J Gillett,16,15,1,3,14,11,4,5,6,2,0,0
+2026-10-18,14:00,Bournemouth,Sunderland,2,0,1,0,C Pawson,29,3,6,0,16,7,5,3,3,2,0,1
+2026-10-18,14:00,Brighton,Crystal Palace,5,0,3,0,R Jones,17,5,9,1,13,11,8,5,2,1,0,0
+2026-10-18,14:00,Leeds,Man United,1,1,0,1,D England,12,13,5,3,16,5,2,3,2,2,0,0
+2026-10-18,16:30,Nott'm Forest,Arsenal,0,1,0,0,M Oliver,14,9,2,1,14,8,8,6,1,1,0,0
+2026-10-19,20:00,Tottenham,Coventry,3,1,1,0,A Madley,16,12,5,1,15,14,4,4,1,3,0,0
