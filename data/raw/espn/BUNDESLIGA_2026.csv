@@ -53,7 +53,7 @@ ext_id,utc_kickoff,status,stage,group,matchday,home_id,home,home_short,away_id,a
 401884772,2026-10-17T16:30Z,FINISHED,2026-27-german-bundesliga,,,132,Bayern Munich,Bayern,11420,RB Leipzig,RB Leipzig,6,1,REGULAR
 401884771,2026-10-18T13:30Z,FINISHED,2026-27-german-bundesliga,,,131,Bayer Leverkusen,Leverkusen,126,SC Freiburg,Freiburg,2,1,REGULAR
 401884768,2026-10-18T15:30Z,FINISHED,2026-27-german-bundesliga,,,268,Borussia Mönchengladbach,Gladbach,7911,TSG Hoffenheim,Hoffenheim,1,2,REGULAR
-401884761,2026-10-23T18:30Z,SCHEDULED,2026-27-german-bundesliga,,,134,VfB Stuttgart,Stuttgart,268,Borussia Mönchengladbach,Gladbach,,,
+401884761,2026-10-23T18:30Z,FINISHED,2026-27-german-bundesliga,,,134,VfB Stuttgart,Stuttgart,268,Borussia Mönchengladbach,Gladbach,2,3,REGULAR
 401884762,2026-10-24T13:30Z,SCHEDULED,2026-27-german-bundesliga,,,11420,RB Leipzig,RB Leipzig,10388,SV Elversberg,Elversberg,,,
 401884755,2026-10-24T13:30Z,SCHEDULED,2026-27-german-bundesliga,,,3307,SC Paderborn 07,Paderborn,127,Hamburg SV,Hamburg,,,
 401884757,2026-10-24T13:30Z,SCHEDULED,2026-27-german-bundesliga,,,2950,Mainz,Mainz,137,Werder Bremen,Bremen,,,

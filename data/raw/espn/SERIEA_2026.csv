@@ -69,7 +69,7 @@ ext_id,utc_kickoff,status,stage,group,matchday,home_id,home,home_short,away_id,a
 401874765,2026-10-18T18:45Z,FINISHED,2026-27-italian-serie-a,,,111,Juventus,Juventus,112,Lazio,Lazio,0,3,REGULAR
 401874762,2026-10-19T16:30Z,FINISHED,2026-27-italian-serie-a,,,4007,Monza,Monza,2925,Cagliari,Cagliari,4,0,REGULAR
 401874784,2026-10-19T18:45Z,FINISHED,2026-27-italian-serie-a,,,115,Parma,Parma,239,Torino,Torino,0,3,REGULAR
-401874957,2026-10-23T18:45Z,SCHEDULED,2026-27-italian-serie-a,,,239,Torino,Torino,4007,Monza,Monza,,,
+401874957,2026-10-23T18:45Z,FINISHED,2026-27-italian-serie-a,,,239,Torino,Torino,4007,Monza,Monza,3,2,REGULAR
 401874958,2026-10-24T13:00Z,SCHEDULED,2026-27-italian-serie-a,,,2925,Cagliari,Cagliari,107,Bologna,Bologna,,,
 401874961,2026-10-24T13:00Z,SCHEDULED,2026-27-italian-serie-a,,,2572,Como,Como,3997,Sassuolo,Sassuolo,,,
 401874948,2026-10-24T16:00Z,SCHEDULED,2026-27-italian-serie-a,,,114,Napoli,Napoli,104,AS Roma,AS Roma,,,

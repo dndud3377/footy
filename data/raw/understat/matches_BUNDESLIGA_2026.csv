@@ -53,7 +53,7 @@ understat_id,is_result,datetime,home,away,hg,ag,hxg,axg
 32288,True,2026-10-17 16:30:00,Bayern Munich,RasenBallsport Leipzig,6.0,1.0,4.904,0.7038
 32287,True,2026-10-18 13:30:00,Bayer Leverkusen,Freiburg,2.0,1.0,1.8475,1.2068
 32289,True,2026-10-18 15:30:00,Borussia M.Gladbach,Hoffenheim,1.0,2.0,0.758,2.171
-32302,False,2026-10-23 18:30:00,VfB Stuttgart,Borussia M.Gladbach,,,,
+32302,True,2026-10-23 18:30:00,VfB Stuttgart,Borussia M.Gladbach,2.0,3.0,1.9792,2.6254
 32295,False,2026-10-24 13:30:00,Augsburg,Union Berlin,,,,
 32297,False,2026-10-24 13:30:00,FC Cologne,Schalke 04,,,,
 32300,False,2026-10-24 13:30:00,Mainz 05,Werder Bremen,,,,

@@ -89,7 +89,7 @@ understat_id,is_result,datetime,home,away,hg,ag,hxg,axg
 30857,True,2026-10-18 19:00:00,Real Madrid,Sevilla,4.0,1.0,2.125,1.3217
 30854,True,2026-10-19 19:00:00,Getafe,Rayo Vallecano,1.0,1.0,0.8971,2.2931
 30827,False,2026-10-21 18:00:00,Levante,Athletic Club,,,,
-30860,False,2026-10-23 19:00:00,Alaves,Malaga,,,,
+30860,True,2026-10-23 19:00:00,Alaves,Malaga,1.0,1.0,1.8043,0.8057
 30866,False,2026-10-24 12:00:00,Rayo Vallecano,Elche,,,,
 30865,False,2026-10-24 14:15:00,Racing Santander,Espanyol,,,,
 30869,False,2026-10-24 16:30:00,Valencia,Villarreal,,,,

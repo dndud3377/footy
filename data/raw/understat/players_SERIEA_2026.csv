@@ -1,7 +1,7 @@
 understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,npxg,shots,key_passes,xg_chain,xg_buildup,yellow,red
 9539,Antonio Raimondo,Frosinone,F,7,581,7,0,5.1492,0.4333,7,5.1492,24,3,4.7441,0.1193,2,0
+14794,Gustavo Varela,Monza,F,7,603,7,1,3.4144,1.3594,6,2.6531,16,8,4.9177,0.9807,1,0
 9749,Donyell Malen,Roma,F,6,407,6,0,6.4086,0.885,6,6.4086,22,8,8.4682,1.352,1,1
-14794,Gustavo Varela,Monza,F,6,513,6,1,3.1408,1.3594,5,2.3795,14,8,4.6441,0.9807,1,0
 3291,Adrien Rabiot,AC Milan,F M S,7,486,4,3,1.7634,1.0997,4,1.7634,9,8,3.4544,2.1707,1,0
 5992,Marcus Thuram,Inter,F S,6,368,4,2,4.3245,1.0296,4,4.3245,19,7,6.4334,3.0069,1,0
 7006,Lautaro Martínez,Inter,F S,5,352,4,0,5.3516,0.9905,4,5.3516,25,8,5.2657,1.1839,2,0
@@ -10,7 +10,7 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 189,Hakan Calhanoglu,Inter,M S,5,208,3,0,0.8688,0.6913,2,0.1075,5,7,3.3996,2.8658,1,0
 447,Kevin De Bruyne,Napoli,M S,7,380,3,1,3.0476,2.143,2,1.525,10,20,5.8764,4.291,0,0
 4981,Davide Frattesi,Lazio,M S,7,538,3,0,1.9102,1.1097,3,1.9102,10,6,3.9596,1.0658,0,0
-7700,Che Adams,Torino,F M S,5,326,3,0,1.7814,0.1492,3,1.7814,7,2,2.2484,0.6557,0,0
+7700,Che Adams,Torino,F M S,6,416,3,0,1.9333,0.1834,3,1.9333,11,3,2.4982,0.7194,0,0
 9762,Milutin Osmajic,Genoa,F S,6,473,3,1,1.8197,1.0454,3,1.8197,12,7,3.0243,0.1592,0,0
 9993,Jurgen Ekkelenkamp,Udinese,M,7,619,3,1,1.3673,0.9375,3,1.3673,20,7,3.5793,1.4937,0,0
 11882,Giorgi Kvernadze,Frosinone,M,7,610,3,1,2.1376,1.5853,3,2.1376,21,15,4.333,1.6438,1,0
@@ -18,7 +18,7 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 12030,Tasos Douvikas,Como,F S,7,503,3,0,4.2988,0.3482,3,4.2988,19,5,4.0376,0.5794,0,0
 13072,Vasilije Adzic,Sassuolo,M S,6,293,3,1,1.7351,0.809,3,1.7351,12,12,2.5297,1.173,0,0
 13847,Franco Mastantuono,Fiorentina,F M,7,552,3,0,2.6539,1.0028,3,2.6539,27,13,4.1477,1.3905,2,0
-1102,Giovanni Simeone,Torino,F S,7,516,2,0,1.8111,0.0922,2,1.8111,14,2,2.3213,0.453,0,0
+1102,Giovanni Simeone,Torino,F S,8,589,2,1,1.9737,0.5457,2,1.9737,16,5,2.9374,0.453,0,0
 1612,Domenico Berardi,Sassuolo,F M S,6,393,2,0,1.8218,0.5259,2,1.8218,12,8,3.0586,1.0692,0,0
 1814,Giacomo Calo,Frosinone,M,7,610,2,1,1.1441,1.6363,2,1.1441,15,29,3.6257,2.3825,0,0
 3334,Lassana Coulibaly,Lecce,F M,7,580,2,1,1.6445,0.2583,2,1.6445,9,7,2.6105,1.0447,0,0
@@ -41,11 +41,11 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 12785,Antoine Hainaut,Venezia,D,7,627,2,1,1.3101,2.0273,2,1.3101,8,10,4.3417,1.9485,0,0
 13396,Tiago Gabriel,Lecce,D S,6,423,2,1,1.3062,0.7309,2,1.3062,4,2,1.0536,0.9115,0,0
 13446,Mateo Pellegrino,Fiorentina,F S,7,469,2,0,0.9927,0.4967,2,0.9927,8,9,2.5658,1.1742,1,0
-13582,Jay Robinson,Monza,M S,5,328,2,0,1.1185,0.1158,2,1.1185,9,3,3.6573,2.4403,0,0
+13582,Jay Robinson,Monza,M S,6,409,2,0,1.1398,0.1158,2,1.1398,10,3,3.7363,2.498,0,0
 13934,Martin Baturina,Como,M S,6,295,2,1,0.6085,0.4272,2,0.6085,12,4,2.3953,1.6311,2,0
 14003,Francesco Pio Esposito,Inter,F S,7,421,2,1,2.9034,0.6679,2,2.9034,15,7,3.8944,0.8758,1,0
 14085,Cas Odenthal,Sassuolo,D S,3,245,2,0,1.1701,0.0121,2,1.1701,4,1,0.8607,0.2925,0,0
-14403,Sandro Kulenovic,Torino,S,5,102,2,0,1.0024,0.0,2,1.0024,5,0,1.0716,0.0692,0,0
+14403,Sandro Kulenovic,Torino,S,6,119,2,0,1.0024,0.0,2,1.0024,5,0,1.2968,0.2944,0,0
 14808,David Romero,Parma Calcio 1913,F S,6,283,2,0,1.3683,0.0331,2,1.3683,14,2,1.4995,0.0981,0,0
 1386,Piotr Zielinski,Inter,M S,6,437,1,2,0.6996,1.6194,1,0.6996,11,5,4.8454,2.9438,0,0
 1409,Nicolò Barella,Inter,M,6,540,1,2,0.7242,2.3746,1,0.7242,11,15,7.3394,6.2264,1,0
@@ -54,13 +54,14 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 1489,Franck Kessié,Atalanta,M S,4,247,1,0,0.9271,0.168,1,0.9271,5,3,1.9579,0.9236,1,0
 1958,Mattia Zaccagni,Lazio,F,7,624,1,3,2.372,2.3018,0,1.6107,18,11,4.9951,2.3853,3,0
 2662,Christian Pulisic,AC Milan,F M S,4,274,1,1,0.5215,1.6072,1,0.5215,4,7,2.8604,2.0917,1,0
-3821,Rolando Mandragora,"Fiorentina,Torino",M S,7,448,1,1,0.3562,0.3316,1,0.3562,8,8,1.385,1.2379,0,0
+3821,Rolando Mandragora,"Fiorentina,Torino",M S,8,501,1,1,0.3935,0.3673,1,0.3935,10,9,1.4224,1.2379,0,0
 4895,Andrea Pinamonti,Lazio,F S,6,139,1,1,0.8256,0.7301,1,0.8256,3,2,1.7403,0.1846,0,0
 5743,Randal Kolo Muani,Juventus,F,7,630,1,1,2.6373,0.5123,1,2.6373,16,7,2.7324,1.2256,0,0
 6125,Stanislav Lobotka,Napoli,M,7,605,1,0,0.4613,0.4861,1,0.4613,5,5,4.1372,3.6765,0,0
 6136,Mario Hermoso,Roma,D S,7,512,1,0,0.2334,1.0968,1,0.2334,4,6,5.6156,4.5848,2,0
 6160,Riccardo Orsolini,Bologna,M S,4,186,1,0,0.0499,0.182,1,0.0499,1,3,0.822,0.7366,0,0
 6253,Gianluca Scamacca,Atalanta,F S,6,275,1,0,0.3376,0.2488,1,0.3376,6,4,1.1424,0.6316,0,0
+6276,Nikola Vlasic,Torino,F M S,8,628,1,0,0.396,1.242,1,0.396,7,7,2.6112,1.5133,0,0
 6414,Yann Bisseck,Inter,D S,6,457,1,0,0.5464,0.1141,1,0.5464,5,3,2.9278,2.3677,0,0
 6718,Andrea Colpani,Monza,F M S,5,281,1,0,1.1223,0.7596,1,1.1223,7,7,1.6344,0.4941,0,0
 7074,Nicolás González,Juventus,D M S,6,357,1,0,0.4711,0.3178,1,0.4711,11,7,0.6722,0.2069,0,0
@@ -77,7 +78,7 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 9061,Pontus Almqvist,Parma Calcio 1913,S,5,72,1,1,0.4113,0.3354,1,0.4113,1,3,0.8201,0.0734,1,0
 9071,Matteo Cancellieri,Lazio,F S,5,300,1,0,0.7689,0.5894,1,0.7689,7,5,2.1209,0.7898,1,0
 9691,Nuno Tavares,Lazio,D S,7,506,1,3,0.6153,1.307,1,0.6153,11,10,2.9179,1.2334,0,0
-9806,Ricardo Mangas,Monza,D F,7,538,1,2,1.1884,1.241,1,1.1884,4,10,4.7757,2.6053,0,0
+9806,Ricardo Mangas,Monza,D F,8,628,1,2,1.2461,1.2725,1,1.2461,5,12,4.8806,2.6211,0,0
 9969,Teun Koopmeiners,Juventus,M S,6,126,1,1,0.1617,0.4503,1,0.1617,5,1,0.1962,0.0973,0,0
 9985,Johan Vásquez,Genoa,D,6,528,1,0,0.1473,0.058,1,0.1473,4,1,0.9339,0.8333,2,1
 10084,Cristian Volpato,Sassuolo,F S,4,195,1,0,0.2465,0.9094,1,0.2465,5,9,0.9757,0.522,1,0
@@ -91,16 +92,16 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 11023,Josh Doig,Sassuolo,D,7,576,1,0,0.218,0.4602,1,0.218,5,5,2.3619,2.0138,0,0
 11246,Amar Ahmed Fatah,Lecce,F S,6,242,1,0,0.4214,0.5954,1,0.4214,6,3,1.0073,0.0085,0,0
 11736,Artem Dovbyk,Bologna,S,4,88,1,0,1.0305,0.3946,1,1.0305,4,1,1.8532,0.4281,1,0
-11902,Pietro Comuzzo,Torino,D,6,519,1,0,1.1687,0.1517,1,1.1687,5,3,2.2551,1.884,1,0
+11902,Pietro Comuzzo,Torino,D,7,609,1,0,1.181,0.1517,1,1.181,6,3,2.272,1.9009,1,0
 12168,Alejandro Jiménez,Fiorentina,D S,6,451,1,1,0.385,0.6793,1,0.385,4,8,2.6868,1.9967,1,0
-12356,Saba Goglichidze,Monza,D S,2,144,1,0,0.4851,0.0,1,0.4851,1,0,0.132,0.132,0,0
+12356,Saba Goglichidze,Monza,D S,3,234,1,0,0.4851,0.0,1,0.4851,1,0,0.1477,0.1477,0,0
 12436,Jacobo Ramón,Como,D S,7,617,1,0,1.6862,0.8273,1,1.6862,6,4,5.0046,4.2481,1,0
 12528,Santiago Castro,Roma,F S,5,188,1,0,1.3868,0.1613,1,1.3868,11,3,2.262,0.8073,0,0
 12853,Jesper Karlström,Udinese,M,7,630,1,0,0.3241,0.0847,1,0.3241,3,5,1.8183,1.7241,2,0
 12872,Fisayo Dele-Bashiru,Lazio,M S,3,106,1,0,0.291,0.0632,1,0.291,1,1,0.8328,0.5419,0,0
 12874,Richie Sagrado,Venezia,D S,5,246,1,1,1.0642,0.9406,1,1.0642,5,3,2.2403,0.3269,0,0
 12885,Kialonda Gaspar,Lecce,D,5,428,1,0,1.24,0.0513,1,1.24,3,1,1.2692,1.2692,2,0
-13045,Eddy Kouadio,Monza,D,7,616,1,0,1.2497,0.8328,1,1.2497,3,4,3.0798,1.7816,2,0
+13045,Eddy Kouadio,Monza,D S,8,641,1,0,1.2497,0.8328,1,1.2497,3,4,3.0798,1.7816,2,0
 13052,Francisco Conceição,Juventus,M S,7,443,1,1,1.577,0.6041,1,1.577,14,8,2.3585,0.6821,1,0
 13151,Mattia Liberali,Como,M S,3,111,1,0,0.8595,0.0723,1,0.8595,6,1,0.6058,0.2379,0,0
 13342,Alessandro Romano,Cagliari,M,7,618,1,0,0.25,0.5857,1,0.25,10,6,1.8544,1.6329,0,0
@@ -111,6 +112,7 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 13878,Olaf Gorter,Lecce,M,2,112,1,0,0.0622,0.0295,1,0.0622,1,1,0.0622,0.0,0,0
 13881,Noa Lang,Napoli,F M S,5,257,1,0,1.1426,0.346,1,1.1426,9,4,3.0108,1.5429,0,0
 13955,Jakub Piotrowski,Udinese,M S,4,193,1,0,0.3903,0.2211,1,0.3903,7,3,0.7377,0.397,2,0
+13962,Rafik Belghali,Torino,D M S,6,347,1,3,0.0865,0.9367,1,0.0865,2,5,1.231,0.2078,1,0
 13964,Petar Sucic,Inter,M S,6,365,1,0,0.9849,0.199,1,0.9849,4,4,3.9773,2.9892,0,0
 14300,Emanuele Lulli,Roma,D M S,6,404,1,0,0.6235,0.8951,1,0.6235,2,6,3.5002,2.5455,0,0
 14417,Kieron Bowie,Sassuolo,F S,7,351,1,0,1.6723,0.8453,1,1.6723,11,8,2.5146,0.725,1,0
@@ -118,8 +120,9 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 14798,Kaiki,Como,D S,5,233,1,0,1.312,0.4612,1,1.312,7,4,2.1846,1.4237,0,0
 14804,Simone Lontani,Parma Calcio 1913,F M S,7,396,1,0,0.8337,0.4535,1,0.8337,10,1,0.9154,0.2569,0,0
 14888,Gabriele Bracaglia,Frosinone,D,7,593,1,1,0.5315,0.5832,1,0.5315,8,8,3.323,2.5197,3,0
+14898,Kian Fitz-Jim,Torino,M,6,460,1,0,0.4593,1.0827,1,0.4593,3,8,2.1041,1.0548,0,0
 14918,Rodrigo Mora,Roma,M S,5,234,1,0,1.2537,0.8696,1,1.2537,12,4,2.2646,0.8115,0,0
-15039,Daniel Bragança,Torino,M S,5,275,1,0,0.8663,0.3146,1,0.8663,5,2,1.3403,0.8886,1,0
+15039,Daniel Bragança,Torino,M S,6,292,1,0,0.8663,0.3146,1,0.8663,5,2,1.3403,0.8886,1,0
 15060,Jay Enem,Bologna,S,3,92,1,0,1.2898,0.1219,1,1.2898,3,2,1.4907,0.0791,0,0
 15079,Exequiel Zeballos,Monza,M S,2,72,1,0,0.1369,0.0,1,0.1369,3,0,0.127,0.127,0,0
 116,Florian Grillitsch,Frosinone,S,1,5,0,0,0.0,0.0,0,0.0,0,0,0.0,0.0,0,0
@@ -165,7 +168,7 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 3737,Mike Maignan,AC Milan,GK,7,630,0,0,0.0,0.0,0,0.0,0,0,0.7566,0.7566,0,0
 4291,Marc-Oliver Kempf,Como,D S,4,202,0,0,0.0433,0.0201,0,0.0433,2,1,1.2262,1.2262,0,0
 4911,Alessio Zerbin,Frosinone,S,6,96,0,0,0.1495,0.0202,0,0.1495,2,1,0.5005,0.3308,0,0
-4918,Patrick Cutrone,Monza,M S,5,199,0,0,0.8957,0.3798,0,0.8957,5,4,1.5859,0.3906,0,0
+4918,Patrick Cutrone,Monza,M S,6,208,0,0,0.8957,0.3798,0,0.8957,5,4,1.5859,0.3906,0,0
 4920,Matteo Gabbia,AC Milan,D S,3,34,0,0,0.0,0.0,0,0.0,0,0,0.0,0.0,0,0
 4939,Alessandro Bastoni,Inter,D,6,490,0,0,0.21,0.6635,0,0.21,3,5,5.4875,5.0752,1,0
 4952,Filippo Delli Carri,Monza,S,2,28,0,0,0.0,0.0,0,0.0,0,0,0.3401,0.3401,0,0
@@ -181,7 +184,6 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 6167,Vanja Milinkovic-Savic,Napoli,GK,2,180,0,0,0.0,0.0,0,0.0,0,0,0.4311,0.4311,0,0
 6176,Adam Marusic,Lazio,D,1,18,0,0,0.0,0.0,0,0.0,0,0,0.0239,0.0239,0,0
 6180,Manuel Lazzari,Lazio,S,4,32,0,0,0.0206,0.0,0,0.0206,1,0,0.0206,0.0,0,0
-6276,Nikola Vlasic,Torino,F M S,7,538,0,0,0.3004,0.7602,0,0.3004,6,4,1.9917,1.4712,0,0
 6332,Willem Geubbels,Lecce,F S,4,230,0,0,2.6302,0.0287,0,2.6302,9,1,2.6654,0.0361,0,0
 6368,Mathías Olivera,Napoli,D S,5,165,0,0,0.9766,0.2469,0,0.9766,6,4,3.0668,1.8702,0,0
 6412,Raoul Bellanova,Atalanta,D S,6,439,0,1,0.0118,1.0972,0,0.0118,1,7,2.3326,1.8323,1,0
@@ -229,7 +231,7 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 8117,Nick Woltemade,Juventus,S,5,116,0,0,1.1388,0.5114,0,1.1388,5,2,0.905,0.1669,0,0
 8182,Lucas Da Cunha,Como,M S,7,495,0,0,0.4419,0.7823,0,0.4419,11,11,5.148,4.401,0,0
 8197,Ilario Monterisi,Frosinone,D S,6,342,0,0,0.2373,0.2544,0,0.2373,5,4,0.6701,0.5277,0,0
-8232,Andrea Carboni,Monza,D,7,582,0,0,0.5358,0.7595,0,0.5358,5,4,2.9074,2.0586,1,0
+8232,Andrea Carboni,Monza,D,8,669,0,0,0.5358,0.7595,0,0.5358,5,4,3.0022,2.1533,1,0
 8290,Edoardo Corvi,Parma Calcio 1913,GK,7,630,0,0,0.0,0.0,0,0.0,0,0,0.4225,0.4225,0,0
 8294,El Bilal Touré,Parma Calcio 1913,F M,7,537,0,1,0.7866,0.081,0,0.7866,10,2,1.0764,0.3458,0,0
 8297,Alexis Saelemaekers,AC Milan,M S,4,185,0,1,0.1646,1.4295,0,0.1646,2,4,3.0812,1.4872,0,0
@@ -266,7 +268,7 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 9052,Josep Martínez,Inter,GK,7,630,0,0,0.0,0.0,0,0.0,0,0,1.4534,1.4534,0,0
 9057,Franco Ezequiel Carboni,Parma Calcio 1913,D,1,80,0,0,0.0,0.0,0,0.0,0,0,0.0913,0.0913,0,0
 9069,Romano Schmid,Frosinone,M,7,551,0,3,0.0818,1.3228,0,0.0818,4,10,3.4339,2.5914,2,0
-9090,Ardian Ismajli,Torino,D S,6,383,0,0,0.0,0.0,0,0.0,0,0,1.1491,1.1491,1,0
+9090,Ardian Ismajli,Torino,D S,7,473,0,0,0.0357,0.0,0,0.0357,1,0,1.172,1.172,2,0
 9098,Robert Sánchez,Como,GK,1,90,0,0,0.0,0.0,0,0.0,0,0,0.5543,0.5543,0,0
 9105,Radu Dragusin,Fiorentina,D,7,630,0,1,0.2269,0.1491,0,0.2269,3,2,2.3077,2.2563,1,0
 9107,Giorgio Scalvini,Atalanta,D,6,518,0,0,0.0284,0.0,0,0.0284,1,0,1.0793,1.0793,0,0
@@ -296,7 +298,7 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 10200,Rafa Marín,Napoli,D,6,531,0,0,0.1138,0.0955,0,0.1138,3,1,3.4463,3.4313,1,0
 10237,Leo Østigard,Genoa,D,7,606,0,0,0.1772,0.0175,0,0.1772,4,1,0.9051,0.8877,4,0
 10268,Giorgio Cittadini,Frosinone,D S,7,446,0,0,0.0395,0.0,0,0.0395,1,0,0.5727,0.5727,1,0
-10292,Nathan Patterson,Torino,S,2,72,0,0,0.0,0.0,0,0.0,0,0,0.0692,0.0692,1,0
+10292,Nathan Patterson,Torino,S,3,89,0,0,0.0884,0.0,0,0.0884,1,0,0.1576,0.0692,1,0
 10303,Jacopo Fazzini,Cagliari,M S,5,254,0,1,0.158,0.8553,0,0.158,4,4,0.2568,0.1817,1,0
 10348,Omari Hutchinson,AC Milan,S,3,46,0,0,0.0179,0.0,0,0.0179,1,0,0.0339,0.0339,0,0
 10365,Morten Frendrup,Genoa,M,7,624,0,0,0.0726,0.1594,0,0.0726,2,5,1.6566,1.5095,0,0
@@ -306,11 +308,11 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 10725,Danilho Doekhi,Lazio,D,4,325,0,1,0.9661,0.1459,0,0.9661,3,2,0.4549,0.309,1,0
 10733,Bartol Franjic,Venezia,D,2,137,0,0,0.4369,0.0,0,0.4369,2,0,0.4752,0.4752,0,0
 10764,Djed Spence,Inter,S,1,15,0,0,0.0,0.0,0,0.0,0,0,0.132,0.132,0,0
-10796,Zakaria Aboukhlal,Torino,S,3,39,0,0,0.3233,0.0,0,0.3233,2,0,0.3233,0.0,0,0
+10796,Zakaria Aboukhlal,Torino,S,4,43,0,0,0.6767,0.0855,0,0.6767,4,1,0.7622,0.0,0,0
 10877,Charles De Ketelaere,Atalanta,F M S,7,506,0,1,0.2702,1.1658,0,0.2702,4,13,2.9194,1.7883,0,0
 10878,Sandi Lovric,Udinese,S,1,9,0,0,0.0,0.0259,0,0.0,0,1,0.3642,0.3642,0,0
-10892,Samuele Birindelli,Monza,D,7,626,0,2,0.4797,1.6497,0,0.4797,11,12,3.7208,2.5991,2,0
-10895,Dany Mota,Monza,F M S,5,208,0,2,1.4195,1.3325,0,1.4195,12,7,2.5822,0.4789,0,0
+10892,Samuele Birindelli,Monza,D,8,716,0,2,0.4954,1.7131,0,0.4954,12,13,3.7579,2.6204,2,0
+10895,Dany Mota,Monza,F M S,6,289,0,2,1.4829,1.3902,0,1.4829,13,8,2.6399,0.5366,0,0
 10899,Emirhan Ilkhan,Torino,S,4,93,0,0,0.0359,0.4535,0,0.0359,1,2,0.9448,0.4913,0,0
 10906,Thórir Helgason,Venezia,M S,4,142,0,0,0.0475,0.0361,0,0.0475,2,1,0.3286,0.3213,0,0
 10908,Medon Berisha,Lecce,S,1,6,0,0,0.0331,0.0,0,0.0331,1,0,0.0331,0.0,0,0
@@ -328,18 +330,18 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 11149,Aleksandar Stankovic,Inter,S,3,40,0,0,0.0948,0.0172,0,0.0948,2,1,0.153,0.1358,0,0
 11155,Wilfried Gnonto,Fiorentina,M S,5,178,0,0,0.2176,0.1645,0,0.2176,4,3,1.48,1.2179,0,0
 11163,Yanis Massolin,Cagliari,M,1,61,0,0,0.0,0.0,0,0.0,0,0,0.0,0.0,0,0
-11278,Gvidas Gineitis,Torino,M S,6,318,0,1,0.1088,0.0605,0,0.1088,1,2,0.5594,0.4434,1,0
+11278,Gvidas Gineitis,Torino,M S,7,355,0,2,0.1088,0.1085,0,0.1088,1,4,0.6074,0.4663,1,0
 11283,Leonardo Colombo,Monza,S,1,25,0,0,0.0,0.0,0,0.0,0,0,0.0,0.0,1,0
-11306,Cyril Ngonge,Monza,M,1,36,0,0,0.0,0.0287,0,0.0,0,1,0.1076,0.079,0,0
+11306,Cyril Ngonge,Monza,M S,2,45,0,0,0.0,0.0287,0,0.0,0,1,0.1076,0.079,0,0
 11378,Máximo Perrone,Como,M S,7,372,0,1,0.6915,0.9685,0,0.6915,6,10,4.6078,3.2306,0,0
 11380,Vitinha,Genoa,M S,7,275,0,0,0.432,0.0165,0,0.432,8,1,0.601,0.2166,1,0
 11520,Lorenzo Bernasconi,Atalanta,D S,5,283,0,0,0.0392,0.3948,0,0.0392,1,3,0.8305,0.7738,0,0
 11531,Unai Gómez,Udinese,F M S,7,307,0,1,0.6443,0.5934,0,0.6443,6,3,0.8217,0.0847,1,0
-11586,Ebenezer Akinsanmiro,Monza,M S,6,440,0,1,0.0453,0.5489,0,0.0453,1,5,2.9281,2.6545,0,0
-11741,Saúl Coco,Torino,D,7,579,0,0,0.6589,0.0377,0,0.6589,6,2,1.8132,1.8132,0,0
+11586,Ebenezer Akinsanmiro,Monza,M S,7,530,0,1,0.0453,0.5647,0,0.0453,1,6,3.0015,2.7279,0,0
+11741,Saúl Coco,Torino,D,8,669,0,0,0.6589,0.0377,0,0.6589,6,2,1.8336,1.8336,0,0
 11768,Cher Ndour,Fiorentina,M S,7,578,0,1,0.4594,0.5935,0,0.4594,9,6,3.1557,2.1222,1,0
 11800,Arthur Atta,Fiorentina,M S,5,335,0,0,1.1758,0.3056,0,1.1758,11,5,2.4928,1.2958,0,0
-11877,Michael Folorunsho,Monza,M S,6,360,0,0,0.4612,0.6704,0,0.4612,7,3,2.9359,2.4571,2,0
+11877,Michael Folorunsho,Monza,M S,7,385,0,0,0.4713,0.6704,0,0.4713,8,3,3.0038,2.5149,2,0
 11879,Anthony Oyono,Frosinone,D S,7,551,0,1,0.2592,0.5211,0,0.2592,8,4,1.8532,1.3007,1,0
 11883,Gennaro Borrelli,Cagliari,S,2,31,0,0,0.0864,0.0,0,0.0864,2,0,0.1386,0.0687,0,0
 11886,Lorenzo Palmisani,Frosinone,GK,7,630,0,0,0.0,0.1072,0,0.0,0,2,1.186,1.0788,0,0
@@ -365,7 +367,7 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 12347,Luis Hasa,Frosinone,S,2,36,0,0,0.158,0.0929,0,0.158,4,4,0.4276,0.1937,0,0
 12362,Santiago Pierotti,Lecce,F M S,7,457,0,0,0.1849,0.9306,0,0.1849,3,3,1.3343,0.2188,0,0
 12365,Alieu Njie,"Fiorentina,Torino",F M S,6,399,0,0,2.005,1.2152,0,2.005,12,12,3.7042,0.653,1,0
-12369,Lucas Perri,Torino,GK,5,450,0,0,0.0,0.0,0,0.0,0,0,1.0009,1.0009,0,0
+12369,Lucas Perri,Torino,GK,6,540,0,0,0.0,0.0,0,0.0,0,0,1.0009,1.0009,0,0
 12601,Darryl Bakola,Sassuolo,M S,6,479,0,2,0.495,1.2132,0,0.495,4,8,3.3415,2.0412,0,0
 12609,Niccolò Fortini,Torino,D M S,5,278,0,0,0.0546,0.0899,0,0.0546,1,1,1.2549,1.2549,0,0
 12635,Matteo Palma,Udinese,D S,2,92,0,0,0.084,0.0,0,0.084,2,0,0.1378,0.0538,0,0
@@ -374,7 +376,7 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 12822,Álex Valle,Como,D,5,402,0,2,0.1775,0.3562,0,0.1775,5,8,1.3787,1.0272,1,0
 12858,Daniele Ghilardi,Roma,D S,4,139,0,0,0.0,0.0205,0,0.0,0,1,0.6754,0.6548,1,0
 12868,Mattia Felici,Cagliari,S,2,34,0,0,0.0583,0.0207,0,0.0583,1,1,0.1488,0.0905,0,0
-12877,Lorenzo Lucchesi,Monza,D,6,456,0,0,0.5493,0.2825,0,0.5493,4,1,1.8612,1.8612,2,1
+12877,Lorenzo Lucchesi,Monza,D,7,521,0,0,0.5493,0.2825,0,0.5493,4,1,1.8612,1.8612,2,1
 12904,Samuel Mbangula,Bologna,S,2,6,0,0,0.0835,0.0,0,0.0835,1,0,0.0835,0.0835,0,0
 12958,Alessandro Marcandalli,Genoa,D S,7,555,0,0,0.0165,0.2557,0,0.0165,1,4,1.0495,0.8369,1,0
 12989,Jay Idzes,Sassuolo,D,3,261,0,0,0.0167,0.0781,0,0.0167,1,1,0.2646,0.2646,1,0
@@ -397,7 +399,7 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 13443,Ivan Smolcic,Como,D S,3,119,0,0,0.0,0.104,0,0.0,0,1,0.2413,0.1373,0,0
 13478,Sebastian Otoa,Genoa,D S,3,154,0,0,0.0,0.0,0,0.0,0,0,0.4789,0.4789,1,0
 13543,Valde,Fiorentina,D S,6,339,0,0,0.1981,0.2796,0,0.1981,2,4,1.5397,1.1207,0,0
-13599,Alessio Cacciamani,Torino,D M S,7,544,0,1,0.1314,0.4185,0,0.1314,1,3,1.4762,1.3321,0,0
+13599,Alessio Cacciamani,Torino,D M S,8,617,0,1,0.1314,0.4523,0,0.1314,1,5,1.51,1.3321,0,0
 13698,Rahim Alhassane,Bologna,D S,3,146,0,0,0.3581,0.0887,0,0.3581,2,3,0.6687,0.2426,0,0
 13868,Lazar Jovanovic,Udinese,S,1,16,0,0,0.0,0.0,0,0.0,0,0,0.0,0.0,0,0
 13876,Corrie Ndaba,Lecce,D S,2,132,0,0,0.0,0.0,0,0.0,0,0,0.7238,0.7238,0,0
@@ -409,7 +411,6 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 13956,Vakoun Bayo,Udinese,S,4,82,0,1,0.9028,0.3383,0,0.9028,4,1,1.3839,0.1428,1,0
 13958,Lennon Miller,Udinese,M S,5,252,0,0,0.0839,0.1203,0,0.0839,2,4,1.224,1.1274,1,0
 13961,Giovane,Napoli,M S,2,74,0,1,0.0217,0.8387,0,0.0217,1,3,0.952,0.1238,0,0
-13962,Rafik Belghali,Torino,D S,5,261,0,3,0.0,0.9367,0,0.0,0,5,1.1275,0.1909,1,0
 13969,Nikola Stulic,Lecce,F S,5,259,0,0,1.3302,0.0062,0,1.3302,5,1,1.4557,0.1193,0,0
 13978,Jayden Addai,Como,S,1,1,0,0,0.0,0.0,0,0.0,0,0,0.0573,0.0573,0,0
 13979,Mariano Troilo,Parma Calcio 1913,D,7,628,0,0,0.1554,0.3697,0,0.1554,4,5,2.0362,1.8355,3,0
@@ -423,7 +424,7 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 14200,Tommaso Macchioni,Sassuolo,D,1,75,0,0,0.0,0.0,0,0.0,0,0,0.1775,0.1775,0,0
 14211,Yvan Maye,Monza,S,3,49,0,0,0.045,0.0,0,0.045,2,0,0.2363,0.2061,0,0
 14244,Simone Cinquegrano,Sassuolo,D S,6,454,0,0,0.4641,0.0863,0,0.4641,6,2,1.6781,1.4579,0,0
-14325,Noel Törnqvist,Monza,GK,3,270,0,0,0.0,0.0,0,0.0,0,0,0.2189,0.2189,0,0
+14325,Noel Törnqvist,Monza,GK,4,360,0,0,0.0,0.0,0,0.0,0,0,0.2346,0.2346,0,0
 14339,Omri Gandelman,Lecce,S,2,10,0,0,0.0758,0.0549,0,0.0758,2,1,0.0,0.0,0,0
 14341,Kenneth Taylor,Lazio,M,7,583,0,0,0.354,0.4712,0,0.354,7,7,4.9581,4.3911,1,0
 14344,Dominik Drobnic,Parma Calcio 1913,D S,3,223,0,0,0.0,0.0,0,0.0,0,0,0.1466,0.1466,1,0
@@ -435,8 +436,8 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 14426,Alex Amorim,Genoa,M S,5,111,0,0,0.0175,0.1011,0,0.0175,1,3,0.2543,0.2377,1,0
 14427,Alisson Santos,Napoli,F S,4,213,0,0,0.434,0.2598,0,0.434,14,5,0.7371,0.2121,0,0
 14791,Adam Bakoune,Monza,D S,6,177,0,0,0.048,0.0701,0,0.048,1,2,0.2046,0.113,0,0
-14792,Manga Foe Ondoa,Monza,M S,5,310,0,1,0.1301,0.1672,0,0.1301,4,3,1.6074,1.5102,0,0
-14793,Mathis Mout,Monza,M S,5,143,0,1,0.1013,0.0692,0,0.1013,3,1,1.1803,1.0099,0,0
+14792,Manga Foe Ondoa,Monza,M S,6,375,0,1,0.1301,0.1672,0,0.1301,4,3,1.6231,1.526,0,0
+14793,Mathis Mout,Monza,M S,6,146,0,1,0.1013,0.0692,0,0.1013,3,1,1.1803,1.0099,0,0
 14805,Rachid Kouda,Parma Calcio 1913,S,1,12,0,0,0.0,0.0,0,0.0,0,0,0.0,0.0,0,0
 14806,Ousmane Diallo,Parma Calcio 1913,S,1,12,0,0,0.0,0.0,0,0.0,0,0,0.0,0.0,0,0
 14809,Matija Frigan,Parma Calcio 1913,S,4,98,0,0,0.2099,0.0924,0,0.2099,2,2,0.9673,0.665,0,0
@@ -454,7 +455,6 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 14889,Matteo Cichella,Frosinone,M S,5,127,0,0,0.0662,0.0,0,0.0662,2,0,0.2687,0.2025,0,0
 14892,Anouar El Azzouzi,Frosinone,S,1,1,0,0,0.0,0.0,0,0.0,0,0,0.0,0.0,0,0
 14897,Diego Mascardi,Torino,GK,2,180,0,0,0.0,0.0,0,0.0,0,0,0.4412,0.4412,0,0
-14898,Kian Fitz-Jim,Torino,M,5,387,0,0,0.0262,1.0827,0,0.0262,2,8,1.6313,1.015,0,0
 14903,Fedde Leysen,Sassuolo,D S,6,400,0,1,0.0797,0.0962,0,0.0797,2,1,0.9418,0.9418,1,0
 14904,Gabriel Kulla,Sassuolo,S,1,1,0,0,0.0,0.0,0,0.0,0,0,0.0,0.0,0,0
 14910,Mikel Amondarain,Bologna,M S,3,93,0,0,0.06,0.0108,0,0.06,1,1,0.1466,0.0758,1,0

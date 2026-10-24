@@ -24,8 +24,8 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 8214,Tyrick Mitchell,Crystal Palace,D,7,610,2,0,1.043,0.5719,2,1.043,6,5,3.0782,1.9533,0,0
 8327,Bruno Guimarães,Arsenal,M S,5,216,2,0,0.1405,0.0,2,0.1405,3,0,0.3546,0.2141,0,0
 8497,Cole Palmer,Chelsea,M,7,625,2,3,2.009,2.5914,2,2.009,23,15,6.4854,2.3525,2,0
-8662,Dan Ndoye,Nottingham Forest,M,7,487,2,0,3.0318,1.7178,2,3.0318,17,6,5.7322,2.0507,1,0
-8919,Leif Davis,Ipswich,D,7,630,2,1,1.8021,0.9269,2,1.8021,7,6,3.9656,2.0009,2,0
+8662,Dan Ndoye,Nottingham Forest,M,8,558,2,0,3.1717,2.38,2,3.1717,19,7,6.4613,2.0507,1,0
+8919,Leif Davis,Ipswich,D,8,720,2,1,1.8021,0.9269,2,1.8021,7,6,4.3276,2.3629,2,0
 9205,Jayden Bogle,Leeds,D,7,555,2,0,1.7839,0.1334,2,1.7839,8,5,1.8761,0.9873,2,0
 9524,Anthony Elanga,Newcastle United,M,3,241,2,0,0.4224,0.6791,2,0.4224,4,4,1.6021,0.6695,1,0
 9680,Vitaly Janelt,Brentford,M,7,630,2,0,0.8616,0.1686,2,0.8616,4,5,2.6807,1.7812,4,1
@@ -39,8 +39,8 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 13102,Johan Manzambi,Aston Villa,M S,4,267,2,2,1.8028,0.7864,2,1.8028,14,7,2.7909,0.6651,0,0
 13279,Víctor Muñoz,Liverpool,M S,7,440,2,0,0.8111,0.2158,2,0.8111,12,2,1.4619,0.878,1,0
 13711,Maxim De Cuyper,Brighton,M,7,591,2,2,1.7603,1.6747,2,1.7603,8,15,4.5847,2.1789,2,0
-13729,Zian Flemming,Ipswich,S,5,80,2,0,1.6548,0.0189,1,0.8936,7,1,0.8105,0.0,1,0
-14082,Emersonn,Ipswich,F,7,486,2,1,2.0658,1.1872,2,2.0658,14,6,3.8521,0.9138,0,0
+13729,Zian Flemming,Ipswich,S,6,108,2,0,1.6548,0.0189,1,0.8936,7,1,0.8105,0.0,1,0
+14082,Emersonn,Ipswich,F,8,548,2,1,2.0658,1.5493,2,2.0658,14,7,4.2141,0.9138,0,0
 14747,Jack Rudoni,Coventry,M S,7,479,2,0,2.8137,0.5935,1,2.0526,9,9,2.6922,0.3387,1,0
 14856,Malick Yalcouyé,Brighton,M S,7,264,2,0,1.4396,0.9638,2,1.4396,7,5,3.402,0.9986,0,0
 500,Alex Iwobi,Fulham,M,7,594,1,0,1.1907,2.9185,1,1.1907,11,16,4.6147,3.3301,0,0
@@ -49,7 +49,7 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 1665,James Tarkowski,Everton,D,7,630,1,1,0.1422,0.417,1,0.1422,4,3,2.692,2.3302,1,0
 1679,Dominic Solanke,Tottenham,F S,7,359,1,1,1.8488,0.2293,1,1.8488,12,3,2.3815,0.3743,1,0
 1750,Ainsley Maitland-Niles,Everton,D S,5,317,1,1,0.046,0.7954,1,0.046,2,5,1.789,1.381,0,0
-1790,Chuba Akpom,Ipswich,S,5,100,1,0,0.5956,0.0,1,0.5956,3,0,0.64,0.0444,0,0
+1790,Chuba Akpom,Ipswich,S,6,102,1,0,0.5956,0.0,1,0.5956,3,0,0.64,0.0444,0,0
 2182,Jefferson Lerma,Crystal Palace,D S,4,157,1,0,1.064,0.0,1,1.064,5,0,0.2357,0.2201,2,0
 2203,Emiliano Buendía,Aston Villa,F M,7,556,1,0,1.1381,0.3963,1,1.1381,14,7,3.0269,1.7698,1,0
 4490,Semi Ajayi,Hull,D,7,606,1,0,0.9433,0.0,1,0.9433,3,0,0.7033,0.7033,1,0
@@ -60,7 +60,7 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 6681,Harvey Barnes,Newcastle United,M,7,630,1,2,1.2992,1.193,1,1.2992,14,13,3.17,1.3783,0,0
 6818,James Maddison,Tottenham,M S,5,136,1,0,0.1628,0.1158,1,0.1628,4,1,0.4567,0.2374,0,0
 6837,Ryan Sessegnon,Fulham,D S,5,144,1,0,0.2435,0.0893,1,0.2435,6,1,0.7389,0.6403,0,1
-6857,Morgan Gibbs-White,Nottingham Forest,M,6,540,1,2,1.5628,2.9083,0,0.8016,11,17,4.7102,2.2279,0,0
+6857,Morgan Gibbs-White,Nottingham Forest,M,7,630,1,2,2.3365,3.124,0,1.5753,13,20,6.0935,2.6804,0,0
 6963,Justin Kluivert,Bournemouth,M S,5,333,1,0,1.7128,0.2,1,1.7128,13,3,1.8847,0.6028,1,0
 7080,Matheus Cunha,Manchester United,F M S,7,511,1,2,0.691,1.8492,1,0.691,15,9,3.8103,1.4447,0,0
 7148,Wilson Isidor,Sunderland,F S,6,190,1,0,1.2619,0.0,1,1.2619,7,0,1.1624,0.0,0,0
@@ -68,13 +68,14 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 7723,John McGinn,Aston Villa,M S,7,579,1,2,1.1028,0.6936,1,1.1028,7,9,3.0596,1.5326,2,0
 7753,James Justin,Leeds,D,7,622,1,0,0.4562,0.6725,1,0.4562,7,5,1.2721,0.2281,1,0
 8129,Riccardo Calafiori,Arsenal,D,7,599,1,2,1.4536,1.2231,1,1.4536,9,6,4.5842,2.5044,0,0
+8204,Neco Williams,Nottingham Forest,D,8,716,1,0,1.1064,1.1464,1,1.1064,12,12,5.4927,4.0703,1,0
 8393,Omar Marmoush,Tottenham,F M S,6,458,1,0,0.706,0.1981,1,0.706,10,4,1.8759,1.1688,0,0
 8582,Ellis Simms,Coventry,F S,4,115,1,0,0.5789,0.0232,1,0.5789,2,2,0.681,0.0788,0,0
 8635,Sven Botman,Newcastle United,D,7,630,1,0,0.1463,0.0,1,0.1463,5,0,1.4929,1.457,2,0
 8651,Enzo Le Fée,Sunderland,M,7,615,1,1,1.8753,2.2892,0,0.3529,12,11,3.926,2.17,0,0
 8685,Mohamed Ali-Cho,Hull,S,4,62,1,0,0.7861,0.0968,1,0.7861,4,3,0.8992,0.0397,0,0
-8756,Dara O&#039;Shea,Ipswich,D,7,630,1,0,0.5703,0.2653,1,0.5703,2,5,1.8533,1.6951,0,0
-8868,Liam Delap,Nottingham Forest,F S,6,444,1,0,2.3367,0.7238,1,2.3367,18,8,3.8547,0.9111,2,0
+8756,Dara O&#039;Shea,Ipswich,D,8,720,1,0,0.5703,0.2653,1,0.5703,2,5,2.2479,2.0897,0,0
+8868,Liam Delap,Nottingham Forest,F S,7,534,1,0,2.9682,0.7238,1,2.9682,21,8,4.9265,1.3514,2,0
 8941,Jacob Ramsey,Newcastle United,S,3,64,1,0,0.1496,0.0,1,0.1496,2,0,0.7209,0.6305,1,0
 8981,Jéremy Doku,Manchester City,M S,3,122,1,1,0.3016,1.2996,1,0.3016,4,4,3.3426,1.783,0,0
 9024,Yeremi Pino,Crystal Palace,M S,7,460,1,0,1.1046,1.067,1,1.1046,8,8,3.337,2.422,2,0
@@ -87,9 +88,10 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 9910,Anton Stach,Leeds,M,7,630,1,0,1.5688,0.7177,1,1.5688,11,10,2.0665,0.5566,0,0
 10004,Romeo Lavia,Chelsea,M S,6,290,1,0,1.23,0.1766,1,1.23,2,2,1.7416,1.6711,1,0
 10216,Lewis Hall,Newcastle United,D,7,630,1,1,0.3401,0.8869,1,0.3401,6,8,2.6433,2.2483,0,0
-10485,Guemissongui Ouattara,Ipswich,D S,7,304,1,1,0.0748,0.2949,1,0.0748,3,4,0.8667,0.5185,1,0
+10485,Guemissongui Ouattara,Ipswich,D S,8,394,1,1,0.0748,0.2949,1,0.0748,3,4,0.8667,0.5185,1,0
 10746,Jaidon Anthony,Brentford,M S,7,447,1,1,1.3952,0.8375,1,1.3952,11,8,1.5882,0.7612,1,0
 10807,Jan Paul van Hecke,Tottenham,D,7,630,1,0,1.0394,0.2499,1,1.0394,5,5,1.3907,1.3138,2,0
+11058,Julio Enciso,Ipswich,M,8,658,1,2,1.7725,1.4385,1,1.7725,23,7,5.6251,2.7843,1,0
 11070,Jørgen Strand Larsen,Crystal Palace,F S,7,451,1,0,0.9873,0.1842,1,0.9873,9,2,2.193,1.0625,0,0
 11281,Michael Kayode,Brentford,D S,7,484,1,0,0.8914,0.2405,1,0.8914,7,4,1.4155,1.3318,1,0
 11296,Cody Gakpo,Liverpool,M S,5,373,1,3,0.5317,1.642,1,0.5317,10,11,2.5744,1.4477,0,0
@@ -104,7 +106,7 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 12286,Nobel Mendy,Hull,D,5,350,1,0,1.0557,0.0,1,1.0557,5,0,0.1719,0.1375,0,0
 12573,Tyrique George,Everton,M S,7,371,1,0,0.3795,0.7399,1,0.3795,10,7,1.6437,0.6697,0,0
 12847,Sidiki Chérif,Coventry,F S,3,172,1,0,0.6274,0.0585,1,0.6274,4,1,0.8202,0.1343,0,0
-13019,Jack Clarke,Ipswich,M S,6,201,1,1,0.2716,0.7817,1,0.2716,4,5,1.0919,0.59,1,0
+13019,Jack Clarke,Ipswich,M S,7,228,1,1,0.3417,0.7817,1,0.3417,5,5,1.162,0.59,1,0
 13078,Chema Andres,Brighton,M S,4,290,1,1,0.5504,0.0203,1,0.5504,3,1,0.9173,0.878,1,0
 13222,Thiago,Brentford,F,7,624,1,1,3.4735,0.5878,1,2.7123,17,6,3.4165,0.2333,4,0
 13364,Diego Gómez,Brighton,M,7,622,1,2,1.5629,1.3214,1,1.5629,19,8,3.3809,0.9787,0,0
@@ -118,7 +120,7 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 14743,Jay Dasilva,Coventry,D,7,626,1,1,0.3974,0.5517,1,0.3974,3,6,1.5665,0.8075,1,0
 14764,Liam Millar,Hull,S,2,46,1,0,0.3581,0.0,1,0.3581,3,0,0.4715,0.1134,1,0
 14770,Anan Khalaili,Crystal Palace,D S,7,557,1,0,1.0486,0.3141,1,1.0486,11,4,2.6694,1.7462,1,0
-14772,Daizen Maeda,Ipswich,M S,7,417,1,0,0.9553,0.0239,1,0.9553,4,1,1.8202,0.841,0,0
+14772,Daizen Maeda,Ipswich,M S,8,432,1,0,0.9553,0.0239,1,0.9553,4,1,1.8202,0.841,0,0
 76,Fabian Schär,Newcastle United,S,2,20,0,0,0.0,0.0446,0,0.0,0,1,0.0,0.0,0,0
 87,Joelinton,Newcastle United,M S,2,119,0,0,0.0,0.0765,0,0.0,0,1,0.2028,0.1263,2,0
 181,Bernd Leno,Fulham,GK,7,630,0,0,0.0,0.0,0,0.0,0,0,2.5578,2.5578,0,0
@@ -151,11 +153,11 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 1736,Oliver McBurnie,Hull,F,7,624,0,1,1.64,0.6604,0,1.64,9,7,2.8125,0.9863,3,0
 1789,Lewis Cook,Bournemouth,M S,7,260,0,0,0.0924,0.4584,0,0.0924,1,4,1.4591,1.3429,2,0
 2254,Mateo Kovacic,Manchester City,M S,3,91,0,1,0.0,0.3989,0,0.0,0,3,2.1126,1.7288,0,0
-3203,Issa Diop,Ipswich,D,7,630,0,0,0.1392,0.0558,0,0.1392,2,2,2.4027,2.3742,0,0
+3203,Issa Diop,Ipswich,D,8,720,0,0,0.1392,0.0558,0,0.1392,2,2,2.4027,2.3742,1,0
 3645,Olivier Boscagli,Brighton,D M,7,592,0,1,0.0671,1.1356,0,0.0671,3,11,2.7813,2.6362,2,0
 4391,Darnell Furlong,Ipswich,S,1,15,0,0,0.0,0.0,0,0.0,0,0,0.0,0.0,0,0
 4401,Emiliano Martinez,Chelsea,GK,6,528,0,0,0.0,0.2692,0,0.0,0,3,0.6719,0.4027,0,0
-4456,Chris Wood,Nottingham Forest,S,6,71,0,0,0.5682,0.0,0,0.5682,3,0,0.5682,0.0,0,0
+4456,Chris Wood,Nottingham Forest,S,7,72,0,0,0.5682,0.0,0,0.5682,3,0,0.5682,0.0,0,0
 5261,Kevin Danso,Sunderland,D,5,376,0,0,0.2495,0.1197,0,0.2495,3,5,1.3638,1.2899,0,1
 5304,Mikel Merino,Arsenal,S,7,93,0,0,0.2082,0.0,0,0.2082,3,0,0.7366,0.5706,1,0
 5553,Declan Rice,Arsenal,M,7,598,0,4,0.2007,1.0748,0,0.2007,5,11,4.2813,3.9447,1,0
@@ -179,12 +181,12 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 6104,Will Hughes,Crystal Palace,S,3,27,0,0,0.0,0.0679,0,0.0,0,1,0.0679,0.0,0,0
 6108,Rodrigo Bentancur,Tottenham,M S,6,390,0,0,0.0346,0.0222,0,0.0346,1,1,1.3619,1.3397,0,1
 6157,Timothy Castagne,Fulham,D,6,502,0,1,0.6549,0.3722,0,0.6549,4,4,4.1288,3.8589,2,0
-6174,Nikola Milenkovic,Nottingham Forest,D,3,270,0,0,0.1239,0.0,0,0.1239,2,0,1.2844,1.238,1,0
+6174,Nikola Milenkovic,Nottingham Forest,D,4,360,0,0,0.1825,0.0838,0,0.1825,3,1,1.7247,1.6783,1,0
 6221,Pau Torres,Aston Villa,D S,4,204,0,0,0.0,0.0,0,0.0,0,0,0.2552,0.2552,0,0
 6314,Joachim Andersen,Fulham,D S,3,190,0,0,0.0,0.1572,0,0.0,0,3,1.5198,1.4592,1,0
 6369,Ethan Ampadu,Leeds,M,7,630,0,0,0.0537,0.3634,0,0.0537,3,8,1.6458,1.339,2,0
 6377,Joe Rodon,Leeds,D,2,123,0,0,0.0336,0.0978,0,0.0336,1,1,0.1499,0.0185,0,0
-6456,Callum Hudson-Odoi,Nottingham Forest,S,3,14,0,0,0.0,0.0848,0,0.0,0,1,0.64,0.5552,0,0
+6456,Callum Hudson-Odoi,Nottingham Forest,S,4,33,0,0,0.3244,0.0848,0,0.3244,1,1,0.9643,0.5552,0,0
 6482,Eddie Nketiah,Crystal Palace,F M S,6,214,0,1,1.3445,1.7312,0,1.3445,4,4,3.1017,0.4222,0,0
 6544,Lukas Nmecha,Leeds,S,6,79,0,1,0.3233,0.86,0,0.3233,4,2,1.2148,0.0315,0,0
 6691,Dejan Kulusevski,Tottenham,S,1,1,0,0,0.0,0.0,0,0.0,0,0,0.0,0.0,0,0
@@ -193,7 +195,7 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 6820,David Brooks,Bournemouth,M S,5,82,0,0,0.0,0.0374,0,0.0,0,2,0.0374,0.0,1,0
 6835,Tom Cairney,Fulham,S,1,11,0,0,0.0703,0.0,0,0.0703,1,0,0.0703,0.0703,0,0
 6885,Axel Disasi,Crystal Palace,D S,3,138,0,0,0.0,0.0335,0,0.0,0,1,0.4037,0.4037,0,1
-6903,Matz Sels,Nottingham Forest,GK,7,630,0,0,0.0,0.2231,0,0.0,0,1,1.2134,0.9903,0,0
+6903,Matz Sels,Nottingham Forest,GK,8,720,0,0,0.0,0.2231,0,0.0,0,1,1.7292,1.5061,0,0
 6912,Pedro Porro,Tottenham,D M,3,198,0,0,0.2398,0.4163,0,0.2398,7,3,0.674,0.1317,0,0
 6937,Georginio Rutter,Brighton,F S,4,121,0,2,0.171,1.2588,0,0.171,4,2,2.0104,0.7004,0,0
 7078,Sean Longstaff,Leeds,S,3,14,0,0,0.0,0.0,0,0.0,0,0,0.0978,0.0978,0,0
@@ -215,7 +217,7 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 7703,John Egan,Hull,D,7,623,0,0,0.0814,0.0567,0,0.0814,3,1,0.4756,0.361,1,0
 7726,Ezri Konsa Ngoyo,Arsenal,D S,6,460,0,0,0.0776,0.0361,0,0.0776,1,1,1.3053,1.3053,0,0
 7768,Mason Mount,Manchester United,S,2,24,0,0,0.0963,0.0195,0,0.0963,2,1,0.063,0.0,0,0
-7783,Xaver Schlager,Nottingham Forest,M S,7,536,0,0,0.3389,0.2215,0,0.3389,10,4,3.8141,3.4637,1,0
+7783,Xaver Schlager,Nottingham Forest,M S,8,626,0,0,0.3803,0.3452,0,0.3803,11,6,5.0403,4.5661,1,0
 7814,Taiwo Awoniyi,Coventry,F S,5,261,0,0,1.5161,0.1542,0,1.5161,9,3,1.8764,0.3246,0,1
 7904,Caoimhin Kelleher,Brentford,GK,7,630,0,0,0.0,0.0,0,0.0,0,0,1.5379,1.5379,0,0
 7931,Takehiro Tomiyasu,Crystal Palace,D S,4,189,0,0,0.0,0.0187,0,0.0,0,1,0.6858,0.6672,0,0
@@ -228,16 +230,15 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 8117,Nick Woltemade,Newcastle United,S,1,18,0,1,0.0189,0.5075,0,0.0189,1,1,0.0,0.0,0,0
 8127,Amad Diallo Traore,Manchester United,M,2,149,0,0,0.1801,0.0,0,0.1801,4,0,0.9356,0.7733,0,0
 8190,Melvin Bard,Leeds,S,1,15,0,0,0.0,0.0416,0,0.0,0,1,0.0416,0.0,0,0
-8204,Neco Williams,Nottingham Forest,D,7,630,0,0,0.6341,0.9686,0,0.6341,10,10,5.0524,4.0703,1,0
 8211,Amine Adli,Bournemouth,S,1,5,0,0,0.1399,0.0,0,0.1399,1,0,0.1399,0.1399,0,0
 8252,Nicolás Domínguez,Nottingham Forest,M S,2,79,0,0,0.0,0.0,0,0.0,0,0,0.0,0.0,0,0
 8285,Sander Berge,Fulham,M S,7,530,0,1,0.2545,0.597,0,0.2545,5,8,3.6966,2.9242,1,0
-8325,Exequiel Palacios,Ipswich,M S,6,394,0,0,0.0,0.1952,0,0.0,0,4,1.8841,1.7025,0,0
+8325,Exequiel Palacios,Ipswich,M S,7,484,0,0,0.0,0.262,0,0.0,0,6,2.345,2.0966,0,0
 8372,Lucas Gourna Douath,Hull,M S,3,132,0,0,0.0113,0.1007,0,0.0113,1,3,0.4027,0.3114,1,0
 8378,Malick Thiaw,Newcastle United,D,7,630,0,0,0.0,0.1425,0,0.0,0,2,1.4288,1.4288,1,0
 8379,Alexis Mac Allister,Liverpool,M S,7,491,0,0,0.5515,0.2842,0,0.5515,11,6,2.0758,1.8892,2,0
 8397,Florian Wirtz,Liverpool,M,7,562,0,2,1.1058,1.1534,0,1.1058,15,20,3.6218,2.3472,1,0
-8401,Luca Netz,Nottingham Forest,S,3,21,0,0,0.0,0.0106,0,0.0,0,1,0.0106,0.0,0,0
+8401,Luca Netz,Nottingham Forest,S,4,25,0,0,0.0,0.0106,0,0.0,0,1,0.0106,0.0,0,0
 8409,Juanlu Sanchez,Bournemouth,S,1,16,0,0,0.0,0.0,0,0.0,0,0,0.0357,0.0357,0,0
 8430,Chris Richards,Crystal Palace,D,7,630,0,0,0.1407,0.0331,0,0.1407,3,2,1.0333,1.0002,1,0
 8476,Jarrad Branthwaite,Everton,D,7,630,0,0,0.6683,0.0,0,0.6683,5,1,2.5044,2.412,0,0
@@ -255,18 +256,18 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 8940,Antonee Robinson,Fulham,D,6,527,0,0,0.3265,0.4198,0,0.3265,4,8,3.5609,2.982,0,0
 8942,Aaron Hickey,Brentford,D S,7,195,0,0,0.0416,0.0,0,0.0416,1,0,0.4348,0.3932,0,0
 8961,Rúben Dias,Manchester City,D,7,630,0,0,0.2821,0.3761,0,0.2821,5,4,5.4468,5.1472,0,0
-8969,Florentino Luís,Ipswich,M S,4,161,0,0,0.0,0.1109,0,0.0,0,3,0.6982,0.6982,0,0
+8969,Florentino Luís,Ipswich,M S,5,248,0,0,0.0,0.1109,0,0.0,0,3,0.7303,0.7303,0,0
 8986,Omar Alderete,Sunderland,D S,2,86,0,0,0.0,0.0,0,0.0,0,0,0.0,0.0,1,0
 9011,Óscar Mingueza,Crystal Palace,S,2,15,0,0,0.0,0.0,0,0.0,0,0,0.0,0.0,0,0
 9017,Malo Gusto,Chelsea,D M S,5,275,0,0,0.0634,0.0322,0,0.0634,2,1,1.3867,1.3163,0,0
 9077,James Trafford,Leeds,GK,7,630,0,0,0.0,0.0,0,0.0,0,0,0.5495,0.5495,0,0
 9098,Robert Sánchez,Chelsea,GK,1,90,0,0,0.0,0.0,0,0.0,0,0,0.2809,0.2809,0,0
 9154,Elliot Anderson,Manchester City,M S,7,519,0,1,0.1307,1.0072,0,0.1307,6,5,5.2355,5.1749,1,0
-9251,Christian Walton,Ipswich,GK,3,270,0,0,0.0,0.0141,0,0.0,0,1,0.0563,0.0422,1,0
+9251,Christian Walton,Ipswich,GK,4,360,0,0,0.0,0.0141,0,0.0,0,1,0.4183,0.4043,1,0
 9307,Iliman Ndiaye,"Everton,Manchester City",M S,7,537,0,2,1.2605,1.8828,0,1.2605,11,8,3.6938,1.325,0,0
 9328,Jeremie Frimpong,Liverpool,D S,5,201,0,0,0.0135,0.5763,0,0.0135,1,7,1.5801,1.0977,1,0
 9409,Kaine Hayden,Coventry,S,1,1,0,0,0.0,0.0,0,0.0,0,0,0.0585,0.0585,0,0
-9415,Jaden Philogene-Bidace,Ipswich,M S,3,110,0,0,0.0618,0.0,0,0.0618,3,0,0.1433,0.0815,0,0
+9415,Jaden Philogene-Bidace,Ipswich,M S,4,173,0,0,0.4238,0.0,0,0.4238,4,0,0.5374,0.4756,0,0
 9453,Moisés Caicedo,Chelsea,M S,3,178,0,0,0.0551,0.0201,0,0.0551,2,1,0.9299,0.9299,0,0
 9499,Cody Drameh,Hull,S,2,60,0,0,0.0414,0.0,0,0.0414,1,0,0.0414,0.0,0,0
 9509,Daniel Jebbison,Bournemouth,S,3,29,0,0,0.0825,0.0,0,0.0825,1,0,0.0,0.0,0,0
@@ -289,13 +290,13 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 9944,Gabriel Gudmundsson,Leeds,D,5,435,0,1,0.0357,0.5654,0,0.0357,2,3,1.2113,0.8594,1,0
 9960,Kjell Scherpen,Ipswich,GK,4,360,0,0,0.0,0.0,0,0.0,0,0,1.1611,1.1611,0,0
 9977,Loum Tchaouna,Coventry,M S,4,214,0,0,0.2081,0.1703,0,0.2081,6,3,0.5796,0.3551,0,0
-9978,Azor Matusiwa,Ipswich,S,1,17,0,0,0.0,0.0,0,0.0,0,0,0.0247,0.0247,0,0
+9978,Azor Matusiwa,Ipswich,S,2,20,0,0,0.0,0.0,0,0.0,0,0,0.0247,0.0247,0,0
 9983,Beto,Everton,S,2,25,0,0,0.1096,0.0,0,0.1096,2,0,0.1096,0.0,0,0
 10016,Bradley Barcola,Liverpool,M S,5,348,0,1,1.0504,0.4074,0,1.0504,7,5,1.7993,0.494,1,0
 10024,Cristhian Mosquera,Arsenal,D,2,170,0,0,0.0,0.0,0,0.0,0,0,1.3176,1.3176,0,0
 10025,Lamare Bogarde,Aston Villa,S,1,11,0,0,0.0,0.0,0,0.0,0,0,0.0,0.0,0,0
 10050,Micky van de Ven,Tottenham,D S,6,466,0,0,0.7797,0.0,0,0.7797,4,0,0.8483,0.7883,1,0
-10126,James McAtee,Nottingham Forest,M,7,605,0,0,0.4648,1.2831,0,0.4648,12,16,2.7924,2.1346,2,0
+10126,James McAtee,Nottingham Forest,M,8,695,0,0,0.477,1.2831,0,0.477,13,16,4.2313,3.5615,2,0
 10166,Kasey McAteer,Ipswich,S,3,36,0,0,0.0215,0.0,0,0.0215,1,0,0.0783,0.0568,0,0
 10184,Archie Gray,Tottenham,D M S,6,495,0,0,0.4425,0.0843,0,0.4425,4,2,1.7933,1.3103,1,0
 10291,Vitalii Mykolenko,Everton,D,6,540,0,0,0.0858,0.3125,0,0.0858,1,4,2.5549,2.3686,1,0
@@ -317,7 +318,6 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 10847,Rico Lewis,Manchester City,D,1,59,0,0,0.3494,0.0,0,0.3494,1,0,0.405,0.0556,0,0
 10864,Marcos Senesi,Tottenham,D,2,179,0,0,0.0,0.1086,0,0.0,0,2,0.813,0.813,0,0
 11000,Matheus Nunes,Manchester City,D S,5,379,0,0,0.0,0.0,0,0.0,0,0,4.0668,4.0668,0,0
-11058,Julio Enciso,Ipswich,M,7,570,0,2,1.382,1.4385,0,1.382,19,7,4.9326,2.4222,1,0
 11087,Pep Chavarría,Chelsea,D S,6,287,0,1,0.0295,0.5944,0,0.0295,1,3,1.275,1.1765,0,0
 11167,Chadi Riad,Crystal Palace,D,1,77,0,0,0.0,0.0,0,0.0,0,0,0.025,0.025,0,0
 11174,Kobbie Mainoo,Manchester United,M S,6,450,0,1,0.2359,0.2353,0,0.2359,6,6,2.8057,2.5821,0,0
@@ -348,12 +348,12 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 12014,Jake O&#039;Brien,Everton,S,3,22,0,0,0.0,0.0,0,0.0,0,0,0.0,0.0,0,0
 12027,Mohammed Kudus,Tottenham,M S,6,266,0,2,0.3401,0.6343,0,0.3401,7,5,0.9682,0.5828,0,0
 12032,Djordje Petrovic,Bournemouth,GK,7,630,0,0,0.0,0.0,0,0.0,0,0,1.0307,1.0307,0,0
-12123,Murillo,Nottingham Forest,D,7,630,0,1,0.7957,0.3585,0,0.7957,12,7,2.0527,1.5532,2,0
+12123,Murillo,Nottingham Forest,D,8,720,0,1,0.9691,0.3585,0,0.9691,14,7,2.493,1.9935,3,0
 12162,Ayyoub Bouaddi,Manchester City,M S,4,119,0,0,0.0249,0.1217,0,0.0249,1,2,0.3742,0.3493,1,0
 12203,Treymaurice Nyoni,Liverpool,S,5,115,0,0,0.0585,0.0244,0,0.0585,2,1,0.6961,0.6961,0,0
 12272,Myles Lewis-Skelly,Arsenal,M,5,346,0,0,0.1809,0.1401,0,0.1809,4,2,4.2192,3.95,0,0
 12336,Malick Fofana,Sunderland,S,4,103,0,0,0.4564,0.0,0,0.4564,4,0,0.51,0.0536,0,0
-12408,Daniel Muñoz,"Crystal Palace,Nottingham Forest",D S,6,443,0,0,0.9884,0.6488,0,0.9884,8,7,4.9336,3.4094,0,0
+12408,Daniel Muñoz,"Crystal Palace,Nottingham Forest",D S,7,533,0,1,1.0424,1.0891,0,1.0424,9,8,5.44,3.4216,0,0
 12409,Adam Wharton,Crystal Palace,M,7,622,0,1,0.0977,1.4786,0,0.0977,4,11,3.3767,2.6167,1,0
 12434,Lewis Koumas,Liverpool,F S,5,98,0,0,0.2947,0.0,0,0.2947,4,0,0.2947,0.0,0,0
 12498,Valentín Barco,Chelsea,M S,3,112,0,0,0.1294,0.0,0,0.1294,2,0,0.1479,0.0734,1,0
@@ -368,7 +368,7 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 12781,Zion Suzuki,Aston Villa,GK,6,540,0,0,0.0,0.0,0,0.0,0,0,1.253,1.253,0,0
 12841,Dayann Methalie,Sunderland,D S,2,105,0,0,0.0146,0.0,0,0.0146,1,0,1.1493,1.1347,1,0
 12843,Sorba Thomas,Hull,M S,5,281,0,1,0.1463,1.3528,0,0.1463,4,7,2.1564,1.153,0,0
-12911,Abdul Fatawu,Ipswich,M S,6,386,0,1,0.0621,1.9927,0,0.0621,4,8,3.0358,1.0932,2,1
+12911,Abdul Fatawu,Ipswich,M S,7,461,0,1,0.0963,1.9927,0,0.0963,5,8,3.07,1.0932,2,1
 12912,Lucas Bergvall,Tottenham,M S,4,139,0,0,0.0751,0.0,0,0.0751,2,0,0.218,0.1429,0,0
 12948,Mateus Fernandes,Tottenham,M S,7,274,0,0,0.2151,0.7411,0,0.2151,7,5,1.1756,0.83,1,0
 12955,Aurèle Amenda,Coventry,D,4,360,0,0,0.0111,0.0709,0,0.0111,1,1,0.894,0.812,1,0
@@ -394,7 +394,7 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 13723,El Hadji Malick Diouf,Brentford,D S,4,125,0,0,0.061,0.0346,0,0.061,2,1,0.5077,0.412,0,0
 13775,Estêvão,Chelsea,S,5,18,0,0,0.1031,0.0,0,0.1031,2,0,0.1962,0.0932,0,0
 13776,Jorrel Hato,Chelsea,D,5,359,0,2,0.0349,1.2096,0,0.0349,1,4,2.0574,1.9707,0,0
-13779,Jair,Nottingham Forest,D,5,449,0,0,0.0374,0.0396,0,0.0374,2,2,1.6479,1.5836,2,0
+13779,Jair,Nottingham Forest,D,6,539,0,0,0.1212,0.0396,0,0.1212,3,2,2.0882,2.0239,2,0
 13792,Ibrahim Osman,Brighton,S,3,32,0,0,0.1361,0.0281,0,0.1361,2,1,0.4481,0.3776,0,0
 13816,Mike Penders,Chelsea,S,1,12,0,0,0.0,0.0,0,0.0,0,0,0.0,0.0,0,0
 13834,Ao Tanaka,Leeds,M S,6,414,0,1,0.8864,0.9669,0,0.8864,8,1,0.9485,0.6704,2,0
