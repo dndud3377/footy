@@ -1,14 +1,14 @@
 understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,npxg,shots,key_passes,xg_chain,xg_buildup,yellow,red
 12850,Esteban Lepaul,"Paris Saint Germain,Rennes",F S,7,545,7,0,6.3227,0.8448,3,3.2823,28,8,4.5934,1.1161,2,0
-10815,Lassine Sinayoko,Paris FC,F,7,615,6,3,5.4019,1.9832,3,3.1216,26,15,6.3917,2.3579,2,0
+10815,Lassine Sinayoko,Paris FC,F,8,705,6,4,5.4019,2.0907,3,3.1216,26,16,6.5295,2.3882,2,0
 6401,Amine Gouiri,Marseille,F,7,602,5,1,4.0957,1.6773,4,2.5755,17,9,4.3759,1.2336,0,0
 12855,Casper Tengstedt,Toulouse,F M S,5,312,5,1,4.9672,0.639,3,3.447,19,3,3.8724,0.2741,0,0
+942,Florian Thauvin,Lens,M,8,702,4,7,4.0608,4.2022,1,1.7806,20,27,8.4185,4.6441,3,0
 6441,Ferrán Torres,"Paris Saint Germain,Rennes",F S,7,429,4,1,2.0753,0.4396,4,2.0753,12,5,2.941,0.4779,0,0
 9912,Cameron Archer,Auxerre,F,5,443,4,0,2.9741,0.2908,4,2.9741,12,3,3.8353,0.7849,0,0
 10100,Kamory Doumbia,Brest,M,8,665,4,1,4.7231,0.5024,3,3.963,16,7,3.2956,0.4462,4,0
 10342,Louis Mafouta,Le Mans,F,7,592,4,1,5.2357,0.9322,3,4.4756,17,2,7.286,2.3921,1,0
 12255,Paris Brunner,Monaco,F,5,399,4,0,2.9027,0.2359,4,2.9027,16,5,2.8394,0.1545,0,0
-942,Florian Thauvin,Lens,M,7,612,3,6,3.9671,3.8198,0,1.6868,18,25,8.0155,4.6441,2,0
 3297,Marquinhos,"Paris Saint Germain,Rennes",D,5,450,3,0,1.8041,0.0868,3,1.8041,4,2,3.4019,2.775,1,0
 6905,Ludovic Ajorque,Brest,F,8,717,3,1,2.2883,1.706,3,2.2883,19,9,4.0168,1.6122,3,0
 9182,Sepe Elye Wahi,Nice,F S,7,537,3,1,3.2342,0.325,3,3.2342,12,5,3.4713,0.4297,3,0
@@ -17,9 +17,9 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 14817,Adil Bourabaa,Le Mans,M,5,406,3,2,1.1576,0.7036,3,1.1576,7,8,3.1718,1.4031,1,0
 502,Olivier Giroud,Lille,F S,7,407,2,2,1.7385,0.1921,1,0.9784,7,4,2.3815,1.3104,1,0
 3549,Adrien Thomasson,"Paris Saint Germain,Rennes",M S,7,488,2,2,1.8069,1.0416,2,1.8069,5,15,2.9463,1.1415,3,0
-3772,Maxime Lopez,Paris FC,M S,7,566,2,1,1.2009,0.4127,2,1.2009,6,7,3.9993,2.6873,2,0
+3772,Maxime Lopez,Paris FC,M S,8,656,2,1,1.2009,0.4127,2,1.2009,6,7,4.0296,2.7176,2,0
 5717,Amine Harit,Marseille,M,7,573,2,1,0.6054,1.3961,2,0.6054,7,13,4.4569,3.4462,1,0
-5745,Matthieu Udol,Lens,D,6,468,2,0,1.411,0.8494,2,1.411,8,9,3.1401,1.5794,0,1
+5745,Matthieu Udol,Lens,D,7,558,2,0,1.411,0.8494,2,1.411,8,9,3.543,1.9824,0,1
 7224,Boulaye Dia,Rennes,F S,5,93,2,0,0.5734,0.076,2,0.5734,3,1,0.7409,0.1675,0,0
 7747,Mama Baldé,Brest,M S,7,308,2,1,1.0308,1.0923,2,1.0308,10,5,2.4444,1.1328,0,0
 8191,Giovanni Reyna,Strasbourg,M S,7,439,2,0,0.5193,0.705,2,0.5193,8,8,2.4875,1.8429,0,0
@@ -34,14 +34,15 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 14052,Pathé Mboup,Brest,M,8,645,2,1,2.7649,1.3908,2,2.7649,22,8,3.8484,1.5068,1,0
 14359,Gessime Yassine,Strasbourg,F M,7,618,2,2,1.2271,2.0069,2,1.2271,11,8,4.448,1.3413,2,0
 14435,Jacen Russell-Rowe,Toulouse,F S,7,474,2,0,1.7127,0.2017,2,1.7127,13,2,2.7199,0.8056,1,0
-14781,Franjo Ivanovic,Lens,M S,5,221,2,0,1.1124,0.3172,2,1.1124,5,2,2.819,1.9506,1,0
+14781,Franjo Ivanovic,Lens,F M S,6,288,2,0,1.159,0.3172,2,1.159,6,2,2.8657,1.9506,1,0
 14842,Thomas Jørgensen,Toulouse,M,7,622,2,1,1.8278,1.4622,2,1.8278,14,12,4.7754,1.981,0,0
 14860,Amine El Ouazzani,Angers,F S,7,509,2,2,1.925,0.9915,1,1.1649,11,4,2.6687,2.1686,0,0
 15030,Ayase Ueda,Lille,F S,4,222,2,0,2.289,0.0943,2,2.289,9,2,2.6332,0.623,0,0
+213,Thorgan Hazard,Lens,M S,6,174,1,1,1.6653,0.142,1,1.6653,6,3,3.4836,1.9421,0,0
 343,Pierre-Emile Højbjerg,Marseille,M,5,450,1,0,0.7262,0.2963,1,0.7262,10,5,2.8092,2.5542,0,0
 643,Eric Dier,Monaco,D,6,540,1,1,0.317,0.4253,1,0.317,4,2,1.6711,1.2457,0,0
 3226,Ousmane Dembélé,"Paris Saint Germain,Rennes",F S,5,246,1,2,3.0874,1.1376,1,2.3273,20,11,3.9285,1.3947,0,0
-3348,Florian Sotoca,Lens,M S,4,180,1,0,0.6144,0.1129,1,0.6144,6,2,1.6325,1.0314,0,0
+3348,Florian Sotoca,Lens,M S,5,270,1,0,0.7828,0.1596,1,0.7828,9,3,1.8476,1.0314,0,0
 3536,Jean-Victor Makengo,Lorient,M,7,602,1,1,1.4073,0.7476,1,1.4073,9,5,2.0438,0.7217,1,0
 3603,Corentin Tolisso,Lyon,M S,7,496,1,2,1.0257,1.5892,1,1.0257,7,9,4.72,2.9248,0,0
 3673,Valentin Rongier,"Paris Saint Germain,Rennes",M S,7,566,1,0,0.2733,0.8129,1,0.2733,6,8,3.4128,2.9382,1,0
@@ -54,7 +55,7 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 5756,Carlens Arcus,Angers,D S,6,427,1,0,0.1951,0.2589,1,0.1951,3,5,2.3414,2.2941,0,0
 5769,Habib Diallo,Le Mans,F S,5,190,1,0,0.5251,0.5598,1,0.5251,5,1,0.7849,0.0837,1,0
 5975,Kenny Lala,Brest,D,8,651,1,0,1.7451,0.3875,0,0.225,8,9,2.6971,2.2936,1,0
-6006,Ruben Aguilar,Lens,D S,6,442,1,1,0.9263,1.2393,1,0.9263,7,8,2.8291,1.3547,1,0
+6006,Ruben Aguilar,Lens,D S,7,532,1,1,0.9263,1.2393,1,0.9263,7,8,2.8291,1.3547,1,0
 6420,Romain Faivre,Auxerre,F M S,7,388,1,2,1.1349,1.2389,1,1.1349,11,15,2.9709,1.6288,0,0
 6846,Sofiane Diop,Nice,M S,8,293,1,2,0.5461,0.8923,1,0.5461,4,9,1.5105,0.2772,1,0
 6864,Renaud Ripart,Troyes,F S,7,396,1,0,2.2828,0.1993,0,1.5227,14,3,2.116,0.8576,1,0
@@ -66,13 +67,14 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 8777,Vitinha,"Paris Saint Germain,Rennes",M S,7,493,1,1,0.5666,1.458,1,0.5666,13,13,4.6342,3.9064,1,0
 9490,Matthis Abline,Monaco,F S,6,323,1,1,1.0289,0.6534,1,1.0289,9,4,1.962,0.4266,0,0
 9633,Przemyslaw Frankowski,"Paris Saint Germain,Rennes",D S,7,467,1,1,0.2911,1.0931,1,0.2911,5,7,3.6686,2.6879,2,0
-9656,Ilan Kebbal,Paris FC,M,7,561,1,1,1.2532,1.604,1,1.2532,15,15,4.6846,2.558,1,0
+9656,Ilan Kebbal,Paris FC,M,8,643,1,1,1.8134,1.604,1,1.8134,17,15,5.2448,2.558,1,0
 9885,Tanner Tessmann,Lyon,M S,6,130,1,0,0.4651,0.0846,1,0.4651,3,2,0.4325,0.3604,1,0
 10058,Maghnes Akliouche,"Paris Saint Germain,Rennes",F M S,7,400,1,0,1.9065,0.635,1,1.9065,7,7,2.6924,1.3299,0,0
 10125,Ibrahima Baldé,Lorient,F S,5,256,1,0,0.7402,0.0556,1,0.7402,4,1,0.9246,0.1288,0,0
 10131,Lucas Calodat,Le Mans,M S,7,384,1,2,0.4623,1.9871,1,0.4623,4,7,2.9413,0.9572,0,0
-10347,Pablo Pagis,Paris FC,M,7,536,1,1,0.9528,1.8805,1,0.9528,15,10,3.1287,1.8594,0,0
+10347,Pablo Pagis,Paris FC,M,8,609,1,1,0.9528,1.8805,1,0.9528,15,10,3.2362,1.9669,0,0
 10431,Désiré Doué,"Paris Saint Germain,Rennes",F S,7,355,1,1,1.8684,1.061,1,1.1083,20,10,3.1592,1.3222,0,0
+10620,Luca Koleosho,Paris FC,D M,7,526,1,1,1.341,0.7898,1,1.341,16,5,2.8648,0.8643,1,0
 10790,Branco van den Boomen,Angers,M,7,630,1,1,0.0676,1.2541,1,0.0676,4,14,3.3861,3.1789,2,0
 10832,Loïs Openda,Lyon,F,5,397,1,1,2.9291,0.7255,1,2.9291,17,5,4.9737,1.8917,1,0
 11046,Abdallah Sima,Lens,F M,5,392,1,1,1.3179,1.0889,1,1.3179,9,5,4.4847,2.3266,0,0
@@ -89,7 +91,7 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 12346,Beraldo,"Paris Saint Germain,Rennes",M S,5,209,1,0,0.7901,0.0921,0,0.03,3,1,1.2013,1.1829,0,0
 12426,Stanis Idumbo Muzambo,Monaco,M S,5,368,1,0,0.8761,0.4262,1,0.8761,12,5,1.2931,0.2223,0,0
 12587,Keyliane Abdallah,Marseille,S,7,147,1,0,0.4482,0.7096,1,0.4482,8,3,1.6852,1.1332,1,0
-13053,Saud Abdulhamid,Lens,D S,2,77,1,0,0.6086,0.0,1,0.6086,1,0,1.3349,0.7263,0,0
+13053,Saud Abdulhamid,Lens,D S,3,167,1,0,0.6086,0.0487,1,0.6086,1,1,1.3836,0.7263,0,0
 13062,Mohammed Amoura,Nice,M S,6,451,1,1,1.9901,1.1957,1,1.9901,12,9,4.2868,2.4871,2,0
 13094,Dário Essugo,Strasbourg,M S,5,247,1,1,0.875,0.2984,1,0.875,6,4,1.4275,1.1117,1,0
 13735,Pavel Sulc,Lyon,F M S,7,427,1,3,1.5582,1.0847,1,1.5582,6,8,3.3621,0.9218,1,0
@@ -115,7 +117,6 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 14869,Flávio Nazinho,Monaco,D,7,624,1,1,0.4776,0.4128,1,0.4776,2,7,2.0072,1.4081,3,0
 14995,Isak Jensen,Lorient,M S,5,145,1,0,0.147,0.0193,1,0.147,3,1,0.6045,0.4835,0,0
 14997,Lucas Maronnier,Troyes,D S,6,423,1,0,0.5382,0.7857,1,0.5382,5,8,1.4958,0.6891,1,0
-213,Thorgan Hazard,Lens,M S,5,151,0,0,1.3073,0.0971,0,1.3073,5,2,3.0806,1.9421,0,0
 281,Lukas Hradecky,Monaco,GK,7,630,0,0,0.0,0.0,0,0.0,0,0,0.8528,0.8528,1,0
 399,Ulisses García,Marseille,S,3,4,0,0,0.1374,0.0,0,0.1374,1,0,0.5901,0.5901,0,0
 914,Nabil Bentaleb,Lille,M S,7,538,0,1,0.2963,0.8931,0,0.2963,8,7,2.0632,1.0865,0,0
@@ -146,7 +147,7 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 5197,Achraf Hakimi,"Paris Saint Germain,Rennes",D S,6,410,0,0,1.1092,0.6205,0,1.1092,13,7,2.7273,1.7884,1,0
 5352,Niklas Schmidt,Toulouse,M S,4,214,0,0,0.0512,0.2892,0,0.0512,2,6,0.7707,0.4784,2,0
 5480,Matvey Safonov,"Paris Saint Germain,Rennes",GK,7,630,0,0,0.0,0.0655,0,0.0,0,1,2.1638,2.0982,0,0
-5619,Pierre Lees-Melou,Paris FC,M,7,618,0,0,0.1903,0.1325,0,0.1903,6,4,2.3128,2.1376,0,0
+5619,Pierre Lees-Melou,Paris FC,M,8,708,0,0,0.228,0.1325,0,0.228,7,4,2.3807,2.1679,1,0
 5661,Jonathan Ikone,Paris FC,S,2,22,0,0,0.0,0.0,0,0.0,0,0,0.0,0.0,0,0
 5684,Arnaud Nordin,"Paris Saint Germain,Rennes",M S,3,92,0,0,0.8377,0.0,0,0.8377,4,0,0.8589,0.0212,0,0
 5727,Gauthier Hein,Nice,M S,8,627,0,1,0.4045,1.8102,0,0.4045,6,9,3.6084,2.614,0,0
@@ -155,20 +156,20 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 5989,Moussa Niakhate,Lyon,D,5,450,0,0,0.0553,0.0605,0,0.0553,1,2,1.3159,1.3034,1,0
 6110,Yvon Mvogo,Lorient,GK,7,630,0,0,0.0,0.0,0,0.0,0,0,0.8069,0.8069,0,0
 6147,Denis Zakaria,Monaco,M,7,559,0,0,0.2035,0.01,0,0.2035,6,1,1.1054,0.9019,2,0
-6148,Michaël Cuisance,Lens,M S,6,399,0,0,1.1581,0.2967,0,1.1581,5,5,3.8514,2.3965,1,0
+6148,Michaël Cuisance,Lens,M S,7,489,0,0,1.1701,0.2967,0,1.1701,6,5,3.8633,2.3965,1,0
 6452,Mahdi Camara,Rennes,M S,6,412,0,0,0.7886,0.4585,0,0.7886,8,4,3.0436,1.9327,0,0
 6500,Romain Perraud,Lille,D S,7,524,0,0,0.1765,0.0885,0,0.1765,5,2,1.8704,1.7063,2,0
 6601,Timothy Weah,Marseille,D,6,531,0,2,0.4111,1.1706,0,0.4111,6,7,3.0226,1.96,1,1
 6709,Yehvann Diouf,Nice,GK,8,720,0,0,0.0,0.0,0,0.0,0,0,1.4242,1.4242,1,0
-6816,Jean-Clair Todibo,Lens,D S,3,147,0,0,0.0636,0.1464,0,0.0636,2,2,0.0603,0.0603,0,0
+6816,Jean-Clair Todibo,Lens,D S,4,214,0,0,0.0636,0.1464,0,0.0636,2,2,0.0603,0.0603,0,0
 6874,Yann Gboho,Toulouse,M,2,171,0,1,0.3379,0.5569,0,0.3379,2,4,1.337,0.4662,0,0
 6895,Jordan Lefort,Angers,D,6,513,0,0,0.128,0.2775,0,0.128,1,3,1.9213,1.9213,1,1
 6923,Mohammed Salisu,Monaco,D S,2,68,0,0,0.0,0.0,0,0.0,0,0,0.2464,0.2464,1,0
 6935,Naif Aguerd,Marseille,D S,7,418,0,0,0.5182,0.0,0,0.5182,2,0,2.1245,1.6262,1,0
 7157,Lucas Buades,Le Mans,D M,3,250,0,0,0.0262,0.5319,0,0.0262,1,1,0.6829,0.1248,0,0
-7169,Moses Simon,Paris FC,M S,5,139,0,0,0.3689,0.8363,0,0.3689,3,3,1.2737,0.1352,0,0
+7169,Moses Simon,Paris FC,M S,6,156,0,0,0.3689,0.8363,0,0.3689,3,3,1.2737,0.1352,0,0
 7206,Jonathan Gradit,Lens,D S,3,152,0,0,0.1704,0.0261,0,0.1704,2,1,0.1213,0.1213,1,0
-7501,Amadou Haidara,Lens,M S,6,249,0,0,0.1176,0.0807,0,0.1176,2,1,0.7862,0.722,1,0
+7501,Amadou Haidara,Lens,M S,7,326,0,0,0.1176,0.0807,0,0.1176,2,1,0.8349,0.7707,1,0
 7502,Iron Gomis,Troyes,M S,7,332,0,0,0.2623,0.1271,0,0.2623,5,3,1.3058,1.0205,1,0
 7544,Paolo Gozzi Iweru,Troyes,D,2,159,0,0,0.0329,0.3126,0,0.0329,1,1,0.4655,0.1529,0,0
 7556,Alexandre Lauray,Le Mans,M S,6,361,0,0,0.1318,0.4102,0,0.1318,5,7,1.7215,1.5127,3,0
@@ -183,7 +184,7 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 8164,Ewan Hatfout,Le Mans,GK S,3,187,0,0,0.0,0.0,0,0.0,0,0,0.759,0.759,0,0
 8190,Melvin Bard,Nice,D,2,175,0,0,0.0155,0.0804,0,0.0155,1,2,0.2147,0.1342,0,0
 8239,Takumi Minamino,Monaco,M,1,53,0,0,0.0,0.021,0,0.0,0,1,0.0369,0.0158,0,0
-8647,Thibault De Smet,Paris FC,S,1,33,0,0,0.0,0.0,0,0.0,0,0,0.0,0.0,1,0
+8647,Thibault De Smet,Paris FC,S,2,36,0,0,0.0,0.0,0,0.0,0,0,0.0,0.0,1,0
 8684,Fodé Doucouré,Le Havre,D S,2,98,0,1,0.0703,0.5278,0,0.0703,2,2,0.6651,0.5929,2,0
 8685,Mohamed Ali-Cho,Nice,S,1,29,0,0,0.0147,0.0,0,0.0147,1,0,0.2653,0.2506,0,0
 8690,Jean-Phillipe Krasso,Paris FC,S,1,4,0,0,0.0,0.0,0,0.0,0,0,0.0,0.0,0,0
@@ -199,7 +200,7 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 9419,Bryan Reynolds,"Paris Saint Germain,Rennes",D S,5,217,0,2,0.2563,0.4342,0,0.2563,1,4,0.6845,0.2494,0,0
 9444,Felix Correia,Lille,M S,2,94,0,0,0.0418,0.0,0,0.0418,1,0,0.5544,0.5126,0,0
 9514,Antoine Mendy,Nice,D S,3,120,0,0,0.1158,0.0117,0,0.1158,3,1,0.2589,0.2242,0,0
-9563,Mamadou Mbow,Paris FC,D S,4,182,0,0,0.0,0.0,0,0.0,0,0,0.3707,0.3707,0,0
+9563,Mamadou Mbow,Paris FC,D S,5,272,0,0,0.0,0.0,0,0.0,0,0,0.401,0.401,1,0
 9618,Gauthier Gallon,Le Havre,GK S,5,361,0,0,0.0,0.0,0,0.0,0,0,0.1239,0.1239,0,0
 9645,Jim Allevinah,Angers,F M,7,539,0,0,0.8378,1.0657,0,0.8378,15,8,2.529,1.1943,1,0
 9652,Alidu Seidu,Nice,D S,3,125,0,0,0.0264,0.0,0,0.0264,2,0,0.8576,0.8474,0,0
@@ -216,7 +217,7 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 9961,Nuno Mendes,Paris Saint Germain,D S,3,216,0,0,0.2165,2.2004,0,0.2165,4,8,3.5473,2.133,1,0
 10041,Yasser Larouci,Le Mans,D M S,5,226,0,0,0.2188,0.0179,0,0.2188,4,1,0.1429,0.0179,0,0
 10091,Tyler Morton,Lyon,M S,6,450,0,0,0.1183,0.2006,0,0.1183,4,4,1.9856,1.8304,1,0
-10169,Diego Coppola,Paris FC,D,7,630,0,0,0.0,0.0506,0,0.0,0,1,1.805,1.7544,1,0
+10169,Diego Coppola,Paris FC,D,8,720,0,0,0.0,0.0506,0,0.0,0,1,1.9428,1.8922,1,0
 10174,CJ Egan-Riley,Marseille,D,7,615,0,0,0.0,0.0854,0,0.0,0,1,3.1505,3.0651,0,0
 10243,Jacques Ekomie,Angers,D,1,90,0,0,0.0485,0.0,0,0.0485,2,0,0.1074,0.059,0,0
 10271,Vanderson,Monaco,D,7,581,0,0,0.0763,0.5515,0,0.0763,2,8,1.8636,1.8263,1,0
@@ -226,9 +227,8 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 10390,Ismaël Doukouré,Strasbourg,D,3,255,0,0,0.0418,0.0,0,0.0418,1,0,1.5008,1.459,0,0
 10517,Yassin Belkhdim,Angers,M,7,603,0,0,0.0733,0.1772,0,0.0733,2,5,2.7289,2.5712,1,0
 10581,Junior Mwanga,Le Havre,D M S,6,351,0,0,0.0,0.0573,0,0.0,0,1,0.8298,0.7725,0,1
-10620,Luca Koleosho,Paris FC,D M,6,474,0,1,1.2335,0.7898,0,1.2335,15,5,2.727,0.834,1,0
 10701,Nicolás Tagliafico,Lyon,D,1,81,0,0,0.0,0.0139,0,0.0,0,1,0.0676,0.0537,0,0
-10769,Robin Risser,Lens,GK,7,630,0,0,0.0,0.0,0,0.0,0,0,1.4104,1.4104,0,0
+10769,Robin Risser,Lens,GK,8,720,0,0,0.0,0.0,0,0.0,0,0,1.4104,1.4104,0,0
 10786,Warren Zaïre-Emery,"Paris Saint Germain,Rennes",D M S,7,507,0,1,1.1021,0.7956,0,1.1021,5,4,5.0509,3.2032,0,0
 10788,Rasmus Nicolaisen,Toulouse,D,4,356,0,0,0.1347,0.0156,0,0.1347,4,1,0.4092,0.4092,1,0
 10789,Anthony Rouault,Rennes,D,4,360,0,0,0.0196,0.0108,0,0.0196,1,1,1.6567,1.6567,2,0
@@ -295,7 +295,7 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 13042,Mohamed Abdelmonem,Nice,D S,8,611,0,0,0.1818,0.1208,0,0.1818,3,2,1.8246,1.6738,2,0
 13070,Ali Abdi,Nice,S,3,39,0,0,0.0,0.0,0,0.0,0,0,0.0,0.0,0,0
 13076,Aristide Zossou,Auxerre,F S,4,117,0,0,0.0617,0.0495,0,0.0617,1,1,0.1901,0.1406,0,0
-13141,Kyllian Antonio,Lens,D,5,450,0,0,0.0491,0.0643,0,0.0491,2,1,1.8264,1.7391,0,0
+13141,Kyllian Antonio,Lens,D S,6,473,0,0,0.0491,0.0643,0,0.0491,2,1,1.8713,1.784,0,0
 13159,Marius Louãr,Angers,D S,2,51,0,0,0.0855,0.0,0,0.0855,1,0,0.1143,0.1143,0,0
 13211,Mathis Saka,Toulouse,S,1,3,0,0,0.0,0.0,0,0.0,0,0,0.0,0.0,0,0
 13265,Everton Pereira,Nice,M S,3,105,0,0,0.0,0.0,0,0.0,0,0,0.0422,0.0422,0,0
@@ -305,7 +305,7 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 13356,Henrick Do Marcolino,Paris Saint Germain,S,1,10,0,0,0.0,0.0212,0,0.0,0,1,0.0212,0.0,0,0
 13372,Egil Selvik,Brest,GK,8,720,0,0,0.0,0.0183,0,0.0,0,1,1.4457,1.4457,0,0
 13382,Isaac Cossier,Lille,S,1,12,0,0,0.0,0.0,0,0.0,0,0,0.0,0.0,0,0
-13385,Zabi Gueu,Paris FC,S,5,61,0,1,1.2028,0.5197,0,1.2028,2,2,1.8918,0.1693,1,0
+13385,Zabi Gueu,Paris FC,S,6,69,0,1,1.2028,0.5197,0,1.2028,2,2,1.8918,0.1693,1,0
 13388,Justin Bourgault,Brest,S,1,1,0,0,0.0,0.0,0,0.0,0,0,0.0,0.0,0,0
 13407,Fredrik Oppegård,Auxerre,D S,5,382,0,0,0.0,0.3096,0,0.0,0,4,2.7705,2.4778,0,0
 13471,Soriba Diaoune,Lille,S,1,24,0,0,0.0,0.0,0,0.0,0,0,0.0145,0.0145,0,0
@@ -313,11 +313,11 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 13496,Karim Coulibaly,Strasbourg,D S,5,199,0,0,0.1059,0.0525,0,0.1059,2,1,0.1846,0.0916,0,0
 13526,Souleymane Sagnan,Lens,D S,3,247,0,0,0.0507,0.0,0,0.0507,1,0,2.3649,2.3142,0,1
 13527,Genesis Antwi,Strasbourg,D,7,619,0,0,0.02,0.4235,0,0.02,1,1,1.2416,0.7981,0,0
-13577,Rudy Matondo,Paris FC,M S,7,182,0,0,0.3667,0.1974,0,0.3667,3,3,0.9399,0.4431,1,0
+13577,Rudy Matondo,Paris FC,M S,8,196,0,0,0.3667,0.1974,0,0.3667,3,3,0.9399,0.4431,1,0
 13608,Ilyas Azizi,Toulouse,M S,5,322,0,0,0.343,0.1958,0,0.343,8,4,0.7905,0.3287,0,0
 13615,Oso,Strasbourg,D,5,450,0,0,0.2461,0.4205,0,0.2461,6,6,3.0242,2.6394,1,0
 13718,Eliezer Mayenda,Rennes,M S,5,111,0,0,0.2644,0.1143,0,0.2644,4,2,0.6113,0.2641,0,0
-13732,Samson Baidoo,Lens,S,2,61,0,0,0.0,0.0,0,0.0,0,0,0.0,0.0,1,0
+13732,Samson Baidoo,Lens,D S,3,151,0,0,0.0,0.0,0,0.0,0,0,0.3581,0.3581,2,0
 13733,Andrija Bulatovic,Lens,M S,7,253,0,0,0.2314,0.4699,0,0.2314,9,5,2.291,1.7574,1,0
 13737,Mathys de Carvalho,Lyon,M,1,70,0,0,0.0,0.0,0,0.0,0,0,0.0,0.0,0,0
 13738,Ruben Kluivert,Lyon,D S,3,97,0,0,0.2537,0.0,0,0.2537,1,0,0.0424,0.0424,0,0
@@ -336,9 +336,10 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 13784,Maxima Goffi,Lille,D S,2,159,0,0,0.102,0.0675,0,0.102,3,2,0.7753,0.6655,1,0
 13794,Arsène Kouassi,Lorient,D,7,630,0,1,0.4874,0.6244,0,0.4874,3,9,2.2981,1.7285,2,0
 13795,Dermane Karim,Troyes,M S,6,447,0,0,0.4073,0.3797,0,0.4073,9,4,1.345,0.7777,1,0
-13805,Adama Camara,Paris FC,D,7,605,0,0,0.1772,0.4478,0,0.1772,3,7,3.1433,2.7999,0,0
+13799,Obed Nkambadio,Paris FC,GK,1,90,0,0,0.0,0.0,0,0.0,0,0,0.0303,0.0303,0,0
+13805,Adama Camara,Paris FC,D,8,678,0,0,0.1772,0.4781,0,0.1772,3,8,3.1736,2.8302,0,0
 13817,Lucas Høgsberg,Strasbourg,D S,4,194,0,0,0.0,0.0532,0,0.0,0,2,0.4295,0.3763,0,0
-13871,Otávio,Paris FC,D S,4,207,0,0,0.0885,0.0,0,0.0885,1,0,0.5766,0.5766,1,0
+13871,Otávio,Paris FC,D S,5,297,0,0,0.0885,0.0,0,0.0885,1,0,0.6069,0.6069,2,0
 13918,Julián Vignolo,Toulouse,M S,4,185,0,0,0.2207,0.0761,0,0.2207,4,1,0.5972,0.3424,0,0
 13985,Elikya Legros,Auxerre,D S,5,162,0,0,0.0224,0.0,0,0.0224,1,0,0.1363,0.1139,1,0
 14036,Fabio Baldé,Strasbourg,M S,4,87,0,0,0.1309,0.1028,0,0.1309,2,2,0.6824,0.4487,0,0
@@ -362,8 +363,8 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 14754,Mateo del Blanco,Strasbourg,S,2,12,0,0,0.0,0.0,0,0.0,0,0,0.0,0.0,0,0
 14756,Jeyland Mitchell,Strasbourg,D,6,529,0,0,0.5174,0.1048,0,0.5174,3,2,1.5655,1.4486,1,0
 14779,Maik Nawrocki,Lens,D,2,156,0,0,0.0438,0.0,0,0.0438,1,0,0.7696,0.7696,1,0
-14780,Yacine Titraoui,Lens,M,5,368,0,0,0.0235,0.0,0,0.0235,1,0,2.454,2.4305,1,0
-14782,Michal Skóras,Lens,D S,6,362,0,1,0.0864,1.4058,0,0.0864,2,7,2.6788,1.7589,1,0
+14780,Yacine Titraoui,Lens,M S,6,381,0,0,0.0235,0.0,0,0.0235,1,0,2.454,2.4305,1,0
+14782,Michal Skóras,Lens,D S,7,363,0,1,0.0864,1.4058,0,0.0864,2,7,2.6788,1.7589,2,0
 14783,Mamadou Diop,Auxerre,GK,6,540,0,1,0.0,0.4066,0,0.0,0,1,1.1685,0.7619,0,0
 14784,Christ Makosso,Auxerre,D,5,394,0,1,0.0,0.8398,0,0.0,0,2,3.2434,2.9547,1,1
 14785,Arthur Piedfort,Auxerre,D M S,7,487,0,0,0.0173,0.0812,0,0.0173,1,2,1.1484,1.1114,1,0
@@ -414,6 +415,6 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 15049,Samuel Yohou,Le Mans,D S,5,377,0,0,0.5458,0.0,0,0.5458,2,0,1.1888,1.1888,1,0
 15075,Hakim Dongopandji,Le Havre,S,2,28,0,1,0.0,0.472,0,0.0,0,1,0.472,0.0,0,0
 15076,Lamine N&#039;Diaye,Le Havre,D,2,153,0,0,0.1571,0.1316,0,0.1571,2,2,0.2657,0.1341,1,0
-15080,Junior Kadile,Lens,D S,2,92,0,0,0.0258,0.5423,0,0.0258,1,1,0.5681,0.0,0,0
-15117,Emmanuel Mbemba,Paris FC,S,1,1,0,0,0.0,0.0,0,0.0,0,0,0.0,0.0,0,0
+15080,Junior Kadile,Lens,D S,3,93,0,0,0.0501,0.5423,0,0.0501,2,1,0.5681,0.0,0,0
+15117,Emmanuel Mbemba,Paris FC,S,2,39,0,0,0.0,0.0,0,0.0,0,0,0.0,0.0,0,0
 15125,Youssef Khoudda,Auxerre,S,1,1,0,0,0.0,0.0,0,0.0,0,0,0.0,0.0,0,0

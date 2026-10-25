@@ -90,10 +90,10 @@ ext_id,utc_kickoff,status,stage,group,matchday,home_id,home,home_short,away_id,a
 401882842,2026-10-19T19:00Z,FINISHED,2026-27-laliga,,,2922,Getafe,Getafe,101,Rayo Vallecano,Rayo,1,1,REGULAR
 401882870,2026-10-21T18:00Z,FINISHED,2026-27-laliga,,,1538,Levante,Levante,93,Athletic Club,Athletic,3,1,REGULAR
 401882836,2026-10-23T19:00Z,FINISHED,2026-27-laliga,,,96,Alavés,Alavés,99,Málaga,Málaga,1,1,REGULAR
-401882830,2026-10-24T12:00Z,SCHEDULED,2026-27-laliga,,,101,Rayo Vallecano,Rayo,3751,Elche,Elche,,,
-401882831,2026-10-24T14:15Z,SCHEDULED,2026-27-laliga,,,87,Racing Santander,Racing,88,Espanyol,Espanyol,,,
-401882827,2026-10-24T16:30Z,SCHEDULED,2026-27-laliga,,,94,Valencia,Valencia,102,Villarreal,Villarreal,,,
-401882834,2026-10-24T19:00Z,SCHEDULED,2026-27-laliga,,,1068,Atlético Madrid,Atlético,90,Deportivo,Deportivo,,,
+401882830,2026-10-24T12:00Z,FINISHED,2026-27-laliga,,,101,Rayo Vallecano,Rayo,3751,Elche,Elche,0,3,REGULAR
+401882831,2026-10-24T14:15Z,FINISHED,2026-27-laliga,,,87,Racing Santander,Racing,88,Espanyol,Espanyol,2,1,REGULAR
+401882827,2026-10-24T16:30Z,FINISHED,2026-27-laliga,,,94,Valencia,Valencia,102,Villarreal,Villarreal,1,2,REGULAR
+401882834,2026-10-24T19:00Z,FINISHED,2026-27-laliga,,,1068,Atlético Madrid,Atlético,90,Deportivo,Deportivo,1,0,REGULAR
 401882835,2026-10-25T13:00Z,SCHEDULED,2026-27-laliga,,,93,Athletic Club,Athletic,2922,Getafe,Getafe,,,
 401882833,2026-10-25T15:15Z,SCHEDULED,2026-27-laliga,,,85,Celta Vigo,Celta Vigo,244,Real Betis,Betis,,,
 401882829,2026-10-25T17:30Z,SCHEDULED,2026-27-laliga,,,89,Real Sociedad,Real Sociedad,1538,Levante,Levante,,,

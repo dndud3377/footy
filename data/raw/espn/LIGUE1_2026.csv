@@ -63,7 +63,7 @@ ext_id,utc_kickoff,status,stage,group,matchday,home_id,home,home_short,away_id,a
 401876433,2026-10-18T15:15Z,FINISHED,2026-27-ligue-1,,,6851,Paris FC,Paris FC,169,Stade Rennais,Rennes,4,3,REGULAR
 401876434,2026-10-18T18:45Z,FINISHED,2026-27-ligue-1,,,167,Lyon,Lyon,2502,Nice,Nice,2,1,REGULAR
 401876428,2026-10-23T18:45Z,FINISHED,2026-27-ligue-1,,,6997,Brest,Brest,2502,Nice,Nice,1,2,REGULAR
-401876427,2026-10-24T18:45Z,SCHEDULED,2026-27-ligue-1,,,175,Lens,Lens,6851,Paris FC,Paris FC,,,
+401876427,2026-10-24T18:45Z,FINISHED,2026-27-ligue-1,,,175,Lens,Lens,6851,Paris FC,Paris FC,2,1,REGULAR
 401876425,2026-10-25T14:00Z,SCHEDULED,2026-27-ligue-1,,,174,AS Monaco,Monaco,166,Lille,Lille,,,
 401876423,2026-10-25T16:15Z,SCHEDULED,2026-27-ligue-1,,,179,Toulouse,Toulouse,170,Troyes,Troyes,,,
 401876424,2026-10-25T16:15Z,SCHEDULED,2026-27-ligue-1,,,169,Stade Rennais,Rennes,180,Strasbourg,Strasbourg,,,
@@ -116,13 +116,13 @@ ext_id,utc_kickoff,status,stage,group,matchday,home_id,home,home_short,away_id,a
 401876377,2026-12-06T14:00Z,SCHEDULED,2026-27-ligue-1,,,170,Troyes,Troyes,167,Lyon,Lyon,,,
 401876380,2026-12-06T16:15Z,SCHEDULED,2026-27-ligue-1,,,169,Stade Rennais,Rennes,6997,Brest,Brest,,,
 401876383,2026-12-06T19:45Z,SCHEDULED,2026-27-ligue-1,,,176,Marseille,Marseille,2502,Nice,Nice,,,
+401876370,2026-12-12T16:15Z,SCHEDULED,2026-27-ligue-1,,,160,Paris Saint-Germain,PSG,6851,Paris FC,Paris FC,,,
 401876376,2026-12-12T19:45Z,SCHEDULED,2026-27-ligue-1,,,7868,Angers,Angers,180,Strasbourg,Strasbourg,,,
 401876373,2026-12-12T19:45Z,SCHEDULED,2026-27-ligue-1,,,3236,Le Havre AC,Le Havre AC,2697,Le Mans,Le Mans,,,
 401876371,2026-12-12T19:45Z,SCHEDULED,2026-27-ligue-1,,,2502,Nice,Nice,175,Lens,Lens,,,
-401876370,2026-12-12T20:00Z,SCHEDULED,2026-27-ligue-1,,,160,Paris Saint-Germain,PSG,6851,Paris FC,Paris FC,,,
+401876374,2026-12-12T20:00Z,SCHEDULED,2026-27-ligue-1,,,6997,Brest,Brest,170,Troyes,Troyes,,,
 401876369,2026-12-12T20:00Z,SCHEDULED,2026-27-ligue-1,,,169,Stade Rennais,Rennes,174,AS Monaco,Monaco,,,
 401876375,2026-12-12T20:00Z,SCHEDULED,2026-27-ligue-1,,,172,AJ Auxerre,Auxerre,179,Toulouse,Toulouse,,,
-401876374,2026-12-12T20:00Z,SCHEDULED,2026-27-ligue-1,,,6997,Brest,Brest,170,Troyes,Troyes,,,
 401876372,2026-12-13T14:00Z,SCHEDULED,2026-27-ligue-1,,,273,Lorient,Lorient,166,Lille,Lille,,,
 401876368,2026-12-13T19:45Z,SCHEDULED,2026-27-ligue-1,,,167,Lyon,Lyon,176,Marseille,Marseille,,,
 401876367,2027-01-02T16:00Z,SCHEDULED,2026-27-ligue-1,,,6997,Brest,Brest,176,Marseille,Marseille,,,

@@ -54,12 +54,12 @@ understat_id,is_result,datetime,home,away,hg,ag,hxg,axg
 32287,True,2026-10-18 13:30:00,Bayer Leverkusen,Freiburg,2.0,1.0,1.8475,1.2068
 32289,True,2026-10-18 15:30:00,Borussia M.Gladbach,Hoffenheim,1.0,2.0,0.758,2.171
 32302,True,2026-10-23 18:30:00,VfB Stuttgart,Borussia M.Gladbach,2.0,3.0,1.9792,2.6254
-32295,False,2026-10-24 13:30:00,Augsburg,Union Berlin,,,,
-32297,False,2026-10-24 13:30:00,FC Cologne,Schalke 04,,,,
-32300,False,2026-10-24 13:30:00,Mainz 05,Werder Bremen,,,,
-32301,False,2026-10-24 13:30:00,Paderborn,Hamburger SV,,,,
-32764,False,2026-10-24 13:30:00,RasenBallsport Leipzig,Elversberg,,,,
-32296,False,2026-10-24 16:30:00,Borussia Dortmund,Eintracht Frankfurt,,,,
+32295,True,2026-10-24 13:30:00,Augsburg,Union Berlin,1.0,1.0,2.023,0.8333
+32297,True,2026-10-24 13:30:00,FC Cologne,Schalke 04,0.0,0.0,1.1878,0.4583
+32300,True,2026-10-24 13:30:00,Mainz 05,Werder Bremen,2.0,3.0,1.8649,2.9473
+32301,True,2026-10-24 13:30:00,Paderborn,Hamburger SV,1.0,0.0,1.3603,0.4188
+32764,True,2026-10-24 13:30:00,RasenBallsport Leipzig,Elversberg,4.0,0.0,3.0324,0.7648
+32296,True,2026-10-24 16:30:00,Borussia Dortmund,Eintracht Frankfurt,1.0,0.0,1.7165,0.85
 32299,False,2026-10-25 14:30:00,Hoffenheim,Bayer Leverkusen,,,,
 32298,False,2026-10-25 16:30:00,Freiburg,Bayern Munich,,,,
 32765,False,2026-10-30 19:30:00,Elversberg,Mainz 05,,,,

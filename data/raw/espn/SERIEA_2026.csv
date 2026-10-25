@@ -70,10 +70,10 @@ ext_id,utc_kickoff,status,stage,group,matchday,home_id,home,home_short,away_id,a
 401874762,2026-10-19T16:30Z,FINISHED,2026-27-italian-serie-a,,,4007,Monza,Monza,2925,Cagliari,Cagliari,4,0,REGULAR
 401874784,2026-10-19T18:45Z,FINISHED,2026-27-italian-serie-a,,,115,Parma,Parma,239,Torino,Torino,0,3,REGULAR
 401874957,2026-10-23T18:45Z,FINISHED,2026-27-italian-serie-a,,,239,Torino,Torino,4007,Monza,Monza,3,2,REGULAR
-401874958,2026-10-24T13:00Z,SCHEDULED,2026-27-italian-serie-a,,,2925,Cagliari,Cagliari,107,Bologna,Bologna,,,
-401874961,2026-10-24T13:00Z,SCHEDULED,2026-27-italian-serie-a,,,2572,Como,Como,3997,Sassuolo,Sassuolo,,,
-401874948,2026-10-24T16:00Z,SCHEDULED,2026-27-italian-serie-a,,,114,Napoli,Napoli,104,AS Roma,AS Roma,,,
-401874955,2026-10-24T18:45Z,SCHEDULED,2026-27-italian-serie-a,,,112,Lazio,Lazio,115,Parma,Parma,,,
+401874958,2026-10-24T13:00Z,FINISHED,2026-27-italian-serie-a,,,2925,Cagliari,Cagliari,107,Bologna,Bologna,0,2,REGULAR
+401874961,2026-10-24T13:00Z,FINISHED,2026-27-italian-serie-a,,,2572,Como,Como,3997,Sassuolo,Sassuolo,2,0,REGULAR
+401874948,2026-10-24T16:00Z,FINISHED,2026-27-italian-serie-a,,,114,Napoli,Napoli,104,AS Roma,AS Roma,3,3,REGULAR
+401874955,2026-10-24T18:45Z,FINISHED,2026-27-italian-serie-a,,,112,Lazio,Lazio,115,Parma,Parma,2,1,REGULAR
 401875036,2026-10-25T11:30Z,SCHEDULED,2026-27-italian-serie-a,,,110,Internazionale,Inter Milan,109,Fiorentina,Fiorentina,,,
 401874972,2026-10-25T14:00Z,SCHEDULED,2026-27-italian-serie-a,,,105,Atalanta,Atalanta,4057,Frosinone,Frosinone,,,
 401874952,2026-10-25T14:00Z,SCHEDULED,2026-27-italian-serie-a,,,3263,Genoa,Genoa,17530,Venezia,Venezia,,,
