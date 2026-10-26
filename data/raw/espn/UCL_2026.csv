@@ -14,13 +14,13 @@ ext_id,utc_kickoff,status,stage,group,matchday,home_id,home,home_short,away_id,a
 401915444,2026-09-10T16:45Z,FINISHED,league-phase,,,436,Fenerbahce,Fenerbahce,104,AS Roma,AS Roma,1,1,REGULAR
 401915422,2026-09-10T16:45Z,FINISHED,league-phase,,,148,PSV Eindhoven,PSV,493,Shakhtar Donetsk,Shakhtar,1,1,REGULAR
 401915440,2026-09-10T19:00Z,FINISHED,league-phase,,,494,Slavia Prague,Slavia Prague,175,Lens,Lens,2,3,REGULAR
-401915442,2026-09-10T19:00Z,FINISHED,league-phase,,,360,Manchester United,Man United,21922,Sabah FK,Sabah,4,0,REGULAR
+401915442,2026-09-10T19:00Z,FINISHED,league-phase,,,360,Manchester United,Man Utd,21922,Sabah FK,Sabah,4,0,REGULAR
 401915441,2026-09-10T19:00Z,FINISHED,league-phase,,,2572,Como,Como,11420,RB Leipzig,RB Leipzig,4,1,REGULAR
 401915443,2026-09-10T19:00Z,FINISHED,league-phase,,,132,Bayern Munich,Bayern,2980,Bodo/Glimt,Bodo/Glimt,5,0,REGULAR
 401915418,2026-10-13T16:45Z,FINISHED,league-phase,,,175,Lens,Lens,2250,Sporting CP,Sporting,0,2,REGULAR
 401915436,2026-10-13T16:45Z,FINISHED,league-phase,,,21922,Sabah FK,Sabah,494,Slavia Prague,Slavia Prague,2,0,REGULAR
 401915417,2026-10-13T19:00Z,FINISHED,league-phase,,,359,Arsenal,Arsenal,166,Lille,Lille,3,0,REGULAR
-401915412,2026-10-13T19:00Z,FINISHED,league-phase,,,1068,Atlético Madrid,Atlético,360,Manchester United,Man United,2,0,REGULAR
+401915412,2026-10-13T19:00Z,FINISHED,league-phase,,,1068,Atlético Madrid,Atlético,360,Manchester United,Man Utd,2,0,REGULAR
 401915435,2026-10-13T19:00Z,FINISHED,league-phase,,,432,Galatasaray,Galatasaray,83,Barcelona,Barcelona,1,4,REGULAR
 401915413,2026-10-13T19:00Z,FINISHED,league-phase,,,110,Internazionale,Inter Milan,570,Club Brugge,Club Brugge,3,4,REGULAR
 401915434,2026-10-13T19:00Z,FINISHED,league-phase,,,11420,RB Leipzig,RB Leipzig,148,PSV Eindhoven,PSV,1,0,REGULAR
@@ -44,7 +44,7 @@ ext_id,utc_kickoff,status,stage,group,matchday,home_id,home,home_short,away_id,a
 401915397,2026-10-20T19:00Z,FINISHED,league-phase,,,364,Liverpool,Liverpool,102,Villarreal,Villarreal,4,3,REGULAR
 401915398,2026-10-20T19:00Z,FINISHED,league-phase,,,437,FC Porto,FC Porto,148,PSV Eindhoven,PSV,0,1,REGULAR
 401915402,2026-10-20T19:00Z,FINISHED,league-phase,,,104,AS Roma,AS Roma,521,Slovan Bratislava,S Bratislava,4,0,REGULAR
-401915395,2026-10-21T16:45Z,FINISHED,league-phase,,,2572,Como,Como,360,Manchester United,Man United,4,1,REGULAR
+401915395,2026-10-21T16:45Z,FINISHED,league-phase,,,2572,Como,Como,360,Manchester United,Man Utd,4,1,REGULAR
 401915396,2026-10-21T16:45Z,FINISHED,league-phase,,,166,Lille,Lille,432,Galatasaray,Galatasaray,2,4,REGULAR
 401915391,2026-10-21T19:00Z,FINISHED,league-phase,,,2250,Sporting CP,Sporting,4411,LASK Linz,LASK Linz,2,3,REGULAR
 401915313,2026-10-21T19:00Z,FINISHED,league-phase,,,86,Real Madrid,Real Madrid,11420,RB Leipzig,RB Leipzig,4,1,REGULAR
@@ -60,7 +60,7 @@ ext_id,utc_kickoff,status,stage,group,matchday,home_id,home,home_short,away_id,a
 401915384,2026-11-03T20:00Z,SCHEDULED,league-phase,,,2980,Bodo/Glimt,Bodo/Glimt,166,Lille,Lille,,,
 401915307,2026-11-03T20:00Z,SCHEDULED,league-phase,,,142,Feyenoord Rotterdam,Feyenoord,110,Internazionale,Inter Milan,,,
 401915385,2026-11-03T20:00Z,SCHEDULED,league-phase,,,4411,LASK Linz,LASK Linz,521,Slovan Bratislava,S Bratislava,,,
-401915308,2026-11-03T20:00Z,SCHEDULED,league-phase,,,360,Manchester United,Man United,104,AS Roma,AS Roma,,,
+401915308,2026-11-03T20:00Z,SCHEDULED,league-phase,,,360,Manchester United,Man Utd,104,AS Roma,AS Roma,,,
 401915309,2026-11-03T20:00Z,SCHEDULED,league-phase,,,102,Villarreal,Villarreal,160,Paris Saint-Germain,PSG,,,
 401915383,2026-11-04T17:45Z,SCHEDULED,league-phase,,,887,AEK Athens,AEK Athens,86,Real Madrid,Real Madrid,,,
 401915382,2026-11-04T17:45Z,SCHEDULED,league-phase,,,436,Fenerbahce,Fenerbahce,364,Liverpool,Liverpool,,,
@@ -82,7 +82,7 @@ ext_id,utc_kickoff,status,stage,group,matchday,home_id,home,home_short,away_id,a
 401915295,2026-11-24T20:00Z,SCHEDULED,league-phase,,,359,Arsenal,Arsenal,124,Borussia Dortmund,Dortmund,,,
 401915378,2026-11-25T17:45Z,SCHEDULED,league-phase,,,21922,Sabah FK,Sabah,83,Barcelona,Barcelona,,,
 401915293,2026-11-25T17:45Z,SCHEDULED,league-phase,,,494,Slavia Prague,Slavia Prague,102,Villarreal,Villarreal,,,
-401915373,2026-11-25T20:00Z,SCHEDULED,league-phase,,,2250,Sporting CP,Sporting,360,Manchester United,Man United,,,
+401915373,2026-11-25T20:00Z,SCHEDULED,league-phase,,,2250,Sporting CP,Sporting,360,Manchester United,Man Utd,,,
 401915375,2026-11-25T20:00Z,SCHEDULED,league-phase,,,493,Shakhtar Donetsk,Shakhtar,436,Fenerbahce,Fenerbahce,,,
 401915374,2026-11-25T20:00Z,SCHEDULED,league-phase,,,160,Paris Saint-Germain,PSG,104,AS Roma,AS Roma,,,
 401915377,2026-11-25T20:00Z,SCHEDULED,league-phase,,,166,Lille,Lille,132,Bayern Munich,Bayern,,,
@@ -92,7 +92,7 @@ ext_id,utc_kickoff,status,stage,group,matchday,home_id,home,home_short,away_id,a
 401915290,2026-12-08T17:45Z,SCHEDULED,league-phase,,,510,Viking FK,Viking FK,142,Feyenoord Rotterdam,Feyenoord,,,
 401915372,2026-12-08T17:45Z,SCHEDULED,league-phase,,,102,Villarreal,Villarreal,21922,Sabah FK,Sabah,,,
 401915287,2026-12-08T20:00Z,SCHEDULED,league-phase,,,114,Napoli,Napoli,570,Club Brugge,Club Brugge,,,
-401915371,2026-12-08T20:00Z,SCHEDULED,league-phase,,,360,Manchester United,Man United,11420,RB Leipzig,RB Leipzig,,,
+401915371,2026-12-08T20:00Z,SCHEDULED,league-phase,,,360,Manchester United,Man Utd,11420,RB Leipzig,RB Leipzig,,,
 401915284,2026-12-08T20:00Z,SCHEDULED,league-phase,,,132,Bayern Munich,Bayern,494,Slavia Prague,Slavia Prague,,,
 401915285,2026-12-08T20:00Z,SCHEDULED,league-phase,,,83,Barcelona,Barcelona,382,Manchester City,Man City,,,
 401915286,2026-12-08T20:00Z,SCHEDULED,league-phase,,,362,Aston Villa,Aston Villa,160,Paris Saint-Germain,PSG,,,
@@ -124,7 +124,7 @@ ext_id,utc_kickoff,status,stage,group,matchday,home_id,home,home_short,away_id,a
 401915356,2027-01-20T20:00Z,SCHEDULED,league-phase,,,2250,Sporting CP,Sporting,83,Barcelona,Barcelona,,,
 401915274,2027-01-20T20:00Z,SCHEDULED,league-phase,,,175,Lens,Lens,382,Manchester City,Man City,,,
 401915273,2027-01-20T20:00Z,SCHEDULED,league-phase,,,2572,Como,Como,160,Paris Saint-Germain,PSG,,,
-401915357,2027-01-20T20:00Z,SCHEDULED,league-phase,,,360,Manchester United,Man United,132,Bayern Munich,Bayern,,,
+401915357,2027-01-20T20:00Z,SCHEDULED,league-phase,,,360,Manchester United,Man Utd,132,Bayern Munich,Bayern,,,
 401915351,2027-01-27T20:00Z,SCHEDULED,league-phase,,,494,Slavia Prague,Slavia Prague,362,Aston Villa,Aston Villa,,,
 401915270,2027-01-27T20:00Z,SCHEDULED,league-phase,,,493,Shakhtar Donetsk,Shakhtar,86,Real Madrid,Real Madrid,,,
 401915350,2027-01-27T20:00Z,SCHEDULED,league-phase,,,148,PSV Eindhoven,PSV,134,VfB Stuttgart,Stuttgart,,,
@@ -142,4 +142,4 @@ ext_id,utc_kickoff,status,stage,group,matchday,home_id,home,home_short,away_id,a
 401915346,2027-01-27T20:00Z,SCHEDULED,league-phase,,,359,Arsenal,Arsenal,21922,Sabah FK,Sabah,,,
 401915269,2027-01-27T20:00Z,SCHEDULED,league-phase,,,521,Slovan Bratislava,S Bratislava,110,Internazionale,Inter Milan,,,
 401915266,2027-01-27T20:00Z,SCHEDULED,league-phase,,,570,Club Brugge,Club Brugge,2980,Bodo/Glimt,Bodo/Glimt,,,
-401915349,2027-01-27T20:00Z,SCHEDULED,league-phase,,,102,Villarreal,Villarreal,360,Manchester United,Man United,,,
+401915349,2027-01-27T20:00Z,SCHEDULED,league-phase,,,102,Villarreal,Villarreal,360,Manchester United,Man Utd,,,

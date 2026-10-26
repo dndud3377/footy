@@ -63,13 +63,13 @@ understat_id,is_result,datetime,home,away,hg,ag,hxg,axg
 32000,True,2026-10-18 15:15:00,Paris FC,Rennes,4.0,3.0,3.062,3.0101
 31999,True,2026-10-18 18:45:00,Lyon,Nice,2.0,1.0,1.7048,1.1937
 32005,True,2026-10-23 18:45:00,Brest,Nice,1.0,2.0,2.1169,0.689
-32010,False,2026-10-24 15:15:00,Toulouse,Troyes,,,,
+32010,True,2026-10-24 15:15:00,Toulouse,Troyes,0.0,0.0,0.5235,0.3359
 32006,True,2026-10-24 18:45:00,Lens,Paris FC,2.0,1.0,0.7031,0.7054
-32008,False,2026-10-25 14:00:00,Monaco,Lille,,,,
-32003,False,2026-10-25 16:15:00,Angers,Lorient,,,,
-32004,False,2026-10-25 16:15:00,Auxerre,Le Mans,,,,
-32007,False,2026-10-25 16:15:00,Marseille,Le Havre,,,,
-32009,False,2026-10-25 16:15:00,Rennes,Strasbourg,,,,
+32008,True,2026-10-25 14:00:00,Monaco,Lille,1.0,1.0,1.8777,0.6068
+32003,True,2026-10-25 16:15:00,Angers,Lorient,0.0,0.0,0.3388,1.0457
+32004,True,2026-10-25 16:15:00,Auxerre,Le Mans,1.0,1.0,1.1354,1.4998
+32007,True,2026-10-25 16:15:00,Marseille,Le Havre,4.0,3.0,1.8115,2.7144
+32009,True,2026-10-25 16:15:00,Rennes,Strasbourg,3.0,0.0,1.7444,0.9045
 32011,False,2026-10-25 19:45:00,Paris Saint Germain,Lyon,,,,
 32012,False,2026-10-30 18:00:00,Le Havre,Paris Saint Germain,,,,
 32013,False,2026-10-30 20:05:00,Lille,Lens,,,,

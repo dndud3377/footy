@@ -60,8 +60,8 @@ understat_id,is_result,datetime,home,away,hg,ag,hxg,axg
 32301,True,2026-10-24 13:30:00,Paderborn,Hamburger SV,1.0,0.0,1.3603,0.4188
 32764,True,2026-10-24 13:30:00,RasenBallsport Leipzig,Elversberg,4.0,0.0,3.0324,0.7648
 32296,True,2026-10-24 16:30:00,Borussia Dortmund,Eintracht Frankfurt,1.0,0.0,1.7165,0.85
-32299,False,2026-10-25 14:30:00,Hoffenheim,Bayer Leverkusen,,,,
-32298,False,2026-10-25 16:30:00,Freiburg,Bayern Munich,,,,
+32299,True,2026-10-25 14:30:00,Hoffenheim,Bayer Leverkusen,3.0,0.0,3.1938,0.4181
+32298,True,2026-10-25 16:30:00,Freiburg,Bayern Munich,1.0,3.0,0.8259,3.0948
 32765,False,2026-10-30 19:30:00,Elversberg,Mainz 05,,,,
 32303,False,2026-10-31 14:30:00,Augsburg,Freiburg,,,,
 32304,False,2026-10-31 14:30:00,Schalke 04,RasenBallsport Leipzig,,,,

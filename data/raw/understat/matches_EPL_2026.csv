@@ -74,11 +74,11 @@ understat_id,is_result,datetime,home,away,hg,ag,hxg,axg
 31253,True,2026-10-24 14:00:00,Coventry,Fulham,0.0,1.0,0.4025,0.5727
 31254,True,2026-10-24 14:00:00,Arsenal,Everton,2.0,0.0,2.2862,0.7218
 31255,True,2026-10-24 16:30:00,Chelsea,Tottenham,0.0,2.0,0.4605,0.9796
-31252,False,2026-10-25 14:00:00,Liverpool,Brighton,,,,
-31256,False,2026-10-25 14:00:00,Manchester United,Bournemouth,,,,
-31257,False,2026-10-25 14:00:00,Crystal Palace,Newcastle United,,,,
-31258,False,2026-10-25 14:00:00,Hull,Brentford,,,,
-31259,False,2026-10-25 16:30:00,Sunderland,Leeds,,,,
+31252,True,2026-10-25 14:00:00,Liverpool,Brighton,2.0,0.0,1.2818,1.3135
+31256,True,2026-10-25 14:00:00,Manchester United,Bournemouth,0.0,3.0,0.8437,2.5625
+31257,True,2026-10-25 14:00:00,Crystal Palace,Newcastle United,0.0,2.0,2.029,1.2975
+31258,True,2026-10-25 14:00:00,Hull,Brentford,1.0,1.0,1.9375,1.7071
+31259,True,2026-10-25 16:30:00,Sunderland,Leeds,0.0,0.0,1.0236,1.0651
 31260,False,2026-10-31 12:30:00,Chelsea,Manchester United,,,,
 31261,False,2026-10-31 15:00:00,Coventry,Sunderland,,,,
 31262,False,2026-10-31 15:00:00,Hull,Ipswich,,,,

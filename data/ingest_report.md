@@ -1,6 +1,6 @@
 # 수집 보고서
 
-- 실행: 2026-10-25T01:10:47+00:00 → 2026-10-25T01:11:04+00:00 (UTC)
+- 실행: 2026-10-26T01:10:19+00:00 → 2026-10-26T01:10:36+00:00 (UTC)
 - 현재 시즌: 2026
 - 수집 16건 / 건너뜀 31건 / 오류 0건
 
@@ -11,23 +11,23 @@
 | BUNDESLIGA | 2023 | 306 | 306 | 306 | 0 | 100% | 0% |
 | BUNDESLIGA | 2024 | 306 | 306 | 306 | 0 | 100% | 0% |
 | BUNDESLIGA | 2025 | 306 | 306 | 306 | 0 | 100% | 0% |
-| BUNDESLIGA | 2026 | 306 | 61 | 306 | 0 | 89% | 100% |
+| BUNDESLIGA | 2026 | 306 | 63 | 306 | 0 | 86% | 100% |
 | EPL | 2023 | 380 | 380 | 380 | 0 | 100% | 0% |
 | EPL | 2024 | 380 | 380 | 380 | 0 | 100% | 0% |
 | EPL | 2025 | 380 | 380 | 380 | 0 | 100% | 0% |
-| EPL | 2026 | 380 | 75 | 380 | 0 | 93% | 100% |
+| EPL | 2026 | 380 | 80 | 380 | 0 | 88% | 100% |
 | LALIGA | 2023 | 380 | 380 | 380 | 0 | 100% | 0% |
 | LALIGA | 2024 | 380 | 380 | 380 | 0 | 100% | 0% |
 | LALIGA | 2025 | 380 | 380 | 380 | 0 | 100% | 0% |
-| LALIGA | 2026 | 380 | 94 | 380 | 0 | 95% | 100% |
+| LALIGA | 2026 | 380 | 98 | 380 | 0 | 91% | 100% |
 | LIGUE1 | 2023 | 306 | 306 | 306 | 0 | 100% | 0% |
 | LIGUE1 | 2024 | 306 | 306 | 306 | 0 | 100% | 0% |
 | LIGUE1 | 2025 | 306 | 306 | 306 | 0 | 100% | 0% |
-| LIGUE1 | 2026 | 306 | 65 | 306 | 0 | 95% | 100% |
+| LIGUE1 | 2026 | 306 | 71 | 306 | 0 | 87% | 100% |
 | SERIEA | 2023 | 380 | 380 | 380 | 0 | 100% | 0% |
 | SERIEA | 2024 | 380 | 380 | 380 | 0 | 100% | 0% |
 | SERIEA | 2025 | 380 | 380 | 380 | 0 | 100% | 0% |
-| SERIEA | 2026 | 380 | 75 | 380 | 0 | 93% | 100% |
+| SERIEA | 2026 | 380 | 80 | 380 | 0 | 88% | 100% |
 
 ## 팀 이름 매칭
 
@@ -37,20 +37,20 @@
 
 ## 다가오는 경기
 
-- 총 1470경기 (리그별: BUNDESLIGA 245, EPL 305, LALIGA 285, LIGUE1 240, SERIEA 305, UCL 90)
+- 총 1448경기 (리그별: BUNDESLIGA 243, EPL 300, LALIGA 281, LIGUE1 234, SERIEA 300, UCL 90)
 
 | KST | 대회 | 홈 | 원정 | 킥오프 출처 |
 |---|---|---|---|---|
-| 2026-10-25 20:30 | SERIEA | Inter | Fiorentina | espn |
-| 2026-10-25 22:00 | LALIGA | Athletic Club | Getafe | espn |
-| 2026-10-25 23:00 | SERIEA | Atalanta | Frosinone | espn |
-| 2026-10-25 23:00 | SERIEA | Genoa | Venezia | espn |
-| 2026-10-25 23:00 | EPL | Manchester United | Bournemouth | espn |
-| 2026-10-25 23:00 | EPL | Liverpool | Brighton | espn |
-| 2026-10-25 23:00 | LIGUE1 | Monaco | Lille | espn |
-| 2026-10-25 23:00 | EPL | Crystal Palace | Newcastle United | espn |
-| 2026-10-25 23:00 | EPL | Hull | Brentford | espn |
-| 2026-10-25 23:30 | BUNDESLIGA | Hoffenheim | Bayer Leverkusen | espn |
+| 2026-10-27 04:30 | LIGUE1 | Paris Saint Germain | Lyon | espn |
+| 2026-10-27 05:00 | LALIGA | Sevilla | Osasuna | espn |
+| 2026-10-28 02:30 | SERIEA | Sassuolo | Lazio | espn |
+| 2026-10-28 04:45 | SERIEA | Torino | Como | espn |
+| 2026-10-28 04:45 | SERIEA | Roma | Cagliari | espn |
+| 2026-10-29 02:30 | SERIEA | Venezia | Inter | espn |
+| 2026-10-29 02:30 | SERIEA | Parma Calcio 1913 | Udinese | espn |
+| 2026-10-29 02:30 | SERIEA | AC Milan | Bologna | espn |
+| 2026-10-29 04:45 | SERIEA | Monza | Napoli | espn |
+| 2026-10-29 04:45 | SERIEA | Genoa | Juventus | espn |
 
 ## 챔피언스리그
 
@@ -58,11 +58,12 @@
 
 ## Understat 시각 오프셋 (종료 경기, Understat − 일정 소스, 시간)
 
-- 중앙값 +0.0h, 분포: -4681h×1, +0h×369
+- 중앙값 +0.0h, 분포: -4681h×1, -25h×1, +0h×390
 
 ## 판정
 
-- ❌ BUNDESLIGA 2026: 기본통계 연결률 89%
-- ❌ EPL 2026: 기본통계 연결률 93%
-- ❌ LALIGA 2026: 기본통계 연결률 95%
-- ❌ SERIEA 2026: 기본통계 연결률 93%
+- ❌ BUNDESLIGA 2026: 기본통계 연결률 86%
+- ❌ EPL 2026: 기본통계 연결률 88%
+- ❌ LALIGA 2026: 기본통계 연결률 91%
+- ❌ LIGUE1 2026: 기본통계 연결률 87%
+- ❌ SERIEA 2026: 기본통계 연결률 88%
