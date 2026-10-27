@@ -98,7 +98,7 @@ ext_id,utc_kickoff,status,stage,group,matchday,home_id,home,home_short,away_id,a
 401882833,2026-10-25T15:15Z,FINISHED,2026-27-laliga,,,85,Celta Vigo,Celta Vigo,244,Real Betis,Betis,0,0,REGULAR
 401882829,2026-10-25T17:30Z,FINISHED,2026-27-laliga,,,89,Real Sociedad,Real Sociedad,1538,Levante,Levante,2,1,REGULAR
 401882832,2026-10-25T20:00Z,FINISHED,2026-27-laliga,,,83,Barcelona,Barcelona,86,Real Madrid,Real Madrid,1,2,REGULAR
-401882828,2026-10-26T20:00Z,SCHEDULED,2026-27-laliga,,,243,Sevilla,Sevilla,97,Osasuna,Osasuna,,,
+401882828,2026-10-26T20:00Z,FINISHED,2026-27-laliga,,,243,Sevilla,Sevilla,97,Osasuna,Osasuna,2,0,REGULAR
 401882817,2026-10-30T20:00Z,SCHEDULED,2026-27-laliga,,,102,Villarreal,Villarreal,88,Espanyol,Espanyol,,,
 401882820,2026-10-31T13:00Z,SCHEDULED,2026-27-laliga,,,1538,Levante,Levante,1068,Atlético Madrid,Atlético,,,
 401882818,2026-10-31T15:15Z,SCHEDULED,2026-27-laliga,,,101,Rayo Vallecano,Rayo,85,Celta Vigo,Celta Vigo,,,

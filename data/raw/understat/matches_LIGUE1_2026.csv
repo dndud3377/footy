@@ -70,7 +70,7 @@ understat_id,is_result,datetime,home,away,hg,ag,hxg,axg
 32004,True,2026-10-25 16:15:00,Auxerre,Le Mans,1.0,1.0,1.1354,1.4998
 32007,True,2026-10-25 16:15:00,Marseille,Le Havre,4.0,3.0,1.8115,2.7144
 32009,True,2026-10-25 16:15:00,Rennes,Strasbourg,3.0,0.0,1.7444,0.9045
-32011,False,2026-10-25 19:45:00,Paris Saint Germain,Lyon,,,,
+32011,True,2026-10-25 19:45:00,Paris Saint Germain,Lyon,2.0,0.0,1.028,0.4738
 32012,False,2026-10-30 18:00:00,Le Havre,Paris Saint Germain,,,,
 32013,False,2026-10-30 20:05:00,Lille,Lens,,,,
 32016,False,2026-10-31 14:00:00,Marseille,Toulouse,,,,

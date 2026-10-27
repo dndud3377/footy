@@ -98,7 +98,7 @@ understat_id,is_result,datetime,home,away,hg,ag,hxg,axg
 30863,True,2026-10-25 15:15:00,Celta Vigo,Real Betis,0.0,0.0,0.804,1.073
 30867,True,2026-10-25 17:30:00,Real Sociedad,Levante,2.0,1.0,2.9236,0.7543
 30864,True,2026-10-25 20:00:00,Barcelona,Real Madrid,1.0,2.0,1.641,1.9494
-30868,False,2026-10-26 20:00:00,Sevilla,Osasuna,,,,
+30868,True,2026-10-26 20:00:00,Sevilla,Osasuna,2.0,0.0,0.8735,0.7575
 30879,False,2026-10-30 20:00:00,Villarreal,Espanyol,,,,
 30876,False,2026-10-31 13:00:00,Levante,Atletico Madrid,,,,
 30878,False,2026-10-31 15:15:00,Rayo Vallecano,Celta Vigo,,,,

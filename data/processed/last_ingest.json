@@ -1,16 +1,16 @@
 {
-  "started_utc": "2026-10-26T01:10:19+00:00",
+  "started_utc": "2026-10-27T02:04:57+00:00",
   "current_season": 2026,
   "fetched": [
-    "fdcouk EPL 2026: 70",
+    "fdcouk EPL 2026: 80",
     "understat EPL 2026: 380",
-    "fdcouk LALIGA 2026: 89",
+    "fdcouk LALIGA 2026: 99",
     "understat LALIGA 2026: 380",
-    "fdcouk BUNDESLIGA 2026: 54",
+    "fdcouk BUNDESLIGA 2026: 63",
     "understat BUNDESLIGA 2026: 306",
-    "fdcouk SERIEA 2026: 70",
+    "fdcouk SERIEA 2026: 80",
     "understat SERIEA 2026: 380",
-    "fdcouk LIGUE1 2026: 63",
+    "fdcouk LIGUE1 2026: 72",
     "understat LIGUE1 2026: 306",
     "espn EPL 2026: 380",
     "espn LALIGA 2026: 380",
@@ -53,5 +53,5 @@
     "fdorg (토큰 없음 — 선택 사항)"
   ],
   "errors": [],
-  "finished_utc": "2026-10-26T01:10:36+00:00"
+  "finished_utc": "2026-10-27T02:05:18+00:00"
 }

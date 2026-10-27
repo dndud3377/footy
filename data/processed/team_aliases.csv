@@ -49,12 +49,12 @@ espn,LALIGA,Espanyol,88,Espanyol,fixture,10
 espn,LALIGA,Getafe,2922,Getafe,fixture,9
 espn,LALIGA,Levante,1538,Levante,fixture,10
 espn,LALIGA,Málaga,99,Malaga,fixture,9
-espn,LALIGA,Osasuna,97,Osasuna,fixture,9
+espn,LALIGA,Osasuna,97,Osasuna,fixture,10
 espn,LALIGA,Racing,87,Racing Santander,fixture,10
 espn,LALIGA,Rayo,101,Rayo Vallecano,fixture,9
 espn,LALIGA,Real Madrid,86,Real Madrid,fixture,10
 espn,LALIGA,Real Sociedad,89,Real Sociedad,fixture,10
-espn,LALIGA,Sevilla,243,Sevilla,fixture,9
+espn,LALIGA,Sevilla,243,Sevilla,fixture,10
 espn,LALIGA,Valencia,94,Valencia,fixture,9
 espn,LALIGA,Villarreal,102,Villarreal,fixture,9
 espn,LIGUE1,Angers,7868,Angers,fixture,6
@@ -110,132 +110,132 @@ espn,UCL,Shakhtar,493,Shakhtar,external,0
 espn,UCL,Slavia Prague,494,Slavia Prague,external,0
 espn,UCL,Sporting,2250,Sporting,external,0
 espn,UCL,Viking FK,510,Viking FK,external,0
-fdcouk,BUNDESLIGA,Augsburg,,Augsburg,fixture,91
-fdcouk,BUNDESLIGA,Bayern Munich,,Bayern Munich,fixture,99
+fdcouk,BUNDESLIGA,Augsburg,,Augsburg,fixture,92
+fdcouk,BUNDESLIGA,Bayern Munich,,Bayern Munich,fixture,100
 fdcouk,BUNDESLIGA,Bochum,,Bochum,fixture,61
 fdcouk,BUNDESLIGA,Darmstadt,,Darmstadt,fixture,28
 fdcouk,BUNDESLIGA,Dortmund,,Borussia Dortmund,fixture,94
 fdcouk,BUNDESLIGA,Ein Frankfurt,,Eintracht Frankfurt,fixture,97
-fdcouk,BUNDESLIGA,Elversberg,,Elversberg,fixture,5
-fdcouk,BUNDESLIGA,FC Koln,,FC Cologne,fixture,56
-fdcouk,BUNDESLIGA,Freiburg,,Freiburg,fixture,95
+fdcouk,BUNDESLIGA,Elversberg,,Elversberg,fixture,6
+fdcouk,BUNDESLIGA,FC Koln,,FC Cologne,fixture,57
+fdcouk,BUNDESLIGA,Freiburg,,Freiburg,fixture,96
 fdcouk,BUNDESLIGA,Hamburg,,Hamburger SV,fixture,36
 fdcouk,BUNDESLIGA,Heidenheim,,FC Heidenheim,fixture,84
-fdcouk,BUNDESLIGA,Hoffenheim,,Hoffenheim,fixture,90
+fdcouk,BUNDESLIGA,Hoffenheim,,Hoffenheim,fixture,91
 fdcouk,BUNDESLIGA,Holstein Kiel,,Holstein Kiel,fixture,29
-fdcouk,BUNDESLIGA,Leverkusen,,Bayer Leverkusen,fixture,90
-fdcouk,BUNDESLIGA,M'gladbach,,Borussia M.Gladbach,fixture,91
-fdcouk,BUNDESLIGA,Mainz,,Mainz 05,fixture,91
+fdcouk,BUNDESLIGA,Leverkusen,,Bayer Leverkusen,fixture,91
+fdcouk,BUNDESLIGA,M'gladbach,,Borussia M.Gladbach,fixture,92
+fdcouk,BUNDESLIGA,Mainz,,Mainz 05,fixture,92
 fdcouk,BUNDESLIGA,Paderborn,,Paderborn,fixture,6
-fdcouk,BUNDESLIGA,RB Leipzig,,RasenBallsport Leipzig,fixture,93
-fdcouk,BUNDESLIGA,Schalke 04,,Schalke 04,fixture,5
+fdcouk,BUNDESLIGA,RB Leipzig,,RasenBallsport Leipzig,fixture,94
+fdcouk,BUNDESLIGA,Schalke 04,,Schalke 04,fixture,6
 fdcouk,BUNDESLIGA,St Pauli,,St. Pauli,fixture,63
-fdcouk,BUNDESLIGA,Stuttgart,,VfB Stuttgart,fixture,94
-fdcouk,BUNDESLIGA,Union Berlin,,Union Berlin,fixture,94
-fdcouk,BUNDESLIGA,Werder Bremen,,Werder Bremen,fixture,93
+fdcouk,BUNDESLIGA,Stuttgart,,VfB Stuttgart,fixture,95
+fdcouk,BUNDESLIGA,Union Berlin,,Union Berlin,fixture,95
+fdcouk,BUNDESLIGA,Werder Bremen,,Werder Bremen,fixture,94
 fdcouk,BUNDESLIGA,Wolfsburg,,Wolfsburg,fixture,87
-fdcouk,EPL,Arsenal,,Arsenal,fixture,95
-fdcouk,EPL,Aston Villa,,Aston Villa,fixture,94
-fdcouk,EPL,Bournemouth,,Bournemouth,fixture,95
-fdcouk,EPL,Brentford,,Brentford,fixture,92
-fdcouk,EPL,Brighton,,Brighton,fixture,93
+fdcouk,EPL,Arsenal,,Arsenal,fixture,96
+fdcouk,EPL,Aston Villa,,Aston Villa,fixture,95
+fdcouk,EPL,Bournemouth,,Bournemouth,fixture,96
+fdcouk,EPL,Brentford,,Brentford,fixture,93
+fdcouk,EPL,Brighton,,Brighton,fixture,94
 fdcouk,EPL,Burnley,,Burnley,fixture,61
-fdcouk,EPL,Chelsea,,Chelsea,fixture,96
-fdcouk,EPL,Coventry,,Coventry,fixture,7
-fdcouk,EPL,Crystal Palace,,Crystal Palace,fixture,94
-fdcouk,EPL,Everton,,Everton,fixture,94
-fdcouk,EPL,Fulham,,Fulham,fixture,92
-fdcouk,EPL,Hull,,Hull,fixture,4
-fdcouk,EPL,Ipswich,,Ipswich,fixture,36
-fdcouk,EPL,Leeds,,Leeds,fixture,34
+fdcouk,EPL,Chelsea,,Chelsea,fixture,97
+fdcouk,EPL,Coventry,,Coventry,fixture,8
+fdcouk,EPL,Crystal Palace,,Crystal Palace,fixture,95
+fdcouk,EPL,Everton,,Everton,fixture,95
+fdcouk,EPL,Fulham,,Fulham,fixture,93
+fdcouk,EPL,Hull,,Hull,fixture,5
+fdcouk,EPL,Ipswich,,Ipswich,fixture,37
+fdcouk,EPL,Leeds,,Leeds,fixture,35
 fdcouk,EPL,Leicester,,Leicester,fixture,25
-fdcouk,EPL,Liverpool,,Liverpool,fixture,94
+fdcouk,EPL,Liverpool,,Liverpool,fixture,95
 fdcouk,EPL,Luton,,Luton,fixture,34
-fdcouk,EPL,Man City,,Manchester City,fixture,97
-fdcouk,EPL,Man United,,Manchester United,fixture,95
-fdcouk,EPL,Newcastle,,Newcastle United,fixture,96
-fdcouk,EPL,Nott'm Forest,,Nottingham Forest,fixture,95
+fdcouk,EPL,Man City,,Manchester City,fixture,98
+fdcouk,EPL,Man United,,Manchester United,fixture,96
+fdcouk,EPL,Newcastle,,Newcastle United,fixture,97
+fdcouk,EPL,Nott'm Forest,,Nottingham Forest,fixture,96
 fdcouk,EPL,Sheffield United,,Sheffield United,fixture,30
 fdcouk,EPL,Southampton,,Southampton,fixture,30
-fdcouk,EPL,Sunderland,,Sunderland,fixture,33
-fdcouk,EPL,Tottenham,,Tottenham,fixture,100
+fdcouk,EPL,Sunderland,,Sunderland,fixture,34
+fdcouk,EPL,Tottenham,,Tottenham,fixture,101
 fdcouk,EPL,West Ham,,West Ham,fixture,91
 fdcouk,EPL,Wolves,,Wolverhampton Wanderers,fixture,83
-fdcouk,LALIGA,Alaves,,Alaves,fixture,105
+fdcouk,LALIGA,Alaves,,Alaves,fixture,106
 fdcouk,LALIGA,Almeria,,Almeria,fixture,29
-fdcouk,LALIGA,Ath Bilbao,,Athletic Club,fixture,102
-fdcouk,LALIGA,Ath Madrid,,Atletico Madrid,fixture,99
-fdcouk,LALIGA,Barcelona,,Barcelona,fixture,113
-fdcouk,LALIGA,Betis,,Real Betis,fixture,104
+fdcouk,LALIGA,Ath Bilbao,,Athletic Club,fixture,103
+fdcouk,LALIGA,Ath Madrid,,Atletico Madrid,fixture,100
+fdcouk,LALIGA,Barcelona,,Barcelona,fixture,114
+fdcouk,LALIGA,Betis,,Real Betis,fixture,105
 fdcouk,LALIGA,Cadiz,,Cadiz,fixture,31
-fdcouk,LALIGA,Celta,,Celta Vigo,fixture,101
-fdcouk,LALIGA,Elche,,Elche,fixture,39
-fdcouk,LALIGA,Espanol,,Espanyol,fixture,73
-fdcouk,LALIGA,Getafe,,Getafe,fixture,99
+fdcouk,LALIGA,Celta,,Celta Vigo,fixture,102
+fdcouk,LALIGA,Elche,,Elche,fixture,40
+fdcouk,LALIGA,Espanol,,Espanyol,fixture,74
+fdcouk,LALIGA,Getafe,,Getafe,fixture,100
 fdcouk,LALIGA,Girona,,Girona,fixture,98
 fdcouk,LALIGA,Granada,,Granada,fixture,29
-fdcouk,LALIGA,La Coruna,,Deportivo La Coruna,fixture,8
+fdcouk,LALIGA,La Coruna,,Deportivo La Coruna,fixture,9
 fdcouk,LALIGA,Las Palmas,,Las Palmas,fixture,67
 fdcouk,LALIGA,Leganes,,Leganes,fixture,32
-fdcouk,LALIGA,Levante,,Levante,fixture,45
-fdcouk,LALIGA,Malaga,,Malaga,fixture,8
+fdcouk,LALIGA,Levante,,Levante,fixture,46
+fdcouk,LALIGA,Malaga,,Malaga,fixture,9
 fdcouk,LALIGA,Mallorca,,Mallorca,fixture,91
-fdcouk,LALIGA,Osasuna,,Osasuna,fixture,110
+fdcouk,LALIGA,Osasuna,,Osasuna,fixture,111
 fdcouk,LALIGA,Oviedo,,Real Oviedo,fixture,27
-fdcouk,LALIGA,Real Madrid,,Real Madrid,fixture,100
-fdcouk,LALIGA,Santander,,Racing Santander,fixture,9
-fdcouk,LALIGA,Sevilla,,Sevilla,fixture,111
-fdcouk,LALIGA,Sociedad,,Real Sociedad,fixture,106
-fdcouk,LALIGA,Valencia,,Valencia,fixture,100
+fdcouk,LALIGA,Real Madrid,,Real Madrid,fixture,101
+fdcouk,LALIGA,Santander,,Racing Santander,fixture,10
+fdcouk,LALIGA,Sevilla,,Sevilla,fixture,112
+fdcouk,LALIGA,Sociedad,,Real Sociedad,fixture,107
+fdcouk,LALIGA,Valencia,,Valencia,fixture,101
 fdcouk,LALIGA,Valladolid,,Real Valladolid,fixture,33
-fdcouk,LALIGA,Vallecano,,Rayo Vallecano,fixture,100
-fdcouk,LALIGA,Villarreal,,Villarreal,fixture,107
+fdcouk,LALIGA,Vallecano,,Rayo Vallecano,fixture,101
+fdcouk,LALIGA,Villarreal,,Villarreal,fixture,108
 fdcouk,LIGUE1,Angers,,Angers,fixture,60
 fdcouk,LIGUE1,Auxerre,,Auxerre,fixture,60
-fdcouk,LIGUE1,Brest,,Brest,fixture,95
+fdcouk,LIGUE1,Brest,,Brest,fixture,96
 fdcouk,LIGUE1,Clermont,,Clermont Foot,fixture,27
-fdcouk,LIGUE1,Le Havre,,Le Havre,fixture,81
+fdcouk,LIGUE1,Le Havre,,Le Havre,fixture,82
 fdcouk,LIGUE1,Le Mans,,Le Mans,fixture,6
-fdcouk,LIGUE1,Lens,,Lens,fixture,83
+fdcouk,LIGUE1,Lens,,Lens,fixture,84
 fdcouk,LIGUE1,Lille,,Lille,fixture,77
 fdcouk,LIGUE1,Lorient,,Lorient,fixture,59
 fdcouk,LIGUE1,Lyon,,Lyon,fixture,85
-fdcouk,LIGUE1,Marseille,,Marseille,fixture,93
+fdcouk,LIGUE1,Marseille,,Marseille,fixture,94
 fdcouk,LIGUE1,Metz,,Metz,fixture,52
 fdcouk,LIGUE1,Monaco,,Monaco,fixture,90
 fdcouk,LIGUE1,Montpellier,,Montpellier,fixture,55
 fdcouk,LIGUE1,Nantes,,Nantes,fixture,79
-fdcouk,LIGUE1,Nice,,Nice,fixture,84
-fdcouk,LIGUE1,Paris FC,,Paris FC,fixture,27
+fdcouk,LIGUE1,Nice,,Nice,fixture,85
+fdcouk,LIGUE1,Paris FC,,Paris FC,fixture,28
 fdcouk,LIGUE1,Paris SG,,Paris Saint Germain,fixture,95
 fdcouk,LIGUE1,Reims,,Reims,fixture,53
-fdcouk,LIGUE1,Rennes,,Rennes,fixture,87
+fdcouk,LIGUE1,Rennes,,Rennes,fixture,88
 fdcouk,LIGUE1,St Etienne,,Saint-Etienne,fixture,30
-fdcouk,LIGUE1,Strasbourg,,Strasbourg,fixture,86
+fdcouk,LIGUE1,Strasbourg,,Strasbourg,fixture,87
 fdcouk,LIGUE1,Toulouse,,Toulouse,fixture,83
 fdcouk,LIGUE1,Troyes,,Troyes,fixture,5
-fdcouk,SERIEA,Atalanta,,Atalanta,fixture,99
-fdcouk,SERIEA,Bologna,,Bologna,fixture,107
-fdcouk,SERIEA,Cagliari,,Cagliari,fixture,100
-fdcouk,SERIEA,Como,,Como,fixture,71
+fdcouk,SERIEA,Atalanta,,Atalanta,fixture,100
+fdcouk,SERIEA,Bologna,,Bologna,fixture,108
+fdcouk,SERIEA,Cagliari,,Cagliari,fixture,101
+fdcouk,SERIEA,Como,,Como,fixture,72
 fdcouk,SERIEA,Cremonese,,Cremonese,fixture,34
 fdcouk,SERIEA,Empoli,,Empoli,fixture,66
-fdcouk,SERIEA,Fiorentina,,Fiorentina,fixture,103
-fdcouk,SERIEA,Frosinone,,Frosinone,fixture,39
-fdcouk,SERIEA,Genoa,,Genoa,fixture,103
-fdcouk,SERIEA,Inter,,Inter,fixture,102
+fdcouk,SERIEA,Fiorentina,,Fiorentina,fixture,104
+fdcouk,SERIEA,Frosinone,,Frosinone,fixture,40
+fdcouk,SERIEA,Genoa,,Genoa,fixture,104
+fdcouk,SERIEA,Inter,,Inter,fixture,103
 fdcouk,SERIEA,Juventus,,Juventus,fixture,92
-fdcouk,SERIEA,Lazio,,Lazio,fixture,107
+fdcouk,SERIEA,Lazio,,Lazio,fixture,108
 fdcouk,SERIEA,Lecce,,Lecce,fixture,101
 fdcouk,SERIEA,Milan,,AC Milan,fixture,102
-fdcouk,SERIEA,Monza,,Monza,fixture,73
-fdcouk,SERIEA,Napoli,,Napoli,fixture,100
-fdcouk,SERIEA,Parma,,Parma Calcio 1913,fixture,67
+fdcouk,SERIEA,Monza,,Monza,fixture,74
+fdcouk,SERIEA,Napoli,,Napoli,fixture,101
+fdcouk,SERIEA,Parma,,Parma Calcio 1913,fixture,68
 fdcouk,SERIEA,Pisa,,Pisa,fixture,32
-fdcouk,SERIEA,Roma,,Roma,fixture,96
+fdcouk,SERIEA,Roma,,Roma,fixture,97
 fdcouk,SERIEA,Salernitana,,Salernitana,fixture,35
-fdcouk,SERIEA,Sassuolo,,Sassuolo,fixture,65
-fdcouk,SERIEA,Torino,,Torino,fixture,104
+fdcouk,SERIEA,Sassuolo,,Sassuolo,fixture,66
+fdcouk,SERIEA,Torino,,Torino,fixture,105
 fdcouk,SERIEA,Udinese,,Udinese,fixture,99
-fdcouk,SERIEA,Venezia,,Venezia,fixture,39
+fdcouk,SERIEA,Venezia,,Venezia,fixture,40
 fdcouk,SERIEA,Verona,,Verona,fixture,98
