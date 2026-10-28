@@ -1,6 +1,6 @@
 # 수집 보고서
 
-- 실행: 2026-10-27T02:04:57+00:00 → 2026-10-27T02:05:18+00:00 (UTC)
+- 실행: 2026-10-28T02:15:26+00:00 → 2026-10-28T02:15:47+00:00 (UTC)
 - 현재 시즌: 2026
 - 수집 16건 / 건너뜀 31건 / 오류 0건
 
@@ -27,7 +27,7 @@
 | SERIEA | 2023 | 380 | 380 | 380 | 0 | 100% | 0% |
 | SERIEA | 2024 | 380 | 380 | 380 | 0 | 100% | 0% |
 | SERIEA | 2025 | 380 | 380 | 380 | 0 | 100% | 0% |
-| SERIEA | 2026 | 380 | 80 | 380 | 0 | 100% | 100% |
+| SERIEA | 2026 | 380 | 83 | 380 | 0 | 96% | 100% |
 
 ## 팀 이름 매칭
 
@@ -37,20 +37,20 @@
 
 ## 다가오는 경기
 
-- 총 1446경기 (리그별: BUNDESLIGA 243, EPL 300, LALIGA 280, LIGUE1 233, SERIEA 300, UCL 90)
+- 총 1443경기 (리그별: BUNDESLIGA 243, EPL 300, LALIGA 280, LIGUE1 233, SERIEA 297, UCL 90)
 
 | KST | 대회 | 홈 | 원정 | 킥오프 출처 |
 |---|---|---|---|---|
-| 2026-10-28 02:30 | SERIEA | Sassuolo | Lazio | espn |
-| 2026-10-28 04:45 | SERIEA | Roma | Cagliari | espn |
-| 2026-10-28 04:45 | SERIEA | Torino | Como | espn |
 | 2026-10-29 02:30 | SERIEA | Venezia | Inter | espn |
-| 2026-10-29 02:30 | SERIEA | Parma Calcio 1913 | Udinese | espn |
 | 2026-10-29 02:30 | SERIEA | AC Milan | Bologna | espn |
-| 2026-10-29 04:45 | SERIEA | Monza | Napoli | espn |
+| 2026-10-29 02:30 | SERIEA | Parma Calcio 1913 | Udinese | espn |
 | 2026-10-29 04:45 | SERIEA | Genoa | Juventus | espn |
+| 2026-10-29 04:45 | SERIEA | Monza | Napoli | espn |
 | 2026-10-30 02:30 | SERIEA | Frosinone | Lecce | espn |
 | 2026-10-30 04:45 | SERIEA | Fiorentina | Atalanta | espn |
+| 2026-10-31 03:00 | LIGUE1 | Le Havre | Paris Saint Germain | espn |
+| 2026-10-31 03:00 | LIGUE1 | Nice | Rennes | espn |
+| 2026-10-31 04:30 | BUNDESLIGA | Elversberg | Mainz 05 | espn |
 
 ## 챔피언스리그
 
@@ -58,7 +58,7 @@
 
 ## Understat 시각 오프셋 (종료 경기, Understat − 일정 소스, 시간)
 
-- 중앙값 +0.0h, 분포: -4681h×1, -25h×1, -24h×1, +0h×391
+- 중앙값 +0.0h, 분포: -4681h×1, -25h×1, -24h×1, +0h×394
 
 ## 판정
 
