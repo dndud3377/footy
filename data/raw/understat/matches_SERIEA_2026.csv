@@ -82,11 +82,11 @@ understat_id,is_result,datetime,home,away,hg,ag,hxg,axg
 31647,True,2026-10-27 17:30:00,Sassuolo,Lazio,2.0,6.0,1.0674,4.3554
 31641,True,2026-10-27 19:45:00,Roma,Cagliari,4.0,2.0,3.8527,2.4789
 31648,True,2026-10-27 19:45:00,Torino,Como,1.0,3.0,1.4512,2.7077
-31640,False,2026-10-28 17:30:00,AC Milan,Bologna,,,,
-31646,False,2026-10-28 17:30:00,Parma Calcio 1913,Udinese,,,,
-31649,False,2026-10-28 17:30:00,Venezia,Inter,,,,
-31644,False,2026-10-28 19:45:00,Genoa,Juventus,,,,
-31645,False,2026-10-28 19:45:00,Monza,Napoli,,,,
+31640,True,2026-10-28 17:30:00,AC Milan,Bologna,2.0,4.0,1.9469,1.9878
+31646,True,2026-10-28 17:30:00,Parma Calcio 1913,Udinese,0.0,0.0,1.1002,1.6207
+31649,True,2026-10-28 17:30:00,Venezia,Inter,0.0,2.0,1.4872,2.2457
+31644,True,2026-10-28 19:45:00,Genoa,Juventus,2.0,0.0,0.9217,1.304
+31645,True,2026-10-28 19:45:00,Monza,Napoli,1.0,4.0,0.968,2.4933
 31643,False,2026-10-29 17:30:00,Frosinone,Lecce,,,,
 31642,False,2026-10-29 19:45:00,Fiorentina,Atalanta,,,,
 31652,False,2026-10-31 14:00:00,Bologna,Monza,,,,
