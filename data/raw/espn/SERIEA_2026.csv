@@ -87,8 +87,8 @@ ext_id,utc_kickoff,status,stage,group,matchday,home_id,home,home_short,away_id,a
 401874773,2026-10-28T17:30Z,FINISHED,2026-27-italian-serie-a,,,17530,Venezia,Venezia,110,Internazionale,Inter Milan,0,2,REGULAR
 401874988,2026-10-28T19:45Z,FINISHED,2026-27-italian-serie-a,,,3263,Genoa,Genoa,111,Juventus,Juventus,2,0,REGULAR
 401874799,2026-10-28T19:45Z,FINISHED,2026-27-italian-serie-a,,,4007,Monza,Monza,114,Napoli,Napoli,1,4,REGULAR
-401874976,2026-10-29T17:30Z,SCHEDULED,2026-27-italian-serie-a,,,4057,Frosinone,Frosinone,113,Lecce,Lecce,,,
-401874969,2026-10-29T19:45Z,SCHEDULED,2026-27-italian-serie-a,,,109,Fiorentina,Fiorentina,105,Atalanta,Atalanta,,,
+401874976,2026-10-29T17:30Z,FINISHED,2026-27-italian-serie-a,,,4057,Frosinone,Frosinone,113,Lecce,Lecce,5,1,REGULAR
+401874969,2026-10-29T19:45Z,FINISHED,2026-27-italian-serie-a,,,109,Fiorentina,Fiorentina,105,Atalanta,Atalanta,2,2,REGULAR
 401874798,2026-10-31T14:00Z,SCHEDULED,2026-27-italian-serie-a,,,107,Bologna,Bologna,4007,Monza,Monza,,,
 401874990,2026-10-31T17:00Z,SCHEDULED,2026-27-italian-serie-a,,,118,Udinese,Udinese,104,AS Roma,AS Roma,,,
 401874795,2026-10-31T19:45Z,SCHEDULED,2026-27-italian-serie-a,,,103,AC Milan,Milan,110,Internazionale,Inter Milan,,,

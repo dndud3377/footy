@@ -1,6 +1,6 @@
 # 수집 보고서
 
-- 실행: 2026-10-29T02:27:40+00:00 → 2026-10-29T02:28:01+00:00 (UTC)
+- 실행: 2026-10-30T02:37:10+00:00 → 2026-10-30T02:37:30+00:00 (UTC)
 - 현재 시즌: 2026
 - 수집 16건 / 건너뜀 31건 / 오류 0건
 
@@ -27,7 +27,7 @@
 | SERIEA | 2023 | 380 | 380 | 380 | 0 | 100% | 0% |
 | SERIEA | 2024 | 380 | 380 | 380 | 0 | 100% | 0% |
 | SERIEA | 2025 | 380 | 380 | 380 | 0 | 100% | 0% |
-| SERIEA | 2026 | 380 | 88 | 380 | 0 | 91% | 100% |
+| SERIEA | 2026 | 380 | 90 | 380 | 0 | 100% | 100% |
 
 ## 팀 이름 매칭
 
@@ -37,20 +37,20 @@
 
 ## 다가오는 경기
 
-- 총 1438경기 (리그별: BUNDESLIGA 243, EPL 300, LALIGA 280, LIGUE1 233, SERIEA 292, UCL 90)
+- 총 1436경기 (리그별: BUNDESLIGA 243, EPL 300, LALIGA 280, LIGUE1 233, SERIEA 290, UCL 90)
 
 | KST | 대회 | 홈 | 원정 | 킥오프 출처 |
 |---|---|---|---|---|
-| 2026-10-30 02:30 | SERIEA | Frosinone | Lecce | espn |
-| 2026-10-30 04:45 | SERIEA | Fiorentina | Atalanta | espn |
-| 2026-10-31 03:00 | LIGUE1 | Nice | Rennes | espn |
 | 2026-10-31 03:00 | LIGUE1 | Le Havre | Paris Saint Germain | espn |
+| 2026-10-31 03:00 | LIGUE1 | Nice | Rennes | espn |
 | 2026-10-31 04:30 | BUNDESLIGA | Elversberg | Mainz 05 | espn |
 | 2026-10-31 05:00 | LALIGA | Villarreal | Espanyol | espn |
 | 2026-10-31 05:05 | LIGUE1 | Lille | Lens | espn |
 | 2026-10-31 21:30 | EPL | Chelsea | Manchester United | espn |
 | 2026-10-31 22:00 | LALIGA | Levante | Atletico Madrid | espn |
 | 2026-10-31 23:00 | SERIEA | Bologna | Monza | espn |
+| 2026-10-31 23:30 | BUNDESLIGA | Werder Bremen | Hoffenheim | espn |
+| 2026-10-31 23:30 | BUNDESLIGA | Schalke 04 | RasenBallsport Leipzig | espn |
 
 ## 챔피언스리그
 
@@ -58,8 +58,8 @@
 
 ## Understat 시각 오프셋 (종료 경기, Understat − 일정 소스, 시간)
 
-- 중앙값 +0.0h, 분포: -4681h×1, -25h×1, -24h×1, +0h×399
+- 중앙값 +0.0h, 분포: -4681h×1, -25h×1, -24h×1, +0h×401
 
 ## 판정
 
-- ❌ SERIEA 2026: 기본통계 연결률 91%
+- ✅ 문제 없음

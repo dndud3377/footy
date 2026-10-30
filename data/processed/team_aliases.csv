@@ -76,17 +76,17 @@ espn,LIGUE1,Strasbourg,180,Strasbourg,fixture,6
 espn,LIGUE1,Toulouse,179,Toulouse,fixture,7
 espn,LIGUE1,Troyes,170,Troyes,fixture,5
 espn,SERIEA,AS Roma,104,Roma,fixture,9
-espn,SERIEA,Atalanta,105,Atalanta,fixture,7
+espn,SERIEA,Atalanta,105,Atalanta,fixture,8
 espn,SERIEA,Bologna,107,Bologna,fixture,9
 espn,SERIEA,Cagliari,2925,Cagliari,fixture,8
 espn,SERIEA,Como,2572,Como,fixture,8
-espn,SERIEA,Fiorentina,109,Fiorentina,fixture,8
-espn,SERIEA,Frosinone,4057,Frosinone,fixture,6
+espn,SERIEA,Fiorentina,109,Fiorentina,fixture,9
+espn,SERIEA,Frosinone,4057,Frosinone,fixture,7
 espn,SERIEA,Genoa,3263,Genoa,fixture,9
 espn,SERIEA,Inter Milan,110,Inter,fixture,8
 espn,SERIEA,Juventus,111,Juventus,fixture,3
 espn,SERIEA,Lazio,112,Lazio,fixture,8
-espn,SERIEA,Lecce,113,Lecce,fixture,5
+espn,SERIEA,Lecce,113,Lecce,fixture,6
 espn,SERIEA,Milan,103,AC Milan,fixture,6
 espn,SERIEA,Monza,4007,Monza,fixture,7
 espn,SERIEA,Napoli,114,Napoli,fixture,8
@@ -214,28 +214,28 @@ fdcouk,LIGUE1,St Etienne,,Saint-Etienne,fixture,30
 fdcouk,LIGUE1,Strasbourg,,Strasbourg,fixture,87
 fdcouk,LIGUE1,Toulouse,,Toulouse,fixture,83
 fdcouk,LIGUE1,Troyes,,Troyes,fixture,5
-fdcouk,SERIEA,Atalanta,,Atalanta,fixture,100
-fdcouk,SERIEA,Bologna,,Bologna,fixture,108
-fdcouk,SERIEA,Cagliari,,Cagliari,fixture,101
-fdcouk,SERIEA,Como,,Como,fixture,72
+fdcouk,SERIEA,Atalanta,,Atalanta,fixture,101
+fdcouk,SERIEA,Bologna,,Bologna,fixture,109
+fdcouk,SERIEA,Cagliari,,Cagliari,fixture,102
+fdcouk,SERIEA,Como,,Como,fixture,73
 fdcouk,SERIEA,Cremonese,,Cremonese,fixture,34
 fdcouk,SERIEA,Empoli,,Empoli,fixture,66
-fdcouk,SERIEA,Fiorentina,,Fiorentina,fixture,104
-fdcouk,SERIEA,Frosinone,,Frosinone,fixture,40
-fdcouk,SERIEA,Genoa,,Genoa,fixture,104
-fdcouk,SERIEA,Inter,,Inter,fixture,103
-fdcouk,SERIEA,Juventus,,Juventus,fixture,92
-fdcouk,SERIEA,Lazio,,Lazio,fixture,108
-fdcouk,SERIEA,Lecce,,Lecce,fixture,101
-fdcouk,SERIEA,Milan,,AC Milan,fixture,102
-fdcouk,SERIEA,Monza,,Monza,fixture,74
-fdcouk,SERIEA,Napoli,,Napoli,fixture,101
-fdcouk,SERIEA,Parma,,Parma Calcio 1913,fixture,68
+fdcouk,SERIEA,Fiorentina,,Fiorentina,fixture,105
+fdcouk,SERIEA,Frosinone,,Frosinone,fixture,41
+fdcouk,SERIEA,Genoa,,Genoa,fixture,105
+fdcouk,SERIEA,Inter,,Inter,fixture,104
+fdcouk,SERIEA,Juventus,,Juventus,fixture,93
+fdcouk,SERIEA,Lazio,,Lazio,fixture,109
+fdcouk,SERIEA,Lecce,,Lecce,fixture,102
+fdcouk,SERIEA,Milan,,AC Milan,fixture,103
+fdcouk,SERIEA,Monza,,Monza,fixture,75
+fdcouk,SERIEA,Napoli,,Napoli,fixture,102
+fdcouk,SERIEA,Parma,,Parma Calcio 1913,fixture,69
 fdcouk,SERIEA,Pisa,,Pisa,fixture,32
-fdcouk,SERIEA,Roma,,Roma,fixture,97
+fdcouk,SERIEA,Roma,,Roma,fixture,98
 fdcouk,SERIEA,Salernitana,,Salernitana,fixture,35
-fdcouk,SERIEA,Sassuolo,,Sassuolo,fixture,66
-fdcouk,SERIEA,Torino,,Torino,fixture,105
-fdcouk,SERIEA,Udinese,,Udinese,fixture,99
-fdcouk,SERIEA,Venezia,,Venezia,fixture,40
+fdcouk,SERIEA,Sassuolo,,Sassuolo,fixture,67
+fdcouk,SERIEA,Torino,,Torino,fixture,106
+fdcouk,SERIEA,Udinese,,Udinese,fixture,100
+fdcouk,SERIEA,Venezia,,Venezia,fixture,41
 fdcouk,SERIEA,Verona,,Verona,fixture,98
