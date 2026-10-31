@@ -7,7 +7,7 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 7528,Sergio Camello,Rayo Vallecano,F M S,9,625,7,1,3.4657,0.4708,7,3.4657,23,8,4.1468,0.3337,3,0
 318,Pierre-Emerick Aubameyang,Deportivo La Coruna,F S,8,646,6,4,4.1434,1.5797,6,4.1434,20,11,5.994,0.371,0,0
 8271,Fernando Niño,Elche,F S,10,644,6,0,3.8887,0.3236,5,3.1454,16,2,3.7892,0.4364,1,0
-13350,Roberto Fernández,Espanyol,F,10,872,6,0,5.3329,0.2942,6,5.3329,22,5,5.2029,0.5611,0,0
+13350,Roberto Fernández,Espanyol,F,11,962,6,0,5.3329,0.2942,6,5.3329,22,5,5.2029,0.5611,0,0
 1189,Lucas Boyé,Alaves,F,9,742,5,0,3.1611,0.707,4,2.4178,23,7,3.4414,1.1176,1,0
 8417,Álex Baena,Atletico Madrid,F M S,10,613,5,2,1.6694,2.982,5,1.6694,22,25,7.9685,5.07,3,0
 13767,Roger Brugué,Levante,F M,9,752,5,1,4.3978,0.2067,5,4.3978,19,3,3.6137,0.3361,0,0
@@ -16,9 +16,9 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 5091,Alex Berenguer,Athletic Club,M S,9,541,3,4,1.2862,2.1467,2,0.5429,13,17,3.3767,1.8005,1,0
 5110,Mariano,Alaves,F S,10,434,3,4,1.7911,0.6833,3,1.7911,13,5,3.489,1.2298,2,0
 5543,Gabriel Jesus,Barcelona,F S,6,193,3,0,1.9645,0.2503,3,1.9645,8,3,2.1339,0.1186,0,0
-5656,Nicolas Pepe,Villarreal,M S,7,526,3,0,1.193,0.9693,3,1.193,19,12,3.4597,1.9126,1,0
+5656,Nicolas Pepe,Villarreal,M S,8,599,3,0,1.2652,0.9925,3,1.2652,22,13,3.7241,2.0996,1,0
 7071,Álvaro García,Rayo Vallecano,F M S,9,716,3,2,2.82,0.8671,3,2.82,14,7,4.6818,1.1731,2,0
-8187,Georges Mikautadze,Villarreal,F S,11,507,3,1,4.3192,1.2901,2,3.5759,24,9,5.6919,1.4215,0,0
+8187,Georges Mikautadze,Villarreal,F S,12,597,3,1,4.5038,1.3861,2,3.7605,27,11,5.9323,1.5457,0,0
 8636,Jonathan Christian David,Atletico Madrid,F S,5,305,3,2,4.0465,1.4307,3,4.0465,14,9,6.1544,1.2051,0,0
 8696,Pape Alassane Gueye,Villarreal,M S,11,796,3,0,1.7616,0.4835,2,1.0183,17,12,9.2189,8.0353,1,1
 8824,Jude Bellingham,Real Madrid,M S,10,790,3,3,1.7291,3.4227,3,1.7291,19,18,8.063,4.7568,2,0
@@ -28,7 +28,7 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 12305,Isaac Romero,Sevilla,F S,8,302,3,1,0.4598,0.3782,3,0.4598,9,4,0.7737,0.0231,5,1
 12862,Luka Sucic,Real Sociedad,F M S,9,708,3,0,1.1179,1.6717,3,1.1179,16,12,3.2989,1.5253,2,0
 13048,Orri Óskarsson,Real Sociedad,F S,8,480,3,0,5.4001,0.0999,3,5.4001,19,2,5.8598,0.4478,0,1
-2120,Gerard Moreno,Villarreal,F S,10,492,2,0,2.9011,1.9263,1,2.1578,12,12,4.4238,3.0831,0,0
+2120,Gerard Moreno,Villarreal,F S,11,509,2,0,2.9011,1.9501,1,2.1578,12,13,4.4477,3.1069,0,0
 2234,Mikel Oyarzabal,Real Sociedad,F M S,10,696,2,2,2.3216,1.4894,2,2.3216,20,12,5.6413,2.5222,1,0
 2255,Isco,Real Betis,M S,9,480,2,0,3.1361,0.8759,1,2.3928,17,19,4.935,2.4117,0,0
 2399,Iñaki Williams,Athletic Club,F M S,9,600,2,2,2.8758,0.6395,2,2.8758,19,5,3.8983,0.5747,0,0
@@ -48,14 +48,14 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 10319,Adrián De la Fuente,Levante,D,8,707,2,0,1.059,0.6541,2,1.059,15,4,1.0788,0.4751,3,0
 10772,Karim Adeyemi,Barcelona,F M S,10,309,2,2,4.288,1.5406,2,4.288,16,9,5.7278,0.9855,2,0
 11154,Pablo Durán,Celta Vigo,F S,7,372,2,0,1.4887,0.1033,2,1.4887,7,3,2.0353,0.4597,0,0
-12160,Alberto Moleiro,Villarreal,F M S,11,684,2,4,3.5553,3.2971,2,3.5553,20,24,10.8921,5.1494,0,0
+12160,Alberto Moleiro,Villarreal,F M S,12,744,2,4,3.5553,3.3151,2,3.5553,20,25,10.9811,5.2385,0,0
 12190,Arda Güler,Real Madrid,M S,10,607,2,2,2.2363,4.8489,2,2.2363,18,33,8.4948,3.7036,1,0
 13376,Pablo García,"Racing Santander,Real Betis",M S,9,312,2,0,1.2077,0.1492,2,1.2077,16,3,1.4429,0.5009,1,0
 13561,Yan Diomande,Real Madrid,M S,10,534,2,2,1.215,0.8138,2,1.215,10,11,4.726,2.8637,1,0
 13769,Carlos Espí,Real Madrid,S,6,15,2,0,1.3819,0.0785,2,1.3819,4,1,1.4785,0.1208,0,0
 13823,Miguel Sierra,Sevilla,F M,8,592,2,0,0.6025,0.2845,2,0.6025,13,7,2.6337,1.875,2,0
 14709,Zakaria Eddahchouri,Deportivo La Coruna,S,5,74,2,0,0.157,0.1901,2,0.157,4,2,0.3618,0.0147,0,0
-770,Ayoze Pérez,Villarreal,F S,11,676,1,3,4.6749,1.3615,1,4.6749,20,13,7.0422,2.0732,1,0
+770,Ayoze Pérez,Villarreal,F S,12,706,1,3,4.6749,1.3615,1,4.6749,20,13,7.0979,2.129,1,0
 1450,Umar Sadiq,Valencia,F S,3,151,1,0,1.0633,0.0641,1,1.0633,3,1,1.0742,0.0179,0,0
 1822,Antonio Rüdiger,Real Madrid,D S,4,304,1,0,0.1455,0.1396,1,0.1455,3,1,1.3263,1.1868,1,0
 2229,Yuri,Athletic Club,D,7,546,1,0,0.4071,0.8735,1,0.4071,15,10,3.4694,3.0422,3,1
@@ -67,11 +67,12 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 2551,Pepelu,Valencia,D M,10,850,1,0,0.8472,0.7414,0,0.1039,3,4,2.6272,1.9944,2,0
 2571,Sergio Canales,Racing Santander,M S,10,750,1,1,1.7102,0.416,1,1.7102,22,7,3.0363,1.4798,1,0
 3425,Thomas Lemar,Elche,M S,7,399,1,0,0.2905,0.644,1,0.2905,7,6,1.9457,1.3234,1,0
-5081,Edu Expósito,Espanyol,M S,10,809,1,0,0.9467,1.5922,1,0.9467,18,22,4.4933,3.3294,3,0
+5081,Edu Expósito,Espanyol,M S,11,899,1,0,0.9467,1.5922,1,0.9467,18,22,4.5133,3.3494,3,0
 5140,Kike Barja,Osasuna,M S,7,244,1,0,0.8259,0.3015,1,0.8259,5,4,1.2221,0.153,3,0
 5179,Jon Guridi,Sevilla,M S,8,360,1,0,0.8508,0.276,0,0.1075,4,3,0.4337,0.1105,3,0
 5199,Raba,Valencia,M S,4,183,1,0,0.668,0.1585,1,0.668,5,2,0.9029,0.2873,3,0
 5556,Ademola Lookman,Atletico Madrid,F M S,10,622,1,0,2.0706,1.0632,1,2.0706,14,12,3.8091,0.7697,2,0
+6168,Leandro Cabrera,Espanyol,D,8,720,1,0,0.7755,0.0,1,0.7755,9,0,2.0784,2.0784,0,0
 6219,Enes Ünal,Getafe,F S,9,638,1,0,1.2587,0.1764,1,1.2587,12,5,1.7803,0.6133,3,0
 6433,Jules Koundé,Barcelona,D S,6,343,1,1,0.8212,0.0696,1,0.8212,2,4,3.6643,3.6442,0,0
 6945,Youssouf Fofana,Sevilla,M S,7,555,1,3,1.759,1.1251,1,1.759,11,7,3.999,2.692,0,0
@@ -104,7 +105,7 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 9466,Jon Ander Olasagasti,Levante,M S,10,805,1,1,0.7597,3.0186,1,0.7597,10,14,3.0993,1.251,0,0
 9814,Andrés Martín,Racing Santander,M S,6,377,1,0,2.6623,1.135,0,1.1757,15,8,2.7961,0.5781,0,0
 10082,Hugo Gonzalez,Celta Vigo,F,5,309,1,2,1.4975,0.9072,0,0.7542,11,12,1.0186,0.1396,0,0
-10143,Bryan Zaragoza,Espanyol,M S,7,371,1,0,0.3157,0.4299,1,0.3157,7,6,1.3481,0.7783,1,0
+10143,Bryan Zaragoza,Espanyol,M S,8,449,1,1,0.3709,0.8558,1,0.3709,9,7,1.4034,0.7783,2,0
 10189,Marc Pubill,Atletico Madrid,D S,8,590,1,0,0.1806,0.0257,1,0.1806,4,1,2.342,2.2844,3,0
 10300,Jeanuël Belocian,Racing Santander,D S,6,479,1,0,0.3245,0.0,1,0.3245,5,0,0.7404,0.7198,1,0
 10364,Nahuel Tenaglia,Alaves,D,10,857,1,0,0.7445,0.4858,1,0.7445,10,2,2.6593,1.5629,3,0
@@ -137,7 +138,7 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 14129,Xavi Espart,Barcelona,D,8,655,1,2,0.3484,1.5357,1,0.3484,8,6,5.0561,4.4041,1,0
 14222,Aitor Mañas,Alaves,F S,7,106,1,0,0.9967,0.1861,1,0.9967,2,2,1.1987,0.1498,0,0
 14364,Job Ochieng,Real Sociedad,M S,7,290,1,3,0.6786,0.4341,1,0.6786,10,6,1.0244,0.1188,0,0
-14396,Alexander Freeman,Villarreal,D S,9,578,1,0,0.4481,0.7215,1,0.4481,4,9,5.8858,4.7772,1,0
+14396,Alexander Freeman,Villarreal,D S,10,587,1,0,0.4481,0.7215,1,0.4481,4,9,5.9125,4.8039,1,0
 14452,Aaron Mayol,Valencia,M,2,180,1,0,0.0675,0.0317,1,0.0675,2,1,0.4008,0.3733,1,0
 14519,Ville Koski,Alaves,D S,10,816,1,0,1.0122,0.0,1,1.0122,3,0,1.4606,1.4606,0,0
 14681,Mikel Rodríguez,Alaves,M S,3,150,1,0,0.6545,0.0668,1,0.6545,2,3,1.3314,0.6101,0,0
@@ -205,7 +206,7 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 5133,Aarón Martín,Racing Santander,D S,5,143,0,0,0.0,0.1655,0,0.0,0,4,0.3767,0.3767,0,0
 5173,Asier Villalibre,Racing Santander,F S,8,255,0,1,0.4899,0.3515,0,0.4899,3,1,0.7973,0.0651,0,0
 5185,Unai Simón,Athletic Club,GK,9,810,0,0,0.0,0.0,0,0.0,0,0,1.1053,1.1053,0,0
-5241,Péter Gulácsi,Villarreal,GK,6,540,0,0,0.0,0.0,0,0.0,0,0,1.4137,1.4137,0,0
+5241,Péter Gulácsi,Villarreal,GK,7,630,0,0,0.0,0.0,0,0.0,0,0,1.4354,1.4354,0,0
 5615,Valentin Rosier,Osasuna,D S,3,184,0,0,0.0116,0.1438,0,0.0116,1,2,1.06,0.9046,3,0
 5666,Mouctar Diakhaby,Valencia,D S,5,339,0,0,0.1739,0.0,0,0.1739,2,0,0.2325,0.2325,2,0
 5672,Iván Balliu,Rayo Vallecano,D S,8,340,0,0,0.0,0.4022,0,0.0,0,1,0.74,0.3378,1,0
@@ -215,7 +216,6 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 6126,Ander Guevara,Alaves,M S,5,116,0,0,0.0208,0.0153,0,0.0208,1,1,0.1951,0.1743,0,0
 6149,Unai Núñez,Espanyol,D S,7,458,0,0,0.0551,0.1638,0,0.0551,2,3,0.972,0.8443,1,0
 6151,Djené Dakonam,Getafe,D,9,722,0,0,0.0,0.0383,0,0.0,0,1,1.3074,1.3074,3,1
-6168,Leandro Cabrera,Espanyol,D,7,630,0,0,0.3496,0.0,0,0.3496,8,0,2.0396,2.0396,0,0
 6224,Marko Dmitrovic,Espanyol,GK,7,630,0,0,0.0,0.0,0,0.0,0,0,2.5561,2.5561,0,0
 6241,Federico Valverde,Real Madrid,D M,10,819,0,2,0.2958,0.9695,0,0.2958,7,8,5.1095,4.1737,0,0
 6242,Johan Mojica,Getafe,D S,9,724,0,0,0.2302,0.5163,0,0.2302,6,10,1.8487,1.4763,5,0
@@ -233,10 +233,10 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 6759,Juan Cruz,Malaga,F M S,7,244,0,1,0.0813,0.127,0,0.0813,4,1,0.553,0.3797,1,0
 6766,Dani Vivian,Athletic Club,D,1,90,0,0,0.0212,0.0,0,0.0212,1,0,0.0338,0.0338,0,0
 6916,Fernando Calero,Malaga,D,2,165,0,0,0.0846,0.0,0,0.0846,1,0,0.4905,0.4905,0,0
-6933,Javi Puado,Espanyol,S,2,20,0,0,0.0,0.0,0,0.0,0,0,0.0,0.0,1,0
+6933,Javi Puado,Espanyol,S,3,32,0,0,0.0188,0.0,0,0.0188,1,0,0.0188,0.0188,1,0
 7020,Gorka Guruzeta,Athletic Club,F S,5,183,0,0,0.0631,0.4475,0,0.0631,2,1,0.5773,0.1099,2,0
 7050,Lucas Torró,Osasuna,M S,8,410,0,0,0.1255,0.0222,0,0.1255,3,1,0.4355,0.3649,1,0
-7070,Santiago Comesaña,Villarreal,M S,10,519,0,0,0.6401,0.1801,0,0.6401,2,7,3.0907,2.4338,2,0
+7070,Santiago Comesaña,Villarreal,M S,11,609,0,0,0.6401,0.2576,0,0.6401,2,8,3.3769,2.6425,3,0
 7086,David Hancko,Atletico Madrid,D S,10,746,0,2,0.5966,0.4656,0,0.5966,12,5,3.9126,3.4347,1,0
 7134,Marc Cucurella,Real Madrid,D S,10,650,0,0,0.0,0.2166,0,0.0,0,3,4.0919,4.0409,2,0
 7186,Juan Berrocal,Malaga,D S,3,103,0,0,0.0693,0.0,0,0.0693,1,0,0.0753,0.0753,0,0
@@ -255,7 +255,7 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 7857,Jon Moncayola,Osasuna,M S,10,742,0,0,0.0691,0.1962,0,0.0691,3,3,1.908,1.7985,4,0
 7859,Sergio Herrera,Osasuna,GK,5,450,0,0,0.0,0.1014,0,0.0,0,1,0.2579,0.1565,2,0
 7888,Nemanja Gudelj,Getafe,D M S,8,637,0,0,0.2948,0.4236,0,0.2948,9,3,0.681,0.5329,3,0
-7916,Pol Lozano,Espanyol,M S,6,295,0,0,0.1675,0.1193,0,0.1675,4,2,0.6128,0.4932,2,0
+7916,Pol Lozano,Espanyol,M S,7,323,0,0,0.1675,0.1193,0,0.1675,4,2,0.6316,0.512,2,0
 8066,Arnaut Danjuma Groeneveld,Valencia,F M S,10,752,0,0,1.4081,0.4816,0,1.4081,18,9,2.6957,1.0574,0,0
 8107,Jorge De Frutos,Rayo Vallecano,F M,7,505,0,2,0.131,1.0318,0,0.131,2,5,2.1778,1.0149,0,1
 8108,Daniel Cárdenas,Rayo Vallecano,GK S,3,207,0,0,0.0,0.0,0,0.0,0,0,0.5345,0.5345,0,0
@@ -313,12 +313,12 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 10325,Juan Carlos Arana,Racing Santander,F S,3,66,0,0,0.2171,0.0,0,0.2171,1,0,0.2171,0.0,0,0
 10334,Kike Salas,Sevilla,D,8,720,0,0,0.4138,0.176,0,0.4138,9,3,1.4909,1.1966,1,1
 10352,Johaneko Louis Jean,Athletic Club,D M S,7,278,0,0,0.2191,0.0,0,0.2191,5,0,0.5307,0.3417,1,0
-10449,Vanja Drkusic,Espanyol,D S,5,266,0,0,0.0,0.0,0,0.0,0,0,0.1637,0.1637,0,0
+10449,Vanja Drkusic,Espanyol,D S,6,356,0,0,0.0,0.0,0,0.0,0,0,0.1837,0.1837,0,0
 10494,Pablo Barrios Rivas,Atletico Madrid,M S,7,454,0,1,0.2276,0.5631,0,0.2276,6,9,2.2459,1.9054,0,0
 10858,Jorge Herrando,Osasuna,D,3,188,0,0,0.1309,0.0,0,0.1309,2,0,0.2534,0.2534,1,0
 10870,Williot Swedberg,Celta Vigo,F S,9,412,0,0,1.1324,0.587,0,1.1324,4,6,1.9318,0.237,0,0
-10874,Ángel Fortuño,Espanyol,GK,3,270,0,0,0.0,0.0,0,0.0,0,0,0.2344,0.2344,0,0
-10875,Omar El Hilali,Espanyol,D,9,796,0,1,0.0,1.0291,0,0.0,0,4,3.3621,2.3566,2,1
+10874,Ángel Fortuño,Espanyol,GK,4,360,0,0,0.0,0.0,0,0.0,0,0,0.2544,0.2544,0,0
+10875,Omar El Hilali,Espanyol,D,10,886,0,1,0.0,1.0479,0,0.0,0,5,3.3975,2.3919,2,1
 10903,Morten Hjulmand,Atletico Madrid,M S,9,518,0,0,0.3143,0.2951,0,0.3143,7,9,2.4754,2.2194,2,0
 10940,Giacomo Quagliata,Deportivo La Coruna,D S,11,911,0,0,0.4352,1.1787,0,0.4352,7,9,3.9324,2.6258,2,0
 10944,Fran Pérez,Rayo Vallecano,M S,6,139,0,0,0.0293,0.0253,0,0.0293,1,1,0.2353,0.1808,1,1
@@ -333,11 +333,11 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 11282,Lorenzo Amatucci,Deportivo La Coruna,M S,9,746,0,1,0.7365,0.2493,0,0.7365,1,5,3.6523,3.6523,4,1
 11343,Gabriel Suazo,Sevilla,D,10,900,0,0,0.0439,0.6674,0,0.0439,2,15,2.7247,2.4144,2,0
 11349,Mario Martín,Getafe,M,7,567,0,0,0.5811,0.107,0,0.5811,7,5,0.7418,0.447,2,2
-11383,Renato Veiga,Villarreal,D,10,900,0,1,0.5563,0.6471,0,0.5563,5,3,5.5761,5.4595,4,0
+11383,Renato Veiga,Villarreal,D,11,990,0,1,0.5563,0.7422,0,0.5563,5,4,5.7655,5.5538,4,0
 11395,Iker Muñoz,Osasuna,M S,8,559,0,0,0.1915,0.2132,0,0.1915,4,4,1.1305,1.0264,1,0
-11402,Carlos Romero,Villarreal,D S,6,416,0,0,0.4229,0.1119,0,0.4229,5,4,2.9027,2.4798,1,0
+11402,Carlos Romero,Villarreal,D S,7,446,0,0,0.4229,0.1409,0,0.4229,5,5,2.9318,2.4798,1,0
 11740,Álvaro Vallés,Real Betis,GK,10,900,0,0,0.0,0.1277,0,0.0,0,1,2.4962,2.3685,0,0
-11744,Sergi Cardona,Villarreal,D S,7,537,0,1,0.0835,1.5211,0,0.0835,3,5,4.3888,3.5476,0,0
+11744,Sergi Cardona,Villarreal,D S,8,597,0,1,0.1488,1.5415,0,0.1488,4,6,4.5912,3.6644,1,0
 11788,Arouna Sangante,Sevilla,D,4,290,0,0,0.0,0.027,0,0.0,0,1,0.2383,0.2113,0,1
 11825,Abderrahmane Rebbach,Alaves,D,10,804,0,0,0.2043,0.0409,0,0.2043,7,1,1.4865,1.2414,3,0
 11826,Carlos Benavídez,Alaves,M S,4,156,0,0,0.1235,0.0237,0,0.1235,3,1,0.1986,0.1524,0,0
@@ -353,7 +353,7 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 12257,Rayane Belaid,Rayo Vallecano,S,1,20,0,0,0.0,0.0,0,0.0,0,0,0.0838,0.0838,0,0
 12263,Mikel Jauregizar,Athletic Club,M S,7,300,0,0,0.1089,0.0147,0,0.1089,4,1,1.0014,0.8778,0,0
 12298,Augusto Batalla,Rayo Vallecano,GK,2,153,0,0,0.0,0.0,0,0.0,0,0,0.0253,0.0253,0,0
-12322,Tajon Buchanan,Villarreal,M S,9,488,0,0,1.4133,1.1251,0,1.4133,15,13,4.2829,2.4972,4,0
+12322,Tajon Buchanan,Villarreal,M S,10,569,0,0,1.5992,1.1903,0,1.5992,19,14,4.5579,2.521,4,0
 12323,Johnny Cardoso,Atletico Madrid,M S,6,307,0,1,0.1259,0.4925,0,0.1259,3,2,3.3834,2.8031,2,0
 12371,Adam Aznou,Malaga,M S,3,138,0,0,0.121,0.2828,0,0.121,2,1,0.4998,0.1258,1,0
 12472,Iñigo Arguibide,Osasuna,D S,10,659,0,0,0.1862,0.6265,0,0.1862,4,3,1.3727,0.7958,0,0
@@ -369,13 +369,13 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 12864,Pelayo Fernández,Rayo Vallecano,D S,2,65,0,0,0.0,0.0,0,0.0,0,0,0.0,0.0,0,0
 12884,Endrick,Real Madrid,M S,2,74,0,0,0.2281,0.0,0,0.2281,4,0,0.2511,0.0654,0,0
 12893,Enzo Boyomo,Osasuna,D S,5,386,0,0,0.3323,0.07,0,0.3323,2,1,0.2114,0.1414,0,0
-12903,Rafael Bauza,Espanyol,M S,4,101,0,1,0.0134,0.1214,0,0.0134,1,1,0.4711,0.3363,1,0
-12914,Pau Navarro,Villarreal,D S,5,353,0,0,0.0,0.0,0,0.0,0,0,3.0971,3.0971,1,0
+12903,Rafael Bauza,Espanyol,M S,5,163,0,1,0.0134,0.1767,0,0.0134,1,3,0.5464,0.3563,2,0
+12914,Pau Navarro,Villarreal,D S,6,434,0,0,0.0,0.0,0,0.0,0,0,3.1493,3.1493,1,0
 12917,Luiz Júnior,Villarreal,GK,4,360,0,0,0.0,0.0,0,0.0,0,0,1.0168,1.0168,0,0
-12994,Gabriel Moscardo,Espanyol,M S,5,190,0,0,0.1388,0.0,0,0.1388,3,0,0.38,0.2412,1,0
+12994,Gabriel Moscardo,Espanyol,M S,6,191,0,0,0.1388,0.0,0,0.1388,3,0,0.38,0.2412,1,0
 13001,Álvaro Djaló,Athletic Club,S,1,5,0,0,0.0,0.0,0,0.0,0,0,0.0,0.0,0,0
 13002,Iker Córdoba,Valencia,S,3,94,0,0,0.0,0.0,0,0.0,0,0,0.0776,0.0776,0,0
-13003,Santiago Mouriño,Villarreal,D S,7,426,0,0,0.2708,0.7869,0,0.2708,2,3,3.3193,3.0909,2,0
+13003,Santiago Mouriño,Villarreal,D S,8,516,0,0,0.3401,0.8411,0,0.3401,3,5,3.5571,3.2744,2,0
 13123,Peio Canales,Athletic Club,M S,7,438,0,0,0.3215,0.3853,0,0.3215,6,7,1.0348,0.6352,0,0
 13215,Axel Tape,Levante,S,1,26,0,0,0.0,0.0,0,0.0,0,0,0.0,0.0,0,0
 13278,Youssef Lekhedim,Alaves,S,7,168,0,0,0.0276,0.1101,0,0.0276,2,3,1.2696,1.1813,0,0
@@ -384,10 +384,10 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 13374,Ángel Ortiz,Real Betis,D S,4,227,0,0,0.0267,0.0818,0,0.0267,2,3,0.3229,0.235,1,0
 13392,Andrés García,Getafe,D F M S,9,639,0,0,0.2195,0.2906,0,0.2195,7,8,0.8653,0.6539,0,0
 13417,Maroan Sannadi,Athletic Club,F S,6,248,0,0,0.8341,0.0,0,0.8341,5,0,0.7445,0.0,1,0
-13455,José Ángel López,Espanyol,D,1,90,0,0,0.0225,0.0943,0,0.0225,1,2,0.2521,0.1353,0,0
+13455,José Ángel López,Espanyol,D S,2,118,0,0,0.0225,0.0943,0,0.0225,1,2,0.2521,0.1353,0,0
 13482,Luken Beitia,Real Sociedad,D,3,270,0,0,0.1842,0.4375,0,0.1842,3,3,0.2147,0.1663,1,0
 13483,Alex Marchal,Real Sociedad,S,5,103,0,0,0.1639,0.6377,0,0.1639,3,2,0.7653,0.0216,0,0
-13533,Roger Hinojo,Espanyol,D S,9,646,0,0,0.0534,0.1366,0,0.0534,1,2,2.3824,2.306,4,0
+13533,Roger Hinojo,Espanyol,D S,10,708,0,0,0.0534,0.1366,0,0.0534,1,2,2.4024,2.326,5,0
 13600,Andrés Castrín,Sevilla,D S,9,749,0,0,0.6404,0.1312,0,0.6404,4,3,2.2566,2.2259,1,0
 13627,Alejandro Rego,Athletic Club,S,3,52,0,0,0.0,0.0,0,0.0,0,0,0.0,0.0,0,0
 13694,Jozhua Vertrouwd,Rayo Vallecano,D S,3,144,0,0,0.0,0.0,0,0.0,0,0,0.1379,0.1379,0,0
@@ -406,13 +406,13 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 13849,Mauro Echegoyen,Osasuna,S,1,24,0,0,0.0528,0.0,0,0.0528,2,0,0.0314,0.0,0,0
 13904,Abdoulaye Faye,Celta Vigo,D,1,48,0,0,0.0,0.0,0,0.0,0,0,0.0,0.0,0,0
 13936,Jon Gorrotxategi,Real Sociedad,M S,7,307,0,0,0.0,0.1014,0,0.0,0,2,1.8458,1.8458,0,0
-13996,Tani Oluwaseyi,Villarreal,M S,6,121,0,0,0.5608,0.1456,0,0.5608,5,2,0.6134,0.0315,0,0
+13996,Tani Oluwaseyi,Villarreal,M S,7,130,0,0,0.5875,0.1456,0,0.5875,6,2,0.6401,0.0315,0,0
 14001,Nelson Deossa,Real Betis,F M S,10,410,0,1,0.9177,0.8078,0,0.9177,22,6,2.814,1.2829,0,0
 14042,Dominik Livakovic,Barcelona,GK,1,90,0,0,0.0,0.0,0,0.0,0,0,0.2674,0.2674,0,0
 14059,Alemão,Rayo Vallecano,S,8,143,0,0,0.9528,0.0,0,0.9528,7,0,0.5764,0.0796,2,0
-14074,Javi Hernández,Espanyol,F M,10,785,0,6,0.8963,2.3479,0,0.8963,13,17,4.2054,1.842,2,0
+14074,Javi Hernández,Espanyol,F M,11,874,0,6,0.8963,2.3679,0,0.8963,13,18,4.242,1.8786,2,0
 14122,Pedro Felipe,Racing Santander,D S,4,86,0,0,0.0895,0.1429,0,0.0895,1,1,0.2171,0.2171,1,0
-14221,Carlos Macià,Villarreal,M S,6,197,0,0,0.0513,0.0565,0,0.0513,1,1,1.0731,1.0218,0,0
+14221,Carlos Macià,Villarreal,M S,7,287,0,0,0.0751,0.0565,0,0.0751,2,1,1.2124,1.1373,1,0
 14233,Dani Martinez,Atletico Madrid,D,2,136,0,0,0.5315,0.0138,0,0.5315,2,1,0.3243,0.2632,0,0
 14258,Kareem Tunde,Levante,S,1,9,0,0,0.0,0.0,0,0.0,0,0,0.0,0.0,0,0
 14260,Xanet Oláiz,Alaves,S,1,6,0,0,0.0,0.0,0,0.0,0,0,0.5497,0.5497,0,0
@@ -481,3 +481,5 @@ understat_player_id,player,team,position,games,minutes,goals,assists,xg,xa,npg,n
 15066,Roy Revivo,Elche,D S,7,540,0,2,0.4936,0.8717,0,0.4936,3,5,1.8817,1.0292,1,0
 15136,Christian Imga,Athletic Club,S,1,19,0,0,0.0,0.0,0,0.0,0,0,0.0,0.0,0,0
 15154,Txus Vizcay,Athletic Club,S,1,2,0,0,0.0,0.0,0,0.0,0,0,0.0,0.0,0,0
+15168,Alejandro Santiago,Espanyol,M,1,78,0,0,0.02,0.0,0,0.02,1,0,0.0366,0.0166,0,0
+15169,Jan Peries,Espanyol,S,1,12,0,0,0.0,0.0,0,0.0,0,0,0.0,0.0,0,0

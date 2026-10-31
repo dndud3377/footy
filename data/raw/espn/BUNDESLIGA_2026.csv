@@ -62,7 +62,7 @@ ext_id,utc_kickoff,status,stage,group,matchday,home_id,home,home_short,away_id,a
 401884763,2026-10-24T16:30Z,FINISHED,2026-27-german-bundesliga,,,124,Borussia Dortmund,Dortmund,125,Eintracht Frankfurt,Frankfurt,1,0,REGULAR
 401884760,2026-10-25T14:30Z,FINISHED,2026-27-german-bundesliga,,,7911,TSG Hoffenheim,Hoffenheim,131,Bayer Leverkusen,Leverkusen,3,0,REGULAR
 401884759,2026-10-25T16:30Z,FINISHED,2026-27-german-bundesliga,,,126,SC Freiburg,Freiburg,132,Bayern Munich,Bayern,1,3,REGULAR
-401884746,2026-10-30T19:30Z,SCHEDULED,2026-27-german-bundesliga,,,10388,SV Elversberg,Elversberg,2950,Mainz,Mainz,,,
+401884746,2026-10-30T19:30Z,FINISHED,2026-27-german-bundesliga,,,10388,SV Elversberg,Elversberg,2950,Mainz,Mainz,4,1,REGULAR
 401884748,2026-10-31T14:30Z,SCHEDULED,2026-27-german-bundesliga,,,137,Werder Bremen,Bremen,7911,TSG Hoffenheim,Hoffenheim,,,
 401884747,2026-10-31T14:30Z,SCHEDULED,2026-27-german-bundesliga,,,133,Schalke 04,Schalke,11420,RB Leipzig,RB Leipzig,,,
 401884751,2026-10-31T14:30Z,SCHEDULED,2026-27-german-bundesliga,,,3841,FC Augsburg,Augsburg,126,SC Freiburg,Freiburg,,,

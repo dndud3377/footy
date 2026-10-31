@@ -4,14 +4,14 @@ espn,BUNDESLIGA,Bayern,132,Bayern Munich,fixture,7
 espn,BUNDESLIGA,Bremen,137,Werder Bremen,fixture,7
 espn,BUNDESLIGA,Cologne,122,FC Cologne,fixture,5
 espn,BUNDESLIGA,Dortmund,124,Borussia Dortmund,fixture,6
-espn,BUNDESLIGA,Elversberg,10388,Elversberg,fixture,6
+espn,BUNDESLIGA,Elversberg,10388,Elversberg,fixture,7
 espn,BUNDESLIGA,Frankfurt,125,Eintracht Frankfurt,fixture,6
 espn,BUNDESLIGA,Freiburg,126,Freiburg,fixture,6
 espn,BUNDESLIGA,Gladbach,268,Borussia M.Gladbach,fixture,6
 espn,BUNDESLIGA,Hamburg,127,Hamburger SV,fixture,6
 espn,BUNDESLIGA,Hoffenheim,7911,Hoffenheim,fixture,6
 espn,BUNDESLIGA,Leverkusen,131,Bayer Leverkusen,fixture,6
-espn,BUNDESLIGA,Mainz,2950,Mainz 05,fixture,7
+espn,BUNDESLIGA,Mainz,2950,Mainz 05,fixture,8
 espn,BUNDESLIGA,Paderborn,3307,Paderborn,fixture,6
 espn,BUNDESLIGA,RB Leipzig,11420,RasenBallsport Leipzig,fixture,7
 espn,BUNDESLIGA,Schalke,133,Schalke 04,fixture,6
@@ -45,7 +45,7 @@ espn,LALIGA,Betis,244,Real Betis,fixture,10
 espn,LALIGA,Celta Vigo,85,Celta Vigo,fixture,9
 espn,LALIGA,Deportivo,90,Deportivo La Coruna,fixture,9
 espn,LALIGA,Elche,3751,Elche,fixture,9
-espn,LALIGA,Espanyol,88,Espanyol,fixture,10
+espn,LALIGA,Espanyol,88,Espanyol,fixture,11
 espn,LALIGA,Getafe,2922,Getafe,fixture,9
 espn,LALIGA,Levante,1538,Levante,fixture,10
 espn,LALIGA,Málaga,99,Malaga,fixture,9
@@ -56,22 +56,22 @@ espn,LALIGA,Real Madrid,86,Real Madrid,fixture,10
 espn,LALIGA,Real Sociedad,89,Real Sociedad,fixture,10
 espn,LALIGA,Sevilla,243,Sevilla,fixture,10
 espn,LALIGA,Valencia,94,Valencia,fixture,9
-espn,LALIGA,Villarreal,102,Villarreal,fixture,9
+espn,LALIGA,Villarreal,102,Villarreal,fixture,10
 espn,LIGUE1,Angers,7868,Angers,fixture,6
 espn,LIGUE1,Auxerre,172,Auxerre,fixture,6
 espn,LIGUE1,Brest,6997,Brest,fixture,7
-espn,LIGUE1,Le Havre AC,3236,Le Havre,fixture,6
+espn,LIGUE1,Le Havre AC,3236,Le Havre,fixture,7
 espn,LIGUE1,Le Mans,2697,Le Mans,fixture,6
-espn,LIGUE1,Lens,175,Lens,fixture,7
-espn,LIGUE1,Lille,166,Lille,fixture,5
+espn,LIGUE1,Lens,175,Lens,fixture,8
+espn,LIGUE1,Lille,166,Lille,fixture,6
 espn,LIGUE1,Lorient,273,Lorient,fixture,4
 espn,LIGUE1,Lyon,167,Lyon,fixture,6
 espn,LIGUE1,Marseille,176,Marseille,fixture,8
 espn,LIGUE1,Monaco,174,Monaco,fixture,7
-espn,LIGUE1,Nice,2502,Nice,fixture,6
-espn,LIGUE1,PSG,160,Paris Saint Germain,fixture,5
+espn,LIGUE1,Nice,2502,Nice,fixture,7
+espn,LIGUE1,PSG,160,Paris Saint Germain,fixture,6
 espn,LIGUE1,Paris FC,6851,Paris FC,fixture,4
-espn,LIGUE1,Rennes,169,Rennes,fixture,7
+espn,LIGUE1,Rennes,169,Rennes,fixture,8
 espn,LIGUE1,Strasbourg,180,Strasbourg,fixture,6
 espn,LIGUE1,Toulouse,179,Toulouse,fixture,7
 espn,LIGUE1,Troyes,170,Troyes,fixture,5
