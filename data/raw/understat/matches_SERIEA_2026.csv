@@ -89,9 +89,9 @@ understat_id,is_result,datetime,home,away,hg,ag,hxg,axg
 31645,True,2026-10-28 19:45:00,Monza,Napoli,1.0,4.0,0.968,2.4933
 31643,True,2026-10-29 17:30:00,Frosinone,Lecce,5.0,1.0,4.2133,1.5599
 31642,True,2026-10-29 19:45:00,Fiorentina,Atalanta,2.0,2.0,1.9227,1.2078
-31652,False,2026-10-31 14:00:00,Bologna,Monza,,,,
-31659,False,2026-10-31 17:00:00,Udinese,Roma,,,,
-31650,False,2026-10-31 19:45:00,AC Milan,Inter,,,,
+31652,True,2026-10-31 14:00:00,Bologna,Monza,2.0,1.0,2.7555,1.6981
+31659,True,2026-10-31 17:00:00,Udinese,Roma,2.0,5.0,1.5208,3.1683
+31650,True,2026-10-31 19:45:00,AC Milan,Inter,3.0,1.0,0.9095,2.117
 31653,False,2026-11-01 11:30:00,Como,Venezia,,,,
 31654,False,2026-11-01 14:00:00,Frosinone,Torino,,,,
 31656,False,2026-11-01 14:00:00,Lazio,Cagliari,,,,

@@ -89,9 +89,9 @@ ext_id,utc_kickoff,status,stage,group,matchday,home_id,home,home_short,away_id,a
 401874799,2026-10-28T19:45Z,FINISHED,2026-27-italian-serie-a,,,4007,Monza,Monza,114,Napoli,Napoli,1,4,REGULAR
 401874976,2026-10-29T17:30Z,FINISHED,2026-27-italian-serie-a,,,4057,Frosinone,Frosinone,113,Lecce,Lecce,5,1,REGULAR
 401874969,2026-10-29T19:45Z,FINISHED,2026-27-italian-serie-a,,,109,Fiorentina,Fiorentina,105,Atalanta,Atalanta,2,2,REGULAR
-401874798,2026-10-31T14:00Z,SCHEDULED,2026-27-italian-serie-a,,,107,Bologna,Bologna,4007,Monza,Monza,,,
-401874990,2026-10-31T17:00Z,SCHEDULED,2026-27-italian-serie-a,,,118,Udinese,Udinese,104,AS Roma,AS Roma,,,
-401874795,2026-10-31T19:45Z,SCHEDULED,2026-27-italian-serie-a,,,103,AC Milan,Milan,110,Internazionale,Inter Milan,,,
+401874798,2026-10-31T14:00Z,FINISHED,2026-27-italian-serie-a,,,107,Bologna,Bologna,4007,Monza,Monza,2,1,REGULAR
+401874990,2026-10-31T17:00Z,FINISHED,2026-27-italian-serie-a,,,118,Udinese,Udinese,104,AS Roma,AS Roma,2,5,REGULAR
+401874795,2026-10-31T19:45Z,FINISHED,2026-27-italian-serie-a,,,103,AC Milan,Milan,110,Internazionale,Inter Milan,3,1,REGULAR
 401875002,2026-11-01T11:30Z,SCHEDULED,2026-27-italian-serie-a,,,2572,Como,Como,17530,Venezia,Venezia,,,
 401874983,2026-11-01T14:00Z,SCHEDULED,2026-27-italian-serie-a,,,112,Lazio,Lazio,2925,Cagliari,Cagliari,,,
 401874782,2026-11-01T14:00Z,SCHEDULED,2026-27-italian-serie-a,,,4057,Frosinone,Frosinone,239,Torino,Torino,,,
