@@ -1,8 +1,13 @@
 # 수집 보고서
 
-- 실행: 2026-11-01T02:14:37+00:00 → 2026-11-01T02:14:54+00:00 (UTC)
+- 실행: 2026-11-02T02:32:00+00:00 → 2026-11-02T02:33:31+00:00 (UTC)
 - 현재 시즌: 2026
-- 수집 16건 / 건너뜀 31건 / 오류 0건
+- 수집 11건 / 건너뜀 31건 / 오류 5건
+  - ❌ understat EPL 2026: ConnectionError(MaxRetryError('HTTPSConnectionPool(host=\'understat.com\', port=443): Max retries exceeded with url: /getLeagueData/EPL/2026 (Caused by NameResolutionError("HTTPSConnection(host=\'understat.com\', port=443): Failed to resolve \'understat.com\' ([Errno -3] Temporary failure in name resolution)"))'))
+  - ❌ understat LALIGA 2026: ConnectionError(MaxRetryError('HTTPSConnectionPool(host=\'understat.com\', port=443): Max retries exceeded with url: /getLeagueData/La_Liga/2026 (Caused by NameResolutionError("HTTPSConnection(host=\'understat.com\', port=443): Failed to resolve \'understat.com\' ([Errno -3] Temporary failure in name resolution)"))'))
+  - ❌ understat BUNDESLIGA 2026: ConnectionError(MaxRetryError('HTTPSConnectionPool(host=\'understat.com\', port=443): Max retries exceeded with url: /getLeagueData/Bundesliga/2026 (Caused by NameResolutionError("HTTPSConnection(host=\'understat.com\', port=443): Failed to resolve \'understat.com\' ([Errno -3] Temporary failure in name resolution)"))'))
+  - ❌ understat SERIEA 2026: ConnectionError(MaxRetryError('HTTPSConnectionPool(host=\'understat.com\', port=443): Max retries exceeded with url: /getLeagueData/Serie_A/2026 (Caused by NameResolutionError("HTTPSConnection(host=\'understat.com\', port=443): Failed to resolve \'understat.com\' ([Errno -3] Temporary failure in name resolution)"))'))
+  - ❌ understat LIGUE1 2026: ConnectionError(MaxRetryError('HTTPSConnectionPool(host=\'understat.com\', port=443): Max retries exceeded with url: /getLeagueData/Ligue_1/2026 (Caused by NameResolutionError("HTTPSConnection(host=\'understat.com\', port=443): Failed to resolve \'understat.com\' ([Errno -3] Temporary failure in name resolution)"))'))
 
 ## 리그·시즌별 경기
 
@@ -37,20 +42,20 @@
 
 ## 다가오는 경기
 
-- 총 1410경기 (리그별: BUNDESLIGA 236, EPL 292, LALIGA 276, LIGUE1 229, SERIEA 287, UCL 90)
+- 총 1394경기 (리그별: BUNDESLIGA 234, EPL 291, LALIGA 272, LIGUE1 225, SERIEA 282, UCL 90)
 
 | KST | 대회 | 홈 | 원정 | 킥오프 출처 |
 |---|---|---|---|---|
-| 2026-11-01 20:30 | SERIEA | Como | Venezia | espn |
-| 2026-11-01 22:00 | LALIGA | Getafe | Sevilla | espn |
-| 2026-11-01 23:00 | SERIEA | Frosinone | Torino | espn |
-| 2026-11-01 23:00 | LIGUE1 | Strasbourg | Auxerre | espn |
-| 2026-11-01 23:00 | SERIEA | Lazio | Cagliari | espn |
-| 2026-11-01 23:30 | BUNDESLIGA | Union Berlin | FC Cologne | espn |
-| 2026-11-02 00:15 | LALIGA | Racing Santander | Real Madrid | espn |
-| 2026-11-02 01:15 | LIGUE1 | Lyon | Angers | espn |
-| 2026-11-02 01:15 | LIGUE1 | Paris FC | Monaco | espn |
-| 2026-11-02 01:30 | EPL | Liverpool | Arsenal | espn |
+| 2026-11-03 02:30 | SERIEA | Sassuolo | Fiorentina | espn |
+| 2026-11-03 04:45 | SERIEA | Atalanta | Parma Calcio 1913 | espn |
+| 2026-11-03 04:45 | LIGUE1 | Lorient | Brest | espn |
+| 2026-11-03 05:00 | LALIGA | Deportivo La Coruna | Osasuna | espn |
+| 2026-11-03 05:00 | EPL | Newcastle United | Everton | espn |
+| 2026-11-04 02:45 | UCL | Galatasaray | VfB Stuttgart | espn |
+| 2026-11-04 02:45 | UCL | Shakhtar | Sporting | espn |
+| 2026-11-04 05:00 | UCL | Villarreal | Paris Saint Germain | espn |
+| 2026-11-04 05:00 | UCL | LASK Linz | S Bratislava | espn |
+| 2026-11-04 05:00 | UCL | Manchester United | Roma | espn |
 
 ## 챔피언스리그
 
@@ -62,6 +67,11 @@
 
 ## 판정
 
+- ❌ 수집 오류: understat EPL 2026: ConnectionError(MaxRetryError('HTTPSConnectionPool(host=\'understat.com\', port=443): Max retries exceeded with url: /getLeagueData/EPL/2026 (Caused by NameResolutionError("HTTPSConnection(host=\'understat.com\', port=443): Failed to resolve \'understat.com\' ([Errno -3] Temporary failure in name resolution)"))'))
+- ❌ 수집 오류: understat LALIGA 2026: ConnectionError(MaxRetryError('HTTPSConnectionPool(host=\'understat.com\', port=443): Max retries exceeded with url: /getLeagueData/La_Liga/2026 (Caused by NameResolutionError("HTTPSConnection(host=\'understat.com\', port=443): Failed to resolve \'understat.com\' ([Errno -3] Temporary failure in name resolution)"))'))
+- ❌ 수집 오류: understat BUNDESLIGA 2026: ConnectionError(MaxRetryError('HTTPSConnectionPool(host=\'understat.com\', port=443): Max retries exceeded with url: /getLeagueData/Bundesliga/2026 (Caused by NameResolutionError("HTTPSConnection(host=\'understat.com\', port=443): Failed to resolve \'understat.com\' ([Errno -3] Temporary failure in name resolution)"))'))
+- ❌ 수집 오류: understat SERIEA 2026: ConnectionError(MaxRetryError('HTTPSConnectionPool(host=\'understat.com\', port=443): Max retries exceeded with url: /getLeagueData/Serie_A/2026 (Caused by NameResolutionError("HTTPSConnection(host=\'understat.com\', port=443): Failed to resolve \'understat.com\' ([Errno -3] Temporary failure in name resolution)"))'))
+- ❌ 수집 오류: understat LIGUE1 2026: ConnectionError(MaxRetryError('HTTPSConnectionPool(host=\'understat.com\', port=443): Max retries exceeded with url: /getLeagueData/Ligue_1/2026 (Caused by NameResolutionError("HTTPSConnection(host=\'understat.com\', port=443): Failed to resolve \'understat.com\' ([Errno -3] Temporary failure in name resolution)"))'))
 - ❌ BUNDESLIGA 2026: 기본통계 연결률 90%
 - ❌ EPL 2026: 기본통계 연결률 91%
 - ❌ LIGUE1 2026: 기본통계 연결률 93%

@@ -1,17 +1,12 @@
 {
-  "started_utc": "2026-11-01T02:14:37+00:00",
+  "started_utc": "2026-11-02T02:32:00+00:00",
   "current_season": 2026,
   "fetched": [
     "fdcouk EPL 2026: 80",
-    "understat EPL 2026: 380",
     "fdcouk LALIGA 2026: 99",
-    "understat LALIGA 2026: 380",
     "fdcouk BUNDESLIGA 2026: 63",
-    "understat BUNDESLIGA 2026: 306",
     "fdcouk SERIEA 2026: 90",
-    "understat SERIEA 2026: 380",
     "fdcouk LIGUE1 2026: 72",
-    "understat LIGUE1 2026: 306",
     "espn EPL 2026: 380",
     "espn LALIGA 2026: 380",
     "espn BUNDESLIGA 2026: 306",
@@ -52,6 +47,12 @@
     "understat LIGUE1 2025",
     "fdorg (토큰 없음 — 선택 사항)"
   ],
-  "errors": [],
-  "finished_utc": "2026-11-01T02:14:54+00:00"
+  "errors": [
+    "understat EPL 2026: ConnectionError(MaxRetryError('HTTPSConnectionPool(host=\\'understat.com\\', port=443): Max retries exceeded with url: /getLeagueData/EPL/2026 (Caused by NameResolutionError(\"HTTPSConnection(host=\\'understat.com\\', port=443): Failed to resolve \\'understat.com\\' ([Errno -3] Temporary failure in name resolution)\"))'))",
+    "understat LALIGA 2026: ConnectionError(MaxRetryError('HTTPSConnectionPool(host=\\'understat.com\\', port=443): Max retries exceeded with url: /getLeagueData/La_Liga/2026 (Caused by NameResolutionError(\"HTTPSConnection(host=\\'understat.com\\', port=443): Failed to resolve \\'understat.com\\' ([Errno -3] Temporary failure in name resolution)\"))'))",
+    "understat BUNDESLIGA 2026: ConnectionError(MaxRetryError('HTTPSConnectionPool(host=\\'understat.com\\', port=443): Max retries exceeded with url: /getLeagueData/Bundesliga/2026 (Caused by NameResolutionError(\"HTTPSConnection(host=\\'understat.com\\', port=443): Failed to resolve \\'understat.com\\' ([Errno -3] Temporary failure in name resolution)\"))'))",
+    "understat SERIEA 2026: ConnectionError(MaxRetryError('HTTPSConnectionPool(host=\\'understat.com\\', port=443): Max retries exceeded with url: /getLeagueData/Serie_A/2026 (Caused by NameResolutionError(\"HTTPSConnection(host=\\'understat.com\\', port=443): Failed to resolve \\'understat.com\\' ([Errno -3] Temporary failure in name resolution)\"))'))",
+    "understat LIGUE1 2026: ConnectionError(MaxRetryError('HTTPSConnectionPool(host=\\'understat.com\\', port=443): Max retries exceeded with url: /getLeagueData/Ligue_1/2026 (Caused by NameResolutionError(\"HTTPSConnection(host=\\'understat.com\\', port=443): Failed to resolve \\'understat.com\\' ([Errno -3] Temporary failure in name resolution)\"))'))"
+  ],
+  "finished_utc": "2026-11-02T02:33:31+00:00"
 }
