@@ -79,7 +79,7 @@ ext_id,utc_kickoff,status,stage,group,matchday,home_id,home,home_short,away_id,a
 401876418,2026-11-01T16:15Z,FINISHED,2026-27-ligue-1,,,167,Lyon,Lyon,7868,Angers,Angers,2,0,REGULAR
 401876415,2026-11-01T16:15Z,FINISHED,2026-27-ligue-1,,,6851,Paris FC,Paris FC,174,AS Monaco,Monaco,3,1,REGULAR
 401876417,2026-11-01T19:45Z,FINISHED,2026-27-ligue-1,,,176,Marseille,Marseille,179,Toulouse,Toulouse,2,0,REGULAR
-401876419,2026-11-02T19:45Z,SCHEDULED,2026-27-ligue-1,,,273,Lorient,Lorient,6997,Brest,Brest,,,
+401876419,2026-11-02T19:45Z,FINISHED,2026-27-ligue-1,,,273,Lorient,Lorient,6997,Brest,Brest,0,2,REGULAR
 401876405,2026-11-06T19:45Z,SCHEDULED,2026-27-ligue-1,,,179,Toulouse,Toulouse,180,Strasbourg,Strasbourg,,,
 401876411,2026-11-07T16:15Z,SCHEDULED,2026-27-ligue-1,,,172,AJ Auxerre,Auxerre,6851,Paris FC,Paris FC,,,
 401876407,2026-11-07T19:45Z,SCHEDULED,2026-27-ligue-1,,,160,Paris Saint-Germain,PSG,170,Troyes,Troyes,,,
