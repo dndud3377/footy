@@ -1,13 +1,13 @@
 # 수집 보고서
 
-- 실행: 2026-11-03T03:56:00+00:00 → 2026-11-03T04:06:19+00:00 (UTC)
+- 실행: 2026-11-04T03:00:38+00:00 → 2026-11-04T03:00:50+00:00 (UTC)
 - 현재 시즌: 2026
 - 수집 11건 / 건너뜀 31건 / 오류 5건
-  - ❌ understat EPL 2026: ConnectTimeout(MaxRetryError("HTTPSConnectionPool(host='understat.com', port=443): Max retries exceeded with url: /getLeagueData/EPL/2026 (Caused by ConnectTimeoutError(<HTTPSConnection(host='understat.com', port=443) at 0x7fcf73357b60>, 'Connection to understat.com timed out. (connect timeout=60)'))"))
-  - ❌ understat LALIGA 2026: ConnectTimeout(MaxRetryError("HTTPSConnectionPool(host='understat.com', port=443): Max retries exceeded with url: /getLeagueData/La_Liga/2026 (Caused by ConnectTimeoutError(<HTTPSConnection(host='understat.com', port=443) at 0x7fcf73357dd0>, 'Connection to understat.com timed out. (connect timeout=60)'))"))
-  - ❌ understat BUNDESLIGA 2026: ConnectTimeout(MaxRetryError("HTTPSConnectionPool(host='understat.com', port=443): Max retries exceeded with url: /getLeagueData/Bundesliga/2026 (Caused by ConnectTimeoutError(<HTTPSConnection(host='understat.com', port=443) at 0x7fcf73356060>, 'Connection to understat.com timed out. (connect timeout=60)'))"))
-  - ❌ understat SERIEA 2026: ConnectTimeout(MaxRetryError("HTTPSConnectionPool(host='understat.com', port=443): Max retries exceeded with url: /getLeagueData/Serie_A/2026 (Caused by ConnectTimeoutError(<HTTPSConnection(host='understat.com', port=443) at 0x7fcf73357b00>, 'Connection to understat.com timed out. (connect timeout=60)'))"))
-  - ❌ understat LIGUE1 2026: ConnectTimeout(MaxRetryError("HTTPSConnectionPool(host='understat.com', port=443): Max retries exceeded with url: /getLeagueData/Ligue_1/2026 (Caused by ConnectTimeoutError(<HTTPSConnection(host='understat.com', port=443) at 0x7fcf733906b0>, 'Connection to understat.com timed out. (connect timeout=60)'))"))
+  - ❌ understat EPL 2026: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+  - ❌ understat LALIGA 2026: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+  - ❌ understat BUNDESLIGA 2026: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+  - ❌ understat SERIEA 2026: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+  - ❌ understat LIGUE1 2026: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
 
 ## 리그·시즌별 경기
 
@@ -42,24 +42,24 @@
 
 ## 다가오는 경기
 
-- 총 1389경기 (리그별: BUNDESLIGA 234, EPL 290, LALIGA 271, LIGUE1 224, SERIEA 280, UCL 90)
+- 총 1380경기 (리그별: BUNDESLIGA 234, EPL 290, LALIGA 271, LIGUE1 224, SERIEA 280, UCL 81)
 
 | KST | 대회 | 홈 | 원정 | 킥오프 출처 |
 |---|---|---|---|---|
-| 2026-11-04 02:45 | UCL | Galatasaray | VfB Stuttgart | espn |
-| 2026-11-04 02:45 | UCL | Shakhtar | Sporting | espn |
-| 2026-11-04 05:00 | UCL | Barcelona | Aston Villa | espn |
-| 2026-11-04 05:00 | UCL | Bodo/Glimt | Lille | espn |
-| 2026-11-04 05:00 | UCL | Feyenoord | Inter | espn |
-| 2026-11-04 05:00 | UCL | LASK Linz | S Bratislava | espn |
-| 2026-11-04 05:00 | UCL | Manchester United | Roma | espn |
-| 2026-11-04 05:00 | UCL | Villarreal | Paris Saint Germain | espn |
-| 2026-11-04 05:00 | UCL | Atletico Madrid | Bayern Munich | espn |
+| 2026-11-05 02:45 | UCL | Fenerbahce | Liverpool | espn |
 | 2026-11-05 02:45 | UCL | AEK Athens | Real Madrid | espn |
+| 2026-11-05 05:00 | UCL | Slavia Prague | Arsenal | espn |
+| 2026-11-05 05:00 | UCL | PSV | Club Brugge | espn |
+| 2026-11-05 05:00 | UCL | RasenBallsport Leipzig | Manchester City | espn |
+| 2026-11-05 05:00 | UCL | Lens | Como | espn |
+| 2026-11-05 05:00 | UCL | Viking FK | Sabah | espn |
+| 2026-11-05 05:00 | UCL | Borussia Dortmund | Real Betis | espn |
+| 2026-11-05 05:00 | UCL | FC Porto | Napoli | espn |
+| 2026-11-07 04:30 | BUNDESLIGA | Hamburger SV | Borussia M.Gladbach | espn |
 
 ## 챔피언스리그
 
-- 소스: espn · 전체 144경기, 종료 54경기
+- 소스: espn · 전체 144경기, 종료 63경기
 
 ## Understat 시각 오프셋 (종료 경기, Understat − 일정 소스, 시간)
 
@@ -67,8 +67,8 @@
 
 ## 판정
 
-- ❌ 수집 오류: understat EPL 2026: ConnectTimeout(MaxRetryError("HTTPSConnectionPool(host='understat.com', port=443): Max retries exceeded with url: /getLeagueData/EPL/2026 (Caused by ConnectTimeoutError(<HTTPSConnection(host='understat.com', port=443) at 0x7fcf73357b60>, 'Connection to understat.com timed out. (connect timeout=60)'))"))
-- ❌ 수집 오류: understat LALIGA 2026: ConnectTimeout(MaxRetryError("HTTPSConnectionPool(host='understat.com', port=443): Max retries exceeded with url: /getLeagueData/La_Liga/2026 (Caused by ConnectTimeoutError(<HTTPSConnection(host='understat.com', port=443) at 0x7fcf73357dd0>, 'Connection to understat.com timed out. (connect timeout=60)'))"))
-- ❌ 수집 오류: understat BUNDESLIGA 2026: ConnectTimeout(MaxRetryError("HTTPSConnectionPool(host='understat.com', port=443): Max retries exceeded with url: /getLeagueData/Bundesliga/2026 (Caused by ConnectTimeoutError(<HTTPSConnection(host='understat.com', port=443) at 0x7fcf73356060>, 'Connection to understat.com timed out. (connect timeout=60)'))"))
-- ❌ 수집 오류: understat SERIEA 2026: ConnectTimeout(MaxRetryError("HTTPSConnectionPool(host='understat.com', port=443): Max retries exceeded with url: /getLeagueData/Serie_A/2026 (Caused by ConnectTimeoutError(<HTTPSConnection(host='understat.com', port=443) at 0x7fcf73357b00>, 'Connection to understat.com timed out. (connect timeout=60)'))"))
-- ❌ 수집 오류: understat LIGUE1 2026: ConnectTimeout(MaxRetryError("HTTPSConnectionPool(host='understat.com', port=443): Max retries exceeded with url: /getLeagueData/Ligue_1/2026 (Caused by ConnectTimeoutError(<HTTPSConnection(host='understat.com', port=443) at 0x7fcf733906b0>, 'Connection to understat.com timed out. (connect timeout=60)'))"))
+- ❌ 수집 오류: understat EPL 2026: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+- ❌ 수집 오류: understat LALIGA 2026: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+- ❌ 수집 오류: understat BUNDESLIGA 2026: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+- ❌ 수집 오류: understat SERIEA 2026: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+- ❌ 수집 오류: understat LIGUE1 2026: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')

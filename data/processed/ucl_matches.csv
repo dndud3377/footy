@@ -53,15 +53,15 @@ season,ext_source,ext_id,utc_kickoff,status,stage,group,matchday,home,away,hg,ag
 2026,espn,401915313,2026-10-21T19:00Z,FINISHED,league-phase,,,Real Madrid,RasenBallsport Leipzig,4.0,1.0,REGULAR
 2026,espn,401915391,2026-10-21T19:00Z,FINISHED,league-phase,,,Sporting,LASK Linz,2.0,3.0,REGULAR
 2026,espn,401915389,2026-10-21T19:00Z,FINISHED,league-phase,,,Real Betis,Feyenoord,1.0,0.0,REGULAR
-2026,espn,401915311,2026-11-03T17:45Z,SCHEDULED,league-phase,,,Galatasaray,VfB Stuttgart,,,
-2026,espn,401915310,2026-11-03T17:45Z,SCHEDULED,league-phase,,,Shakhtar,Sporting,,,
-2026,espn,401915386,2026-11-03T20:00Z,SCHEDULED,league-phase,,,Atletico Madrid,Bayern Munich,,,
-2026,espn,401915387,2026-11-03T20:00Z,SCHEDULED,league-phase,,,Barcelona,Aston Villa,,,
-2026,espn,401915384,2026-11-03T20:00Z,SCHEDULED,league-phase,,,Bodo/Glimt,Lille,,,
-2026,espn,401915307,2026-11-03T20:00Z,SCHEDULED,league-phase,,,Feyenoord,Inter,,,
-2026,espn,401915385,2026-11-03T20:00Z,SCHEDULED,league-phase,,,LASK Linz,S Bratislava,,,
-2026,espn,401915308,2026-11-03T20:00Z,SCHEDULED,league-phase,,,Manchester United,Roma,,,
-2026,espn,401915309,2026-11-03T20:00Z,SCHEDULED,league-phase,,,Villarreal,Paris Saint Germain,,,
+2026,espn,401915311,2026-11-03T17:45Z,FINISHED,league-phase,,,Galatasaray,VfB Stuttgart,2.0,0.0,REGULAR
+2026,espn,401915310,2026-11-03T17:45Z,FINISHED,league-phase,,,Shakhtar,Sporting,0.0,1.0,REGULAR
+2026,espn,401915386,2026-11-03T20:00Z,FINISHED,league-phase,,,Atletico Madrid,Bayern Munich,0.0,2.0,REGULAR
+2026,espn,401915387,2026-11-03T20:00Z,FINISHED,league-phase,,,Barcelona,Aston Villa,3.0,0.0,REGULAR
+2026,espn,401915384,2026-11-03T20:00Z,FINISHED,league-phase,,,Bodo/Glimt,Lille,0.0,0.0,REGULAR
+2026,espn,401915307,2026-11-03T20:00Z,FINISHED,league-phase,,,Feyenoord,Inter,0.0,3.0,REGULAR
+2026,espn,401915385,2026-11-03T20:00Z,FINISHED,league-phase,,,LASK Linz,S Bratislava,4.0,0.0,REGULAR
+2026,espn,401915308,2026-11-03T20:00Z,FINISHED,league-phase,,,Manchester United,Roma,3.0,2.0,REGULAR
+2026,espn,401915309,2026-11-03T20:00Z,FINISHED,league-phase,,,Villarreal,Paris Saint Germain,0.0,6.0,REGULAR
 2026,espn,401915383,2026-11-04T17:45Z,SCHEDULED,league-phase,,,AEK Athens,Real Madrid,,,
 2026,espn,401915382,2026-11-04T17:45Z,SCHEDULED,league-phase,,,Fenerbahce,Liverpool,,,
 2026,espn,401915301,2026-11-04T20:00Z,SCHEDULED,league-phase,,,FC Porto,Napoli,,,

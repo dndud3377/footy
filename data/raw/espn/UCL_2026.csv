@@ -53,15 +53,15 @@ ext_id,utc_kickoff,status,stage,group,matchday,home_id,home,home_short,away_id,a
 401915312,2026-10-21T19:00Z,FINISHED,league-phase,,,132,Bayern Munich,Bayern,359,Arsenal,Arsenal,2,2,REGULAR
 401915394,2026-10-21T19:00Z,FINISHED,league-phase,,,362,Aston Villa,Aston Villa,510,Viking FK,Viking FK,3,1,REGULAR
 401915388,2026-10-21T19:00Z,FINISHED,league-phase,,,570,Club Brugge,Club Brugge,175,Lens,Lens,3,0,REGULAR
-401915311,2026-11-03T17:45Z,SCHEDULED,league-phase,,,432,Galatasaray,Galatasaray,134,VfB Stuttgart,Stuttgart,,,
-401915310,2026-11-03T17:45Z,SCHEDULED,league-phase,,,493,Shakhtar Donetsk,Shakhtar,2250,Sporting CP,Sporting,,,
-401915386,2026-11-03T20:00Z,SCHEDULED,league-phase,,,1068,Atlético Madrid,Atlético,132,Bayern Munich,Bayern,,,
-401915387,2026-11-03T20:00Z,SCHEDULED,league-phase,,,83,Barcelona,Barcelona,362,Aston Villa,Aston Villa,,,
-401915384,2026-11-03T20:00Z,SCHEDULED,league-phase,,,2980,Bodo/Glimt,Bodo/Glimt,166,Lille,Lille,,,
-401915307,2026-11-03T20:00Z,SCHEDULED,league-phase,,,142,Feyenoord Rotterdam,Feyenoord,110,Internazionale,Inter Milan,,,
-401915385,2026-11-03T20:00Z,SCHEDULED,league-phase,,,4411,LASK Linz,LASK Linz,521,Slovan Bratislava,S Bratislava,,,
-401915308,2026-11-03T20:00Z,SCHEDULED,league-phase,,,360,Manchester United,Man Utd,104,AS Roma,AS Roma,,,
-401915309,2026-11-03T20:00Z,SCHEDULED,league-phase,,,102,Villarreal,Villarreal,160,Paris Saint-Germain,PSG,,,
+401915311,2026-11-03T17:45Z,FINISHED,league-phase,,,432,Galatasaray,Galatasaray,134,VfB Stuttgart,Stuttgart,2,0,REGULAR
+401915310,2026-11-03T17:45Z,FINISHED,league-phase,,,493,Shakhtar Donetsk,Shakhtar,2250,Sporting CP,Sporting,0,1,REGULAR
+401915386,2026-11-03T20:00Z,FINISHED,league-phase,,,1068,Atlético Madrid,Atlético,132,Bayern Munich,Bayern,0,2,REGULAR
+401915387,2026-11-03T20:00Z,FINISHED,league-phase,,,83,Barcelona,Barcelona,362,Aston Villa,Aston Villa,3,0,REGULAR
+401915384,2026-11-03T20:00Z,FINISHED,league-phase,,,2980,Bodo/Glimt,Bodo/Glimt,166,Lille,Lille,0,0,REGULAR
+401915307,2026-11-03T20:00Z,FINISHED,league-phase,,,142,Feyenoord Rotterdam,Feyenoord,110,Internazionale,Inter Milan,0,3,REGULAR
+401915385,2026-11-03T20:00Z,FINISHED,league-phase,,,4411,LASK Linz,LASK Linz,521,Slovan Bratislava,S Bratislava,4,0,REGULAR
+401915308,2026-11-03T20:00Z,FINISHED,league-phase,,,360,Manchester United,Man Utd,104,AS Roma,AS Roma,3,2,REGULAR
+401915309,2026-11-03T20:00Z,FINISHED,league-phase,,,102,Villarreal,Villarreal,160,Paris Saint-Germain,PSG,0,6,REGULAR
 401915383,2026-11-04T17:45Z,SCHEDULED,league-phase,,,887,AEK Athens,AEK Athens,86,Real Madrid,Real Madrid,,,
 401915382,2026-11-04T17:45Z,SCHEDULED,league-phase,,,436,Fenerbahce,Fenerbahce,364,Liverpool,Liverpool,,,
 401915306,2026-11-04T20:00Z,SCHEDULED,league-phase,,,11420,RB Leipzig,RB Leipzig,382,Manchester City,Man City,,,

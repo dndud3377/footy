@@ -1,12 +1,12 @@
 {
-  "started_utc": "2026-11-03T03:56:00+00:00",
+  "started_utc": "2026-11-04T03:00:38+00:00",
   "current_season": 2026,
   "fetched": [
-    "fdcouk EPL 2026: 89",
-    "fdcouk LALIGA 2026: 108",
+    "fdcouk EPL 2026: 90",
+    "fdcouk LALIGA 2026: 109",
     "fdcouk BUNDESLIGA 2026: 72",
-    "fdcouk SERIEA 2026: 98",
-    "fdcouk LIGUE1 2026: 80",
+    "fdcouk SERIEA 2026: 100",
+    "fdcouk LIGUE1 2026: 81",
     "espn EPL 2026: 380",
     "espn LALIGA 2026: 380",
     "espn BUNDESLIGA 2026: 306",
@@ -48,11 +48,11 @@
     "fdorg (토큰 없음 — 선택 사항)"
   ],
   "errors": [
-    "understat EPL 2026: ConnectTimeout(MaxRetryError(\"HTTPSConnectionPool(host='understat.com', port=443): Max retries exceeded with url: /getLeagueData/EPL/2026 (Caused by ConnectTimeoutError(<HTTPSConnection(host='understat.com', port=443) at 0x7fcf73357b60>, 'Connection to understat.com timed out. (connect timeout=60)'))\"))",
-    "understat LALIGA 2026: ConnectTimeout(MaxRetryError(\"HTTPSConnectionPool(host='understat.com', port=443): Max retries exceeded with url: /getLeagueData/La_Liga/2026 (Caused by ConnectTimeoutError(<HTTPSConnection(host='understat.com', port=443) at 0x7fcf73357dd0>, 'Connection to understat.com timed out. (connect timeout=60)'))\"))",
-    "understat BUNDESLIGA 2026: ConnectTimeout(MaxRetryError(\"HTTPSConnectionPool(host='understat.com', port=443): Max retries exceeded with url: /getLeagueData/Bundesliga/2026 (Caused by ConnectTimeoutError(<HTTPSConnection(host='understat.com', port=443) at 0x7fcf73356060>, 'Connection to understat.com timed out. (connect timeout=60)'))\"))",
-    "understat SERIEA 2026: ConnectTimeout(MaxRetryError(\"HTTPSConnectionPool(host='understat.com', port=443): Max retries exceeded with url: /getLeagueData/Serie_A/2026 (Caused by ConnectTimeoutError(<HTTPSConnection(host='understat.com', port=443) at 0x7fcf73357b00>, 'Connection to understat.com timed out. (connect timeout=60)'))\"))",
-    "understat LIGUE1 2026: ConnectTimeout(MaxRetryError(\"HTTPSConnectionPool(host='understat.com', port=443): Max retries exceeded with url: /getLeagueData/Ligue_1/2026 (Caused by ConnectTimeoutError(<HTTPSConnection(host='understat.com', port=443) at 0x7fcf733906b0>, 'Connection to understat.com timed out. (connect timeout=60)'))\"))"
+    "understat EPL 2026: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')",
+    "understat LALIGA 2026: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')",
+    "understat BUNDESLIGA 2026: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')",
+    "understat SERIEA 2026: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')",
+    "understat LIGUE1 2026: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"
   ],
-  "finished_utc": "2026-11-03T04:06:19+00:00"
+  "finished_utc": "2026-11-04T03:00:50+00:00"
 }
