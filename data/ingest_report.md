@@ -1,6 +1,6 @@
 # 수집 보고서
 
-- 실행: 2026-11-04T03:00:38+00:00 → 2026-11-04T03:00:50+00:00 (UTC)
+- 실행: 2026-11-05T03:29:55+00:00 → 2026-11-05T03:30:05+00:00 (UTC)
 - 현재 시즌: 2026
 - 수집 11건 / 건너뜀 31건 / 오류 5건
   - ❌ understat EPL 2026: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
@@ -42,24 +42,24 @@
 
 ## 다가오는 경기
 
-- 총 1380경기 (리그별: BUNDESLIGA 234, EPL 290, LALIGA 271, LIGUE1 224, SERIEA 280, UCL 81)
+- 총 1371경기 (리그별: BUNDESLIGA 234, EPL 290, LALIGA 271, LIGUE1 224, SERIEA 280, UCL 72)
 
 | KST | 대회 | 홈 | 원정 | 킥오프 출처 |
 |---|---|---|---|---|
-| 2026-11-05 02:45 | UCL | Fenerbahce | Liverpool | espn |
-| 2026-11-05 02:45 | UCL | AEK Athens | Real Madrid | espn |
-| 2026-11-05 05:00 | UCL | Slavia Prague | Arsenal | espn |
-| 2026-11-05 05:00 | UCL | PSV | Club Brugge | espn |
-| 2026-11-05 05:00 | UCL | RasenBallsport Leipzig | Manchester City | espn |
-| 2026-11-05 05:00 | UCL | Lens | Como | espn |
-| 2026-11-05 05:00 | UCL | Viking FK | Sabah | espn |
-| 2026-11-05 05:00 | UCL | Borussia Dortmund | Real Betis | espn |
-| 2026-11-05 05:00 | UCL | FC Porto | Napoli | espn |
 | 2026-11-07 04:30 | BUNDESLIGA | Hamburger SV | Borussia M.Gladbach | espn |
+| 2026-11-07 04:45 | LIGUE1 | Toulouse | Strasbourg | espn |
+| 2026-11-07 04:45 | SERIEA | Venezia | Udinese | espn |
+| 2026-11-07 05:00 | EPL | Everton | Coventry | espn |
+| 2026-11-07 05:00 | LALIGA | Sevilla | Alaves | espn |
+| 2026-11-07 21:30 | EPL | Leeds | Tottenham | espn |
+| 2026-11-07 22:00 | LALIGA | Malaga | Racing Santander | espn |
+| 2026-11-07 23:00 | SERIEA | Torino | Lecce | espn |
+| 2026-11-07 23:00 | SERIEA | Cagliari | Frosinone | espn |
+| 2026-11-07 23:30 | BUNDESLIGA | Borussia Dortmund | Elversberg | espn |
 
 ## 챔피언스리그
 
-- 소스: espn · 전체 144경기, 종료 63경기
+- 소스: espn · 전체 144경기, 종료 72경기
 
 ## Understat 시각 오프셋 (종료 경기, Understat − 일정 소스, 시간)
 

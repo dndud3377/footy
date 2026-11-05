@@ -62,15 +62,15 @@ season,ext_source,ext_id,utc_kickoff,status,stage,group,matchday,home,away,hg,ag
 2026,espn,401915385,2026-11-03T20:00Z,FINISHED,league-phase,,,LASK Linz,S Bratislava,4.0,0.0,REGULAR
 2026,espn,401915308,2026-11-03T20:00Z,FINISHED,league-phase,,,Manchester United,Roma,3.0,2.0,REGULAR
 2026,espn,401915309,2026-11-03T20:00Z,FINISHED,league-phase,,,Villarreal,Paris Saint Germain,0.0,6.0,REGULAR
-2026,espn,401915383,2026-11-04T17:45Z,SCHEDULED,league-phase,,,AEK Athens,Real Madrid,,,
-2026,espn,401915382,2026-11-04T17:45Z,SCHEDULED,league-phase,,,Fenerbahce,Liverpool,,,
-2026,espn,401915301,2026-11-04T20:00Z,SCHEDULED,league-phase,,,FC Porto,Napoli,,,
-2026,espn,401915304,2026-11-04T20:00Z,SCHEDULED,league-phase,,,Borussia Dortmund,Real Betis,,,
-2026,espn,401915302,2026-11-04T20:00Z,SCHEDULED,league-phase,,,Viking FK,Sabah,,,
-2026,espn,401915305,2026-11-04T20:00Z,SCHEDULED,league-phase,,,Lens,Como,,,
-2026,espn,401915381,2026-11-04T20:00Z,SCHEDULED,league-phase,,,Slavia Prague,Arsenal,,,
-2026,espn,401915306,2026-11-04T20:00Z,SCHEDULED,league-phase,,,RasenBallsport Leipzig,Manchester City,,,
-2026,espn,401915303,2026-11-04T20:00Z,SCHEDULED,league-phase,,,PSV,Club Brugge,,,
+2026,espn,401915383,2026-11-04T17:45Z,FINISHED,league-phase,,,AEK Athens,Real Madrid,2.0,3.0,REGULAR
+2026,espn,401915382,2026-11-04T17:45Z,FINISHED,league-phase,,,Fenerbahce,Liverpool,3.0,2.0,REGULAR
+2026,espn,401915301,2026-11-04T20:00Z,FINISHED,league-phase,,,FC Porto,Napoli,4.0,1.0,REGULAR
+2026,espn,401915304,2026-11-04T20:00Z,FINISHED,league-phase,,,Borussia Dortmund,Real Betis,2.0,1.0,REGULAR
+2026,espn,401915302,2026-11-04T20:00Z,FINISHED,league-phase,,,Viking FK,Sabah,4.0,1.0,REGULAR
+2026,espn,401915305,2026-11-04T20:00Z,FINISHED,league-phase,,,Lens,Como,1.0,9.0,REGULAR
+2026,espn,401915381,2026-11-04T20:00Z,FINISHED,league-phase,,,Slavia Prague,Arsenal,1.0,2.0,REGULAR
+2026,espn,401915306,2026-11-04T20:00Z,FINISHED,league-phase,,,RasenBallsport Leipzig,Manchester City,2.0,3.0,REGULAR
+2026,espn,401915303,2026-11-04T20:00Z,FINISHED,league-phase,,,PSV,Club Brugge,1.0,2.0,REGULAR
 2026,espn,401915380,2026-11-24T17:45Z,SCHEDULED,league-phase,,,Bodo/Glimt,LASK Linz,,,
 2026,espn,401915300,2026-11-24T17:45Z,SCHEDULED,league-phase,,,Galatasaray,Aston Villa,,,
 2026,espn,401915295,2026-11-24T20:00Z,SCHEDULED,league-phase,,,Arsenal,Borussia Dortmund,,,
