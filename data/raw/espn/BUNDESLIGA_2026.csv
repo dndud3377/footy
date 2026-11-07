@@ -71,7 +71,7 @@ ext_id,utc_kickoff,status,stage,group,matchday,home_id,home,home_short,away_id,a
 401884754,2026-10-31T17:30Z,FINISHED,2026-27-german-bundesliga,,,132,Bayern Munich,Bayern,124,Borussia Dortmund,Dortmund,2,2,REGULAR
 401884750,2026-11-01T14:30Z,FINISHED,2026-27-german-bundesliga,,,598,1. FC Union Berlin,Union Berlin,122,FC Cologne,Cologne,1,1,REGULAR
 401884752,2026-11-01T16:30Z,FINISHED,2026-27-german-bundesliga,,,125,Eintracht Frankfurt,Frankfurt,127,Hamburg SV,Hamburg,3,1,REGULAR
-401884739,2026-11-06T19:30Z,SCHEDULED,2026-27-german-bundesliga,,,127,Hamburg SV,Hamburg,268,Borussia Mönchengladbach,Gladbach,,,
+401884739,2026-11-06T19:30Z,FINISHED,2026-27-german-bundesliga,,,127,Hamburg SV,Hamburg,268,Borussia Mönchengladbach,Gladbach,3,1,REGULAR
 401884737,2026-11-07T14:30Z,SCHEDULED,2026-27-german-bundesliga,,,3307,SC Paderborn 07,Paderborn,125,Eintracht Frankfurt,Frankfurt,,,
 401884744,2026-11-07T14:30Z,SCHEDULED,2026-27-german-bundesliga,,,11420,RB Leipzig,RB Leipzig,3841,FC Augsburg,Augsburg,,,
 401884740,2026-11-07T14:30Z,SCHEDULED,2026-27-german-bundesliga,,,2950,Mainz,Mainz,132,Bayern Munich,Bayern,,,

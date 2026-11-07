@@ -1,6 +1,6 @@
 # 수집 보고서
 
-- 실행: 2026-11-06T03:26:50+00:00 → 2026-11-06T03:27:04+00:00 (UTC)
+- 실행: 2026-11-07T02:48:25+00:00 → 2026-11-07T02:48:37+00:00 (UTC)
 - 현재 시즌: 2026
 - 수집 11건 / 건너뜀 31건 / 오류 5건
   - ❌ understat EPL 2026: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
@@ -42,20 +42,20 @@
 
 ## 다가오는 경기
 
-- 총 1371경기 (리그별: BUNDESLIGA 234, EPL 290, LALIGA 271, LIGUE1 224, SERIEA 280, UCL 72)
+- 총 1366경기 (리그별: BUNDESLIGA 233, EPL 289, LALIGA 270, LIGUE1 223, SERIEA 279, UCL 72)
 
 | KST | 대회 | 홈 | 원정 | 킥오프 출처 |
 |---|---|---|---|---|
-| 2026-11-07 04:30 | BUNDESLIGA | Hamburger SV | Borussia M.Gladbach | espn |
-| 2026-11-07 04:45 | SERIEA | Venezia | Udinese | espn |
-| 2026-11-07 04:45 | LIGUE1 | Toulouse | Strasbourg | espn |
-| 2026-11-07 05:00 | EPL | Everton | Coventry | espn |
-| 2026-11-07 05:00 | LALIGA | Sevilla | Alaves | espn |
 | 2026-11-07 21:30 | EPL | Leeds | Tottenham | espn |
 | 2026-11-07 22:00 | LALIGA | Malaga | Racing Santander | espn |
-| 2026-11-07 23:00 | SERIEA | Torino | Lecce | espn |
 | 2026-11-07 23:00 | SERIEA | Cagliari | Frosinone | espn |
+| 2026-11-07 23:00 | SERIEA | Torino | Lecce | espn |
 | 2026-11-07 23:30 | BUNDESLIGA | Borussia Dortmund | Elversberg | espn |
+| 2026-11-07 23:30 | BUNDESLIGA | Mainz 05 | Bayern Munich | espn |
+| 2026-11-07 23:30 | BUNDESLIGA | Paderborn | Eintracht Frankfurt | espn |
+| 2026-11-07 23:30 | BUNDESLIGA | RasenBallsport Leipzig | Augsburg | espn |
+| 2026-11-08 00:00 | EPL | Fulham | Newcastle United | espn |
+| 2026-11-08 00:00 | EPL | Arsenal | Hull | espn |
 
 ## 챔피언스리그
 
