@@ -81,8 +81,8 @@ ext_id,utc_kickoff,status,stage,group,matchday,home_id,home,home_short,away_id,a
 401876417,2026-11-01T19:45Z,FINISHED,2026-27-ligue-1,,,176,Marseille,Marseille,179,Toulouse,Toulouse,2,0,REGULAR
 401876419,2026-11-02T19:45Z,FINISHED,2026-27-ligue-1,,,273,Lorient,Lorient,6997,Brest,Brest,0,2,REGULAR
 401876405,2026-11-06T19:45Z,FINISHED,2026-27-ligue-1,,,179,Toulouse,Toulouse,180,Strasbourg,Strasbourg,3,1,REGULAR
-401876411,2026-11-07T18:00Z,SCHEDULED,2026-27-ligue-1,,,172,AJ Auxerre,Auxerre,6851,Paris FC,Paris FC,,,
-401876407,2026-11-07T20:05Z,SCHEDULED,2026-27-ligue-1,,,160,Paris Saint-Germain,PSG,170,Troyes,Troyes,,,
+401876411,2026-11-07T18:00Z,FINISHED,2026-27-ligue-1,,,172,AJ Auxerre,Auxerre,6851,Paris FC,Paris FC,0,1,REGULAR
+401876407,2026-11-07T20:05Z,FINISHED,2026-27-ligue-1,,,160,Paris Saint-Germain,PSG,170,Troyes,Troyes,1,0,REGULAR
 401876406,2026-11-08T14:00Z,SCHEDULED,2026-27-ligue-1,,,169,Stade Rennais,Rennes,166,Lille,Lille,,,
 401876412,2026-11-08T16:15Z,SCHEDULED,2026-27-ligue-1,,,7868,Angers,Angers,2502,Nice,Nice,,,
 401876410,2026-11-08T16:15Z,SCHEDULED,2026-27-ligue-1,,,6997,Brest,Brest,167,Lyon,Lyon,,,

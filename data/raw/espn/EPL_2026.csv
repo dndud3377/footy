@@ -90,10 +90,10 @@ ext_id,utc_kickoff,status,stage,group,matchday,home_id,home,home_short,away_id,a
 401879246,2026-11-01T16:30Z,FINISHED,2026-27-english-premier-league,,,364,Liverpool,Liverpool,359,Arsenal,Arsenal,0,1,REGULAR
 401878762,2026-11-02T20:00Z,FINISHED,2026-27-english-premier-league,,,361,Newcastle United,Newcastle,368,Everton,Everton,0,1,REGULAR
 401879242,2026-11-06T20:00Z,FINISHED,2026-27-english-premier-league,,,368,Everton,Everton,388,Coventry City,Coventry,3,1,REGULAR
-401878758,2026-11-07T12:30Z,SCHEDULED,2026-27-english-premier-league,,,357,Leeds United,Leeds,367,Tottenham Hotspur,Spurs,,,
-401878760,2026-11-07T15:00Z,SCHEDULED,2026-27-english-premier-league,,,359,Arsenal,Arsenal,306,Hull City,Hull,,,
-401879241,2026-11-07T15:00Z,SCHEDULED,2026-27-english-premier-league,,,370,Fulham,Fulham,361,Newcastle United,Newcastle,,,
-401878757,2026-11-07T17:30Z,SCHEDULED,2026-27-english-premier-league,,,393,Nottingham Forest,Nottm Forest,382,Manchester City,Man City,,,
+401878758,2026-11-07T12:30Z,FINISHED,2026-27-english-premier-league,,,357,Leeds United,Leeds,367,Tottenham Hotspur,Spurs,1,0,REGULAR
+401878760,2026-11-07T15:00Z,FINISHED,2026-27-english-premier-league,,,359,Arsenal,Arsenal,306,Hull City,Hull,1,0,REGULAR
+401879241,2026-11-07T15:00Z,FINISHED,2026-27-english-premier-league,,,370,Fulham,Fulham,361,Newcastle United,Newcastle,1,1,REGULAR
+401878757,2026-11-07T17:30Z,FINISHED,2026-27-english-premier-league,,,393,Nottingham Forest,Nottm Forest,382,Manchester City,Man City,3,1,REGULAR
 401879244,2026-11-08T14:00Z,SCHEDULED,2026-27-english-premier-league,,,331,Brighton & Hove Albion,Brighton,337,Brentford,Brentford,,,
 401879243,2026-11-08T14:00Z,SCHEDULED,2026-27-english-premier-league,,,384,Crystal Palace,C Palace,364,Liverpool,Liverpool,,,
 401878759,2026-11-08T14:00Z,SCHEDULED,2026-27-english-premier-league,,,373,Ipswich Town,Ipswich,349,AFC Bournemouth,Bournemouth,,,

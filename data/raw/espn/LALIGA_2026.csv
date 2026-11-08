@@ -109,10 +109,10 @@ ext_id,utc_kickoff,status,stage,group,matchday,home_id,home,home_short,away_id,a
 401882826,2026-11-01T20:00Z,FINISHED,2026-27-laliga,,,93,Athletic Club,Athletic,89,Real Sociedad,Real Sociedad,2,1,REGULAR
 401882824,2026-11-02T20:00Z,FINISHED,2026-27-laliga,,,90,Deportivo,Deportivo,97,Osasuna,Osasuna,2,1,REGULAR
 401882809,2026-11-06T20:00Z,FINISHED,2026-27-laliga,,,243,Sevilla,Sevilla,96,Alavés,Alavés,0,0,REGULAR
-401882812,2026-11-07T13:00Z,SCHEDULED,2026-27-laliga,,,99,Málaga,Málaga,87,Racing Santander,Racing,,,
-401882813,2026-11-07T15:15Z,SCHEDULED,2026-27-laliga,,,88,Espanyol,Espanyol,90,Deportivo,Deportivo,,,
-401882811,2026-11-07T17:30Z,SCHEDULED,2026-27-laliga,,,97,Osasuna,Osasuna,93,Athletic Club,Athletic,,,
-401882808,2026-11-07T20:00Z,SCHEDULED,2026-27-laliga,,,94,Valencia,Valencia,86,Real Madrid,Real Madrid,,,
+401882812,2026-11-07T13:00Z,FINISHED,2026-27-laliga,,,99,Málaga,Málaga,87,Racing Santander,Racing,1,2,REGULAR
+401882813,2026-11-07T15:15Z,FINISHED,2026-27-laliga,,,88,Espanyol,Espanyol,90,Deportivo,Deportivo,0,0,REGULAR
+401882811,2026-11-07T17:30Z,FINISHED,2026-27-laliga,,,97,Osasuna,Osasuna,93,Athletic Club,Athletic,1,1,REGULAR
+401882808,2026-11-07T20:00Z,FINISHED,2026-27-laliga,,,94,Valencia,Valencia,86,Real Madrid,Real Madrid,0,3,REGULAR
 401882814,2026-11-08T13:00Z,SCHEDULED,2026-27-laliga,,,3751,Elche,Elche,244,Real Betis,Betis,,,
 401882810,2026-11-08T15:15Z,SCHEDULED,2026-27-laliga,,,89,Real Sociedad,Real Sociedad,101,Rayo Vallecano,Rayo,,,
 401882815,2026-11-08T17:30Z,SCHEDULED,2026-27-laliga,,,85,Celta Vigo,Celta Vigo,1538,Levante,Levante,,,

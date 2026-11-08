@@ -100,10 +100,10 @@ ext_id,utc_kickoff,status,stage,group,matchday,home_id,home,home_short,away_id,a
 401874963,2026-11-02T17:30Z,FINISHED,2026-27-italian-serie-a,,,3997,Sassuolo,Sassuolo,109,Fiorentina,Fiorentina,2,4,REGULAR
 401874971,2026-11-02T19:45Z,FINISHED,2026-27-italian-serie-a,,,105,Atalanta,Atalanta,115,Parma,Parma,0,3,REGULAR
 401874815,2026-11-06T19:45Z,FINISHED,2026-27-italian-serie-a,,,17530,Venezia,Venezia,118,Udinese,Udinese,2,1,REGULAR
-401874791,2026-11-07T14:00Z,SCHEDULED,2026-27-italian-serie-a,,,2925,Cagliari,Cagliari,4057,Frosinone,Frosinone,,,
-401874811,2026-11-07T14:00Z,SCHEDULED,2026-27-italian-serie-a,,,239,Torino,Torino,113,Lecce,Lecce,,,
-401874974,2026-11-07T17:00Z,SCHEDULED,2026-27-italian-serie-a,,,115,Parma,Parma,107,Bologna,Bologna,,,
-401874803,2026-11-07T19:45Z,SCHEDULED,2026-27-italian-serie-a,,,104,AS Roma,AS Roma,3997,Sassuolo,Sassuolo,,,
+401874791,2026-11-07T14:00Z,FINISHED,2026-27-italian-serie-a,,,2925,Cagliari,Cagliari,4057,Frosinone,Frosinone,1,0,REGULAR
+401874811,2026-11-07T14:00Z,FINISHED,2026-27-italian-serie-a,,,239,Torino,Torino,113,Lecce,Lecce,1,1,REGULAR
+401874974,2026-11-07T17:00Z,FINISHED,2026-27-italian-serie-a,,,115,Parma,Parma,107,Bologna,Bologna,1,2,REGULAR
+401874803,2026-11-07T19:45Z,FINISHED,2026-27-italian-serie-a,,,104,AS Roma,AS Roma,3997,Sassuolo,Sassuolo,3,0,REGULAR
 401874810,2026-11-08T11:30Z,SCHEDULED,2026-27-italian-serie-a,,,114,Napoli,Napoli,112,Lazio,Lazio,,,
 401874800,2026-11-08T14:00Z,SCHEDULED,2026-27-italian-serie-a,,,4007,Monza,Monza,105,Atalanta,Atalanta,,,
 401875018,2026-11-08T14:00Z,SCHEDULED,2026-27-italian-serie-a,,,3263,Genoa,Genoa,103,AC Milan,Milan,,,
