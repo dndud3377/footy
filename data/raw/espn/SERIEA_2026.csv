@@ -104,11 +104,11 @@ ext_id,utc_kickoff,status,stage,group,matchday,home_id,home,home_short,away_id,a
 401874811,2026-11-07T14:00Z,FINISHED,2026-27-italian-serie-a,,,239,Torino,Torino,113,Lecce,Lecce,1,1,REGULAR
 401874974,2026-11-07T17:00Z,FINISHED,2026-27-italian-serie-a,,,115,Parma,Parma,107,Bologna,Bologna,1,2,REGULAR
 401874803,2026-11-07T19:45Z,FINISHED,2026-27-italian-serie-a,,,104,AS Roma,AS Roma,3997,Sassuolo,Sassuolo,3,0,REGULAR
-401874810,2026-11-08T11:30Z,SCHEDULED,2026-27-italian-serie-a,,,114,Napoli,Napoli,112,Lazio,Lazio,,,
-401874800,2026-11-08T14:00Z,SCHEDULED,2026-27-italian-serie-a,,,4007,Monza,Monza,105,Atalanta,Atalanta,,,
-401875018,2026-11-08T14:00Z,SCHEDULED,2026-27-italian-serie-a,,,3263,Genoa,Genoa,103,AC Milan,Milan,,,
-401874808,2026-11-08T17:00Z,SCHEDULED,2026-27-italian-serie-a,,,110,Internazionale,Inter Milan,2572,Como,Como,,,
-401875003,2026-11-08T19:45Z,SCHEDULED,2026-27-italian-serie-a,,,109,Fiorentina,Fiorentina,111,Juventus,Juventus,,,
+401874810,2026-11-08T11:30Z,FINISHED,2026-27-italian-serie-a,,,114,Napoli,Napoli,112,Lazio,Lazio,1,1,REGULAR
+401874800,2026-11-08T14:00Z,FINISHED,2026-27-italian-serie-a,,,4007,Monza,Monza,105,Atalanta,Atalanta,0,1,REGULAR
+401875018,2026-11-08T14:00Z,FINISHED,2026-27-italian-serie-a,,,3263,Genoa,Genoa,103,AC Milan,Milan,1,2,REGULAR
+401874808,2026-11-08T17:00Z,FINISHED,2026-27-italian-serie-a,,,110,Internazionale,Inter Milan,2572,Como,Como,2,0,REGULAR
+401875003,2026-11-08T19:45Z,FINISHED,2026-27-italian-serie-a,,,109,Fiorentina,Fiorentina,111,Juventus,Juventus,2,2,REGULAR
 401875056,2026-11-21T14:00Z,SCHEDULED,2026-27-italian-serie-a,,,2572,Como,Como,2925,Cagliari,Cagliari,,,
 401874981,2026-11-21T14:00Z,SCHEDULED,2026-27-italian-serie-a,,,112,Lazio,Lazio,113,Lecce,Lecce,,,
 401874967,2026-11-21T17:00Z,SCHEDULED,2026-27-italian-serie-a,,,115,Parma,Parma,104,AS Roma,AS Roma,,,

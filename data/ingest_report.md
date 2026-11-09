@@ -1,6 +1,6 @@
 # 수집 보고서
 
-- 실행: 2026-11-08T02:29:34+00:00 → 2026-11-08T02:29:51+00:00 (UTC)
+- 실행: 2026-11-09T02:39:40+00:00 → 2026-11-09T02:39:52+00:00 (UTC)
 - 현재 시즌: 2026
 - 수집 11건 / 건너뜀 31건 / 오류 5건
   - ❌ understat EPL 2026: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
@@ -42,20 +42,20 @@
 
 ## 다가오는 경기
 
-- 총 1347경기 (리그별: BUNDESLIGA 228, EPL 285, LALIGA 266, LIGUE1 221, SERIEA 275, UCL 72)
+- 총 1323경기 (리그별: BUNDESLIGA 225, EPL 280, LALIGA 261, LIGUE1 215, SERIEA 270, UCL 72)
 
 | KST | 대회 | 홈 | 원정 | 킥오프 출처 |
 |---|---|---|---|---|
-| 2026-11-08 20:30 | SERIEA | Napoli | Lazio | espn |
-| 2026-11-08 22:00 | LALIGA | Elche | Real Betis | espn |
-| 2026-11-08 23:00 | EPL | Ipswich | Bournemouth | espn |
-| 2026-11-08 23:00 | EPL | Crystal Palace | Liverpool | espn |
-| 2026-11-08 23:00 | EPL | Brighton | Brentford | espn |
-| 2026-11-08 23:00 | SERIEA | Monza | Atalanta | espn |
-| 2026-11-08 23:00 | SERIEA | Genoa | AC Milan | espn |
-| 2026-11-08 23:00 | EPL | Sunderland | Chelsea | espn |
-| 2026-11-08 23:00 | LIGUE1 | Rennes | Lille | espn |
-| 2026-11-08 23:30 | BUNDESLIGA | FC Cologne | Bayer Leverkusen | espn |
+| 2026-11-21 04:30 | BUNDESLIGA | Bayern Munich | FC Cologne | espn |
+| 2026-11-21 04:45 | LIGUE1 | Troyes | Le Havre | espn |
+| 2026-11-21 05:00 | LALIGA | Athletic Club | Espanyol | espn |
+| 2026-11-21 21:30 | EPL | Manchester City | Fulham | espn |
+| 2026-11-21 22:00 | LALIGA | Alaves | Deportivo La Coruna | espn |
+| 2026-11-21 23:00 | SERIEA | Como | Cagliari | espn |
+| 2026-11-21 23:00 | SERIEA | Lazio | Lecce | espn |
+| 2026-11-21 23:30 | BUNDESLIGA | Bayer Leverkusen | Paderborn | espn |
+| 2026-11-21 23:30 | BUNDESLIGA | Borussia M.Gladbach | Borussia Dortmund | espn |
+| 2026-11-21 23:30 | BUNDESLIGA | Eintracht Frankfurt | Hoffenheim | espn |
 
 ## 챔피언스리그
 
