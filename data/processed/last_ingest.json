@@ -1,12 +1,12 @@
 {
-  "started_utc": "2026-11-09T02:39:40+00:00",
+  "started_utc": "2026-11-10T04:38:33+00:00",
   "current_season": 2026,
   "fetched": [
-    "fdcouk EPL 2026: 90",
-    "fdcouk LALIGA 2026: 109",
-    "fdcouk BUNDESLIGA 2026: 72",
-    "fdcouk SERIEA 2026: 100",
-    "fdcouk LIGUE1 2026: 81",
+    "fdcouk EPL 2026: 100",
+    "fdcouk LALIGA 2026: 119",
+    "fdcouk BUNDESLIGA 2026: 81",
+    "fdcouk SERIEA 2026: 110",
+    "fdcouk LIGUE1 2026: 90",
     "espn EPL 2026: 380",
     "espn LALIGA 2026: 380",
     "espn BUNDESLIGA 2026: 306",
@@ -54,5 +54,5 @@
     "understat SERIEA 2026: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')",
     "understat LIGUE1 2026: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"
   ],
-  "finished_utc": "2026-11-09T02:39:52+00:00"
+  "finished_utc": "2026-11-10T04:38:44+00:00"
 }
