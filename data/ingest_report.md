@@ -1,6 +1,6 @@
 # 수집 보고서
 
-- 실행: 2026-11-20T03:58:34+00:00 → 2026-11-20T03:58:46+00:00 (UTC)
+- 실행: 2026-11-21T03:58:25+00:00 → 2026-11-21T03:58:33+00:00 (UTC)
 - 현재 시즌: 2026
 - 수집 11건 / 건너뜀 31건 / 오류 5건
   - ❌ understat EPL 2026: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
@@ -42,13 +42,10 @@
 
 ## 다가오는 경기
 
-- 총 1323경기 (리그별: BUNDESLIGA 225, EPL 280, LALIGA 261, LIGUE1 215, SERIEA 270, UCL 72)
+- 총 1320경기 (리그별: BUNDESLIGA 224, EPL 280, LALIGA 260, LIGUE1 214, SERIEA 270, UCL 72)
 
 | KST | 대회 | 홈 | 원정 | 킥오프 출처 |
 |---|---|---|---|---|
-| 2026-11-21 04:30 | BUNDESLIGA | Bayern Munich | FC Cologne | espn |
-| 2026-11-21 04:45 | LIGUE1 | Troyes | Le Havre | espn |
-| 2026-11-21 05:00 | LALIGA | Athletic Club | Espanyol | espn |
 | 2026-11-21 21:30 | EPL | Manchester City | Fulham | espn |
 | 2026-11-21 22:00 | LALIGA | Alaves | Deportivo La Coruna | espn |
 | 2026-11-21 23:00 | SERIEA | Como | Cagliari | espn |
@@ -56,6 +53,9 @@
 | 2026-11-21 23:30 | BUNDESLIGA | Bayer Leverkusen | Paderborn | espn |
 | 2026-11-21 23:30 | BUNDESLIGA | Borussia M.Gladbach | Borussia Dortmund | espn |
 | 2026-11-21 23:30 | BUNDESLIGA | Eintracht Frankfurt | Hoffenheim | espn |
+| 2026-11-21 23:30 | BUNDESLIGA | Elversberg | Freiburg | espn |
+| 2026-11-21 23:30 | BUNDESLIGA | Union Berlin | RasenBallsport Leipzig | espn |
+| 2026-11-22 00:00 | EPL | Tottenham | Ipswich | espn |
 
 ## 챔피언스리그
 
