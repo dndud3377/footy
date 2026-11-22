@@ -1,6 +1,6 @@
 # 수집 보고서
 
-- 실행: 2026-11-21T03:58:25+00:00 → 2026-11-21T03:58:33+00:00 (UTC)
+- 실행: 2026-11-22T03:10:25+00:00 → 2026-11-22T03:10:33+00:00 (UTC)
 - 현재 시즌: 2026
 - 수집 11건 / 건너뜀 31건 / 오류 5건
   - ❌ understat EPL 2026: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
@@ -42,20 +42,20 @@
 
 ## 다가오는 경기
 
-- 총 1320경기 (리그별: BUNDESLIGA 224, EPL 280, LALIGA 260, LIGUE1 214, SERIEA 270, UCL 72)
+- 총 1294경기 (리그별: BUNDESLIGA 218, EPL 273, LALIGA 256, LIGUE1 209, SERIEA 266, UCL 72)
 
 | KST | 대회 | 홈 | 원정 | 킥오프 출처 |
 |---|---|---|---|---|
-| 2026-11-21 21:30 | EPL | Manchester City | Fulham | espn |
-| 2026-11-21 22:00 | LALIGA | Alaves | Deportivo La Coruna | espn |
-| 2026-11-21 23:00 | SERIEA | Como | Cagliari | espn |
-| 2026-11-21 23:00 | SERIEA | Lazio | Lecce | espn |
-| 2026-11-21 23:30 | BUNDESLIGA | Bayer Leverkusen | Paderborn | espn |
-| 2026-11-21 23:30 | BUNDESLIGA | Borussia M.Gladbach | Borussia Dortmund | espn |
-| 2026-11-21 23:30 | BUNDESLIGA | Eintracht Frankfurt | Hoffenheim | espn |
-| 2026-11-21 23:30 | BUNDESLIGA | Elversberg | Freiburg | espn |
-| 2026-11-21 23:30 | BUNDESLIGA | Union Berlin | RasenBallsport Leipzig | espn |
-| 2026-11-22 00:00 | EPL | Tottenham | Ipswich | espn |
+| 2026-11-22 20:30 | SERIEA | Juventus | Venezia | espn |
+| 2026-11-22 22:00 | LALIGA | Barcelona | Villarreal | espn |
+| 2026-11-22 23:00 | EPL | Hull | Brighton | espn |
+| 2026-11-22 23:00 | SERIEA | Sassuolo | Genoa | espn |
+| 2026-11-22 23:00 | SERIEA | Bologna | Udinese | espn |
+| 2026-11-22 23:00 | LIGUE1 | Paris FC | Angers | espn |
+| 2026-11-22 23:30 | BUNDESLIGA | Augsburg | Mainz 05 | espn |
+| 2026-11-23 00:15 | LALIGA | Racing Santander | Real Sociedad | espn |
+| 2026-11-23 01:15 | LIGUE1 | Lorient | Rennes | espn |
+| 2026-11-23 01:30 | BUNDESLIGA | Werder Bremen | Hamburger SV | espn |
 
 ## 챔피언스리그
 

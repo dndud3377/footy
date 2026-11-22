@@ -99,13 +99,13 @@ ext_id,utc_kickoff,status,stage,group,matchday,home_id,home,home_short,away_id,a
 401878759,2026-11-08T14:00Z,FINISHED,2026-27-english-premier-league,,,373,Ipswich Town,Ipswich,349,AFC Bournemouth,Bournemouth,1,2,REGULAR
 401879239,2026-11-08T14:00Z,FINISHED,2026-27-english-premier-league,,,366,Sunderland,Sunderland,363,Chelsea,Chelsea,1,0,REGULAR
 401879240,2026-11-08T16:30Z,FINISHED,2026-27-english-premier-league,,,360,Manchester United,Man Utd,362,Aston Villa,Aston Villa,4,4,REGULAR
-401879233,2026-11-21T12:30Z,SCHEDULED,2026-27-english-premier-league,,,382,Manchester City,Man City,370,Fulham,Fulham,,,
-401879235,2026-11-21T15:00Z,SCHEDULED,2026-27-english-premier-league,,,388,Coventry City,Coventry,384,Crystal Palace,C Palace,,,
-401879236,2026-11-21T15:00Z,SCHEDULED,2026-27-english-premier-league,,,363,Chelsea,Chelsea,357,Leeds United,Leeds,,,
-401878754,2026-11-21T15:00Z,SCHEDULED,2026-27-english-premier-league,,,367,Tottenham Hotspur,Spurs,373,Ipswich Town,Ipswich,,,
-401879238,2026-11-21T15:00Z,SCHEDULED,2026-27-english-premier-league,,,349,AFC Bournemouth,Bournemouth,393,Nottingham Forest,Nottm Forest,,,
-401878756,2026-11-21T15:00Z,SCHEDULED,2026-27-english-premier-league,,,362,Aston Villa,Aston Villa,366,Sunderland,Sunderland,,,
-401879232,2026-11-21T17:30Z,SCHEDULED,2026-27-english-premier-league,,,361,Newcastle United,Newcastle,359,Arsenal,Arsenal,,,
+401879233,2026-11-21T12:30Z,FINISHED,2026-27-english-premier-league,,,382,Manchester City,Man City,370,Fulham,Fulham,1,1,REGULAR
+401879235,2026-11-21T15:00Z,FINISHED,2026-27-english-premier-league,,,388,Coventry City,Coventry,384,Crystal Palace,C Palace,3,2,REGULAR
+401879236,2026-11-21T15:00Z,FINISHED,2026-27-english-premier-league,,,363,Chelsea,Chelsea,357,Leeds United,Leeds,1,4,REGULAR
+401878754,2026-11-21T15:00Z,FINISHED,2026-27-english-premier-league,,,367,Tottenham Hotspur,Spurs,373,Ipswich Town,Ipswich,2,0,REGULAR
+401879238,2026-11-21T15:00Z,FINISHED,2026-27-english-premier-league,,,349,AFC Bournemouth,Bournemouth,393,Nottingham Forest,Nottm Forest,2,0,REGULAR
+401878756,2026-11-21T15:00Z,FINISHED,2026-27-english-premier-league,,,362,Aston Villa,Aston Villa,366,Sunderland,Sunderland,0,0,REGULAR
+401879232,2026-11-21T17:30Z,FINISHED,2026-27-english-premier-league,,,361,Newcastle United,Newcastle,359,Arsenal,Arsenal,2,2,REGULAR
 401879234,2026-11-22T14:00Z,SCHEDULED,2026-27-english-premier-league,,,306,Hull City,Hull,331,Brighton & Hove Albion,Brighton,,,
 401878755,2026-11-22T16:30Z,SCHEDULED,2026-27-english-premier-league,,,364,Liverpool,Liverpool,360,Manchester United,Man Utd,,,
 401879237,2026-11-23T20:00Z,SCHEDULED,2026-27-english-premier-league,,,337,Brentford,Brentford,368,Everton,Everton,,,

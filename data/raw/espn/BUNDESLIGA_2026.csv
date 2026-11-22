@@ -81,12 +81,12 @@ ext_id,utc_kickoff,status,stage,group,matchday,home_id,home,home_short,away_id,a
 401884741,2026-11-08T16:30Z,FINISHED,2026-27-german-bundesliga,,,126,SC Freiburg,Freiburg,598,1. FC Union Berlin,Union Berlin,2,0,REGULAR
 401884742,2026-11-08T18:30Z,FINISHED,2026-27-german-bundesliga,,,7911,TSG Hoffenheim,Hoffenheim,133,Schalke 04,Schalke,2,1,REGULAR
 401884736,2026-11-20T19:30Z,FINISHED,2026-27-german-bundesliga,,,132,Bayern Munich,Bayern,122,FC Cologne,Cologne,1,1,REGULAR
-401884728,2026-11-21T14:30Z,SCHEDULED,2026-27-german-bundesliga,,,10388,SV Elversberg,Elversberg,126,SC Freiburg,Freiburg,,,
-401884734,2026-11-21T14:30Z,SCHEDULED,2026-27-german-bundesliga,,,125,Eintracht Frankfurt,Frankfurt,7911,TSG Hoffenheim,Hoffenheim,,,
-401884735,2026-11-21T14:30Z,SCHEDULED,2026-27-german-bundesliga,,,131,Bayer Leverkusen,Leverkusen,3307,SC Paderborn 07,Paderborn,,,
-401884732,2026-11-21T14:30Z,SCHEDULED,2026-27-german-bundesliga,,,598,1. FC Union Berlin,Union Berlin,11420,RB Leipzig,RB Leipzig,,,
-401884731,2026-11-21T14:30Z,SCHEDULED,2026-27-german-bundesliga,,,268,Borussia Mönchengladbach,Gladbach,124,Borussia Dortmund,Dortmund,,,
-401884729,2026-11-21T17:30Z,SCHEDULED,2026-27-german-bundesliga,,,133,Schalke 04,Schalke,134,VfB Stuttgart,Stuttgart,,,
+401884728,2026-11-21T14:30Z,FINISHED,2026-27-german-bundesliga,,,10388,SV Elversberg,Elversberg,126,SC Freiburg,Freiburg,0,1,REGULAR
+401884734,2026-11-21T14:30Z,FINISHED,2026-27-german-bundesliga,,,125,Eintracht Frankfurt,Frankfurt,7911,TSG Hoffenheim,Hoffenheim,1,0,REGULAR
+401884735,2026-11-21T14:30Z,FINISHED,2026-27-german-bundesliga,,,131,Bayer Leverkusen,Leverkusen,3307,SC Paderborn 07,Paderborn,4,0,REGULAR
+401884732,2026-11-21T14:30Z,FINISHED,2026-27-german-bundesliga,,,598,1. FC Union Berlin,Union Berlin,11420,RB Leipzig,RB Leipzig,1,5,REGULAR
+401884731,2026-11-21T14:30Z,FINISHED,2026-27-german-bundesliga,,,268,Borussia Mönchengladbach,Gladbach,124,Borussia Dortmund,Dortmund,0,1,REGULAR
+401884729,2026-11-21T17:30Z,FINISHED,2026-27-german-bundesliga,,,133,Schalke 04,Schalke,134,VfB Stuttgart,Stuttgart,0,0,REGULAR
 401884733,2026-11-22T14:30Z,SCHEDULED,2026-27-german-bundesliga,,,3841,FC Augsburg,Augsburg,2950,Mainz,Mainz,,,
 401884730,2026-11-22T16:30Z,SCHEDULED,2026-27-german-bundesliga,,,137,Werder Bremen,Bremen,127,Hamburg SV,Hamburg,,,
 401884720,2026-11-27T19:30Z,SCHEDULED,2026-27-german-bundesliga,,,137,Werder Bremen,Bremen,268,Borussia Mönchengladbach,Gladbach,,,
