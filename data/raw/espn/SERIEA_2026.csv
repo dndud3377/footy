@@ -113,11 +113,11 @@ ext_id,utc_kickoff,status,stage,group,matchday,home_id,home,home_short,away_id,a
 401874981,2026-11-21T14:00Z,FINISHED,2026-27-italian-serie-a,,,112,Lazio,Lazio,113,Lecce,Lecce,3,0,REGULAR
 401874967,2026-11-21T17:00Z,FINISHED,2026-27-italian-serie-a,,,115,Parma,Parma,104,AS Roma,AS Roma,1,5,REGULAR
 401875067,2026-11-21T19:45Z,FINISHED,2026-27-italian-serie-a,,,114,Napoli,Napoli,239,Torino,Torino,1,0,REGULAR
-401875008,2026-11-22T11:30Z,SCHEDULED,2026-27-italian-serie-a,,,111,Juventus,Juventus,17530,Venezia,Venezia,,,
-401875047,2026-11-22T14:00Z,SCHEDULED,2026-27-italian-serie-a,,,107,Bologna,Bologna,118,Udinese,Udinese,,,
-401874960,2026-11-22T14:00Z,SCHEDULED,2026-27-italian-serie-a,,,3997,Sassuolo,Sassuolo,3263,Genoa,Genoa,,,
-401874989,2026-11-22T17:00Z,SCHEDULED,2026-27-italian-serie-a,,,103,AC Milan,Milan,4057,Frosinone,Frosinone,,,
-401875001,2026-11-22T19:45Z,SCHEDULED,2026-27-italian-serie-a,,,105,Atalanta,Atalanta,110,Internazionale,Inter Milan,,,
+401875008,2026-11-22T11:30Z,FINISHED,2026-27-italian-serie-a,,,111,Juventus,Juventus,17530,Venezia,Venezia,4,0,REGULAR
+401875047,2026-11-22T14:00Z,FINISHED,2026-27-italian-serie-a,,,107,Bologna,Bologna,118,Udinese,Udinese,1,1,REGULAR
+401874960,2026-11-22T14:00Z,FINISHED,2026-27-italian-serie-a,,,3997,Sassuolo,Sassuolo,3263,Genoa,Genoa,0,2,REGULAR
+401874989,2026-11-22T17:00Z,FINISHED,2026-27-italian-serie-a,,,103,AC Milan,Milan,4057,Frosinone,Frosinone,5,1,REGULAR
+401875001,2026-11-22T19:45Z,FINISHED,2026-27-italian-serie-a,,,105,Atalanta,Atalanta,110,Internazionale,Inter Milan,4,4,REGULAR
 401875009,2026-11-23T19:45Z,SCHEDULED,2026-27-italian-serie-a,,,4007,Monza,Monza,109,Fiorentina,Fiorentina,,,
 401875004,2026-11-27T19:45Z,SCHEDULED,2026-27-italian-serie-a,,,17530,Venezia,Venezia,107,Bologna,Bologna,,,
 401875081,2026-11-28T14:00Z,SCHEDULED,2026-27-italian-serie-a,,,4057,Frosinone,Frosinone,115,Parma,Parma,,,

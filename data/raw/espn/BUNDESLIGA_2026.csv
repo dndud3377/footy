@@ -87,8 +87,8 @@ ext_id,utc_kickoff,status,stage,group,matchday,home_id,home,home_short,away_id,a
 401884732,2026-11-21T14:30Z,FINISHED,2026-27-german-bundesliga,,,598,1. FC Union Berlin,Union Berlin,11420,RB Leipzig,RB Leipzig,1,5,REGULAR
 401884731,2026-11-21T14:30Z,FINISHED,2026-27-german-bundesliga,,,268,Borussia Mönchengladbach,Gladbach,124,Borussia Dortmund,Dortmund,0,1,REGULAR
 401884729,2026-11-21T17:30Z,FINISHED,2026-27-german-bundesliga,,,133,Schalke 04,Schalke,134,VfB Stuttgart,Stuttgart,0,0,REGULAR
-401884733,2026-11-22T14:30Z,SCHEDULED,2026-27-german-bundesliga,,,3841,FC Augsburg,Augsburg,2950,Mainz,Mainz,,,
-401884730,2026-11-22T16:30Z,SCHEDULED,2026-27-german-bundesliga,,,137,Werder Bremen,Bremen,127,Hamburg SV,Hamburg,,,
+401884733,2026-11-22T14:30Z,FINISHED,2026-27-german-bundesliga,,,3841,FC Augsburg,Augsburg,2950,Mainz,Mainz,3,1,REGULAR
+401884730,2026-11-22T16:30Z,FINISHED,2026-27-german-bundesliga,,,137,Werder Bremen,Bremen,127,Hamburg SV,Hamburg,4,0,REGULAR
 401884720,2026-11-27T19:30Z,SCHEDULED,2026-27-german-bundesliga,,,137,Werder Bremen,Bremen,268,Borussia Mönchengladbach,Gladbach,,,
 401884719,2026-11-28T14:30Z,SCHEDULED,2026-27-german-bundesliga,,,3307,SC Paderborn 07,Paderborn,133,Schalke 04,Schalke,,,
 401884723,2026-11-28T14:30Z,SCHEDULED,2026-27-german-bundesliga,,,2950,Mainz,Mainz,598,1. FC Union Berlin,Union Berlin,,,
