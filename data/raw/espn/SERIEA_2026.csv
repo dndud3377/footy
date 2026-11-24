@@ -118,7 +118,7 @@ ext_id,utc_kickoff,status,stage,group,matchday,home_id,home,home_short,away_id,a
 401874960,2026-11-22T14:00Z,FINISHED,2026-27-italian-serie-a,,,3997,Sassuolo,Sassuolo,3263,Genoa,Genoa,0,2,REGULAR
 401874989,2026-11-22T17:00Z,FINISHED,2026-27-italian-serie-a,,,103,AC Milan,Milan,4057,Frosinone,Frosinone,5,1,REGULAR
 401875001,2026-11-22T19:45Z,FINISHED,2026-27-italian-serie-a,,,105,Atalanta,Atalanta,110,Internazionale,Inter Milan,4,4,REGULAR
-401875009,2026-11-23T19:45Z,SCHEDULED,2026-27-italian-serie-a,,,4007,Monza,Monza,109,Fiorentina,Fiorentina,,,
+401875009,2026-11-23T19:45Z,FINISHED,2026-27-italian-serie-a,,,4007,Monza,Monza,109,Fiorentina,Fiorentina,3,0,REGULAR
 401875004,2026-11-27T19:45Z,SCHEDULED,2026-27-italian-serie-a,,,17530,Venezia,Venezia,107,Bologna,Bologna,,,
 401875081,2026-11-28T14:00Z,SCHEDULED,2026-27-italian-serie-a,,,4057,Frosinone,Frosinone,115,Parma,Parma,,,
 401874826,2026-11-28T17:00Z,SCHEDULED,2026-27-italian-serie-a,,,239,Torino,Torino,112,Lazio,Lazio,,,

@@ -108,7 +108,7 @@ ext_id,utc_kickoff,status,stage,group,matchday,home_id,home,home_short,away_id,a
 401879232,2026-11-21T17:30Z,FINISHED,2026-27-english-premier-league,,,361,Newcastle United,Newcastle,359,Arsenal,Arsenal,2,2,REGULAR
 401879234,2026-11-22T14:00Z,FINISHED,2026-27-english-premier-league,,,306,Hull City,Hull,331,Brighton & Hove Albion,Brighton,2,0,REGULAR
 401878755,2026-11-22T16:30Z,FINISHED,2026-27-english-premier-league,,,364,Liverpool,Liverpool,360,Manchester United,Man Utd,4,0,REGULAR
-401879237,2026-11-23T20:00Z,SCHEDULED,2026-27-english-premier-league,,,337,Brentford,Brentford,368,Everton,Everton,,,
+401879237,2026-11-23T20:00Z,FINISHED,2026-27-english-premier-league,,,337,Brentford,Brentford,368,Everton,Everton,4,0,REGULAR
 401879225,2026-11-27T20:00Z,SCHEDULED,2026-27-english-premier-league,,,393,Nottingham Forest,Nottm Forest,363,Chelsea,Chelsea,,,
 401879227,2026-11-28T15:00Z,SCHEDULED,2026-27-english-premier-league,,,357,Leeds United,Leeds,388,Coventry City,Coventry,,,
 401879226,2026-11-28T15:00Z,SCHEDULED,2026-27-english-premier-league,,,360,Manchester United,Man Utd,337,Brentford,Brentford,,,
