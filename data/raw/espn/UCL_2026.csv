@@ -71,15 +71,15 @@ ext_id,utc_kickoff,status,stage,group,matchday,home_id,home,home_short,away_id,a
 401915301,2026-11-04T20:00Z,FINISHED,league-phase,,,437,FC Porto,FC Porto,114,Napoli,Napoli,4,1,REGULAR
 401915304,2026-11-04T20:00Z,FINISHED,league-phase,,,124,Borussia Dortmund,Dortmund,244,Real Betis,Betis,2,1,REGULAR
 401915305,2026-11-04T20:00Z,FINISHED,league-phase,,,175,Lens,Lens,2572,Como,Como,1,9,REGULAR
-401915380,2026-11-24T17:45Z,SCHEDULED,league-phase,,,2980,Bodo/Glimt,Bodo/Glimt,4411,LASK Linz,LASK Linz,,,
-401915300,2026-11-24T17:45Z,SCHEDULED,league-phase,,,432,Galatasaray,Galatasaray,362,Aston Villa,Aston Villa,,,
-401915297,2026-11-24T20:00Z,SCHEDULED,league-phase,,,521,Slovan Bratislava,S Bratislava,244,Real Betis,Betis,,,
-401915298,2026-11-24T20:00Z,SCHEDULED,league-phase,,,86,Real Madrid,Real Madrid,148,PSV Eindhoven,PSV,,,
-401915299,2026-11-24T20:00Z,SCHEDULED,league-phase,,,11420,RB Leipzig,RB Leipzig,175,Lens,Lens,,,
-401915379,2026-11-24T20:00Z,SCHEDULED,league-phase,,,382,Manchester City,Man City,114,Napoli,Napoli,,,
-401915294,2026-11-24T20:00Z,SCHEDULED,league-phase,,,142,Feyenoord Rotterdam,Feyenoord,437,FC Porto,FC Porto,,,
-401915296,2026-11-24T20:00Z,SCHEDULED,league-phase,,,2572,Como,Como,887,AEK Athens,AEK Athens,,,
-401915295,2026-11-24T20:00Z,SCHEDULED,league-phase,,,359,Arsenal,Arsenal,124,Borussia Dortmund,Dortmund,,,
+401915380,2026-11-24T17:45Z,FINISHED,league-phase,,,2980,Bodo/Glimt,Bodo/Glimt,4411,LASK Linz,LASK Linz,1,0,REGULAR
+401915300,2026-11-24T17:45Z,FINISHED,league-phase,,,432,Galatasaray,Galatasaray,362,Aston Villa,Aston Villa,1,0,REGULAR
+401915297,2026-11-24T20:00Z,FINISHED,league-phase,,,521,Slovan Bratislava,S Bratislava,244,Real Betis,Betis,0,2,REGULAR
+401915298,2026-11-24T20:00Z,FINISHED,league-phase,,,86,Real Madrid,Real Madrid,148,PSV Eindhoven,PSV,5,1,REGULAR
+401915299,2026-11-24T20:00Z,FINISHED,league-phase,,,11420,RB Leipzig,RB Leipzig,175,Lens,Lens,3,1,REGULAR
+401915379,2026-11-24T20:00Z,FINISHED,league-phase,,,382,Manchester City,Man City,114,Napoli,Napoli,2,2,REGULAR
+401915294,2026-11-24T20:00Z,FINISHED,league-phase,,,142,Feyenoord Rotterdam,Feyenoord,437,FC Porto,FC Porto,0,1,REGULAR
+401915296,2026-11-24T20:00Z,FINISHED,league-phase,,,2572,Como,Como,887,AEK Athens,AEK Athens,1,0,REGULAR
+401915295,2026-11-24T20:00Z,FINISHED,league-phase,,,359,Arsenal,Arsenal,124,Borussia Dortmund,Dortmund,1,1,REGULAR
 401915378,2026-11-25T17:45Z,SCHEDULED,league-phase,,,21922,Sabah FK,Sabah,83,Barcelona,Barcelona,,,
 401915293,2026-11-25T17:45Z,SCHEDULED,league-phase,,,494,Slavia Prague,Slavia Prague,102,Villarreal,Villarreal,,,
 401915373,2026-11-25T20:00Z,SCHEDULED,league-phase,,,2250,Sporting CP,Sporting,360,Manchester United,Man Utd,,,

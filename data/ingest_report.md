@@ -1,6 +1,6 @@
 # 수집 보고서
 
-- 실행: 2026-11-24T06:57:35+00:00 → 2026-11-24T06:58:01+00:00 (UTC)
+- 실행: 2026-11-25T05:26:04+00:00 → 2026-11-25T05:26:13+00:00 (UTC)
 - 현재 시즌: 2026
 - 수집 11건 / 건너뜀 31건 / 오류 5건
   - ❌ understat EPL 2026: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
@@ -42,24 +42,24 @@
 
 ## 다가오는 경기
 
-- 총 1275경기 (리그별: BUNDESLIGA 216, EPL 270, LALIGA 251, LIGUE1 206, SERIEA 260, UCL 72)
+- 총 1266경기 (리그별: BUNDESLIGA 216, EPL 270, LALIGA 251, LIGUE1 206, SERIEA 260, UCL 63)
 
 | KST | 대회 | 홈 | 원정 | 킥오프 출처 |
 |---|---|---|---|---|
-| 2026-11-25 02:45 | UCL | Galatasaray | Aston Villa | espn |
-| 2026-11-25 02:45 | UCL | Bodo/Glimt | LASK Linz | espn |
-| 2026-11-25 05:00 | UCL | S Bratislava | Real Betis | espn |
-| 2026-11-25 05:00 | UCL | Arsenal | Borussia Dortmund | espn |
-| 2026-11-25 05:00 | UCL | Como | AEK Athens | espn |
-| 2026-11-25 05:00 | UCL | Feyenoord | FC Porto | espn |
-| 2026-11-25 05:00 | UCL | Manchester City | Napoli | espn |
-| 2026-11-25 05:00 | UCL | Real Madrid | PSV | espn |
-| 2026-11-25 05:00 | UCL | RasenBallsport Leipzig | Lens | espn |
 | 2026-11-26 02:45 | UCL | Slavia Prague | Villarreal | espn |
+| 2026-11-26 02:45 | UCL | Sabah | Barcelona | espn |
+| 2026-11-26 05:00 | UCL | Sporting | Manchester United | espn |
+| 2026-11-26 05:00 | UCL | Paris Saint Germain | Roma | espn |
+| 2026-11-26 05:00 | UCL | Lille | Bayern Munich | espn |
+| 2026-11-26 05:00 | UCL | Inter | VfB Stuttgart | espn |
+| 2026-11-26 05:00 | UCL | Club Brugge | Liverpool | espn |
+| 2026-11-26 05:00 | UCL | Atletico Madrid | Viking FK | espn |
+| 2026-11-26 05:00 | UCL | Shakhtar | Fenerbahce | espn |
+| 2026-11-28 04:30 | BUNDESLIGA | Werder Bremen | Borussia M.Gladbach | espn |
 
 ## 챔피언스리그
 
-- 소스: espn · 전체 144경기, 종료 72경기
+- 소스: espn · 전체 144경기, 종료 81경기
 
 ## Understat 시각 오프셋 (종료 경기, Understat − 일정 소스, 시간)
 

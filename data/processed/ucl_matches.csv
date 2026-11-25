@@ -71,15 +71,15 @@ season,ext_source,ext_id,utc_kickoff,status,stage,group,matchday,home,away,hg,ag
 2026,espn,401915381,2026-11-04T20:00Z,FINISHED,league-phase,,,Slavia Prague,Arsenal,1.0,2.0,REGULAR
 2026,espn,401915306,2026-11-04T20:00Z,FINISHED,league-phase,,,RasenBallsport Leipzig,Manchester City,2.0,3.0,REGULAR
 2026,espn,401915303,2026-11-04T20:00Z,FINISHED,league-phase,,,PSV,Club Brugge,1.0,2.0,REGULAR
-2026,espn,401915380,2026-11-24T17:45Z,SCHEDULED,league-phase,,,Bodo/Glimt,LASK Linz,,,
-2026,espn,401915300,2026-11-24T17:45Z,SCHEDULED,league-phase,,,Galatasaray,Aston Villa,,,
-2026,espn,401915295,2026-11-24T20:00Z,SCHEDULED,league-phase,,,Arsenal,Borussia Dortmund,,,
-2026,espn,401915296,2026-11-24T20:00Z,SCHEDULED,league-phase,,,Como,AEK Athens,,,
-2026,espn,401915294,2026-11-24T20:00Z,SCHEDULED,league-phase,,,Feyenoord,FC Porto,,,
-2026,espn,401915379,2026-11-24T20:00Z,SCHEDULED,league-phase,,,Manchester City,Napoli,,,
-2026,espn,401915299,2026-11-24T20:00Z,SCHEDULED,league-phase,,,RasenBallsport Leipzig,Lens,,,
-2026,espn,401915298,2026-11-24T20:00Z,SCHEDULED,league-phase,,,Real Madrid,PSV,,,
-2026,espn,401915297,2026-11-24T20:00Z,SCHEDULED,league-phase,,,S Bratislava,Real Betis,,,
+2026,espn,401915380,2026-11-24T17:45Z,FINISHED,league-phase,,,Bodo/Glimt,LASK Linz,1.0,0.0,REGULAR
+2026,espn,401915300,2026-11-24T17:45Z,FINISHED,league-phase,,,Galatasaray,Aston Villa,1.0,0.0,REGULAR
+2026,espn,401915295,2026-11-24T20:00Z,FINISHED,league-phase,,,Arsenal,Borussia Dortmund,1.0,1.0,REGULAR
+2026,espn,401915296,2026-11-24T20:00Z,FINISHED,league-phase,,,Como,AEK Athens,1.0,0.0,REGULAR
+2026,espn,401915294,2026-11-24T20:00Z,FINISHED,league-phase,,,Feyenoord,FC Porto,0.0,1.0,REGULAR
+2026,espn,401915379,2026-11-24T20:00Z,FINISHED,league-phase,,,Manchester City,Napoli,2.0,2.0,REGULAR
+2026,espn,401915299,2026-11-24T20:00Z,FINISHED,league-phase,,,RasenBallsport Leipzig,Lens,3.0,1.0,REGULAR
+2026,espn,401915298,2026-11-24T20:00Z,FINISHED,league-phase,,,Real Madrid,PSV,5.0,1.0,REGULAR
+2026,espn,401915297,2026-11-24T20:00Z,FINISHED,league-phase,,,S Bratislava,Real Betis,0.0,2.0,REGULAR
 2026,espn,401915378,2026-11-25T17:45Z,SCHEDULED,league-phase,,,Sabah,Barcelona,,,
 2026,espn,401915293,2026-11-25T17:45Z,SCHEDULED,league-phase,,,Slavia Prague,Villarreal,,,
 2026,espn,401915291,2026-11-25T20:00Z,SCHEDULED,league-phase,,,Atletico Madrid,Viking FK,,,
