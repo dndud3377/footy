@@ -80,15 +80,15 @@ ext_id,utc_kickoff,status,stage,group,matchday,home_id,home,home_short,away_id,a
 401915294,2026-11-24T20:00Z,FINISHED,league-phase,,,142,Feyenoord Rotterdam,Feyenoord,437,FC Porto,FC Porto,0,1,REGULAR
 401915296,2026-11-24T20:00Z,FINISHED,league-phase,,,2572,Como,Como,887,AEK Athens,AEK Athens,1,0,REGULAR
 401915295,2026-11-24T20:00Z,FINISHED,league-phase,,,359,Arsenal,Arsenal,124,Borussia Dortmund,Dortmund,1,1,REGULAR
-401915378,2026-11-25T17:45Z,SCHEDULED,league-phase,,,21922,Sabah FK,Sabah,83,Barcelona,Barcelona,,,
-401915293,2026-11-25T17:45Z,SCHEDULED,league-phase,,,494,Slavia Prague,Slavia Prague,102,Villarreal,Villarreal,,,
-401915373,2026-11-25T20:00Z,SCHEDULED,league-phase,,,2250,Sporting CP,Sporting,360,Manchester United,Man Utd,,,
-401915375,2026-11-25T20:00Z,SCHEDULED,league-phase,,,493,Shakhtar Donetsk,Shakhtar,436,Fenerbahce,Fenerbahce,,,
-401915374,2026-11-25T20:00Z,SCHEDULED,league-phase,,,160,Paris Saint-Germain,PSG,104,AS Roma,AS Roma,,,
-401915377,2026-11-25T20:00Z,SCHEDULED,league-phase,,,166,Lille,Lille,132,Bayern Munich,Bayern,,,
-401915376,2026-11-25T20:00Z,SCHEDULED,league-phase,,,110,Internazionale,Inter Milan,134,VfB Stuttgart,Stuttgart,,,
-401915292,2026-11-25T20:00Z,SCHEDULED,league-phase,,,570,Club Brugge,Club Brugge,364,Liverpool,Liverpool,,,
-401915291,2026-11-25T20:00Z,SCHEDULED,league-phase,,,1068,Atlético Madrid,Atlético,510,Viking FK,Viking FK,,,
+401915378,2026-11-25T17:45Z,FINISHED,league-phase,,,21922,Sabah FK,Sabah,83,Barcelona,Barcelona,1,4,REGULAR
+401915293,2026-11-25T17:45Z,FINISHED,league-phase,,,494,Slavia Prague,Slavia Prague,102,Villarreal,Villarreal,0,1,REGULAR
+401915373,2026-11-25T20:00Z,FINISHED,league-phase,,,2250,Sporting CP,Sporting,360,Manchester United,Man Utd,2,2,REGULAR
+401915375,2026-11-25T20:00Z,FINISHED,league-phase,,,493,Shakhtar Donetsk,Shakhtar,436,Fenerbahce,Fenerbahce,0,1,REGULAR
+401915374,2026-11-25T20:00Z,FINISHED,league-phase,,,160,Paris Saint-Germain,PSG,104,AS Roma,AS Roma,2,2,REGULAR
+401915377,2026-11-25T20:00Z,FINISHED,league-phase,,,166,Lille,Lille,132,Bayern Munich,Bayern,2,1,REGULAR
+401915376,2026-11-25T20:00Z,FINISHED,league-phase,,,110,Internazionale,Inter Milan,134,VfB Stuttgart,Stuttgart,2,0,REGULAR
+401915292,2026-11-25T20:00Z,FINISHED,league-phase,,,570,Club Brugge,Club Brugge,364,Liverpool,Liverpool,0,3,REGULAR
+401915291,2026-11-25T20:00Z,FINISHED,league-phase,,,1068,Atlético Madrid,Atlético,510,Viking FK,Viking FK,2,0,REGULAR
 401915290,2026-12-08T17:45Z,SCHEDULED,league-phase,,,510,Viking FK,Viking FK,142,Feyenoord Rotterdam,Feyenoord,,,
 401915372,2026-12-08T17:45Z,SCHEDULED,league-phase,,,102,Villarreal,Villarreal,21922,Sabah FK,Sabah,,,
 401915287,2026-12-08T20:00Z,SCHEDULED,league-phase,,,114,Napoli,Napoli,570,Club Brugge,Club Brugge,,,

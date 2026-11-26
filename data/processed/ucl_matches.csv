@@ -80,15 +80,15 @@ season,ext_source,ext_id,utc_kickoff,status,stage,group,matchday,home,away,hg,ag
 2026,espn,401915299,2026-11-24T20:00Z,FINISHED,league-phase,,,RasenBallsport Leipzig,Lens,3.0,1.0,REGULAR
 2026,espn,401915298,2026-11-24T20:00Z,FINISHED,league-phase,,,Real Madrid,PSV,5.0,1.0,REGULAR
 2026,espn,401915297,2026-11-24T20:00Z,FINISHED,league-phase,,,S Bratislava,Real Betis,0.0,2.0,REGULAR
-2026,espn,401915378,2026-11-25T17:45Z,SCHEDULED,league-phase,,,Sabah,Barcelona,,,
-2026,espn,401915293,2026-11-25T17:45Z,SCHEDULED,league-phase,,,Slavia Prague,Villarreal,,,
-2026,espn,401915291,2026-11-25T20:00Z,SCHEDULED,league-phase,,,Atletico Madrid,Viking FK,,,
-2026,espn,401915292,2026-11-25T20:00Z,SCHEDULED,league-phase,,,Club Brugge,Liverpool,,,
-2026,espn,401915376,2026-11-25T20:00Z,SCHEDULED,league-phase,,,Inter,VfB Stuttgart,,,
-2026,espn,401915377,2026-11-25T20:00Z,SCHEDULED,league-phase,,,Lille,Bayern Munich,,,
-2026,espn,401915374,2026-11-25T20:00Z,SCHEDULED,league-phase,,,Paris Saint Germain,Roma,,,
-2026,espn,401915375,2026-11-25T20:00Z,SCHEDULED,league-phase,,,Shakhtar,Fenerbahce,,,
-2026,espn,401915373,2026-11-25T20:00Z,SCHEDULED,league-phase,,,Sporting,Manchester United,,,
+2026,espn,401915378,2026-11-25T17:45Z,FINISHED,league-phase,,,Sabah,Barcelona,1.0,4.0,REGULAR
+2026,espn,401915293,2026-11-25T17:45Z,FINISHED,league-phase,,,Slavia Prague,Villarreal,0.0,1.0,REGULAR
+2026,espn,401915291,2026-11-25T20:00Z,FINISHED,league-phase,,,Atletico Madrid,Viking FK,2.0,0.0,REGULAR
+2026,espn,401915292,2026-11-25T20:00Z,FINISHED,league-phase,,,Club Brugge,Liverpool,0.0,3.0,REGULAR
+2026,espn,401915376,2026-11-25T20:00Z,FINISHED,league-phase,,,Inter,VfB Stuttgart,2.0,0.0,REGULAR
+2026,espn,401915377,2026-11-25T20:00Z,FINISHED,league-phase,,,Lille,Bayern Munich,2.0,1.0,REGULAR
+2026,espn,401915374,2026-11-25T20:00Z,FINISHED,league-phase,,,Paris Saint Germain,Roma,2.0,2.0,REGULAR
+2026,espn,401915375,2026-11-25T20:00Z,FINISHED,league-phase,,,Shakhtar,Fenerbahce,0.0,1.0,REGULAR
+2026,espn,401915373,2026-11-25T20:00Z,FINISHED,league-phase,,,Sporting,Manchester United,2.0,2.0,REGULAR
 2026,espn,401915290,2026-12-08T17:45Z,SCHEDULED,league-phase,,,Viking FK,Feyenoord,,,
 2026,espn,401915372,2026-12-08T17:45Z,SCHEDULED,league-phase,,,Villarreal,Sabah,,,
 2026,espn,401915289,2026-12-08T20:00Z,SCHEDULED,league-phase,,,AEK Athens,Galatasaray,,,
