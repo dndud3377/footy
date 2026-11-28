@@ -98,7 +98,7 @@ ext_id,utc_kickoff,status,stage,group,matchday,home_id,home,home_short,away_id,a
 401876397,2026-11-22T14:00Z,FINISHED,2026-27-ligue-1,,,6851,Paris FC,Paris FC,7868,Angers,Angers,4,0,REGULAR
 401876401,2026-11-22T16:15Z,FINISHED,2026-27-ligue-1,,,273,Lorient,Lorient,169,Stade Rennais,Rennes,1,1,REGULAR
 401876400,2026-11-22T19:45Z,FINISHED,2026-27-ligue-1,,,176,Marseille,Marseille,2697,Le Mans,Le Mans,2,3,REGULAR
-401876392,2026-11-27T19:45Z,SCHEDULED,2026-27-ligue-1,,,6997,Brest,Brest,6851,Paris FC,Paris FC,,,
+401876392,2026-11-27T19:45Z,FINISHED,2026-27-ligue-1,,,6997,Brest,Brest,6851,Paris FC,Paris FC,1,0,REGULAR
 401876394,2026-11-28T16:15Z,SCHEDULED,2026-27-ligue-1,,,7868,Angers,Angers,175,Lens,Lens,,,
 401876391,2026-11-28T19:45Z,SCHEDULED,2026-27-ligue-1,,,3236,Le Havre AC,Le Havre AC,180,Strasbourg,Strasbourg,,,
 401876390,2026-11-28T19:45Z,SCHEDULED,2026-27-ligue-1,,,2697,Le Mans,Le Mans,166,Lille,Lille,,,
